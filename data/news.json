@@ -1,73 +1,1107 @@
 {
-  "generated_at": "2026-08-17 08:04 UTC",
+  "generated_at": "2026-08-17 08:22 UTC",
   "date_display": "Monday · 17 August 2026",
-  "world": [],
+  "world": [
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "link": "https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Ferrari's first ever electric car sold for record $40m",
+      "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+      "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Instagram and Facebook could change forever if Meta loses child privacy trial",
+      "link": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Changing pubs into homes to be made harder under new rules",
+      "link": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Teen suspect in Virginia campus shooting found hiding in closet",
+      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "US commander says mental health a 'priority' on USS Lincoln",
+      "link": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Thailand has a gun problem - 10 million of them",
+      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "'Ghana was the crime scene': The country leading the demand for slavery reparations",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j2r15dr1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice",
+      "link": "https://www.bbc.co.uk/news/videos/cj4kglpl55lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "BBC visits smouldering Kyiv market after Russian strikes",
+      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "How switching your bank account could earn you up to £220",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Parents 'watering down baby milk' over high costs",
+      "link": "https://www.bbc.co.uk/news/articles/cpq8p82gq49o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Why is Australia's mushroom killer back in court this week?",
+      "link": "https://www.bbc.co.uk/news/videos/c62e1v8p07go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "World's Ugliest Dog contest crowns 2026 winner",
+      "link": "https://www.bbc.co.uk/news/videos/c39eekgv79ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "I survived two years as prime minister in a hit new game - then my cabinet deserted me",
+      "link": "https://www.bbc.co.uk/news/articles/cq56pzqy6jvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Temporary ban on disposable BBQs as military deployed to help battle wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/c0jlyqdj6geo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Five years after the Taliban swept to power, does the West have any influence?",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "'I shot Mr Thompson'- What it was like inside court as Mangione pleaded guilty",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkyez7195o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Protein or pickled garlic? What's new in ice cream",
+      "link": "https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Selena Gomez sued for alleged fraud over mental health company",
+      "link": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+      "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Royal Parks gardeners to strike over pay",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl0gp4963o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Why is Selena Gomez being sued?",
+      "link": "https://www.bbc.co.uk/news/videos/cly58dnde5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "Why tech bosses keep sharing their manifestos about AI",
+      "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    }
+  ],
   "energy": [
     {
-      "title": "ASEAN Centre for Energy (ACE) at the 59th ASEAN Day Celebration - ASEAN Centre for Energy (ACE)",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenpwdHJTX1hXTnktMFUtVTVNN2RsbGVQZldoenpDeVNWUGRpRVpHMmlYY0o1NDh6UE9fMFlhbEs5ZnlrWVBKOTI0MjJYN3JaZzFjcmZnMnJsN3BoLXltYnNnZWVLUnVNVlVwVXhMbm9tZ3ZHVkl6XzE1bExsYS1zSHFXYThHTFgyUXlMaDBVVEJfNWhtZTRscm1R?oc=5",
-      "source": "ASEAN Centre for Energy (ACE)",
-      "published": "2026-08-12",
-      "category": "energy"
+      "category": "energy",
+      "source": "BBC World",
+      "title": "Ferrari's first ever electric car sold for record $40m",
+      "link": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
     },
     {
-      "title": "Building an Inclusive Energy Future in ASEAN: Lessons and Reflections from ACE’s Engagement under the Project \"Influencing Just Energy Transition (I-JET) in ASEAN\" - ASEAN Centre for Energy (ACE)",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZHZsb3VzeUQ1dGZBNmhSZldYcGZvMERYbkZ6eXFCUThEMEZ1ZmM4S1N2U25MVTV5b3gwSDl2RHR2OGZIZVB0RnBhZmcxeF9iOEV2dW9LWXF6SDhKeTVDN09HV0hBR1BjZG5rTFFraVA5UEUzSzBDV0Y3U3lhbHVJWUFBeTVoMl9zbUtWS1BIVmFmb0o4VjVmdFJuQndZZFFXaF9wZ09JMWNzU2QzUzBJMFNtOXFpQWR4QmxEZVFGZWdXUThxRHgyWHB6TXVsbjExVU9KQmc3Ry1rYThkdGdibHZnTWJaQTNmX3RSRWRjTnI2ZmVsWnVoX1J5cnAxYWdhcU8ybkhVY3BUOW16TWctZFV6VnZLYmdmbmNCMmJPWQ?oc=5",
-      "source": "ASEAN Centre for Energy (ACE)",
-      "published": "2026-08-11",
-      "category": "energy"
+      "category": "energy",
+      "source": "BBC World",
+      "title": "Five years after the Taliban swept to power, does the West have any influence?",
+      "link": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
     },
     {
-      "title": "Everybody wants energy security post the Iran war, but how? - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-08",
-      "category": "energy"
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
     },
     {
-      "title": "Solar panel recycling could yield $20b by 2050: IRENA - asianbusinessreview.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlU2RFdBbHZ6SUJmeG5nT3lDbzl3UmdpeENxNnV1NEpoQUFHT3M1UWJsNVloYXlsU2JjTlBMR05tS1BHM21SVWpaS0ZjOWNRU2hWN01SV3NEMGlvbHlvRlh5ajBwMmVXam9zTnNpSm80UTVOM3FHVXVWbDAyZXlLRjZLZFk5Mk9kNWNwRXZZREtRUDQ?oc=5",
-      "source": "asianbusinessreview.com",
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-13",
-      "category": "energy"
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-04",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "WTO",
+      "title": "Russia requests dispute panel on EU carbon border adjustment and emissions trading scheme",
+      "link": "https://www.wto.org/english/news_e/news26_e/dsb_24jul26_464_e.htm",
+      "published": "2026-07-24",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "How the High Street became a window on our political instability",
+      "link": "https://www.bbc.co.uk/news/articles/cq5p59286v5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-07",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "The £5 coffee that tells a story of global economic turmoil",
+      "link": "https://www.bbc.co.uk/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-28",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "Project Syndicate",
+      "title": "Magical Thinking Won’t Make Europe an AI Power",
+      "link": "https://www.project-syndicate.org/commentary/europe-must-confront-tech-dependencies-to-secure-ai-future-by-cristina-caffarra-2026-03",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "Project Syndicate",
+      "title": "The Return of the Power Trust",
+      "link": "https://www.project-syndicate.org/commentary/why-us-utility-merger-wave-should-alarm-policymakers-by-sandeep-vaheesan-2026-08",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "Project Syndicate",
+      "title": "Who Should Build the Low-Carbon Economy?",
+      "link": "https://www.project-syndicate.org/commentary/low-carbon-economy-distributing-knowledge-and-innovation-not-just-technology-by-pedro-ivo-ferraz-da-silva-2026-08",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "Project Syndicate",
+      "title": "Africa’s Energy Curse Is a Political Choice",
+      "link": "https://www.project-syndicate.org/commentary/africa-energy-abundance-alongside-deprivation-is-a-choice-by-rabah-arezki-and-michael-l-ross-2026-07",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "World Bank",
+      "title": "https://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "World Bank",
+      "title": "Update on the World Bank Group Climate Change Action Plan",
+      "link": "https://www.worldbank.org/en/news/statement/2026/06/29/update-on-the-world-bank-group-climate-change-action-plan",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "World Bank",
+      "title": "WBG and Japan Expand Cooperation to Strengthen Critical Minerals Supply Chains and Energy Resilience",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/06/01/the-world-bank-group-and-japan-expand-cooperation-to-strengthen-critical-minerals-supply-chains-and-energy-resilience",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "World Bank",
+      "title": "Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, World Bank Group and World Trade Organization",
+      "link": "https://www.worldbank.org/en/news/statement/2026/05/29/joint-statement-by-the-heads-of-the-international-energy-agency-international-monetary-fund-world-bank-group-and-world-t",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "World Bank",
+      "title": "Joint MDB Statement on Critical Minerals to Manufacturing Value Chains",
+      "link": "https://www.worldbank.org/en/news/statement/2026/04/17/mdbs-powering-critical-minerals-value-chains",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "UNCTAD",
+      "title": "Accelerating the energy transition in ports 3 Aug 2026 UNCTAD is supporting port professionals through new training focused on practical solutions for cleaner and more efficient port operations.",
+      "link": "https://unctad.org/news/accelerating-energy-transition-ports",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "财新",
+      "title": "能源内参｜中东贸易恢复放缓 7月全球石油贸易量增长；国家电网发行149亿元离岸人民币债券",
+      "link": "https://www.caixin.com/2026-08-17/102474713.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "energy",
+      "source": "第一财经",
+      "title": "《石油天然气发展“十五五”规划》：加快深层超深层油气规模效益开发 | 国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，其中提出，保持开发投资强度支撑新建产能。加快深层超深层油气规模效益开发。推动非常规油气突破，加快储量",
+      "link": "https://www.yicai.com/brief/103321088.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "energy",
+      "source": "第一财经",
+      "title": "国家发改委、国家能源局印发《石油天然气发展“十五五”规划》 | 国家发改委、国家能源局印发《石油天然气发展“十五五”规划》。其中提出，2030年，国内油气供应量4.4亿吨油当量，新增油气长输管道2万公里，全国油气长输管网规模",
+      "link": "https://www.yicai.com/brief/103321083.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "energy",
+      "source": "第一财经",
+      "title": "连板股追踪丨A股今日共110只个股涨停 算力硬件板块多股连板 | 8月17日，Wind数据显示，A股市场共计110只个股涨停。其中算力硬件板块多股连板，CPO概念股天洋新材4连板、共进股份3连板，PCB概念股华正新材2连板；脑",
+      "link": "https://www.yicai.com/brief/103321055.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "energy",
+      "source": "第一财经",
+      "title": "东方日升签署百兆瓦级光储战略合作协议 | 据东方日升消息，8月14日，东方日升与乌克兰新能源企业Ascania Energy在宁海举行战略合作签约仪式。双方围绕光伏与储能两大方向达成战略合作，共签署10",
+      "link": "https://www.yicai.com/brief/103321041.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "energy",
+      "source": "第一财经",
+      "title": "中证指数将于8月18日发布中证智选制造业转型升级指数 | 中证指数有限公司将于2026年8月18日正式发布中证智选制造业转型升级指数。中证智选制造业转型升级指数从新材料、新一代信息技术、电力装备、基础及新型制造等领域中",
+      "link": "https://www.yicai.com/brief/103321039.html",
+      "published": "",
+      "language": "中文"
     }
   ],
   "asia": [
     {
-      "title": "Singapore banks ride Asia's wealth boom to weather rates headwind - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGlabUxWNkswR2dFZlVvWGNoWmhjVHBSOUpoVWhBT2tZUG1PbVVjbl96bDBXR1lqOGluM0l1Vi1EVWY5bUlBWlZ1YmZpSWlVRkZlN0lnT2Nvb3JyVmhRM3J4Tmx4VlpsamE4NUh1bG1NZmd6b1F0QlJKWk9tRVFvbFZheWp5WnBZN3hYalY1Sm1PenhHOTBKUkdIbG03czM1SDA1eWkwUVFvb2RfTXU3bGNrdzUtMHF5YUdRRjJ5VTMtUQ?oc=5",
-      "source": "Reuters",
-      "published": "2026-08-07",
-      "category": "asia"
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
     },
     {
-      "title": "ASEAN Strengthens Digital Trade and Regional Supply Chains - opengovasia.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGFrN0lBVUxTMnAwRktSSmpMOGU3TXNyOGZGVC1VMTlzeE9UT3ZqbzZ4WkdaUWEyOVdPOW5iZno1U193R2FyMjFwMDA0MmM4RkVnWXExbHg5OVU5YWh0U1dDMEtBM09CWG15d0pzQlk0bHF4a28wX2M5SjN2eU9nR3c0alJsUWNpeVdr?oc=5",
-      "source": "opengovasia.com",
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-14",
-      "category": "asia"
+      "language": "EN"
     },
     {
-      "title": "SASEC, Full Form, Countries, Headquarters, Significance - Vajiram & Ravi",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zVHI5OVFJX0ltc00xZ1dxa2t5YzVaWmdMR0N4NVNZcThnNWlkc1JzalhDSExaMGVtc042NkthcllVM2habWdqWXlzbDdhbl8xNk5za3VB?oc=5",
-      "source": "Vajiram & Ravi",
-      "published": "2026-08-11",
-      "category": "asia"
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13",
+      "language": "EN"
     },
     {
-      "title": "China, ASEAN chart new course for regional development - Awani International",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajgwOERoVnBTb1BBVG5TVlROUGJvcFJabTZEWW1VY1c1QnRwRzRSOW9MWnhYYzhpTEZYTkJWRmNYdG95dUpFTVEweUo3YUhSTlJyV241WUxCaGhIRjhtcHgxUmZxT290Y0JEQVhCVTdUeUZxSEJMRnRqT2lLMkloX0RiYnVBblFxdGpHZ0xpV09LUzJ0cWkzcVZqQUVPc2M?oc=5",
-      "source": "Awani International",
-      "published": "2026-08-10",
-      "category": "asia"
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "Why Japanese firms are being so slow to use AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-12",
+      "language": "EN"
     },
     {
-      "title": "ASEAN economic integration opens new growth opportunities for Vietnam - VOV.VN",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzQyQkV1ZVNPTFpySl93MDEzMjQ1LVRmNDJQSTZYLTNXTUprNmRaWGh5d0J4SzVZSzFnNzliUXZDZWF1b19GTDM1WkNoclgtZElwejNac0k5cWRoLVFzMVhxM2tZZDljb0lUaEMxUGloakw2SktZWndqck14a0F5Q2xGLUJnSkZaeTYxMDVURk5ENm1rX1VudHVtb09LYmhzelduT2k2LXNDY3g4Wmk2Mm5NQklHZHpjdXA4?oc=5",
-      "source": "VOV.VN",
-      "published": "2026-08-07",
-      "category": "asia"
+      "category": "asia",
+      "source": "WTO",
+      "title": "United Kingdom launches safeguard investigation on polyethylene terephthalate",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_gbr_05aug26_472_e.htm",
+      "published": "2026-08-05",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "World Trade and Tech Day to explore policies to make AI work for inclusive trade",
+      "link": "https://www.wto.org/english/news_e/news26_e/dtech_03aug26_471_e.htm",
+      "published": "2026-08-03",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Global goods trade resilient in the first quarter of 2026 despite war in Middle East",
+      "link": "https://www.wto.org/english/news_e/news26_e/rese_31jul26_469_e.htm",
+      "published": "2026-07-31",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Brazil initiates dispute regarding additional duties imposed by the United States",
+      "link": "https://www.wto.org/english/news_e/news26_e/ds646rfc_30jul26_468_e.htm",
+      "published": "2026-07-30",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "WTO panel issues report regarding Turkish measures on EVs and other types of vehicles",
+      "link": "https://www.wto.org/english/news_e/news26_e/629r_465_e.htm",
+      "published": "2026-07-28",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Lithuania gives EUR 30,000 to help developing economies and LDCs improve trade skillset",
+      "link": "https://www.wto.org/english/news_e/pres26_e/pr996_466_e.htm",
+      "published": "2026-07-28",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Uzbekistan reaffirms 2026 WTO accession goal, thanks members for continuing engagement",
+      "link": "https://www.wto.org/english/news_e/news26_e/acc_27jul26_470_e.htm",
+      "published": "2026-07-27",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Russia requests dispute panel on EU carbon border adjustment and emissions trading scheme",
+      "link": "https://www.wto.org/english/news_e/news26_e/dsb_24jul26_464_e.htm",
+      "published": "2026-07-24",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Why is transit in goods free but trade is not?",
+      "link": "https://www.wto.org/english/news_e/news26_e/blgrs_23jul26_462_e.htm",
+      "published": "2026-07-23",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Updated WTO-IMF TPA Index shows continued rise in global trade policy activity",
+      "link": "https://www.wto.org/english/news_e/news26_e/rese_23jul26_463_e.htm",
+      "published": "2026-07-23",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "The furious dispute over what caused Air India flight 171 to crash",
+      "link": "https://www.bbc.co.uk/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-10",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "ESCAP",
+      "title": "Trade, Investment, Enterprise and Business Innovation",
+      "link": "https://www.unescap.org/committee/committee-on-trade-and-investment",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "ESCAP",
+      "title": "Asia-Pacific Forum on Sustainable Development",
+      "link": "https://www.unescap.org/apfsd",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "ESCAP",
+      "title": "Trade, Investment and Innovation",
+      "link": "https://www.unescap.org/our-work/trade-investment-innovation",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "ESCAP",
+      "title": "Asian and Pacific Center for the Development of Disaster Information Management",
+      "link": "https://apdim.unescap.org/",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "ESCAP",
+      "title": "Asia-Pacific Sustainable Development Journal",
+      "link": "https://www.unescap.org/knowledge-products-series/asia-pacific-sustainable-development-journal",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "ESCAP",
+      "title": "Asian and Pacific Center for Transfer of Technology",
+      "link": "https://www.unescap.org/apctt",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "China-built data center stirs debate on Pakistan's digital sovereignty",
+      "link": "https://asia.nikkei.com/politics/international-relations/china-built-data-center-stirs-debate-on-pakistan-s-digital-sovereignty",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "China's economic growth challenges mount as consumption slips",
+      "link": "https://asia.nikkei.com/economy/china-s-economic-growth-challenges-mount-as-consumption-slips",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "South Korea says joint drills are on despite Trump objections",
+      "link": "https://asia.nikkei.com/politics/international-relations/south-korea-says-joint-drills-are-on-despite-trump-objections",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Japan's Rakuten to partner with German AI defense drone startup",
+      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-rakuten-to-partner-with-german-ai-defense-drone-startup",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "'A new Plaza Accord?' Japan's battle against yen bears enters new phase",
+      "link": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Canada review of Argentina lithium sale tests warming ties with China",
+      "link": "https://asia.nikkei.com/business/materials/canada-review-of-argentina-lithium-sale-tests-warming-ties-with-china",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Extreme heat is tightening the food-energy link across Asia",
+      "link": "https://asia.nikkei.com/opinion/extreme-heat-is-tightening-the-food-energy-link-across-asia",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Indians rethink study abroad, turn to higher education at home",
+      "link": "https://asia.nikkei.com/business/education/indians-rethink-study-abroad-turn-to-higher-education-at-home",
+      "published": "",
+      "language": "EN"
     }
   ],
-  "question": "今天哪一条信息可以和你过去读过的另一个问题连接起来？"
+  "ideas": [
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Aussie rules footy players under investigation as police probe sexual assault claim",
+      "link": "https://www.bbc.co.uk/news/articles/cg4dd420ezlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Thailand has a gun problem - 10 million of them",
+      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Moment family rescued after 16 hours floating on jet ski off Thailand",
+      "link": "https://www.bbc.co.uk/news/videos/cj4kg74ndggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-15",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "Why tech bosses keep sharing their manifestos about AI",
+      "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "Amazon is using Twitch to train generative AI",
+      "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Why Japanese firms are being so slow to use AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-12",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Business Daily",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8glp?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-12",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-11",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-11",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-11",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "'You could smell someone' who worked at Raleigh",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kgwrv6gvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-10",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Jeff Bezos and Liverpool explained",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cn0nw1j48pjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-10",
+      "language": "EN"
+    }
+  ],
+  "source_status": [
+    [
+      "BBC World",
+      "ok",
+      31
+    ],
+    [
+      "BBC Business",
+      "ok",
+      46
+    ],
+    [
+      "BBC Technology",
+      "ok",
+      21
+    ],
+    [
+      "BIS",
+      "ok",
+      0
+    ],
+    [
+      "WTO",
+      "ok",
+      10
+    ],
+    [
+      "IRENA",
+      "failed",
+      "HTTP Error 403: Forbidden"
+    ],
+    [
+      "BIS",
+      "ok",
+      0
+    ],
+    [
+      "WTO",
+      "ok",
+      10
+    ],
+    [
+      "Project Syndicate",
+      "ok",
+      35
+    ],
+    [
+      "The Economist",
+      "failed",
+      "HTTP Error 403: Forbidden"
+    ],
+    [
+      "IMF",
+      "failed",
+      "HTTP Error 403: Forbidden"
+    ],
+    [
+      "World Bank",
+      "ok",
+      21
+    ],
+    [
+      "OECD",
+      "failed",
+      "HTTP Error 403: Forbidden"
+    ],
+    [
+      "UNCTAD",
+      "ok",
+      29
+    ],
+    [
+      "FT中文网",
+      "ok",
+      11
+    ],
+    [
+      "财新",
+      "ok",
+      33
+    ],
+    [
+      "第一财经",
+      "ok",
+      35
+    ],
+    [
+      "IEA",
+      "failed",
+      "HTTP Error 403: Forbidden"
+    ],
+    [
+      "IRENA",
+      "failed",
+      "HTTP Error 403: Forbidden"
+    ],
+    [
+      "ADB",
+      "failed",
+      "HTTP Error 403: Forbidden"
+    ],
+    [
+      "ASEAN Centre for Energy",
+      "failed",
+      "HTTP Error 404: Not Found"
+    ],
+    [
+      "ADB",
+      "failed",
+      "HTTP Error 403: Forbidden"
+    ],
+    [
+      "ASEAN",
+      "failed",
+      "HTTP Error 307: Temporary Redirect"
+    ],
+    [
+      "APEC",
+      "failed",
+      "HTTP Error 404: Not Found"
+    ],
+    [
+      "ESCAP",
+      "ok",
+      6
+    ],
+    [
+      "Nikkei Asia",
+      "ok",
+      20
+    ],
+    [
+      "Project Syndicate",
+      "ok",
+      9
+    ],
+    [
+      "The Economist",
+      "failed",
+      "HTTP Error 403: Forbidden"
+    ]
+  ],
+  "question": "今天哪一条信息改变、挑战或复杂化了你原来的判断？为什么？"
 }
