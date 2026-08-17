@@ -1,8 +1,263 @@
 {
-  "generated_at": "等待首次自动更新",
-  "date_display": "Thinking Lab",
-  "question": "今天哪一条信息最值得你改变原来的判断？",
-  "world": [],
-  "energy": [],
-  "asia": []
+  "energy": [
+    {
+      "title": "Why Asia Pacific’s next growth phase depends on energy security - RSM Global",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0hJdy1vWWhUVnhkRzdtZE9jelhrTTRaOGl1VzF2TGt1OXNSTFhkbWo0MHJMajBzN0JJemNOYWRtcUVIa3RHUUpOdEpwbzc4b2xYR0YyWWhXeUY4OWdoVUhDM21CdFhJZHZkUFRpOHNmay1HbHNMQlJGZ2JJWHkxcElBUjJQU2xSZDVDai04cnRpVEprNFE?oc=5",
+      "source": "RSM Global",
+      "published": "2026-07-31",
+      "category": "Energy"
+    },
+    {
+      "title": "Opinion: Energy reality in Asia-Pacific — balancing security, affordability and sustainability - The Edge Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mVTFJRWg3ZTRkM2RydjB3UGZpemhybkNLVm4xelB2Zld5QVE1RzZYT19rWUI4d3VQOW9oMThRZGZFU2p5VWt1d0N3WFVrSHVu?oc=5",
+      "source": "The Edge Malaysia",
+      "published": "2026-08-13",
+      "category": "Energy"
+    },
+    {
+      "title": "Asia-Pacific Races to Build a $50B Clean Power Grid to Feed AI Boom - CleanTechnica",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVzJfVkJKWHBrUXNLWkVJblFlU09vVnFnTTB3cVI0dUx6dFUwN21MdTJZVXE4YkpfSi1jTFFabnlTeXFENjhSZzRoWFRSSVUyLVZwZ2x5UXU5TVh6bzJjVl9qaDNkS1VXYVJSQzh6OUZGTDZwaDhHZ2U2cGNWbWZ6RzVITkNueGUyVUllaWgtZGRWYUFyS2JRS01jNVdhbmVjbEFtRmt2aw?oc=5",
+      "source": "CleanTechnica",
+      "published": "2026-07-20",
+      "category": "Energy"
+    },
+    {
+      "title": "What the reallocation of global energy capital means for Asia - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQUJpN1ItSjk0RVlfZ0RVVkhtMmxGd3ZaMUFyWldvRmxYaEYxa2RnYzR1OW9ER3VQc2JDWGtmOGxnd2tFNFIteEpPeUNxcDEyUzZUNUozRXNrcG1LRDh3UjR1NDJoSTJUUmFMeTd1RzVRbmdTV0FFekNtTXBHTzJKRkpOMGxTN0I5Y1JMeVdITVN1X3JydTdJNXExblMtaUxnZEE?oc=5",
+      "source": "The Business Times",
+      "published": "2026-08-09",
+      "category": "Energy"
+    },
+    {
+      "title": "How the Iran War Disrupted ASEAN’s Energy Transition - The Diplomat – Asia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0NoSTIzd2J2blNvdWJTV25VZC1MbHZsTndEdzRQUEF6ZkJCNFl4RFREMjF1SXdxM2xHeUlVUnFMTk5vQkVmVHQ5ZkFjM2RKSkxkS2ZHcWdxSWVmQTFBZXZEU2V2ZE56NXVNb1VKQllaVW0tR2hYUjNBWmxzVUJ5WjVYTlY2YnhaeHM4eg?oc=5",
+      "source": "The Diplomat – Asia",
+      "published": "2026-06-24",
+      "category": "Energy"
+    },
+    {
+      "title": "The grid behind the energy transition - Asian Power",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPenZ3RTlQWUZ5UzRYZGJTMFIzTHJqZ1loMFN1dUZGVG1EYnp6TmE0NUhKVHhVTDBjQVVqX25vdGhaNEJpRjczTGd2Sm83T3NKd3ZTQWtXbXN5eDBLZmpGY1IzbGNZdnVaVkFXSm83S2xmdERKdmZvYkhiVzJENlJLRDlvaUVwSnM4bFIyeWZ0ZWJSRTVkTkE?oc=5",
+      "source": "Asian Power",
+      "published": "2026-07-20",
+      "category": "Energy"
+    },
+    {
+      "title": "Battery Energy Storage System (BESS) Market Trends - MarketsandMarkets",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOUc4RzUyZkZ1ZENCMENrREo3UnhFM1UyemRzcE1QWXk3QVJ5cVlxN1N6N25WWWFXLXhfX09QampNWEZfR190RElZR2EtOURDS3FsTHJudDlNNW5INndURkFtWDBkSGc2cmd0aXpaZjFlU01WcUdpWlFpTm9NXzhXakhuQ2Y4Qk5YeVBRS253S1pncmdyMmF5MGRubHlMUQ?oc=5",
+      "source": "MarketsandMarkets",
+      "published": "2026-05-30",
+      "category": "Energy"
+    },
+    {
+      "title": "Asia Pacific Power Market Size, Share & Growth Report, 2034 - Market Data Forecast",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDZoZWFNRDdaZU9Oak9lQzZVVXpsX3VGQjJocjZrMUlfUW5nQmlQV1B5UEo2Q1IxX3EyNHdWWXVkZU5rYl9UN1JBTHhtRUdNeDRteVd0Y0w2VVpQdG9uaU5EZVNHVFdKRXFTaEpqcHR5STlyb2dqMjlLM1lDU184aA?oc=5",
+      "source": "Market Data Forecast",
+      "published": "2026-07-01",
+      "category": "Energy"
+    },
+    {
+      "title": "EDP secures ARENA grant for community energy resilience - EDP Global",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnFoRXktNml6dERObnBjQkVVa2dVcjZaM3BOUzdnLXNOUzZTVUVPc1lSU1h6a1YwYXZoS2xtZVlXbnZXV2puQ1lvSmZ4QjJlUzY1MGpSVTNQa1pDQVRUeV9RMS1jUS00Q1pidXdDSjVqb2VQQm5uSmk2RUJ4N1pkM2hPNkgzNktfN3MzZHBXRlZDbHprdGxpcQ?oc=5",
+      "source": "EDP Global",
+      "published": "2026-05-20",
+      "category": "Energy"
+    },
+    {
+      "title": "ADB unveils US$50bn Asia Pacific power grid plan to turn fragmented national systems into a regional clean energy market - Eco-Business",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUlpHdy1oS3l2SG1qdG9mZEFuUm5HOEF6SkpiOThoODNvd2ZLUmU5eEVHU2x1a2d6N1JqT05LZ0UwVGxwczZ4X2xwaVE0d3EtejY1SmVFSzBIUTdFZjdsNS16WjlEcHpoM1B5UkxPOW5JbzlWREh5MDR1WDgzdzNpNUtNRzZxaEdVV01WX25KWmw5aGpIZzlEU0RQSG1rbnowYm1aTDZ1dC1mc09UMVI0R2J0TXdTdHVHSDlzaEdVRnk3VHk5SUh4V0kwZF9XSXhvTmduY2JsM3VsejBuamQ5Z1ZsQUFISFhNaWc?oc=5",
+      "source": "Eco-Business",
+      "published": "2026-06-11",
+      "category": "Energy"
+    },
+    {
+      "title": "South Asia’s Integrated Grid and Clean Energy Transition - ORF Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMDV2amdFSkxYTHN5bHJIUUxHd1JjM3ZVOXZQZDZEbVlUV1Q1UDBmdGhrb1hKakRjRzZRZW9uY0FGV2NPSkFySG1SeWVLZXd6TUxXUFNzNFUwQi1EZXpBaFFZbHcxdnRBVDlfN1I5bXJiam5QWE5wSHJzakVsSXhGU1RhZDRqZTNPZ0Q0?oc=5",
+      "source": "ORF Middle East",
+      "published": "2026-03-30",
+      "category": "Energy"
+    },
+    {
+      "title": "Harnessing energy system synergies - chinadailyhk",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNWHk1M0NLOHVIRDJ0czZEYTN0Rlh2WkdsZ19jNzNIS0hOTkhDcDNhMU5NSW12M0xJZ1F3cl95Z3g3RXlzODF6eW4xcjhub2hoVHJsQUstWktsZw?oc=5",
+      "source": "chinadailyhk",
+      "published": "2026-06-22",
+      "category": "Energy"
+    }
+  ],
+  "asia": [
+    {
+      "title": "China boosts shared prosperity in Asia-Pacific - China Daily",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nLVJnbzdPRUxMbjRKX0pubG5XYWUxOHBuWk5PakF1Xy1vOHRXU09QU3BpWWhmODM1Zm1ULWNHa1UwcHA0ci1OT2ZtbEZIazJpZWhjWkVWTWdIZnFiMVpXdUlvUkRLVmNMdmxNZ1RZNzExMldXTkVlNlJUTVpfZw?oc=5",
+      "source": "China Daily",
+      "published": "2026-05-21",
+      "category": "Asia"
+    },
+    {
+      "title": "Sino-U.S. Relations in the Asia-Pacific Century - CIRSD",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOc1Q5b1VoemdpeFExV0hkMm1fV183bFo4clNfV0lrTE1vY0RIaGsyeTN0SGRHME9IbG5EZ1ZNZms5U2NpVUVtWUFGYVNYUFYzT2JPY1hDODBTVWxtSkdBT3owbTdnZEhaSm1Fdkk0enhqLTFJMUFhXzRLYmVqdWtEZ1FZLVJ6UU9MTWc?oc=5",
+      "source": "CIRSD",
+      "published": "2026-02-02",
+      "category": "Asia"
+    },
+    {
+      "title": "Free trade mega bloc key to success in post-US economic order - East Asia Forum",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTU2ZUVmQldLQTEzR1J6VHF3b1dPRFQ1Q2V6NkNjbVh0RUNibkZXVi1xVDJueXRhTkxNb1l5VWNybjAzXzZkZzNtNC1GYXlEajlvMFdCaWdYdVhNZHpmc0hfUGRMeDJWWUg4cVBaMXVhZDV4UUdJZXY3S0h1OGkwX3lfM2NvSDVhc3ZKTFlLT1pWeTBTaWtSdU41cXV5Y1dN?oc=5",
+      "source": "East Asia Forum",
+      "published": "2025-11-08",
+      "category": "Asia"
+    },
+    {
+      "title": "Indo-Pacific trade deals are reshaping business: RCEP, ASEAN agreements and beyond - Lexology",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY3FhSDZVZFRSc3ZDOW01Z3pCS2xNYWg1ZHlMZGZmTUx3YkIxaHVqSGRNU3hjbS1GVjFJSElZazhUd1ZyYWJrZ3gzOXRkODlNZkVVRE9JNklZdE9BNlp1allwVVF4aTE0UWNkbW5lSGdKM29IQTJEeHlkYVFpa3BCdmJBRVk4TlhIMUJv?oc=5",
+      "source": "Lexology",
+      "published": "2026-01-20",
+      "category": "Asia"
+    },
+    {
+      "title": "The RCEP in an emerging multipolar order: examining energy transition implications - Frontiers",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV2lkZDlMb3FSeEpKMzRENTVLTWtNbFZFTkVJMWtWYWt0a3VUOTI1MXVGYi0wTWdZVEJKeUpnVmw1VHRmUWF5RkI2UW9uTUliYndUcS03MVdSdno2UmV5azJRSlJmcVI5ekliZzVLS0VLaWx6cy1iSUhEX2ZubVh6U2tpYTlIYkE1Yy1BbUhWTkgzWXpQQzVybGd3?oc=5",
+      "source": "Frontiers",
+      "published": "2025-09-17",
+      "category": "Asia"
+    },
+    {
+      "title": "Towards a political economy of Asia - mronline.org",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UVjJYczhVTldUazdESXVKR2QzVUdDZFdVUUFpZzVDX1M0emVqTEUyNUo0cV9zMlVCcXduaW8yanZBVmJQME5pMkkyZTg1OEZ4dnJ5c0hfWmk2WjR2a21nNmxqajRuMXJFRzd1M0hRWTVQcHpVWl9v?oc=5",
+      "source": "mronline.org",
+      "published": "2025-12-16",
+      "category": "Asia"
+    },
+    {
+      "title": "China pitches greater regional integration at the ASEAN summit at Kuala Lumpur - Peoples Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSThKeHpOZVZLVVFyckhpSngyMzNxZU9aSXRRWC1MQ3dSUDBhcWxNVVI0UVNLaFRxX0EtU0QxdzNLeVJPalU5clUtcE44ekJSNTZlcXhjd3pZQ2h1RklLQzhieTlfZHp0N2Z0YllKQWxNVVAxUkM0ZHdxYldoY0FzdUU0SGctZW9jLUZtZGpsOTFKaHpHbjJ5OGRMMW1lN2ljc3VmMEZkTE0ycnc2WExZSVRtTDZROW9mSkE?oc=5",
+      "source": "Peoples Dispatch",
+      "published": "2025-10-28",
+      "category": "Asia"
+    },
+    {
+      "title": "China, ASEAN Upgrade Trade Deal for Digital, Green Era - Modern Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaUY3aE93dlhLZklTQ1VoeUFrbWpPUWFoZmhqQllhbTZpYkZ0dHplNmJmemxzT2ZYMWFDa2ZNVklKWUxsd1J5R080RzVXSl9zS0FpT0FWNS1nSTBLQVNVVXlxRVY2QkVQcHFGU1N4ODVuclZHLTBMcHhoWTRCVkRJSE5VaUt0Q2xvSEwwZkV5NkhCV3ZSNmc?oc=5",
+      "source": "Modern Diplomacy",
+      "published": "2025-10-28",
+      "category": "Asia"
+    },
+    {
+      "title": "Changes in U.S. Grand Strategy in the Indo-Pacific and China’s Countermeasures - Monthly Review",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFVxNFJCTnlrMmdfbGZYM1lVdXlFQ0Z1Y1hOU1FnblJsS2RXSHh1eW9sVlRTejlCNXEwVW1rLVVSZUVzWXlLUFhsV1REcUlrSm8yNzl1TWpYOUdxWmdkSUw3eGpEZ2FVQlk1dzVhS1hyTmFmaF9jRDczV2VVVndrY0FPa1d2WWxHM2xZTThvcV9idXlKcUdVTl8tSFhKN3RmdDhpdXZXMHZPZWEwZGhmUXdn?oc=5",
+      "source": "Monthly Review",
+      "published": "2025-09-10",
+      "category": "Asia"
+    },
+    {
+      "title": "APEC Summit 2025: What’s at Stake? - Quincy Institute for Responsible Statecraft",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5VlZFU3hmcXNHelhGaHFZcmdNRHluR0p4OVJyUFhwajU3OVkwUFh4V2NmM1g2ZWp0MTU2T1pBeVo1NV9naWdHMTlrOUEtSWV0M04wZ0NFWVEtVFNBOFpyNnBCdDczemhqcUpsT1J6NVlkUQ?oc=5",
+      "source": "Quincy Institute for Responsible Statecraft",
+      "published": "2025-10-28",
+      "category": "Asia"
+    },
+    {
+      "title": "Latin America in the new Asia-Pacific trade order - Brookings",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUpTeGFIVEFMczFQRjhuVFBJTEJDRnNobWk1cDNPQ3BvSlpKWTU1MXJMd2czcWJua29LdE4xbVRkdWlzTVYzRXZ4dlhHZG5fUk5PMUZqSWVEVjNIaVctSzBRc01nR3NqVkhMRE9uRkpIbzE5OGNXZjluZ0M0ckQtaHNVQ25nTUdIRmZRNWpB?oc=5",
+      "source": "Brookings",
+      "published": "2018-03-22",
+      "category": "Asia"
+    },
+    {
+      "title": "New Investment Rulemaking in Asia: Between Regionalism and Domestication - Cambridge University Press & Assessment",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPU1lBTGJLdzBta2tocXpwUlgtQnZyWnZTdkJKUEFheHpFYmpyaGlMVEgwbmFzSlFpQjJvT09mT0k5Q3p3STFiUXRtT2ZEZUxCczA3SC1qMzB5cmFLUE5WbDRTdC1ObTVTU0xNSVZHb3dHWmxJWlczdm5OalZjYml1UUg2MU8zUzhNbnpCS3FFQm5kNXhJZ1VaMlllU0NkLVBKUFZTZnMxbjhmY3lnSXN4eXJueWp2OXhld1ZBUVJFMG5fcW00S2dLMFdHb1ZPV3o0MndiZnBaVzhuMG8wMTFjRXRGTjY1cGdSb2dHaTRCTHRjNTl1UWFZbnFVYzBzUWF1?oc=5",
+      "source": "Cambridge University Press & Assessment",
+      "published": "2023-01-13",
+      "category": "Asia"
+    }
+  ],
+  "world": [
+    {
+      "title": "Trade and Development Foresights 2026: Global economy faces a geopolitical challenge | - unctad.org",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGE3VkpDcjA4Vy1vdl9NNm1McFR1X0VjUktiY3A4NEc4TFhRR1RKV2pBQ0FvTmxVSW96V05XZXVTYnhaemE2NDRvYTNLekNsaWkybEZBcDNUdUhCS2UxdnZoUWVfcl9EdzItN3VIMWNXTWhkMFVlMUZGTE9DQnJJT2p2OFJhblR0QVptWmVPemttM2FKb1VJcm5pQlNHRzJGckk0cmJQZ2ZHckJ1OHIydHl3?oc=5",
+      "source": "unctad.org",
+      "published": "2026-05-19",
+      "category": "World"
+    },
+    {
+      "title": "Global fragmentation is rewiring Asia’s economic future - Asia Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb3RMTGFFVm9kMXN1TUVidjdhYlBtaVBjMl9hS0pmaXFWYlB5ODFwWjh6anY3UFdFOXNRUDdzSzluWUtxQWg2YzByUkZFbE9yTWx1ZUZCdi10X3VPWTVIVUN4LUNxOExpLVhDVUpUcUNxSndiN0ZFTzNQaW1zLUY3S2JMUG9HTHk4Q3hqckRR?oc=5",
+      "source": "Asia Times",
+      "published": "2026-05-04",
+      "category": "World"
+    },
+    {
+      "title": "Southeast Asia may be a distinct region but its risks affect each country differently - weforum.org",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdVI0YkdiQXN6SVlKdm84XzVIS0JTRUVvcGFzV3l4SzRHX3h6S01Cc1o4RVAtTjBMZ3VTb3kyUld3VXFkVk9TeGtPNjZncHE0S2NWX2lKUEdGN1YtZDA1Nzh2RGJvN3gwTGNpUURweDFrNWtNTTNsOFMwaW1ZdDBZeHRWQUQ0OGVhOTVnQ3ZZUHNhVUxjakkwVFUtVHhzSG8?oc=5",
+      "source": "weforum.org",
+      "published": "2026-04-13",
+      "category": "World"
+    },
+    {
+      "title": "Indo-Pacific - britannica.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01NGViNGpsTjZmT0RGSEJRS3psX284cXdFd3dvU05uYm5BUHBwWWVxVU9Zc2R4N2YtTWkzZmk0WDZWR0hDNDJ0WXRGTG9CQlNJZTh6QnFFNF8?oc=5",
+      "source": "britannica.com",
+      "published": "2026-06-23",
+      "category": "World"
+    },
+    {
+      "title": "Charts of the Week: Geopolitics Meets the Global Economy - Haver Analytics",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFBoemYxclJXX2JRMVZhUl9RVUV6aVdrdEd4UmRDUm0xemlOZlhyY0VhZEpQTXM5TkRfNjJhejQ2WXJaQ2EwNGU2WkxxS3MzSGg3T21Fa19xaGdXYzlNSnViR3dVR2Y1d05xN2VqQkNuVnJmdjNWYjdKSTZjejI2eUJQc2JjaDA0blhNM3pNbw?oc=5",
+      "source": "Haver Analytics",
+      "published": "2026-03-11",
+      "category": "World"
+    },
+    {
+      "title": "Geopolitics and the geometry of global trade: 2026 update - McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV2htWGFCcDktT0xscVlmTnFiUjlhY25kOXYyaVpDTWhpU2NKNWpncFpOMHV6TXZBMi0zY3IyR0F1dUFzTXM3Rm5pekhUZFhPYXlTMnFRSjBUa25VSFhQV3VXdU00VHZXVE9WYmRlZk5YZlhCeG1ERmhrWm0wdk00ZDJnU3N5a1dYRml0VjNweGdFTUc4UHhnSmhnendwU1U?oc=5",
+      "source": "McKinsey & Company",
+      "published": "2026-03-19",
+      "category": "World"
+    },
+    {
+      "title": "Global foreign direct investment falters as Asian investment flows rise strongly - East Asia Forum",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkpyUDNkSnBfczZRNjNtSzRaYmFDNGw3U2p1dGs4MEF6eTNPOTJ6WnI1V0E2OU0wTUhmd0FnVmJYYXYxem5FN2VMaHBpYVVaYmRhUzIyZldsLVNpbWg5eDF1ZFF1eFR6VURPNTJyVGJrYzF4MnZSU05LU1hBcUwxQlFDTWZYNGtVZHhDUUs1azY3VmIzNU0tcmpGRDlyMEhGaDJwS3dtRUhqVFVSNHgtMjB1VC1kc1lIcFE?oc=5",
+      "source": "East Asia Forum",
+      "published": "2026-04-06",
+      "category": "World"
+    },
+    {
+      "title": "Building ASEAN's resilience to fuel further economic growth - weforum.org",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZzcxSGpOdE9vX1dOMHZ1RmJmdTJIVGMzYzdRTDFKUW0tUjAyVko2WVRKZHpHUkQ1MS01OWNiV0xtTUdLdDFpa0p2djZ0UV9WLWFRVmFNMVVIaW1TSjNXXzB3dWNpeTRyNEFQdmRFalN6Rm1DaXRjUFozOUhxczlseFAxUXU0cEUtallQWEprSQ?oc=5",
+      "source": "weforum.org",
+      "published": "2026-05-12",
+      "category": "World"
+    },
+    {
+      "title": "Asean’s test in a fragmented global economy - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdmpZMGR5akh0MmhGOWFNUUFydElHMkVwTHplQ3ZrMy16dnZWM28td2FHWEJ6QndTWldBYTdjMWY4NFViRkpZdllmQmsybGdfekdTZFVseTNxZnBTZ0tkb0R2S3BPUjNnYi1HVDgwdE0zVmk3NzNSZXZubG1faUxUeE9iMm4yQTJFX2trQXdlSXU?oc=5",
+      "source": "The Business Times",
+      "published": "2026-05-04",
+      "category": "World"
+    },
+    {
+      "title": "War, emerging geopolitical faultlines: West Asia war jolts global economy - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY0lOZXRCYWNGWW43elE4UnJMLWpvTzJVUDd1c0FxUVMwUWtsd1FCUkJSa1UzS3podUg2d0NCTnpWQ3ZfcS05SElGcGJFNEc0eE80ajMxVW9CQm1uUXdxR0l1QXhRWmF0Q3A1aEp0TmJ5cDc4ZjBhczVyc1BMcVVQSVhhLVBsNk1DRnlOMHkzdU5QZDBRTU5JbEg0ckoyeE5pMjV3YzlTUDdoUUdqVTExbEJSVGNKc2hTeDRzTklYc0xaOUZOQVBaNjJFZ0kzbjZqanRUNkhhVV_SAd4BQVVfeXFMUDFaVDI3YzBIQ2Itb1BZeC12ajR3VzNFYjdzaUk0eVdSNFVadVc0cXJvdV9PT2dzWHRiYkRrb0xsQml6MVVlaWpWd19wb2U1VGVFTEIwX0pfRE1XWjNxSWRhVXJWakFidzhxTG1pUk1GYzRwVFBQbzN1NFBJNzBLUERvb3I1UGtIQ2taSU1FOEIyLTdHaHBxSGNLR1BIZmFpZzloT0g5N2I4X3EtVGp6YVI1WVE2RzBTVWQzWEdaS2pxc3pmcGs2VGZVeG5QcWFlTTg2aTBScDZqUnFNcWN3?oc=5",
+      "source": "Business Standard",
+      "published": "2026-03-23",
+      "category": "World"
+    },
+    {
+      "title": "Geopolitics and concentration risk steer Apac investors into diversification and active management: Schroders - The Edge Singapore",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOREEzd0gtMHlUNVl6ak51Z09kTVdIdUNlZnVRS0w2My1QNEJCX1otZnNzLWNjWFJlVnFjU2lOalNyaHgzSFZZVVE4dWNSbU1pSVJXWmdRdFd6RW41VFl2aXpiTzRwalNWcE9aQ1oxTlhnSnY1Tk1Ha3E2a2pQclVyY3RSNGM3RV9NeUs2YXhnNUNha2cxbFM2VGdSeXY3STJTZUgtYzFCVm5xVTdaMlB0YWNWaXYyU01BUkZNTjJiWldpVXpUNFZF?oc=5",
+      "source": "The Edge Singapore",
+      "published": "2026-06-24",
+      "category": "World"
+    },
+    {
+      "title": "EP.1 – The Global High Tea Series | Changing Geopolitics of West Asia and its Implications for India - Centre for Public Policy Research (CPPR)",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pTXFBWXFaTDJWR0Z5cDR0SFZiNXZlNlRDdUpsdldqZXI4cTJUbWtpYm11Uk95ai12NlYtY1ZkNXRSV1JwOU8wQ20xT0FRNDUxNVcybXBUeGVRSTRMbmkxb0w2ZDFqc0lIZjF6M2xR?oc=5",
+      "source": "Centre for Public Policy Research (CPPR)",
+      "published": "2026-04-24",
+      "category": "World"
+    }
+  ],
+  "generated_at": "2026-08-17 07:02 UTC",
+  "date_display": "Monday · 17 August 2026",
+  "question": "今天哪一条新闻真正改变了既有趋势，而不仅仅是延续了趋势？"
 }
