@@ -1,339 +1,516 @@
 from urllib.request import Request, urlopen
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from xml.etree import ElementTree as ET
-from datetime import datetime, timezone, timedelta
-from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
+from email.utils import parsedate_to_datetime
+from datetime import datetime, timezone, timedelta
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import json, re, html
 from pathlib import Path
 
-OUT=Path(__file__).resolve().parents[1]/"data"/"news.json"
-UA={"User-Agent":"Mozilla/5.0 (compatible; ThinkingLab/1.0; personal RSS reader)"}
+OUT = Path(__file__).resolve().parents[1] / "data" / "news.json"
+UA = {"User-Agent": "Mozilla/5.0 (compatible; ThinkingLab/2.0; personal research reader)"}
+NOW = datetime.now(timezone.utc)
 
-# DIRECT SOURCES ONLY — no Google News.
-RSS = [
- # World / economy / analysis
- ("world","BBC World","https://feeds.bbci.co.uk/news/world/rss.xml","EN"),
- ("world","BBC Business","https://feeds.bbci.co.uk/news/business/rss.xml","EN"),
- ("world","BBC Technology","https://feeds.bbci.co.uk/news/technology/rss.xml","EN"),
- ("world","BIS","https://www.bis.org/doclist/rss_all_categories.rss","EN"),
- ("world","WTO","https://www.wto.org/library/rss/latest_news_e.xml","EN"),
- # Energy
- ("energy","IRENA","https://www.irena.org/rssfeed/News","EN"),
- ("energy","BIS","https://www.bis.org/doclist/rss_all_categories.rss","EN"),
- # Asia
- ("asia","WTO","https://www.wto.org/library/rss/latest_news_e.xml","EN"),
+# ---------------------------------------------------------------------
+# 1. DIRECT SOURCES ONLY. No Google News.
+# ---------------------------------------------------------------------
+
+RSS_SOURCES = [
+    # World
+    {"cat":"world","source":"BBC Business","url":"https://feeds.bbci.co.uk/news/business/rss.xml","lang":"EN"},
+    {"cat":"world","source":"BBC World","url":"https://feeds.bbci.co.uk/news/world/rss.xml","lang":"EN"},
+    {"cat":"world","source":"BBC Technology","url":"https://feeds.bbci.co.uk/news/technology/rss.xml","lang":"EN"},
+    {"cat":"world","source":"BIS","url":"https://www.bis.org/doclist/rss_all_categories.rss","lang":"EN"},
+    {"cat":"world","source":"WTO","url":"https://www.wto.org/library/rss/latest_news_e.xml","lang":"EN"},
+
+    # Energy / Asia
+    {"cat":"energy","source":"IRENA","url":"https://www.irena.org/rssfeed/News","lang":"EN"},
 ]
 
-# For sources without a dependable public RSS endpoint, read their own public
-# latest/news pages directly and collect article links. Failures are isolated.
-PAGES = [
- ("world","Project Syndicate","https://www.project-syndicate.org/","EN"),
- ("world","The Economist","https://www.economist.com/","EN"),
- ("world","IMF","https://www.imf.org/en/News","EN"),
- ("world","World Bank","https://www.worldbank.org/en/news","EN"),
- ("world","OECD","https://www.oecd.org/en/about/news.html","EN"),
- ("world","UNCTAD","https://unctad.org/unctad-news","EN"),
- ("world","FT中文网","https://www.ftchinese.com/","中文"),
- ("world","财新","https://www.caixin.com/","中文"),
- ("world","第一财经","https://www.yicai.com/","中文"),
- ("energy","IEA","https://www.iea.org/news","EN"),
- ("energy","IRENA","https://www.irena.org/News","EN"),
- ("energy","ADB","https://www.adb.org/news","EN"),
- ("energy","ASEAN Centre for Energy","https://aseanenergy.org/news-clipping/","EN"),
- ("asia","ADB","https://www.adb.org/news","EN"),
- ("asia","ASEAN","https://asean.org/category/news/","EN"),
- ("asia","APEC","https://www.apec.org/press/news-releases","EN"),
- ("asia","ESCAP","https://www.unescap.org/news","EN"),
- ("asia","Nikkei Asia","https://asia.nikkei.com/","EN"),
- ("ideas","Project Syndicate","https://www.project-syndicate.org/","EN"),
- ("ideas","The Economist","https://www.economist.com/","EN"),
+PAGE_SOURCES = [
+    # World / economy / analysis
+    {"cat":"world","source":"Project Syndicate","url":"https://www.project-syndicate.org/","lang":"EN",
+     "allow":("/commentary/","/onpoint/","/say-more/")},
+    {"cat":"world","source":"The Economist","url":"https://www.economist.com/","lang":"EN",
+     "allow":("/finance-and-economics/","/business/","/international/","/china/","/asia/","/united-states/","/science-and-technology/")},
+    {"cat":"world","source":"IMF","url":"https://www.imf.org/en/News","lang":"EN",
+     "allow":("/en/news/articles/","/en/news/press-releases/","/en/news/speeches/")},
+    {"cat":"world","source":"World Bank","url":"https://www.worldbank.org/en/news","lang":"EN",
+     "allow":("/en/news/press-release/","/en/news/statement/","/en/news/feature/","/en/news/speech/")},
+    {"cat":"world","source":"OECD","url":"https://www.oecd.org/en/about/news.html","lang":"EN",
+     "allow":("/en/about/news/","/en/blogs/","/en/publications/")},
+    {"cat":"world","source":"UNCTAD","url":"https://unctad.org/unctad-news","lang":"EN",
+     "allow":("/news/","/press-material/")},
+    {"cat":"world","source":"FT中文网","url":"https://www.ftchinese.com/","lang":"中文",
+     "allow":("/story/","/interactive/")},
+    {"cat":"world","source":"财新","url":"https://www.caixin.com/","lang":"中文",
+     "allow":("/2026-","finance.caixin.com/2026-","economy.caixin.com/2026-","international.caixin.com/2026-")},
+    {"cat":"world","source":"第一财经","url":"https://www.yicai.com/","lang":"中文",
+     "allow":("/news/","/video/")},
+
+    # Energy
+    {"cat":"energy","source":"IEA","url":"https://www.iea.org/news","lang":"EN",
+     "allow":("/news/","/commentaries/")},
+    {"cat":"energy","source":"IRENA","url":"https://www.irena.org/News","lang":"EN",
+     "allow":("/News/articles/","/News/pressreleases/")},
+    {"cat":"energy","source":"ADB","url":"https://www.adb.org/news","lang":"EN",
+     "allow":("/news/")},
+    {"cat":"energy","source":"ASEAN Centre for Energy","url":"https://aseanenergy.org/","lang":"EN",
+     "allow":("/post/","/news/","/publications/")},
+
+    # Asia
+    {"cat":"asia","source":"ADB","url":"https://www.adb.org/news","lang":"EN",
+     "allow":("/news/")},
+    {"cat":"asia","source":"ASEAN","url":"https://asean.org/category/news/","lang":"EN",
+     "allow":("/2026/","/post/","/news/")},
+    {"cat":"asia","source":"APEC","url":"https://www.apec.org/press/news-releases","lang":"EN",
+     "allow":("/press/news-releases/")},
+    {"cat":"asia","source":"ESCAP","url":"https://www.unescap.org/news","lang":"EN",
+     "allow":("/news/")},
+    {"cat":"asia","source":"Nikkei Asia","url":"https://asia.nikkei.com/","lang":"EN",
+     "allow":("/Economy/","/Politics/","/Business/","/Spotlight/","/Trade/")},
+
+    # Ideas & Trends
+    {"cat":"ideas","source":"Project Syndicate","url":"https://www.project-syndicate.org/","lang":"EN",
+     "allow":("/commentary/","/onpoint/","/say-more/")},
+    {"cat":"ideas","source":"The Economist","url":"https://www.economist.com/","lang":"EN",
+     "allow":("/science-and-technology/","/culture/","/business/","/finance-and-economics/","/international/")},
 ]
 
-KEYWORDS={
-"energy":("energy","electric","power","renewable","solar","wind","grid","battery","oil","gas","lng",
-          "hydrogen","steel","climate","carbon","mineral","transition","能源","电力","可再生","光伏","储能","石油","天然气","氢"),
-"asia":("asia","asian","asean","apec","rcep","china","japan","korea","india","pacific","trade","investment",
-        "supply chain","regional","integration","亚洲","亚太","东盟","贸易","投资","供应链","区域"),
-"ideas":("ai","artificial intelligence","society","science","technology","culture","work","democracy","education",
-         "climate","future","人工智能","社会","科技","文化","教育")
-}
+# ---------------------------------------------------------------------
+# 2. Editorial rules
+# ---------------------------------------------------------------------
 
-def get(url):
-    req=Request(url,headers=UA)
-    with urlopen(req,timeout=25) as r:
-        return r.read().decode("utf-8","ignore")
-
-def parse_date(s):
-    if not s:return None
-    try:return parsedate_to_datetime(s).astimezone(timezone.utc)
-    except: pass
-    for fmt in ("%Y-%m-%d","%Y-%m-%dT%H:%M:%S%z","%Y-%m-%dT%H:%M:%SZ"):
-        try:
-            d=datetime.strptime(s[:25],fmt)
-            return d.replace(tzinfo=d.tzinfo or timezone.utc).astimezone(timezone.utc)
-        except: pass
-    return None
-
-def rss_items(cat,source,url,lang):
-    text=get(url); root=ET.fromstring(text); out=[]
-    nodes=root.findall(".//item")
-    if not nodes: nodes=root.findall(".//{http://www.w3.org/2005/Atom}entry")
-    for n in nodes[:60]:
-        def val(names):
-            for name in names:
-                e=n.find(name)
-                if e is not None and e.text:return html.unescape(e.text).strip()
-            return ""
-        title=val(["title","{http://www.w3.org/2005/Atom}title"])
-        link=val(["link"])
-        if not link:
-            e=n.find("{http://www.w3.org/2005/Atom}link")
-            if e is not None:link=e.attrib.get("href","")
-        ds=val(["pubDate","date","{http://purl.org/dc/elements/1.1/}date",
-                "{http://www.w3.org/2005/Atom}updated","{http://www.w3.org/2005/Atom}published"])
-        if title and link:out.append(item(cat,source,title,link,parse_date(ds),lang))
-    return out
-
-class LinkParser(HTMLParser):
-    def __init__(self,base):
-        super().__init__();self.base=base;self.a=None;self.links=[]
-    def handle_starttag(self,tag,attrs):
-        if tag=="a":
-            d=dict(attrs);href=d.get("href","")
-            if href:self.a=[urljoin(self.base,href),[]]
-    def handle_data(self,data):
-        if self.a:self.a[1].append(data)
-    def handle_endtag(self,tag):
-        if tag=="a" and self.a:
-            text=" ".join(" ".join(self.a[1]).split())
-            if text:self.links.append((text,self.a[0]))
-            self.a=None
-
-def page_items(cat,source,url,lang):
-    text=get(url);p=LinkParser(url);p.feed(text);out=[];seen=set()
-    host=re.sub(r"^https?://(www\.)?","",url).split("/")[0]
-    for title,link in p.links:
-        if len(title)<28 or len(title)>220:continue
-        if title.startswith("http://") or title.startswith("https://"):continue
-        if host not in link:continue
-        low=link.lower()
-        if any(x in low for x in ("login","subscribe","privacy","terms","about","contact","newsletter","#")):continue
-        key=re.sub(r"\W+"," ",title.lower()).strip()
-        if key in seen:continue
-        seen.add(key)
-        out.append(item(cat,source,title,link,None,lang))
-        if len(out)>=35:break
-    return out
-
-def date_from_url(link):
-    # Many publishers encode YYYY/MM/DD or YYYY-MM-DD in article URLs.
-    m=re.search(r"/(20\\d{2})[-/](0?[1-9]|1[0-2])[-/](0?[1-9]|[12]\\d|3[01])(?:/|\\b)",link)
-    if not m:return None
-    try:return datetime(int(m.group(1)),int(m.group(2)),int(m.group(3)),tzinfo=timezone.utc)
-    except:return None
-
-def item(cat,source,title,link,dt,lang):
-    dt=dt or date_from_url(link)
-    return {"category":cat,"source":source,"title":re.sub("<.*?>","",title).strip(),
-            "link":link,"published":dt.strftime("%Y-%m-%d") if dt else "",
-            "language":lang}
-
-def relevant(x,cat):
-    if cat=="world":return True
-    s=x["title"].lower()
-    return any(k in s for k in KEYWORDS.get(cat,()))
-
-def dedupe(arr,limit):
-    seen=set();out=[]
-    # dated items first; undated direct-page items follow
-    arr.sort(key=lambda x:x.get("published",""),reverse=True)
-    for x in arr:
-        key=" ".join(re.sub(r"\W+"," ",x["title"].lower()).split()[:10])
-        if key in seen:continue
-        seen.add(key);out.append(x)
-        if len(out)>=limit:break
-    return out
-
-buckets={"world":[],"energy":[],"asia":[],"ideas":[]}
-status=[]
-for cat,source,url,lang in RSS:
-    try:
-        got=rss_items(cat,source,url,lang);buckets[cat]+=got;status.append([source,"ok",len(got)])
-    except Exception as e:status.append([source,"failed",str(e)[:80]])
-for cat,source,url,lang in PAGES:
-    try:
-        got=[x for x in page_items(cat,source,url,lang) if relevant(x,cat)]
-        buckets[cat]+=got;status.append([source,"ok",len(got)])
-    except Exception as e:status.append([source,"failed",str(e)[:80]])
-
-# Cross-feed useful institutional items into specialist channels.
-for x in buckets["world"][:]:
-    if relevant(x,"energy"): buckets["energy"].append(dict(x,category="energy"))
-    if relevant(x,"asia"): buckets["asia"].append(dict(x,category="asia"))
-    if relevant(x,"ideas"): buckets["ideas"].append(dict(x,category="ideas"))
-
-
-# ---- Balanced editorial assembly ----
 WORLD_KEEP = (
- "econom","market","trade","tariff","inflation","interest rate","central bank","fed","ecb",
- "currency","dollar","yuan","yen","bond","debt","growth","gdp","investment","industry",
- "manufactur","supply chain","shipping","oil","gas","energy","climate policy","carbon",
- "technology"," ai ","artificial intelligence","chip","semiconductor","sanction","geopolit",
- "war","conflict","diplom","election","government","policy","china","united states",
- "european union","eu ","india","japan","korea","russia","iran","israel","middle east",
- "经济","市场","贸易","关税","通胀","利率","央行","汇率","债务","增长","投资","产业","供应链",
- "能源","气候政策","人工智能","芯片","地缘","政策","中国","美国","欧盟","印度","日本","中东"
+    "econom","market","trade","tariff","inflation","interest rate","central bank","fed","ecb",
+    "currency","dollar","yuan","yen","bond","debt","growth","gdp","investment","industry",
+    "manufactur","supply chain","shipping","oil","gas","energy","climate","carbon",
+    "technology","artificial intelligence"," ai ","chip","semiconductor","sanction",
+    "geopolit","war","conflict","diplom","election","government","policy","china",
+    "united states","europe","india","japan","korea","russia","iran","israel","middle east",
+    "经济","市场","贸易","关税","通胀","利率","央行","汇率","债务","增长","投资","产业",
+    "供应链","能源","气候","人工智能","芯片","地缘","政策","中国","美国","欧盟","印度","日本","中东"
 )
 
 WORLD_DROP = (
- "football","soccer","tennis","cricket","celebrity","actor","actress","museum","painting",
- "sexual assault","murder","killed in crash","pubs","restaurant","fashion","royal family",
- "sports","lottery","zoo","wedding","statue","travel fee","tourism fee","记者们如何看",
- "纪念江泽民","诞辰100周年","半年报","净利润同比","营业收入","公司实现营业收入",
- "电影","明星","足球","网球","餐厅","时尚","旅游费","暴雨现场","博物馆","雕像","landslide","record rains","weather warning","flooding"
+    "football","soccer","tennis","cricket","celebrity","actor","actress","museum","painting",
+    "sexual assault","murder","pubs","restaurant","fashion","royal family","lottery","zoo",
+    "wedding","statue","landslide","record rains","weather warning","flooding","tourism fee",
+    "电影","明星","足球","网球","餐厅","时尚","旅游费","博物馆","雕像","鹅腿阿姨",
+    "纪念江泽民","诞辰100周年","半年报","净利润同比","营业收入","业绩快报"
 )
 
-GENERIC_TITLES = (
- "competition and consumer protection","debt and development finance",
- "e-commerce and the digital economy","trade and development",
- "investment and enterprise","statistics","publications","topics","news",
- "press releases","latest news","research","events","home"
+ENERGY_KW = (
+    "energy","electric","power","renewable","solar","wind","grid","battery","storage","oil","gas",
+    "lng","hydrogen","steel","climate","carbon","mineral","transition","能源","电力","可再生",
+    "光伏","风电","电网","储能","石油","天然气","氢","钢铁","矿产","转型"
 )
 
-SOURCE_DROP = {
- "第一财经":("半年报","净利润","涨停","跌停","股价","董事会","股份：","公司：","业绩快报"),
- "财新":("纪念江泽民","诞辰100周年","旅游费"),
- "FT中文网":("战地记者们如何看",),
+ASIA_KW = (
+    "asia","asian","asean","apec","rcep","china","japan","korea","india","pacific","trade",
+    "investment","supply chain","regional","integration","亚洲","亚太","东盟","贸易","投资",
+    "供应链","区域","一体化","中国","日本","韩国","印度"
+)
+
+IDEAS_KW = (
+    "ai","artificial intelligence","society","science","technology","culture","work","democracy",
+    "education","climate","future","人工智能","社会","科技","文化","教育","未来"
+)
+
+MAX_AGE = {
+    "world": 21,
+    "energy": 30,
+    "asia": 30,
+    "ideas": 45,
 }
 
-def source_specific_ok(x):
-    title=x["title"].strip()
-    low=title.lower()
-    link=x["link"].lower()
-    if low in GENERIC_TITLES:return False
-    if any(low == g or low.startswith(g+" ") for g in GENERIC_TITLES):return False
-    if x["source"] in SOURCE_DROP and any(k in title for k in SOURCE_DROP[x["source"]]):return False
+# ---------------------------------------------------------------------
+# 3. HTTP + parsing
+# ---------------------------------------------------------------------
 
-    # Reject obvious topic/category/navigation pages from institutional sites.
-    if x["source"]=="UNCTAD" and "/topic/" in link:return False
-    if x["source"]=="World Bank" and "/ext/" in link:return False
-    if x["source"]=="财新" and ("鹅腿阿姨" in title or "/mini." in link):return False
+def get(url, timeout=15):
+    req = Request(url, headers=UA)
+    with urlopen(req, timeout=timeout) as r:
+        return r.read().decode("utf-8", "ignore")
 
-    # Daily radar freshness: dated material must be within 21 days.
-    if x.get("published"):
+def parse_date_string(s):
+    if not s:
+        return None
+    s = html.unescape(s).strip()
+    try:
+        return parsedate_to_datetime(s).astimezone(timezone.utc)
+    except Exception:
+        pass
+    # ISO variants
+    m = re.search(r"(20\d{2})-(\d{2})-(\d{2})", s)
+    if m:
         try:
-            dt=datetime.strptime(x["published"],"%Y-%m-%d").replace(tzinfo=timezone.utc)
-            if datetime.now(timezone.utc)-dt>timedelta(days=21):return False
-        except: pass
+            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
+        except Exception:
+            pass
+    return None
 
-    # If a direct-page article has no reliable date, only retain it from sites
-    # whose landing pages are chronological; stale URLs with explicit old years are rejected.
-    years=[int(y) for y in re.findall(r"20\\d{2}",link)]
-    if years and min(years)<datetime.now(timezone.utc).year:return False
+def date_from_url(url):
+    # YYYY-MM-DD, YYYY/MM/DD
+    m = re.search(r"(20\d{2})[-/](0?[1-9]|1[0-2])[-/](0?[1-9]|[12]\d|3[01])", url)
+    if m:
+        try:
+            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
+        except Exception:
+            pass
+
+    # Project Syndicate often encodes YYYY-MM only.
+    m = re.search(r"-(20\d{2})-(0?[1-9]|1[0-2])(?:\b|/)", url)
+    if m:
+        try:
+            return datetime(int(m.group(1)), int(m.group(2)), 1, tzinfo=timezone.utc)
+        except Exception:
+            pass
+    return None
+
+def published_date_from_html(text, url=""):
+    patterns = [
+        r'<meta[^>]+property=["\']article:published_time["\'][^>]+content=["\']([^"\']+)',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']article:published_time["\']',
+        r'<meta[^>]+name=["\']date["\'][^>]+content=["\']([^"\']+)',
+        r'<meta[^>]+name=["\']publish(?:ed)?date["\'][^>]+content=["\']([^"\']+)',
+        r'<meta[^>]+itemprop=["\']datePublished["\'][^>]+content=["\']([^"\']+)',
+        r'"datePublished"\s*:\s*"([^"]+)"',
+        r'"dateCreated"\s*:\s*"([^"]+)"',
+    ]
+    for pat in patterns:
+        m = re.search(pat, text, re.I)
+        if m:
+            d = parse_date_string(m.group(1))
+            if d:
+                return d
+    return date_from_url(url)
+
+class LinkParser(HTMLParser):
+    def __init__(self, base):
+        super().__init__()
+        self.base = base
+        self.current = None
+        self.links = []
+
+    def handle_starttag(self, tag, attrs):
+        if tag == "a":
+            d = dict(attrs)
+            href = d.get("href", "")
+            if href:
+                self.current = [urljoin(self.base, href), []]
+
+    def handle_data(self, data):
+        if self.current:
+            self.current[1].append(data)
+
+    def handle_endtag(self, tag):
+        if tag == "a" and self.current:
+            title = " ".join(" ".join(self.current[1]).split())
+            if title:
+                self.links.append((title, self.current[0]))
+            self.current = None
+
+# ---------------------------------------------------------------------
+# 4. Source extraction
+# ---------------------------------------------------------------------
+
+def valid_article_url(source_def, link):
+    low = link.lower()
+    allow = source_def.get("allow", ())
+    if allow and not any(a.lower() in low for a in allow):
+        return False
+
+    reject = (
+        "/topic/","/topics/","/category/","/categories/","/tag/","/tags/",
+        "/publications-search","/search","/about","/contact","/privacy","/terms",
+        "/subscribe","/login","/account","/authors/","/events/","/home"
+    )
+    if any(x in low for x in reject):
+        return False
+
+    # Explicit known junk
+    if source_def["source"] == "第一财经" and "/brief/" in low:
+        return False
+    if source_def["source"] == "财新" and "mini.caixin.com" in low:
+        return False
+    if source_def["source"] == "World Bank" and "/ext/" in low:
+        return False
+
     return True
 
-def world_relevant(x):
-    if not source_specific_ok(x):return False
-    s=(" "+x["title"].lower()+" ")
-    if any(k in s for k in WORLD_DROP):return False
+def page_candidates(source_def):
+    text = get(source_def["url"])
+    p = LinkParser(source_def["url"])
+    p.feed(text)
 
-    # Opinion/institutional sources can enter more broadly, but still no navigation junk.
-    if x["source"] in ("Project Syndicate","The Economist","IMF","World Bank","OECD","BIS","WTO","UNCTAD"):
-        return True
+    seen = set()
+    out = []
+    for title, link in p.links:
+        title = re.sub(r"\s+", " ", title).strip()
+        if len(title) < 24 or len(title) > 220:
+            continue
+        if title.startswith("http://") or title.startswith("https://"):
+            continue
+        if not valid_article_url(source_def, link):
+            continue
 
-    # Chinese business media: require a macro/international/market/policy signal.
-    if x["source"] in ("FT中文网","财新","第一财经"):
-        return any(k in s for k in WORLD_KEEP)
+        key = " ".join(re.sub(r"\W+", " ", title.lower()).split()[:12])
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        out.append((title, link))
 
-    # BBC should be much tighter than a normal World feed.
-    if x["source"].startswith("BBC"):
-        return any(k in s for k in WORLD_KEEP)
+        if len(out) >= 18:
+            break
+    return out
 
-    return any(k in s for k in WORLD_KEEP)
+def enrich_candidate(source_def, title, link):
+    try:
+        article_html = get(link, timeout=12)
+        dt = published_date_from_html(article_html, link)
+    except Exception:
+        dt = date_from_url(link)
 
-def unique_extend(dst, items, n, seen):
-    added=0
-    for x in items:
-        key=" ".join(re.sub(r"\W+"," ",x["title"].lower()).split()[:10])
-        if not key or key in seen: continue
-        seen.add(key); dst.append(x); added+=1
-        if added>=n: break
+    # STRICT: if no reliable date, do not admit into a daily/weekly radar.
+    if not dt:
+        return None
 
-def balanced_world(items, limit=40):
-    groups={}
-    for x in items:
-        if world_relevant(x):
-            groups.setdefault(x["source"],[]).append(x)
+    age_days = (NOW - dt).total_seconds() / 86400
+    if age_days < -1 or age_days > MAX_AGE[source_def["cat"]]:
+        return None
 
-    for g in groups.values():
-        # dated first, preserving source page order among undated pieces
-        g.sort(key=lambda x:x.get("published",""), reverse=True)
-
-    # Per-source ceilings. The point is diversity, not filling every quota.
-    quotas={
-      "BBC World":4,"BBC Business":6,"BBC Technology":3,
-      "Project Syndicate":6,"The Economist":5,
-      "IMF":4,"World Bank":4,"OECD":4,"BIS":4,"WTO":4,"UNCTAD":4,
-      "FT中文网":5,"财新":5,"第一财经":5
+    return {
+        "category": source_def["cat"],
+        "source": source_def["source"],
+        "title": title,
+        "link": link,
+        "published": dt.strftime("%Y-%m-%d"),
+        "language": source_def["lang"],
     }
 
-    # Interleave editorial roles instead of displaying source blocks.
-    order=[
-      "BBC Business","Project Syndicate","FT中文网","BBC World",
-      "IMF","财新","The Economist","WTO","第一财经",
-      "World Bank","BBC Technology","BIS","OECD","UNCTAD"
-    ]
+def scrape_page_source(source_def):
+    try:
+        candidates = page_candidates(source_def)
+    except Exception as e:
+        return [], f"landing page failed: {str(e)[:80]}"
 
-    cursors={s:0 for s in order}
-    used={s:0 for s in order}
-    seen=set(); out=[]
+    items = []
+    with ThreadPoolExecutor(max_workers=6) as ex:
+        futures = [ex.submit(enrich_candidate, source_def, t, l) for t, l in candidates]
+        for fut in as_completed(futures):
+            try:
+                x = fut.result()
+                if x:
+                    items.append(x)
+            except Exception:
+                pass
 
-    while len(out)<limit:
-        progressed=False
-        for s in order:
-            if used[s]>=quotas.get(s,0):continue
-            arr=groups.get(s,[])
+    items.sort(key=lambda x: x["published"], reverse=True)
+    return items, f"ok {len(items)}"
+
+def parse_rss(source_def):
+    text = get(source_def["url"])
+    root = ET.fromstring(text)
+    nodes = root.findall(".//item")
+    if not nodes:
+        nodes = root.findall(".//{http://www.w3.org/2005/Atom}entry")
+
+    out = []
+    for n in nodes[:60]:
+        def val(names):
+            for name in names:
+                e = n.find(name)
+                if e is not None and e.text:
+                    return html.unescape(e.text).strip()
+            return ""
+
+        title = val(["title","{http://www.w3.org/2005/Atom}title"])
+        link = val(["link"])
+        if not link:
+            e = n.find("{http://www.w3.org/2005/Atom}link")
+            if e is not None:
+                link = e.attrib.get("href", "")
+
+        ds = val([
+            "pubDate","date","{http://purl.org/dc/elements/1.1/}date",
+            "{http://www.w3.org/2005/Atom}updated","{http://www.w3.org/2005/Atom}published"
+        ])
+        dt = parse_date_string(ds)
+        if not title or not link or not dt:
+            continue
+
+        age = (NOW - dt).total_seconds() / 86400
+        if age < -1 or age > MAX_AGE[source_def["cat"]]:
+            continue
+
+        out.append({
+            "category": source_def["cat"],
+            "source": source_def["source"],
+            "title": re.sub(r"<.*?>","",title).strip(),
+            "link": link,
+            "published": dt.strftime("%Y-%m-%d"),
+            "language": source_def["lang"],
+        })
+    return out
+
+# ---------------------------------------------------------------------
+# 5. Editorial relevance
+# ---------------------------------------------------------------------
+
+def contains_any(text, words):
+    t = " " + text.lower() + " "
+    return any(w in t for w in words)
+
+def relevant(x, cat):
+    title = x["title"]
+
+    if cat == "world":
+        if contains_any(title, WORLD_DROP):
+            return False
+
+        # Analysis and official institutions: broader admission, but still reject junk.
+        if x["source"] in ("Project Syndicate","The Economist","IMF","World Bank","OECD","BIS","WTO","UNCTAD"):
+            return True
+
+        # BBC and Chinese business media: must show economic / geopolitical / policy relevance.
+        return contains_any(title, WORLD_KEEP)
+
+    if cat == "energy":
+        return contains_any(title, ENERGY_KW)
+
+    if cat == "asia":
+        return contains_any(title, ASIA_KW)
+
+    if cat == "ideas":
+        return contains_any(title, IDEAS_KW)
+
+    return True
+
+# ---------------------------------------------------------------------
+# 6. Dedupe + balanced assembly
+# ---------------------------------------------------------------------
+
+def dedupe(items):
+    seen = set()
+    out = []
+    for x in sorted(items, key=lambda z: z["published"], reverse=True):
+        key = " ".join(re.sub(r"\W+"," ",x["title"].lower()).split()[:11])
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        out.append(x)
+    return out
+
+def interleave_by_source(items, source_order, source_caps, limit):
+    groups = {}
+    for x in items:
+        groups.setdefault(x["source"], []).append(x)
+
+    for s in groups:
+        groups[s].sort(key=lambda x: x["published"], reverse=True)
+
+    cursors = {s:0 for s in source_order}
+    used = {s:0 for s in source_order}
+    out = []
+    seen = set()
+
+    while len(out) < limit:
+        progressed = False
+        for s in source_order:
+            if used[s] >= source_caps.get(s, 0):
+                continue
+            arr = groups.get(s, [])
             while cursors[s] < len(arr):
-                x=arr[cursors[s]]; cursors[s]+=1
-                before=len(out)
-                unique_extend(out,[x],1,seen)
-                if len(out)>before:
-                    used[s]+=1; progressed=True; break
-            if len(out)>=limit:break
-        if not progressed:break
+                x = arr[cursors[s]]
+                cursors[s] += 1
+                key = " ".join(re.sub(r"\W+"," ",x["title"].lower()).split()[:11])
+                if key in seen:
+                    continue
+                seen.add(key)
+                out.append(x)
+                used[s] += 1
+                progressed = True
+                break
+            if len(out) >= limit:
+                break
+        if not progressed:
+            break
 
     return out[:limit]
 
-def balanced_channel(items, limit, per_source=6):
-    groups={}
-    for x in items: groups.setdefault(x["source"],[]).append(x)
-    for g in groups.values(): g.sort(key=lambda x:x.get("published",""),reverse=True)
-    out=[];seen=set()
-    # first pass guarantees diversity
-    for s in groups:
-        unique_extend(out,groups[s],min(per_source,limit),seen)
-    # second pass fills any remaining room
-    for s in groups:
-        if len(out)>=limit: break
-        unique_extend(out,groups[s],limit-len(out),seen)
-    return out[:limit]
-
-world_final=balanced_world(buckets["world"],40)
-energy_final=balanced_channel(buckets["energy"],24,5)
-asia_final=balanced_channel(buckets["asia"],24,5)
-ideas_final=balanced_channel(buckets["ideas"],16,4)
-
-now=datetime.now(timezone.utc)
-data={
- "generated_at":now.strftime("%Y-%m-%d %H:%M UTC"),
- "date_display":now.strftime("%A · %d %B %Y"),
- "world":world_final,
- "energy":energy_final,
- "asia":asia_final,
- "ideas":ideas_final,
- "source_status":status,
- "question":"今天哪一条信息改变、挑战或复杂化了你原来的判断？为什么？"
+WORLD_ORDER = [
+    "BBC Business","Project Syndicate","FT中文网","BBC World","IMF","财新",
+    "The Economist","WTO","第一财经","World Bank","BBC Technology","BIS","OECD","UNCTAD"
+]
+WORLD_CAPS = {
+    "BBC Business":6,"BBC World":4,"BBC Technology":3,
+    "Project Syndicate":6,"The Economist":5,
+    "IMF":4,"World Bank":4,"OECD":4,"BIS":4,"WTO":4,"UNCTAD":4,
+    "FT中文网":6,"财新":6,"第一财经":5
 }
-OUT.parent.mkdir(parents=True,exist_ok=True)
-OUT.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding="utf-8")
+
+# ---------------------------------------------------------------------
+# 7. Run
+# ---------------------------------------------------------------------
+
+buckets = {"world":[],"energy":[],"asia":[],"ideas":[]}
+status = []
+
+# RSS first
+for s in RSS_SOURCES:
+    try:
+        items = [x for x in parse_rss(s) if relevant(x, s["cat"])]
+        buckets[s["cat"]].extend(items)
+        status.append([s["source"], "ok", len(items)])
+    except Exception as e:
+        status.append([s["source"], "failed", str(e)[:100]])
+
+# Direct pages
+for s in PAGE_SOURCES:
+    items, st = scrape_page_source(s)
+    items = [x for x in items if relevant(x, s["cat"])]
+    buckets[s["cat"]].extend(items)
+    status.append([s["source"], st, len(items)])
+
+# Cross-feed genuinely relevant World items into specialist channels
+for x in list(buckets["world"]):
+    if relevant(x, "energy"):
+        y = dict(x); y["category"] = "energy"; buckets["energy"].append(y)
+    if relevant(x, "asia"):
+        y = dict(x); y["category"] = "asia"; buckets["asia"].append(y)
+    if relevant(x, "ideas"):
+        y = dict(x); y["category"] = "ideas"; buckets["ideas"].append(y)
+
+world = interleave_by_source(
+    dedupe(buckets["world"]), WORLD_ORDER, WORLD_CAPS, 40
+)
+
+# Other channels: diversity cap of 6 per source
+def balanced_generic(items, limit=28, per_source=6):
+    items = dedupe(items)
+    groups = {}
+    for x in items:
+        groups.setdefault(x["source"], []).append(x)
+    order = list(groups.keys())
+    caps = {s:per_source for s in order}
+    return interleave_by_source(items, order, caps, limit)
+
+energy = balanced_generic(buckets["energy"], 28, 6)
+asia = balanced_generic(buckets["asia"], 28, 6)
+ideas = balanced_generic(buckets["ideas"], 18, 5)
+
+data = {
+    "generated_at": NOW.strftime("%Y-%m-%d %H:%M UTC"),
+    "date_display": NOW.strftime("%A · %d %B %Y"),
+    "world": world,
+    "energy": energy,
+    "asia": asia,
+    "ideas": ideas,
+    "source_status": status,
+    "question": "今天哪一条信息改变、挑战或复杂化了你原来的判断？为什么？"
+}
+
+OUT.parent.mkdir(parents=True, exist_ok=True)
+OUT.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
