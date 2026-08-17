@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-08-17 08:59 UTC",
+  "generated_at": "2026-08-17 09:06 UTC",
   "date_display": "Monday · 17 August 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Sainsbury's pauses AI cameras after shopper ousted",
-      "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "How switching your bank account could earn you up to £220",
+      "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "What Should Be Done About Asia’s Undervalued Currencies?",
-      "link": "https://www.project-syndicate.org/commentary/foreign-exchange-interventions-to-strengthen-renminbi-yen-and-won-will-not-solve-global-imbalances-by-jeffrey-frankel-2026-08",
-      "published": "2026-08-14",
+      "title": "Global Tax Reform Is the Key to a Fair AI Economy",
+      "link": "https://www.project-syndicate.org/commentary/global-corporate-tax-reform-key-to-equitable-ai-economy-by-zorka-milin-1-2026-08",
+      "published": "2026-08-05",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "FT中文网",
-      "title": "中国战地记者们如何看《欢迎来龙餐馆》：硝烟、后怕与中东往事",
-      "link": "https://www.ftchinese.com/story/001110629",
+      "title": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争",
+      "link": "https://www.ftchinese.com/story/001110632",
       "published": "2026-08-16",
       "language": "中文"
     },
@@ -37,17 +37,17 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "能源内参｜中东贸易恢复放缓 7月全球石油贸易量增长；国家电网发行149亿元离岸人民币债券",
-      "link": "https://www.caixin.com/2026-08-17/102474713.html",
+      "title": "香港财政司长陈茂波：国际航空枢纽与“机场城市”未来",
+      "link": "https://opinion.caixin.com/2026-08-17/102474792.html",
       "published": "2026-08-01",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "United Kingdom launches safeguard investigation on polyethylene terephthalate",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_gbr_05aug26_472_e.htm",
-      "published": "2026-08-05",
+      "title": "World Trade and Tech Day to explore policies to make AI work for inclusive trade",
+      "link": "https://www.wto.org/english/news_e/news26_e/dtech_03aug26_471_e.htm",
+      "published": "2026-08-03",
       "language": "EN"
     },
     {
@@ -76,14 +76,6 @@
     },
     {
       "category": "world",
-      "source": "Project Syndicate",
-      "title": "Let’s Not Forget Multilateral Institutions",
-      "link": "https://www.project-syndicate.org/commentary/middle-power-coalitions-of-the-willing-must-be-within-adjacent-to-multilateral-institutions-by-anne-marie-slaughter-2026-08",
-      "published": "2026-08-14",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "BBC World",
       "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
       "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
@@ -93,17 +85,17 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "投向山西煤炭大亨的信托暴雷十余年后 代销银行被判赔偿投资者损失20%",
-      "link": "https://finance.caixin.com/2026-08-17/102474957.html",
+      "title": "能源内参｜中东贸易恢复放缓 7月全球石油贸易量增长；国家电网发行149亿元离岸人民币债券",
+      "link": "https://www.caixin.com/2026-08-17/102474713.html",
       "published": "2026-08-01",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "World Trade and Tech Day to explore policies to make AI work for inclusive trade",
-      "link": "https://www.wto.org/english/news_e/news26_e/dtech_03aug26_471_e.htm",
-      "published": "2026-08-03",
+      "title": "Global goods trade resilient in the first quarter of 2026 despite war in Middle East",
+      "link": "https://www.wto.org/english/news_e/news26_e/rese_31jul26_469_e.htm",
+      "published": "2026-07-31",
       "language": "EN"
     },
     {
@@ -132,14 +124,6 @@
     },
     {
       "category": "world",
-      "source": "Project Syndicate",
-      "title": "The Real Competitiveness Test",
-      "link": "https://www.project-syndicate.org/commentary/investment-is-only-competitiveness-indicator-that-matters-by-jan-mischke-et-al-2026-08",
-      "published": "2026-08-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "BBC World",
       "title": "Ukrainian strikes kill six in Russia, acting governor says",
       "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
@@ -148,17 +132,25 @@
     },
     {
       "category": "world",
+      "source": "财新",
+      "title": "投向山西煤炭大亨的信托爆雷十余年后 代销银行被判赔偿投资者损失20%",
+      "link": "https://finance.caixin.com/2026-08-17/102474957.html",
+      "published": "2026-08-01",
+      "language": "中文"
+    },
+    {
+      "category": "world",
       "source": "WTO",
-      "title": "Global goods trade resilient in the first quarter of 2026 despite war in Middle East",
-      "link": "https://www.wto.org/english/news_e/news26_e/rese_31jul26_469_e.htm",
-      "published": "2026-07-31",
+      "title": "Brazil initiates dispute regarding additional duties imposed by the United States",
+      "link": "https://www.wto.org/english/news_e/news26_e/ds646rfc_30jul26_468_e.htm",
+      "published": "2026-07-30",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
+      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
+      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-11",
       "language": "EN"
     },
@@ -167,14 +159,6 @@
       "source": "BBC Business",
       "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
       "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Chile’s Boring Conservative President",
-      "link": "https://www.project-syndicate.org/commentary/chile-jose-antonio-kast-boring-conservative-not-like-trump-by-andres-velasco-2026-08",
       "published": "2026-08-13",
       "language": "EN"
     },
@@ -189,9 +173,9 @@
     {
       "category": "world",
       "source": "WTO",
-      "title": "Brazil initiates dispute regarding additional duties imposed by the United States",
-      "link": "https://www.wto.org/english/news_e/news26_e/ds646rfc_30jul26_468_e.htm",
-      "published": "2026-07-30",
+      "title": "Lithuania gives EUR 30,000 to help developing economies and LDCs improve trade skillset",
+      "link": "https://www.wto.org/english/news_e/pres26_e/pr996_466_e.htm",
+      "published": "2026-07-28",
       "language": "EN"
     },
     {
@@ -204,38 +188,14 @@
     },
     {
       "category": "world",
-      "source": "Project Syndicate",
-      "title": "The Legacy of Zhu Rongji",
-      "link": "https://www.project-syndicate.org/commentary/zhu-rongji-death-record-legacy-by-minxin-pei-2026-08",
-      "published": "2026-08-12",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "BBC Business",
-      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "title": "Young people want better job prospects and housing",
+      "link": "https://www.bbc.co.uk/news/articles/cwyj260x1p1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Europe Failed the Ceuta Test",
-      "link": "https://www.project-syndicate.org/commentary/ceuta-migration-crisis-demonstrates-collapse-of-european-solidarity-by-zaki-laidi-2026-08",
-      "published": "2026-08-12",
       "language": "EN"
     }
   ],
   "energy": [
-    {
-      "category": "energy",
-      "source": "Project Syndicate",
-      "title": "The Return of the Power Trust",
-      "link": "https://www.project-syndicate.org/commentary/why-us-utility-merger-wave-should-alarm-policymakers-by-sandeep-vaheesan-2026-08",
-      "published": "2026-08-11",
-      "language": "EN"
-    },
     {
       "category": "energy",
       "source": "BBC Business",
@@ -288,22 +248,6 @@
     },
     {
       "category": "asia",
-      "source": "FT中文网",
-      "title": "中国战地记者们如何看《欢迎来龙餐馆》：硝烟、后怕与中东往事",
-      "link": "https://www.ftchinese.com/story/001110629",
-      "published": "2026-08-16",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
-      "source": "Project Syndicate",
-      "title": "What Should Be Done About Asia’s Undervalued Currencies?",
-      "link": "https://www.project-syndicate.org/commentary/foreign-exchange-interventions-to-strengthen-renminbi-yen-and-won-will-not-solve-global-imbalances-by-jeffrey-frankel-2026-08",
-      "published": "2026-08-14",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "UNCTAD",
       "title": "Today’s investment patterns are shaping tomorrow’s trade map 4 Aug 2026 By Nan Li Collins, Director of the Division on Investment and Enterprise, UN Trade and Development (UNCTAD)",
       "link": "https://unctad.org/news/todays-investment-patterns-are-shaping-tomorrows-trade-map",
@@ -329,8 +273,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China's economic growth challenges mount as consumption slips",
-      "link": "https://asia.nikkei.com/economy/china-s-economic-growth-challenges-mount-as-consumption-slips",
+      "title": "China-built data center stirs debate on Pakistan's digital sovereignty",
+      "link": "https://asia.nikkei.com/politics/international-relations/china-built-data-center-stirs-debate-on-pakistan-s-digital-sovereignty",
       "published": "2026-08-17",
       "language": "EN"
     },
@@ -353,7 +297,7 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "投向山西煤炭大亨的信托暴雷十余年后 代销银行被判赔偿投资者损失20%",
+      "title": "投向山西煤炭大亨的信托爆雷十余年后 代销银行被判赔偿投资者损失20%",
       "link": "https://finance.caixin.com/2026-08-17/102474957.html",
       "published": "2026-08-01",
       "language": "中文"
@@ -361,8 +305,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China-built data center stirs debate on Pakistan's digital sovereignty",
-      "link": "https://asia.nikkei.com/politics/international-relations/china-built-data-center-stirs-debate-on-pakistan-s-digital-sovereignty",
+      "title": "China's economic growth challenges mount as consumption slips",
+      "link": "https://asia.nikkei.com/economy/china-s-economic-growth-challenges-mount-as-consumption-slips",
       "published": "2026-08-17",
       "language": "EN"
     },
@@ -401,16 +345,16 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Canada review of Argentina lithium sale tests warming ties with China",
-      "link": "https://asia.nikkei.com/business/materials/canada-review-of-argentina-lithium-sale-tests-warming-ties-with-china",
+      "title": "'A new Plaza Accord?' Japan's battle against yen bears enters new phase",
+      "link": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
       "published": "2026-08-17",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "'A new Plaza Accord?' Japan's battle against yen bears enters new phase",
-      "link": "https://asia.nikkei.com/business/markets/trading-asia/a-new-plaza-accord-japan-s-battle-against-yen-bears-enters-new-phase",
+      "title": "Canada review of Argentina lithium sale tests warming ties with China",
+      "link": "https://asia.nikkei.com/business/materials/canada-review-of-argentina-lithium-sale-tests-warming-ties-with-china",
       "published": "2026-08-17",
       "language": "EN"
     }
@@ -418,19 +362,19 @@
   "ideas": [
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "Sainsbury's pauses AI cameras after shopper ousted",
-      "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC World",
       "title": "Ukrainian strikes kill six in Russia, acting governor says",
       "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-17",
       "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "FT中文网",
+      "title": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争",
+      "link": "https://www.ftchinese.com/story/001110632",
+      "published": "2026-08-16",
+      "language": "中文"
     },
     {
       "category": "ideas",
@@ -445,6 +389,14 @@
       "source": "Project Syndicate",
       "title": "Europe Failed the Ceuta Test",
       "link": "https://www.project-syndicate.org/commentary/ceuta-migration-crisis-demonstrates-collapse-of-european-solidarity-by-zaki-laidi-2026-08",
+      "published": "2026-08-12",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Why Japanese firms are being so slow to use AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-12",
       "language": "EN"
     },
@@ -466,11 +418,11 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-13",
-      "language": "EN"
+      "source": "财新",
+      "title": "香港财政司长陈茂波：国际航空枢纽与“机场城市”未来",
+      "link": "https://opinion.caixin.com/2026-08-17/102474792.html",
+      "published": "2026-08-01",
+      "language": "中文"
     },
     {
       "category": "ideas",
@@ -491,30 +443,6 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Why Japanese firms are being so slow to use AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-12",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-11",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Subsidies Do Not Explain China’s Competitiveness",
-      "link": "https://www.project-syndicate.org/commentary/chinese-subsidies-do-not-explain-its-competitiveness-by-kai-guo-2026-07",
-      "published": "2026-07-17",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
       "title": "Tokenomics: Why making AI pay is tricky",
       "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-11",
@@ -530,10 +458,34 @@
     },
     {
       "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Subsidies Do Not Explain China’s Competitiveness",
+      "link": "https://www.project-syndicate.org/commentary/chinese-subsidies-do-not-explain-its-competitiveness-by-kai-guo-2026-07",
+      "published": "2026-07-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "BBC Business",
       "title": "Why airlines are warning over lithium-ion batteries",
       "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-06",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "First OpenAI, now Meta - why do AI hacks keep happening?",
+      "link": "https://www.bbc.co.uk/news/articles/cp30989ee1wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-06",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-04",
       "language": "EN"
     }
   ],
@@ -541,17 +493,17 @@
     [
       "BBC Business",
       "ok",
-      11
+      12
     ],
     [
       "BBC World",
       "ok",
-      5
+      4
     ],
     [
       "BBC Technology",
       "ok",
-      7
+      5
     ],
     [
       "BIS",
@@ -561,7 +513,7 @@
     [
       "WTO",
       "ok",
-      6
+      4
     ],
     [
       "IRENA",
@@ -571,7 +523,7 @@
     [
       "Project Syndicate",
       "ok 11",
-      11
+      1
     ],
     [
       "The Economist",
@@ -606,7 +558,7 @@
     [
       "财新",
       "ok 18",
-      2
+      3
     ],
     [
       "第一财经",
