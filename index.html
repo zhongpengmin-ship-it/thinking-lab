@@ -1,102 +1,29 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Thinking Lab</title>
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Thinking Lab</title>
 <style>
 :root{--bg:#f3efe7;--paper:#fffdf8;--ink:#1f2924;--muted:#68726d;--line:#d9d3c8;--accent:#315c4b;--soft:#e9efe8}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}
-.shell{display:grid;grid-template-columns:220px minmax(0,1fr) 300px;max-width:1500px;margin:auto;min-height:100vh}
-aside,.right{background:var(--paper);padding:28px 20px;position:sticky;top:0;height:100vh;border-right:1px solid var(--line)}
-.right{border-right:0;border-left:1px solid var(--line)}
-.brand{font-family:Georgia,serif;font-size:28px;margin-bottom:34px}.nav button{display:block;width:100%;text-align:left;border:0;background:transparent;padding:12px;border-radius:12px;margin:3px 0;font-size:14px;color:var(--muted);cursor:pointer}.nav button.active{background:var(--soft);color:var(--accent);font-weight:700}
-main{padding:38px 46px 80px;min-width:0}.page{display:none}.page.active{display:block}
-.eyebrow{font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted)}h1{font:500 38px/1.15 Georgia,serif;margin:7px 0 10px}h2{font:500 25px/1.2 Georgia,serif;margin:28px 0 12px}p{line-height:1.65}.muted{color:var(--muted)}
-.card{background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:18px;margin:12px 0}
-.news{padding:17px 0;border-bottom:1px solid var(--line)}.news:last-child{border-bottom:0}.news a{color:inherit;text-decoration:none;font-weight:650;font-size:17px;line-height:1.45}.meta{font-size:12px;color:var(--muted);margin:5px 0}.tag{display:inline-block;background:var(--soft);color:var(--accent);padding:4px 8px;border-radius:99px;font-size:11px;margin-right:5px}
-button.btn{border:1px solid var(--line);background:var(--paper);border-radius:99px;padding:8px 12px;cursor:pointer}.btn.primary{background:var(--accent);color:white;border-color:var(--accent)}
-textarea,input{width:100%;border:1px solid var(--line);border-radius:12px;background:white;padding:11px;font:inherit}textarea{min-height:105px;resize:vertical;line-height:1.55}.right h3{font:500 20px Georgia,serif;margin:0 0 10px}.note{padding:12px 0;border-bottom:1px solid var(--line);font-size:13px;line-height:1.55}.small{font-size:12px;color:var(--muted)}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:13px}
-@media(max-width:1050px){.shell{grid-template-columns:180px 1fr}.right{display:none}main{padding:32px 28px}}
-@media(max-width:700px){.shell{display:block}aside{position:static;height:auto;border-bottom:1px solid var(--line);padding:18px}.brand{margin-bottom:12px}.nav{display:flex;overflow:auto}.nav button{white-space:nowrap;width:auto}main{padding:24px 16px}.grid{grid-template-columns:1fr}}
-</style>
-</head>
-<body>
-<div class="shell">
-<aside>
-<div class="brand">Thinking Lab</div>
-<div class="nav">
-<button class="active" data-p="today">Today</button>
-<button data-p="energy">Energy</button>
-<button data-p="asia">Asia</button>
-<button data-p="reading">Reading</button>
-<button data-p="ideas">Ideas</button>
-<button data-p="review">Weekly Review</button>
-</div>
-</aside>
-<main>
-<section class="page active" id="today">
-<div class="eyebrow">Daily briefing</div><h1 id="date">Today</h1>
-<p class="muted">每天自动更新公开新闻源。不要追求看完，挑 2–3 条真正值得思考的。</p>
-<div id="status" class="card">正在读取今日内容…</div>
-<h2>Today in the World</h2><div id="world"></div>
-<h2>Professional Focus</h2>
-<div class="grid"><div><div class="eyebrow">Energy Transition</div><div id="energyToday"></div></div><div><div class="eyebrow">Asia & Regional Cooperation</div><div id="asiaToday"></div></div></div>
-<h2>Think</h2><div class="card" id="question"></div>
-</section>
-
-<section class="page" id="energy"><div class="eyebrow">Professional thread</div><h1>Asia-Pacific Energy Transition</h1><div id="energyAll"></div></section>
-<section class="page" id="asia"><div class="eyebrow">Professional thread</div><h1>Asian Regional Cooperation</h1><div id="asiaAll"></div></section>
-
-<section class="page" id="reading">
-<div class="eyebrow">Reading shelf</div><h1>Read less. Think more.</h1>
-<div class="card"><input id="rTitle" placeholder="标题"><br><br><input id="rLink" placeholder="链接"><br><br><textarea id="rNote" placeholder="它为什么值得留下？它改变或挑战了我的什么判断？"></textarea><br><button class="btn primary" onclick="addReading()">保存阅读</button></div>
-<div id="readingList"></div>
-</section>
-
-<section class="page" id="ideas"><div class="eyebrow">Idea garden</div><h1>Let ideas grow.</h1>
-<div class="card"><textarea id="idea" placeholder="我刚刚想到……"></textarea><br><button class="btn primary" onclick="saveIdea()">保存</button></div><div id="ideaList"></div></section>
-
-<section class="page" id="review"><div class="eyebrow">Weekly review</div><h1>What changed in your mind?</h1>
-<div class="card"><textarea id="reviewText" placeholder="本周最重要的新想法、反复出现的问题、真正挑战我的一篇阅读、下周想继续追踪什么……"></textarea><br><button class="btn primary" onclick="saveReview()">保存本周回顾</button></div></section>
-</main>
-
-<div class="right">
-<h3>Quick Capture</h3><p class="small">读到一半想到什么，不要切页面。</p>
-<textarea id="quick" placeholder="一个想法 / 一个问题 / 一个连接……"></textarea><br><br>
-<button class="btn primary" onclick="quickSave()">Save idea</button>
-<div style="height:28px"></div><h3>Recent Ideas</h3><div id="recentIdeas"></div>
-</div>
-</div>
-
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}.shell{display:grid;grid-template-columns:220px minmax(0,1fr) 310px;max-width:1500px;margin:auto;min-height:100vh}aside,.right{background:var(--paper);padding:28px 20px;position:sticky;top:0;height:100vh;border-right:1px solid var(--line)}.right{border-right:0;border-left:1px solid var(--line)}.brand{font-family:Georgia,serif;font-size:28px;margin-bottom:34px}.nav button{display:block;width:100%;text-align:left;border:0;background:transparent;padding:12px;border-radius:12px;margin:3px 0;font-size:14px;color:var(--muted);cursor:pointer}.nav button.active{background:var(--soft);color:var(--accent);font-weight:700}main{padding:38px 46px 80px;min-width:0}.page{display:none}.page.active{display:block}.eyebrow{font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted)}h1{font:500 38px/1.15 Georgia,serif;margin:7px 0 10px}h2{font:500 25px/1.2 Georgia,serif;margin:28px 0 12px}p{line-height:1.65}.muted,.small{color:var(--muted)}.small{font-size:12px}.card{background:var(--paper);border:1px solid var(--line);border-radius:18px;padding:18px;margin:12px 0}.news{padding:17px}.news a.title{color:inherit;text-decoration:none;font-weight:650;font-size:17px;line-height:1.45}.meta{font-size:12px;color:var(--muted);margin:6px 0}.tag{display:inline-block;background:var(--soft);color:var(--accent);padding:4px 8px;border-radius:99px;font-size:11px;margin-right:5px}.actions{display:flex;gap:7px;margin-top:10px;flex-wrap:wrap}button.btn{border:1px solid var(--line);background:var(--paper);border-radius:99px;padding:8px 12px;cursor:pointer}.btn.primary{background:var(--accent);color:white;border-color:var(--accent)}textarea,input{width:100%;border:1px solid var(--line);border-radius:12px;background:white;padding:11px;font:inherit}textarea{min-height:105px;resize:vertical;line-height:1.55}.right h3{font:500 20px Georgia,serif;margin:0 0 10px}.note{padding:12px 0;border-bottom:1px solid var(--line);font-size:13px;line-height:1.55}.grid{display:grid;grid-template-columns:1fr 1fr;gap:13px}
+@media(max-width:1050px){.shell{grid-template-columns:180px 1fr}.right{display:none}main{padding:32px 28px}}@media(max-width:700px){.shell{display:block}aside{position:static;height:auto;border-bottom:1px solid var(--line);padding:18px}.brand{margin-bottom:12px}.nav{display:flex;overflow:auto}.nav button{white-space:nowrap;width:auto}main{padding:24px 16px}.grid{grid-template-columns:1fr}}
+</style></head><body><div class="shell"><aside><div class="brand">Thinking Lab</div><div class="nav"><button class="active" data-p="today">Today</button><button data-p="energy">Energy</button><button data-p="asia">Asia</button><button data-p="reading">Reading</button><button data-p="ideas">Ideas</button><button data-p="review">Weekly Review</button></div></aside><main>
+<section class="page active" id="today"><div class="eyebrow">Daily briefing</div><h1 id="date">Today</h1><p class="muted">少一点信息，多一点判断。首页只保留真正值得今天关注的内容。</p><div id="status" class="card">正在读取今日内容…</div><h2>🌍 Today in the World</h2><div id="world"></div><h2>Professional Focus</h2><div class="grid"><div><div class="eyebrow">⚡ Energy Transition · Top 3</div><div id="energyToday"></div></div><div><div class="eyebrow">🌏 Asia & Regional Cooperation · Top 3</div><div id="asiaToday"></div></div></div><h2>🧠 Think</h2><div class="card" id="question"></div></section>
+<section class="page" id="energy"><div class="eyebrow">Professional thread</div><h1>Asia-Pacific Energy Transition</h1><p class="muted">过去 7 天的专业信息流。首页只显示前三条，这里保留更多。</p><div id="energyAll"></div></section>
+<section class="page" id="asia"><div class="eyebrow">Professional thread</div><h1>Asian Regional Cooperation</h1><p class="muted">区域经贸、RCEP、ASEAN、APEC、产业链与经济一体化。</p><div id="asiaAll"></div></section>
+<section class="page" id="reading"><div class="eyebrow">Reading shelf</div><h1>Read less. Think more.</h1><div id="readingList"></div></section>
+<section class="page" id="ideas"><div class="eyebrow">Idea garden</div><h1>Let ideas grow.</h1><div class="card"><textarea id="idea" placeholder="我刚刚想到……"></textarea><div class="actions"><button class="btn primary" onclick="saveIdea()">保存</button></div></div><div id="ideaList"></div></section>
+<section class="page" id="review"><div class="eyebrow">Weekly review</div><h1>What changed in your mind?</h1><div class="card"><textarea id="reviewText" placeholder="本周最重要的新想法、反复出现的问题、真正挑战我的一篇阅读、下周想继续追踪什么……"></textarea><div class="actions"><button class="btn primary" onclick="saveReview()">保存本周回顾</button></div></div></section>
+</main><div class="right"><h3>Quick Capture</h3><p class="small" id="captureHint">读到一半想到什么，不要切页面。</p><textarea id="quick" placeholder="一个想法 / 一个问题 / 一个连接……"></textarea><div class="actions"><button class="btn primary" onclick="quickSave()">Save idea</button></div><div style="height:28px"></div><h3>Recent Ideas</h3><div id="recentIdeas"></div></div></div>
 <script>
-const STORE='thinkingLabDesktopV1';
-let personal=JSON.parse(localStorage.getItem(STORE)||'{"ideas":[],"readings":[],"reviews":[]}');
-function persist(){localStorage.setItem(STORE,JSON.stringify(personal));renderPersonal()}
-function esc(s=''){return String(s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]))}
+const STORE='thinkingLabDesktopV2';let personal=JSON.parse(localStorage.getItem(STORE)||'{"ideas":[],"readings":[],"reviews":[]}');let feed={};
+function persist(){localStorage.setItem(STORE,JSON.stringify(personal));renderPersonal()}function esc(s=''){return String(s).replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]))}
 document.querySelectorAll('[data-p]').forEach(b=>b.onclick=()=>{document.querySelectorAll('[data-p]').forEach(x=>x.classList.toggle('active',x===b));document.querySelectorAll('.page').forEach(x=>x.classList.toggle('active',x.id===b.dataset.p))});
-function card(x){return `<div class="card news"><div><span class="tag">${esc(x.category)}</span></div><a target="_blank" rel="noopener" href="${esc(x.link)}">${esc(x.title)}</a><div class="meta">${esc(x.source||'')} · ${esc(x.published||'')}</div></div>`}
-function renderFeed(items,id,limit=99){document.getElementById(id).innerHTML=(items||[]).slice(0,limit).map(card).join('')||'<div class="card muted">今天暂时没有新内容。</div>'}
-async function loadFeed(){
- try{
-  const r=await fetch('data/news.json?ts='+Date.now()); if(!r.ok)throw 0; const j=await r.json();
-  document.getElementById('date').textContent=j.date_display||'Today';
-  document.getElementById('status').innerHTML=`<b>✓ 已自动更新</b><div class="small">云端更新时间：${esc(j.generated_at||'')}</div>`;
-  renderFeed(j.world,'world',5);renderFeed(j.energy,'energyToday',4);renderFeed(j.asia,'asiaToday',4);renderFeed(j.energy,'energyAll');renderFeed(j.asia,'asiaAll');
-  document.getElementById('question').innerHTML='<b>'+esc(j.question||'今天哪一条信息最值得你改变原来的判断？')+'</b>';
- }catch(e){document.getElementById('status').innerHTML='<b>暂时无法读取自动更新数据。</b><div class="small">可稍后刷新网页；个人笔记功能不受影响。</div>'}
-}
+function newsCard(x,cat,i){return `<div class="card news"><div><span class="tag">${esc(x.category)}</span></div><a class="title" target="_blank" rel="noopener" href="${esc(x.link)}">${esc(x.title)}</a><div class="meta">${esc(x.source||'')} · ${esc(x.published||'')}</div><div class="actions"><button class="btn" onclick="saveArticle('${cat}',${i})">☆ Save to Reading</button><button class="btn" onclick="thinkAbout('${cat}',${i})">💡 Add a thought</button></div></div>`}
+function renderFeed(items,id,cat,limit=99){document.getElementById(id).innerHTML=(items||[]).slice(0,limit).map((x,i)=>newsCard(x,cat,i)).join('')||'<div class="card muted">没有足够新的高质量内容。宁缺毋滥。</div>'}
+async function loadFeed(){try{let r=await fetch('data/news.json?ts='+Date.now());feed=await r.json();date.textContent=feed.date_display||'Today';status.innerHTML=`<b>✓ 已自动更新</b><div class="small">云端更新时间：${esc(feed.generated_at||'')}</div>`;renderFeed(feed.world,'world','world',3);renderFeed(feed.energy,'energyToday','energy',3);renderFeed(feed.asia,'asiaToday','asia',3);renderFeed(feed.energy,'energyAll','energy');renderFeed(feed.asia,'asiaAll','asia');question.innerHTML='<b>'+esc(feed.question||'今天哪条信息值得改变你的判断？')+'</b>'}catch(e){status.innerHTML='<b>暂时无法读取自动更新数据。</b>'}}
+function saveArticle(cat,i){let x=(feed[cat]||[])[i];if(!x)return;if(personal.readings.some(r=>r.link===x.link))return alert('已经保存过了');personal.readings.unshift({title:x.title,link:x.link,note:'',source:x.source,date:x.published});persist();alert('已保存到 Reading')}
+function thinkAbout(cat,i){let x=(feed[cat]||[])[i];if(!x)return;quick.value='关于「'+x.title+'」：\\n';quick.focus();captureHint.textContent='正在记录这篇文章带给你的想法。'}
 function saveIdeaText(t){if(!t.trim())return;personal.ideas.unshift({text:t.trim(),date:new Date().toLocaleString('zh-CN')});persist()}
-function saveIdea(){saveIdeaText(document.getElementById('idea').value);document.getElementById('idea').value=''}
-function quickSave(){saveIdeaText(document.getElementById('quick').value);document.getElementById('quick').value=''}
-function addReading(){let t=rTitle.value.trim();if(!t)return;personal.readings.unshift({title:t,link:rLink.value.trim(),note:rNote.value.trim(),date:new Date().toLocaleDateString('zh-CN')});rTitle.value=rLink.value=rNote.value='';persist()}
+function saveIdea(){saveIdeaText(idea.value);idea.value=''}function quickSave(){saveIdeaText(quick.value);quick.value='';captureHint.textContent='读到一半想到什么，不要切页面。'}
 function saveReview(){if(!reviewText.value.trim())return;personal.reviews.unshift({text:reviewText.value.trim(),date:new Date().toLocaleDateString('zh-CN')});reviewText.value='';persist()}
-function renderPersonal(){
- recentIdeas.innerHTML=personal.ideas.slice(0,8).map(x=>`<div class="note">${esc(x.text)}<div class="small">${esc(x.date)}</div></div>`).join('')||'<div class="small">还没有想法。</div>';
- ideaList.innerHTML=personal.ideas.map(x=>`<div class="card">${esc(x.text)}<div class="small">${esc(x.date)}</div></div>`).join('');
- readingList.innerHTML=personal.readings.map(x=>`<div class="card"><b>${x.link?`<a href="${esc(x.link)}" target="_blank" style="color:inherit">${esc(x.title)}</a>`:esc(x.title)}</b><p>${esc(x.note)}</p><div class="small">${esc(x.date)}</div></div>`).join('');
-}
+function renderPersonal(){recentIdeas.innerHTML=personal.ideas.slice(0,8).map(x=>`<div class="note">${esc(x.text)}<div class="small">${esc(x.date)}</div></div>`).join('')||'<div class="small">还没有想法。</div>';ideaList.innerHTML=personal.ideas.map(x=>`<div class="card">${esc(x.text)}<div class="small">${esc(x.date)}</div></div>`).join('');readingList.innerHTML=personal.readings.map(x=>`<div class="card"><b><a href="${esc(x.link)}" target="_blank" style="color:inherit">${esc(x.title)}</a></b><div class="meta">${esc(x.source||'')} · ${esc(x.date||'')}</div><textarea placeholder="读完后：它改变或挑战了我的什么判断？" onchange="updateReading('${encodeURIComponent(x.link)}',this.value)">${esc(x.note||'')}</textarea></div>`).join('')||'<div class="card muted">还没有保存阅读。看到值得读的文章时，点 ☆ Save to Reading。</div>'}
+function updateReading(link,note){let x=personal.readings.find(r=>encodeURIComponent(r.link)===link);if(x){x.note=note;persist()}}
 renderPersonal();loadFeed();
-</script>
-</body></html>
+</script></body></html>
