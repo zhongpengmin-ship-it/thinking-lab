@@ -164,14 +164,101 @@ for x in buckets["world"][:]:
     if relevant(x,"asia"): buckets["asia"].append(dict(x,category="asia"))
     if relevant(x,"ideas"): buckets["ideas"].append(dict(x,category="ideas"))
 
+
+# ---- Balanced editorial assembly ----
+WORLD_KEEP = (
+ "econom","market","trade","tariff","inflation","interest rate","central bank","fed","ecb",
+ "currency","dollar","yuan","yen","bond","debt","growth","gdp","investment","industry",
+ "manufactur","supply chain","shipping","oil","gas","energy","climate","technology"," ai ",
+ "artificial intelligence","chip","semiconductor","sanction","geopolit","war","conflict",
+ "diplom","election","government","policy","china","united states","europe","india","japan",
+ "经济","市场","贸易","关税","通胀","利率","央行","汇率","债务","增长","投资","产业","供应链",
+ "能源","人工智能","芯片","地缘","政策","中国","美国","欧洲","印度","日本"
+)
+WORLD_DROP = (
+ "football","soccer","tennis","cricket","celebrity","actor","actress","museum","painting",
+ "sexual assault","murder","killed in crash","pubs","restaurant","fashion","royal family",
+ "sports","lottery","zoo","wedding","电影","明星","足球","网球","餐厅","时尚"
+)
+
+def world_relevant(x):
+    # Institutional and analysis sources are intentionally broader.
+    if x["source"] in ("Project Syndicate","The Economist","IMF","World Bank","OECD","BIS","WTO","UNCTAD",
+                       "FT中文网","财新","第一财经"):
+        return True
+    s=(" "+x["title"].lower()+" ")
+    if any(k in s for k in WORLD_DROP): return False
+    return any(k in s for k in WORLD_KEEP)
+
+def unique_extend(dst, items, n, seen):
+    added=0
+    for x in items:
+        key=" ".join(re.sub(r"\W+"," ",x["title"].lower()).split()[:10])
+        if not key or key in seen: continue
+        seen.add(key); dst.append(x); added+=1
+        if added>=n: break
+
+def balanced_world(items, limit=40):
+    groups={}
+    for x in items:
+        if world_relevant(x): groups.setdefault(x["source"],[]).append(x)
+    for g in groups.values():
+        g.sort(key=lambda x:x.get("published",""), reverse=True)
+
+    # Deliberately reserve room for each editorial role.
+    quotas=[
+      ("BBC World",5),("BBC Business",6),("BBC Technology",3),
+      ("Project Syndicate",5),("The Economist",5),
+      ("IMF",3),("World Bank",3),("OECD",3),("BIS",3),("WTO",3),("UNCTAD",3),
+      ("FT中文网",4),("财新",4),("第一财经",4)
+    ]
+    out=[]; seen=set()
+    for source,n in quotas:
+        unique_extend(out, groups.get(source,[]), n, seen)
+
+    # Fill remaining slots round-robin, not with one dominant source.
+    sources=[s for s,_ in quotas]
+    idx={s:0 for s in sources}
+    while len(out)<limit:
+        progressed=False
+        for s in sources:
+            arr=groups.get(s,[])
+            while idx[s]<len(arr):
+                x=arr[idx[s]]; idx[s]+=1
+                before=len(out); unique_extend(out,[x],1,seen)
+                if len(out)>before:
+                    progressed=True; break
+            if len(out)>=limit: break
+        if not progressed: break
+    return out[:limit]
+
+def balanced_channel(items, limit, per_source=6):
+    groups={}
+    for x in items: groups.setdefault(x["source"],[]).append(x)
+    for g in groups.values(): g.sort(key=lambda x:x.get("published",""),reverse=True)
+    out=[];seen=set()
+    # first pass guarantees diversity
+    for s in groups:
+        unique_extend(out,groups[s],min(per_source,limit),seen)
+    # second pass fills any remaining room
+    for s in groups:
+        if len(out)>=limit: break
+        unique_extend(out,groups[s],limit-len(out),seen)
+    return out[:limit]
+
+world_final=balanced_world(buckets["world"],40)
+energy_final=balanced_channel(buckets["energy"],24,5)
+asia_final=balanced_channel(buckets["asia"],24,5)
+ideas_final=balanced_channel(buckets["ideas"],16,4)
+
 now=datetime.now(timezone.utc)
 data={
  "generated_at":now.strftime("%Y-%m-%d %H:%M UTC"),
  "date_display":now.strftime("%A · %d %B %Y"),
- "world":dedupe(buckets["world"],45),
- "energy":dedupe(buckets["energy"],30),
- "asia":dedupe(buckets["asia"],30),
- "ideas":dedupe(buckets["ideas"],20),
+ "world":world_final,
+ "energy":energy_final,
+ "asia":asia_final,
+ "ideas":ideas_final,
  "source_status":status,
  "question":"今天哪一条信息改变、挑战或复杂化了你原来的判断？为什么？"
 }
