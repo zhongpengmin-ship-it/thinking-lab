@@ -1,109 +1,13 @@
 {
-  "generated_at": "2026-08-17 08:28 UTC",
+  "generated_at": "2026-08-17 08:44 UTC",
   "date_display": "Monday · 17 August 2026",
   "world": [
     {
       "category": "world",
-      "source": "BBC World",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "title": "India built the world's biggest digital payments miracle. Now comes the bill",
+      "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-16",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "BBC visits smouldering Kyiv market after Russian strikes",
-      "link": "https://www.bbc.co.uk/news/videos/c8dnn05e90lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-16",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
-      "link": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-15",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-14",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "UK economy grows but experts warn of challenging months ahead",
-      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
-      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Why Japanese firms are being so slow to use AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-12",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-11",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "Why tech bosses keep sharing their manifestos about AI",
-      "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-14",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "Amazon is using Twitch to train generative AI",
-      "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-11",
       "language": "EN"
     },
     {
@@ -116,10 +20,154 @@
     },
     {
       "category": "world",
+      "source": "FT中文网",
+      "title": "新加坡企业希望获得人工智能资源，以阻止金融业精英转投香港",
+      "link": "https://www.ftchinese.com/interactive/290982",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "投向山西煤炭大亨的信托暴雷十余年后 代销银行被判赔偿投资者损失20%",
+      "link": "https://finance.caixin.com/2026-08-17/102474957.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "United Kingdom launches safeguard investigation on polyethylene terephthalate",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_gbr_05aug26_472_e.htm",
+      "published": "2026-08-05",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "第一财经",
+      "title": "伊朗称正在起草与阿曼的海上航线计划 | 据央视新闻，当地时间17日，伊朗外交部发言人巴加埃称，伊朗正认真起草与阿曼的海上航线计划。 巴加埃称，由于美国和以色列的行动造成的安全形势",
+      "link": "https://www.yicai.com/brief/103321132.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "Update on the World Bank Group Climate Change Action Plan",
+      "link": "https://www.worldbank.org/en/news/statement/2026/06/29/update-on-the-world-bank-group-climate-change-action-plan",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "Why tech bosses keep sharing their manifestos about AI",
+      "link": "https://www.bbc.co.uk/news/articles/cz97ljy91zxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "UNCTAD",
+      "title": "Landlocked developing countries",
+      "link": "https://unctad.org/topic/landlocked-developing-countries",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "Project Syndicate",
       "title": "A Japanese Wake-Up Call for America",
       "link": "https://www.project-syndicate.org/commentary/japan-currency-debt-crisis-wake-up-for-us-and-others-by-desmond-lachman-2026-07",
       "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "FT中文网",
+      "title": "对话沙利文王昕博士：从追赶到定义，中国企业如何从速度增长转向韧性竞争",
+      "link": "https://www.ftchinese.com/interactive/287189",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Ukrainian strikes kill six in Russia, acting governor says",
+      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "能源内参｜中东贸易恢复放缓 7月全球石油贸易量增长；国家电网发行149亿元离岸人民币债券",
+      "link": "https://www.caixin.com/2026-08-17/102474713.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "World Trade and Tech Day to explore policies to make AI work for inclusive trade",
+      "link": "https://www.wto.org/english/news_e/news26_e/dtech_03aug26_471_e.htm",
+      "published": "2026-08-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "第一财经",
+      "title": "《石油天然气发展“十五五”规划》：研究完善成品油消费税制度 完善成品油定价机制 | 国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，其中提出，持续完善油气市场机制。推动上游供气主体多元化。促进城镇燃气企业整合重组，规范化经营，落实好",
+      "link": "https://www.yicai.com/brief/103321127.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "Middle East Conflict Sends Global Growth to Lowest Rate Since COVID-19",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/06/11/global-economic-prospects-june-2026-press-release",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "Twitch users outraged as Amazon uses their content to train AI in opt-out feature",
+      "link": "https://www.bbc.co.uk/news/articles/cp30pz8d09jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "UNCTAD",
+      "title": "Science, technology and innovation",
+      "link": "https://unctad.org/topic/science-technology-and-innovation",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
+      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13",
       "language": "EN"
     },
     {
@@ -132,59 +180,27 @@
     },
     {
       "category": "world",
-      "source": "Project Syndicate",
-      "title": "The Second Coming of Zhu Rongji?",
-      "link": "https://www.project-syndicate.org/commentary/the-false-comparison-of-li-keqiang-to-zhu-rongji-by-jun-zhang",
+      "source": "FT中文网",
+      "title": "宇树科技的IPO定价实验：如何尽可能把市场热情写进发行价",
+      "link": "https://www.ftchinese.com/story/001110606",
       "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "Project Syndicate",
-      "title": "Global Tax Reform Is the Key to a Fair AI Economy",
-      "link": "https://www.project-syndicate.org/commentary/global-corporate-tax-reform-key-to-equitable-ai-economy-by-zorka-milin-1-2026-08",
+      "source": "财新",
+      "title": "7月新增社融1.4万亿元、贷款负增长3400亿元 债券融资成主力",
+      "link": "https://finance.caixin.com/2026-08-14/102474246.html",
       "published": "",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "World Bank",
-      "title": "https://www.worldbank.org/ext/en/home",
-      "link": "https://www.worldbank.org/ext/en/home",
-      "published": "",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "World Bank",
-      "title": "https://www.worldbank.org/ext/en/news",
-      "link": "https://www.worldbank.org/ext/en/news",
-      "published": "",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "World Bank",
-      "title": "https://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
-      "published": "",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "United Kingdom launches safeguard investigation on polyethylene terephthalate",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_gbr_05aug26_472_e.htm",
-      "published": "2026-08-05",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "World Trade and Tech Day to explore policies to make AI work for inclusive trade",
-      "link": "https://www.wto.org/english/news_e/news26_e/dtech_03aug26_471_e.htm",
-      "published": "2026-08-03",
-      "language": "EN"
+      "language": "中文"
     },
     {
       "category": "world",
@@ -196,130 +212,114 @@
     },
     {
       "category": "world",
-      "source": "UNCTAD",
-      "title": "Competition and consumer protection",
-      "link": "https://unctad.org/Topic/Competition-and-Consumer-Protection",
+      "source": "第一财经",
+      "title": "《石油天然气发展“十五五”规划》：支持液化天然气在重卡和水运船舶的有序应用，促进交通领域绿色低碳转型 | 国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，其中提出，促进天然气清洁高效利用。鼓励天然气在工业领域有序高效利用，重点满足难以电气化、使用高排放燃",
+      "link": "https://www.yicai.com/brief/103321122.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "WBG and Japan Expand Cooperation to Strengthen Critical Minerals Supply Chains and Energy Resilience",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/06/01/the-world-bank-group-and-japan-expand-cooperation-to-strengthen-critical-minerals-supply-chains-and-energy-resilience",
       "published": "",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "UNCTAD",
-      "title": "Debt and development finance",
-      "link": "https://unctad.org/topic/debt-and-finance",
-      "published": "",
+      "source": "BBC Technology",
+      "title": "Amazon is using Twitch to train generative AI",
+      "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "UNCTAD",
-      "title": "E-commerce and the digital economy",
-      "link": "https://unctad.org/topic/ecommerce-and-digital-economy",
+      "title": "Small island developing states",
+      "link": "https://unctad.org/topic/small-island-developing-states",
       "published": "",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "FT中文网",
-      "title": "AI视频生成平台Higgsfield从高盛和英特尔等筹资4亿美元",
-      "link": "https://www.ftchinese.com/interactive/291062",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "FT中文网",
-      "title": "中国战地记者们如何看《欢迎来龙餐馆》：硝烟、后怕与中东往事",
-      "link": "https://www.ftchinese.com/story/001110629",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "FT中文网",
-      "title": "新加坡企业希望获得人工智能资源，以阻止金融业精英转投香港",
-      "link": "https://www.ftchinese.com/interactive/290982",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "FT中文网",
-      "title": "对话沙利文王昕博士：从追赶到定义，中国企业如何从速度增长转向韧性竞争",
-      "link": "https://www.ftchinese.com/interactive/287189",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "投向山西煤炭大亨的信托暴雷十余年后 代销银行被判赔偿投资者损失20%",
-      "link": "https://finance.caixin.com/2026-08-17/102474957.html",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "泰国拟向外国旅客征收450泰铢旅游费 最快2027年首季实施",
-      "link": "https://international.caixin.com/2026-08-17/102474953.html",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "纪念江泽民同志诞辰100周年大会隆重举行 习近平出席大会并发表重要讲话",
-      "link": "https://china.caixin.com/2026-08-17/102474769.html",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "能源内参｜中东贸易恢复放缓 7月全球石油贸易量增长；国家电网发行149亿元离岸人民币债券",
-      "link": "https://www.caixin.com/2026-08-17/102474713.html",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "第一财经",
-      "title": "纪念江泽民同志诞辰100周年大会在京隆重举行 习近平发表重要讲话",
-      "link": "https://www.yicai.com/news/103320859.html",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "第一财经",
-      "title": "伊朗称正在起草与阿曼的海上航线计划 | 据央视新闻，当地时间17日，伊朗外交部发言人巴加埃称，伊朗正认真起草与阿曼的海上航线计划。 巴加埃称，由于美国和以色列的行动造成的安全形势",
-      "link": "https://www.yicai.com/brief/103321132.html",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "第一财经",
-      "title": "《石油天然气发展“十五五”规划》：研究完善成品油消费税制度 完善成品油定价机制 | 国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，其中提出，持续完善油气市场机制。推动上游供气主体多元化。促进城镇燃气企业整合重组，规范化经营，落实好",
-      "link": "https://www.yicai.com/brief/103321127.html",
-      "published": "",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "第一财经",
-      "title": "孚日股份：电解液添加剂业务量价齐升 上半年净利润同比增长64.01% | 孚日股份披露半年报，2026年上半年，公司实现营业收入29.18亿元，同比增长12.78%；归属于上市公司股东的净利润4.03亿元，同比增长64.01%；基本每",
-      "link": "https://www.yicai.com/brief/103321125.html",
-      "published": "",
-      "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Why airlines are warning over lithium-ion batteries",
-      "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-06",
+      "title": "UK economy grows but experts warn of challenging months ahead",
+      "link": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-13",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "The Second Coming of Zhu Rongji?",
+      "link": "https://www.project-syndicate.org/commentary/the-false-comparison-of-li-keqiang-to-zhu-rongji-by-jun-zhang",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "FT中文网",
+      "title": "中国AI公司步步紧逼 OpenAI和Anthropic打降价牌",
+      "link": "https://www.ftchinese.com/story/001110616",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Record rains drench South Korean city as landslide kills one",
+      "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "财新闻｜“鹅腿阿姨”被举报涉嫌刑事违法，北京市场监管部门：线索比较多，还在逐一核查",
+      "link": "https://mini.caixin.com/2026-08-15/102474370.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Brazil initiates dispute regarding additional duties imposed by the United States",
+      "link": "https://www.wto.org/english/news_e/news26_e/ds646rfc_30jul26_468_e.htm",
+      "published": "2026-07-30",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "第一财经",
+      "title": "《石油天然气发展“十五五”规划》：全面建成油气“全国一张网” | 国家发改委、国家能源局印发《石油天然气发展“十五五”规划》，其中提出，全面建成油气“全国一张网”。推进琼粤天然气管道建设，结束海南孤网运行历史。加快连云港—仪征",
+      "link": "https://www.yicai.com/brief/103321116.html",
+      "published": "",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "Joint Statement by the Heads of the International Energy Agency, International Monetary Fund, World Bank Group and World Trade Organization",
+      "link": "https://www.worldbank.org/en/news/statement/2026/05/29/joint-statement-by-the-heads-of-the-international-energy-agency-international-monetary-fund-world-bank-group-and-world-t",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "UNCTAD",
+      "title": "Training and capacity building",
+      "link": "https://unctad.org/topic/training-and-capacity-building",
+      "published": "",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Why Japanese firms are being so slow to use AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-12",
       "language": "EN"
     }
   ],
@@ -417,14 +417,6 @@
       "source": "Project Syndicate",
       "title": "Africa’s Energy Curse Is a Political Choice",
       "link": "https://www.project-syndicate.org/commentary/africa-energy-abundance-alongside-deprivation-is-a-choice-by-rabah-arezki-and-michael-l-ross-2026-07",
-      "published": "",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "World Bank",
-      "title": "https://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/06/16/under-mission-300-a-new-way-of-doing-business-connects-over-50-million-people-to-electricity-across-africa",
       "published": "",
       "language": "EN"
     },
@@ -625,8 +617,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's Rakuten to partner with German AI defense drone startup",
-      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-rakuten-to-partner-with-german-ai-defense-drone-startup",
+      "title": "Japan's Ippudo aims for Indonesian noodle network with halal help",
+      "link": "https://asia.nikkei.com/business/food-beverage/japan-s-ippudo-aims-for-indonesian-noodle-network-with-halal-help",
       "published": "",
       "language": "EN"
     },
@@ -652,6 +644,14 @@
       "title": "Record rains drench South Korean city as landslide kills one",
       "link": "https://www.bbc.co.uk/news/articles/cvgww971nn2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "India built the world's biggest digital payments miracle. Now comes the bill",
+      "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-16",
       "language": "EN"
     },
     {
@@ -699,14 +699,6 @@
       "source": "Project Syndicate",
       "title": "Subsidies Do Not Explain China’s Competitiveness",
       "link": "https://www.project-syndicate.org/commentary/chinese-subsidies-do-not-explain-its-competitiveness-by-kai-guo-2026-07",
-      "published": "",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Project Syndicate",
-      "title": "What Should Be Done About Asia’s Undervalued Currencies?",
-      "link": "https://www.project-syndicate.org/commentary/foreign-exchange-interventions-to-strengthen-renminbi-yen-and-won-will-not-solve-global-imbalances-by-jeffrey-frankel-2026-08",
       "published": "",
       "language": "EN"
     }
@@ -850,7 +842,7 @@
     [
       "BBC Business",
       "ok",
-      46
+      47
     ],
     [
       "BBC Technology",
@@ -900,7 +892,7 @@
     [
       "World Bank",
       "ok",
-      21
+      6
     ],
     [
       "OECD",
@@ -920,7 +912,7 @@
     [
       "财新",
       "ok",
-      33
+      34
     ],
     [
       "第一财经",
