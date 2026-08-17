@@ -24,12 +24,13 @@ h1{font:500 37px Georgia,serif;margin:6px 0 9px}h2{font:500 23px Georgia,serif;m
 <div class="card"><b>Global Economy & World</b><span class="count" id="cw"></span><p class="small">全球经济、贸易、市场、产业政策与地缘政治。</p><button class="pill" onclick="openNews('world')">Browse</button></div>
 <div class="card"><b>Asia-Pacific Energy Transition</b><span class="count" id="ce"></span><p class="small">能源安全、电网、可再生能源、油气、绿色产业、储能与转型政策。</p><button class="pill" onclick="openNews('energy')">Browse</button></div>
 <div class="card"><b>Asia & Regional Cooperation</b><span class="count" id="ca"></span><p class="small">区域经贸、RCEP、ASEAN、APEC、投资、供应链与经济一体化。</p><button class="pill" onclick="openNews('asia')">Browse</button></div>
+<div class="card"><b>Ideas & Trends</b><span class="count" id="ci"></span><p class="small">AI、社会、科学、工作、文化与值得跳出专业领域关注的新趋势。</p><button class="pill" onclick="openNews('ideas')">Browse</button></div>
 <h2>Read Today</h2><div class="card"><b>由 ChatGPT Daily Brief 提供</b><p class="small">这里不让简单脚本假装替你选“最好的一篇”。把每天真正值得深读的文章保存到 Reading 即可。</p></div>
 <h2>Think</h2><div class="card" id="question"></div>
 </section>
 
 <section class="page" id="news"><div class="eyebrow">High-quality information radar</div><h1>News Radar</h1>
-<div class="toolbar"><button class="pill active" data-cat="world">World</button><button class="pill" data-cat="energy">Energy</button><button class="pill" data-cat="asia">Asia</button><span style="width:10px"></span><button class="pill active" data-days="7">7 Days</button><button class="pill" data-days="1">Today</button><button class="pill" data-days="30">30 Days</button></div>
+<div class="toolbar"><button class="pill active" data-cat="world">World</button><button class="pill" data-cat="energy">Energy</button><button class="pill" data-cat="asia">Asia</button><button class="pill" data-cat="ideas">Ideas & Trends</button><span style="width:10px"></span><button class="pill active" data-days="7">7 Days</button><button class="pill" data-days="1">Today</button><button class="pill" data-days="30">30 Days</button></div>
 <div class="small" style="margin-bottom:12px">不强行 Top 3。给你足够多的可靠新内容，你自己决定什么值得深入。</div><div id="newsList" class="list"></div></section>
 
 <section class="page" id="reading"><div class="eyebrow">Your reading shelf</div><h1>Reading</h1><div id="readingList"></div></section>
@@ -39,18 +40,18 @@ h1{font:500 37px Georgia,serif;margin:6px 0 9px}h2{font:500 23px Georgia,serif;m
 <div class="right"><h3>Quick Capture</h3><p class="small" id="hint">看到任何东西产生想法，直接记。</p><textarea id="quick" placeholder="一个想法 / 问题 / 连接……"></textarea><div class="actions"><button class="btn primary" onclick="quickSave()">Save idea</button></div><div style="height:25px"></div><h3>Recent Ideas</h3><div id="recent"></div></div>
 </div>
 <script>
-const STORE='thinkingLabV4';let personal=JSON.parse(localStorage.getItem(STORE)||'{"ideas":[],"readings":[],"reviews":[]}');let feed={world:[],energy:[],asia:[]};let cat='world',days=7;
+const STORE='thinkingLabV4';let personal=JSON.parse(localStorage.getItem(STORE)||'{"ideas":[],"readings":[],"reviews":[]}');let feed={world:[],energy:[],asia:[],ideas:[]};let cat='world',days=7;
 const esc=s=>String(s||'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
 function persist(){localStorage.setItem(STORE,JSON.stringify(personal));renderPersonal()}
 function page(id){document.querySelectorAll('.page').forEach(x=>x.classList.toggle('active',x.id===id));document.querySelectorAll('[data-p]').forEach(x=>x.classList.toggle('active',x.dataset.p===id))}
 document.querySelectorAll('[data-p]').forEach(b=>b.onclick=()=>page(b.dataset.p));
-function ageOk(x,d){let dt=new Date(x.published+'T00:00:00Z');return (Date.now()-dt.getTime())/86400000<=d+1}
+function ageOk(x,d){if(!x.published)return true;let dt=new Date(x.published+'T00:00:00Z');return (Date.now()-dt.getTime())/86400000<=d+1}
 function story(x,i){return `<div class="story"><a target="_blank" rel="noopener" href="${esc(x.link)}">${esc(x.title)}</a><div class="meta">${esc(x.source)} · ${esc(x.published)}</div><div class="actions"><button class="btn" onclick="saveReading('${cat}',${i})">☆ Save</button><button class="btn" onclick="thought('${cat}',${i})">💡 Thought</button></div></div>`}
 function renderNews(){let arr=(feed[cat]||[]).filter(x=>ageOk(x,days));newsList.innerHTML=arr.map((x,i)=>story(x,i)).join('')||'<div class="story small">这个时间范围暂时没有内容。</div>'}
 document.querySelectorAll('[data-cat]').forEach(b=>b.onclick=()=>{cat=b.dataset.cat;document.querySelectorAll('[data-cat]').forEach(x=>x.classList.toggle('active',x===b));renderNews()});
 document.querySelectorAll('[data-days]').forEach(b=>b.onclick=()=>{days=+b.dataset.days;document.querySelectorAll('[data-days]').forEach(x=>x.classList.toggle('active',x===b));renderNews()});
 function openNews(c){cat=c;page('news');document.querySelectorAll('[data-cat]').forEach(x=>x.classList.toggle('active',x.dataset.cat===c));renderNews()}
-async function load(){try{let r=await fetch('data/news.json?ts='+Date.now());feed=await r.json();date.textContent=feed.date_display||'Today';updated.textContent='Updated '+(feed.generated_at||'');cw.textContent=(feed.world||[]).length+' new';ce.textContent=(feed.energy||[]).length+' new';ca.textContent=(feed.asia||[]).length+' new';question.innerHTML='<b>'+esc(feed.question)+'</b>';renderNews()}catch(e){updated.textContent='Feed temporarily unavailable'}}
+async function load(){try{let r=await fetch('data/news.json?ts='+Date.now());feed=await r.json();date.textContent=feed.date_display||'Today';updated.textContent='Updated '+(feed.generated_at||'');cw.textContent=(feed.world||[]).length+' new';ce.textContent=(feed.energy||[]).length+' new';ca.textContent=(feed.asia||[]).length+' new';ci.textContent=(feed.ideas||[]).length+' new';question.innerHTML='<b>'+esc(feed.question)+'</b>';renderNews()}catch(e){updated.textContent='Feed temporarily unavailable'}}
 function saveReading(c,i){let arr=(feed[c]||[]).filter(x=>ageOk(x,days)),x=arr[i];if(!x)return;if(personal.readings.some(r=>r.link===x.link))return alert('Already saved');personal.readings.unshift({...x,note:''});persist();alert('Saved')}
 function thought(c,i){let arr=(feed[c]||[]).filter(x=>ageOk(x,days)),x=arr[i];if(!x)return;quick.value='关于「'+x.title+'」：\\n';quick.focus();hint.textContent='记录这篇文章带给你的想法。'}
 function saveIdeaText(t){if(!t.trim())return;personal.ideas.unshift({text:t.trim(),date:new Date().toLocaleString('zh-CN')});persist()}
