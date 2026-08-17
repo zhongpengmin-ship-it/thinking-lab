@@ -126,7 +126,15 @@ def page_items(cat,source,url,lang):
         if len(out)>=35:break
     return out
 
+def date_from_url(link):
+    # Many publishers encode YYYY/MM/DD or YYYY-MM-DD in article URLs.
+    m=re.search(r"/(20\\d{2})[-/](0?[1-9]|1[0-2])[-/](0?[1-9]|[12]\\d|3[01])(?:/|\\b)",link)
+    if not m:return None
+    try:return datetime(int(m.group(1)),int(m.group(2)),int(m.group(3)),tzinfo=timezone.utc)
+    except:return None
+
 def item(cat,source,title,link,dt,lang):
+    dt=dt or date_from_url(link)
     return {"category":cat,"source":source,"title":re.sub("<.*?>","",title).strip(),
             "link":link,"published":dt.strftime("%Y-%m-%d") if dt else "",
             "language":lang}
@@ -183,7 +191,7 @@ WORLD_DROP = (
  "sexual assault","murder","killed in crash","pubs","restaurant","fashion","royal family",
  "sports","lottery","zoo","wedding","statue","travel fee","tourism fee","记者们如何看",
  "纪念江泽民","诞辰100周年","半年报","净利润同比","营业收入","公司实现营业收入",
- "电影","明星","足球","网球","餐厅","时尚","旅游费","暴雨现场","博物馆","雕像"
+ "电影","明星","足球","网球","餐厅","时尚","旅游费","暴雨现场","博物馆","雕像","landslide","record rains","weather warning","flooding"
 )
 
 GENERIC_TITLES = (
@@ -202,9 +210,27 @@ SOURCE_DROP = {
 def source_specific_ok(x):
     title=x["title"].strip()
     low=title.lower()
+    link=x["link"].lower()
     if low in GENERIC_TITLES:return False
     if any(low == g or low.startswith(g+" ") for g in GENERIC_TITLES):return False
     if x["source"] in SOURCE_DROP and any(k in title for k in SOURCE_DROP[x["source"]]):return False
+
+    # Reject obvious topic/category/navigation pages from institutional sites.
+    if x["source"]=="UNCTAD" and "/topic/" in link:return False
+    if x["source"]=="World Bank" and "/ext/" in link:return False
+    if x["source"]=="财新" and ("鹅腿阿姨" in title or "/mini." in link):return False
+
+    # Daily radar freshness: dated material must be within 21 days.
+    if x.get("published"):
+        try:
+            dt=datetime.strptime(x["published"],"%Y-%m-%d").replace(tzinfo=timezone.utc)
+            if datetime.now(timezone.utc)-dt>timedelta(days=21):return False
+        except: pass
+
+    # If a direct-page article has no reliable date, only retain it from sites
+    # whose landing pages are chronological; stale URLs with explicit old years are rejected.
+    years=[int(y) for y in re.findall(r"20\\d{2}",link)]
+    if years and min(years)<datetime.now(timezone.utc).year:return False
     return True
 
 def world_relevant(x):
