@@ -82,23 +82,41 @@ PAGE_SOURCES = [
 # 2. Editorial rules
 # ---------------------------------------------------------------------
 
-WORLD_KEEP = (
-    "econom","market","trade","tariff","inflation","interest rate","central bank","fed","ecb",
-    "currency","dollar","yuan","yen","bond","debt","growth","gdp","investment","industry",
-    "manufactur","supply chain","shipping","oil","gas","energy","climate","carbon",
-    "technology","artificial intelligence"," ai ","chip","semiconductor","sanction",
-    "geopolit","war","conflict","diplom","election","government","policy","china",
-    "united states","europe","india","japan","korea","russia","iran","israel","middle east",
-    "经济","市场","贸易","关税","通胀","利率","央行","汇率","债务","增长","投资","产业",
-    "供应链","能源","气候","人工智能","芯片","地缘","政策","中国","美国","欧盟","印度","日本","中东"
+# World Radar is about world economy + major international developments with economic significance.
+MACRO_KW = (
+    "econom","growth","gdp","inflation","interest rate","central bank","fed","ecb","boj",
+    "currency","dollar","yuan","yen","bond","debt","fiscal","budget","tax","tariff",
+    "trade","export","import","market","stocks","equity","bank","finance","investment",
+    "industry","manufactur","supply chain","shipping","commodity","oil","gas","energy",
+    "semiconductor","chip","technology","artificial intelligence"," ai ","productivity",
+    "labor market","employment","unemployment","wage","housing","consumption","retail",
+    "经济","增长","国内生产总值","通胀","利率","央行","汇率","美元","人民币","日元","债券",
+    "债务","财政","预算","税","关税","贸易","出口","进口","市场","股市","银行","金融","投资",
+    "产业","制造","供应链","航运","大宗商品","石油","天然气","能源","半导体","芯片","人工智能",
+    "生产率","就业","工资","房地产","消费","零售"
+)
+
+GEOPOL_ECON_KW = (
+    "sanction","geopolit","trade war","economic security","national security","military drills",
+    "war","conflict","ceasefire","peace plan","diplom","alliance","nato","iran","israel",
+    "middle east","russia","ukraine","china","united states","european union","india","japan","korea",
+    "制裁","地缘","经贸摩擦","经济安全","国家安全","军演","战争","冲突","停火","和平方案",
+    "外交","联盟","北约","伊朗","以色列","中东","俄罗斯","乌克兰","中国","美国","欧盟","印度","日本","韩国"
+)
+
+POLICY_KW = (
+    "policy","regulation","government","election","reform","subsidy","industrial policy",
+    "competition","antitrust","climate policy","carbon price","digital regulation",
+    "政策","监管","政府","选举","改革","补贴","产业政策","竞争","反垄断","气候政策","碳价","数字监管"
 )
 
 WORLD_DROP = (
     "football","soccer","tennis","cricket","celebrity","actor","actress","museum","painting",
     "sexual assault","murder","pubs","restaurant","fashion","royal family","lottery","zoo",
     "wedding","statue","landslide","record rains","weather warning","flooding","tourism fee",
+    "camera after shopper","shopper ousted","gym","pilates","twitch users outraged",
     "电影","明星","足球","网球","餐厅","时尚","旅游费","博物馆","雕像","鹅腿阿姨",
-    "纪念江泽民","诞辰100周年","半年报","净利润同比","营业收入","业绩快报"
+    "纪念江泽民","诞辰100周年","半年报","净利润同比","营业收入","业绩快报","战地记者们如何看"
 )
 
 ENERGY_KW = (
@@ -365,17 +383,41 @@ def contains_any(text, words):
 
 def relevant(x, cat):
     title = x["title"]
+    t = " " + title.lower() + " "
 
     if cat == "world":
         if contains_any(title, WORLD_DROP):
             return False
 
-        # Analysis and official institutions: broader admission, but still reject junk.
-        if x["source"] in ("Project Syndicate","The Economist","IMF","World Bank","OECD","BIS","WTO","UNCTAD"):
+        # Major institutions / analysis outlets still need substantive economic or geopolitical relevance.
+        institutional = x["source"] in (
+            "Project Syndicate","The Economist","IMF","World Bank","OECD","BIS","WTO","UNCTAD"
+        )
+
+        macro = contains_any(title, MACRO_KW)
+        policy = contains_any(title, POLICY_KW)
+        geop = contains_any(title, GEOPOL_ECON_KW)
+
+        # Core rule: economic/market/policy content always qualifies.
+        if macro or policy:
             return True
 
-        # BBC and Chinese business media: must show economic / geopolitical / policy relevance.
-        return contains_any(title, WORLD_KEEP)
+        # Geopolitical news qualifies only if it is a major state-to-state / war / sanctions / diplomacy issue.
+        if geop:
+            major_terms = (
+                "sanction","war","conflict","ceasefire","peace plan","military drills","trade war",
+                "iran","israel","middle east","russia","ukraine","china","united states",
+                "european union","india","japan","korea",
+                "制裁","战争","冲突","停火","和平方案","军演","中东","俄罗斯","乌克兰",
+                "中国","美国","欧盟","印度","日本","韩国"
+            )
+            return any(k in t for k in major_terms)
+
+        # Opinion/analysis pieces without a clear economic or geopolitical hook do not enter World Radar.
+        if institutional:
+            return False
+
+        return False
 
     if cat == "energy":
         return contains_any(title, ENERGY_KW)
