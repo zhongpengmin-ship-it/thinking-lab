@@ -1,39 +1,73 @@
 {
-  "generated_at": "2026-08-17 07:44 UTC",
+  "generated_at": "2026-08-17 08:04 UTC",
   "date_display": "Monday · 17 August 2026",
-  "world": [
-    {
-      "title": "AI-driven surge in bond yields could be next risk for markets and growth - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
-      "source": "Reuters",
-      "category": "World",
-      "published": "2026-08-14"
-    },
-    {
-      "title": "Goldman Sachs Acquires Active ETF Manager Neos for $2.3 Billion - 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0WFVhQWRBNlB6aE9NTEVvUUFQZTlQQVNmdW5CUTduNEJPVkpub2ZlSGpUcHBpdXBKM3h2elVQZF84M1hIdnBENkZxaGZyWUVaVkpTZG5BOFBQU1BxUU9BemhPeHA?oc=5",
-      "source": "아시아경제",
-      "category": "World",
-      "published": "2026-08-13"
-    }
-  ],
+  "world": [],
   "energy": [
     {
-      "title": "Southeast Asia’s Renewable Energy Push to Cut Middle East Dependence Stalls as Grid Bottlenecks Derail Half of Projects, Putting Data Center Drive at Risk - economy.ac",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoQlBkWGZxaEkyaVhDMU5SbDRHYVN5anBwb01VaHVxRU16OVlRMWVZUlhtLU5Vc1k3Sm5JM1AzeXRuY2l1TDRXeDhSSWtJMWRrUmZqUHRUbw?oc=5",
-      "source": "economy.ac",
-      "category": "Energy",
-      "published": "2026-08-12"
+      "title": "ASEAN Centre for Energy (ACE) at the 59th ASEAN Day Celebration - ASEAN Centre for Energy (ACE)",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQenpwdHJTX1hXTnktMFUtVTVNN2RsbGVQZldoenpDeVNWUGRpRVpHMmlYY0o1NDh6UE9fMFlhbEs5ZnlrWVBKOTI0MjJYN3JaZzFjcmZnMnJsN3BoLXltYnNnZWVLUnVNVlVwVXhMbm9tZ3ZHVkl6XzE1bExsYS1zSHFXYThHTFgyUXlMaDBVVEJfNWhtZTRscm1R?oc=5",
+      "source": "ASEAN Centre for Energy (ACE)",
+      "published": "2026-08-12",
+      "category": "energy"
+    },
+    {
+      "title": "Building an Inclusive Energy Future in ASEAN: Lessons and Reflections from ACE’s Engagement under the Project \"Influencing Just Energy Transition (I-JET) in ASEAN\" - ASEAN Centre for Energy (ACE)",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZHZsb3VzeUQ1dGZBNmhSZldYcGZvMERYbkZ6eXFCUThEMEZ1ZmM4S1N2U25MVTV5b3gwSDl2RHR2OGZIZVB0RnBhZmcxeF9iOEV2dW9LWXF6SDhKeTVDN09HV0hBR1BjZG5rTFFraVA5UEUzSzBDV0Y3U3lhbHVJWUFBeTVoMl9zbUtWS1BIVmFmb0o4VjVmdFJuQndZZFFXaF9wZ09JMWNzU2QzUzBJMFNtOXFpQWR4QmxEZVFGZWdXUThxRHgyWHB6TXVsbjExVU9KQmc3Ry1rYThkdGdibHZnTWJaQTNmX3RSRWRjTnI2ZmVsWnVoX1J5cnAxYWdhcU8ybkhVY3BUOW16TWctZFV6VnZLYmdmbmNCMmJPWQ?oc=5",
+      "source": "ASEAN Centre for Energy (ACE)",
+      "published": "2026-08-11",
+      "category": "energy"
+    },
+    {
+      "title": "Everybody wants energy security post the Iran war, but how? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY0VHNVlqVEZlcUZuWHpGVjZmak5COW1JRHVnLUVfUExEbF9NTEZ3SVRIZFhDeF84SmZ4Y2xwcDczb1oxSzNHWUFZT1JkWFhFb3FXTFJRTTFjUmpNVHdYdW5nX1A5WnNOVmpSOGRKcUduY0RhOWMwbE41eklWODdQVldLZ3RONm1SREtRZVhKTkt0cGxmTnBsWDVHNENUZWhwVjZhcG1BQ21rUGlVZ3FzSmNpamFsNFVCSnc?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-08",
+      "category": "energy"
+    },
+    {
+      "title": "Solar panel recycling could yield $20b by 2050: IRENA - asianbusinessreview.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlU2RFdBbHZ6SUJmeG5nT3lDbzl3UmdpeENxNnV1NEpoQUFHT3M1UWJsNVloYXlsU2JjTlBMR05tS1BHM21SVWpaS0ZjOWNRU2hWN01SV3NEMGlvbHlvRlh5ajBwMmVXam9zTnNpSm80UTVOM3FHVXVWbDAyZXlLRjZLZFk5Mk9kNWNwRXZZREtRUDQ?oc=5",
+      "source": "asianbusinessreview.com",
+      "published": "2026-08-13",
+      "category": "energy"
     }
   ],
   "asia": [
     {
-      "title": "ASEAN’s digital economy takes shape as researchers call for India partnership - Biometric Update",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLTZyVzJRZHFCM3dvLTVnQ3lQLV8zR0NoMThVTTVadW9fbUhhVTJnN1R0U1BIaUp2QjR6U2tlVVZQd3ZGeWNYWFVvc3gxRzNwb0pFQXJDaHNtcXo5bUs5SUtmWlhZRXAtU3k2alZNbHRSbVdha3BjbWtwVXhUR0M0ZjlUbkl5ekh3SVp0eFM4UG84Zkw0RUpsNmUwSTVfSzV3OWI0a2JxVmhTVWZZczlEU01rSUtMZw?oc=5",
-      "source": "Biometric Update",
-      "category": "Asia",
-      "published": "2026-08-13"
+      "title": "Singapore banks ride Asia's wealth boom to weather rates headwind - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGlabUxWNkswR2dFZlVvWGNoWmhjVHBSOUpoVWhBT2tZUG1PbVVjbl96bDBXR1lqOGluM0l1Vi1EVWY5bUlBWlZ1YmZpSWlVRkZlN0lnT2Nvb3JyVmhRM3J4Tmx4VlpsamE4NUh1bG1NZmd6b1F0QlJKWk9tRVFvbFZheWp5WnBZN3hYalY1Sm1PenhHOTBKUkdIbG03czM1SDA1eWkwUVFvb2RfTXU3bGNrdzUtMHF5YUdRRjJ5VTMtUQ?oc=5",
+      "source": "Reuters",
+      "published": "2026-08-07",
+      "category": "asia"
+    },
+    {
+      "title": "ASEAN Strengthens Digital Trade and Regional Supply Chains - opengovasia.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGFrN0lBVUxTMnAwRktSSmpMOGU3TXNyOGZGVC1VMTlzeE9UT3ZqbzZ4WkdaUWEyOVdPOW5iZno1U193R2FyMjFwMDA0MmM4RkVnWXExbHg5OVU5YWh0U1dDMEtBM09CWG15d0pzQlk0bHF4a28wX2M5SjN2eU9nR3c0alJsUWNpeVdr?oc=5",
+      "source": "opengovasia.com",
+      "published": "2026-08-14",
+      "category": "asia"
+    },
+    {
+      "title": "SASEC, Full Form, Countries, Headquarters, Significance - Vajiram & Ravi",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zVHI5OVFJX0ltc00xZ1dxa2t5YzVaWmdMR0N4NVNZcThnNWlkc1JzalhDSExaMGVtc042NkthcllVM2habWdqWXlzbDdhbl8xNk5za3VB?oc=5",
+      "source": "Vajiram & Ravi",
+      "published": "2026-08-11",
+      "category": "asia"
+    },
+    {
+      "title": "China, ASEAN chart new course for regional development - Awani International",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajgwOERoVnBTb1BBVG5TVlROUGJvcFJabTZEWW1VY1c1QnRwRzRSOW9MWnhYYzhpTEZYTkJWRmNYdG95dUpFTVEweUo3YUhSTlJyV241WUxCaGhIRjhtcHgxUmZxT290Y0JEQVhCVTdUeUZxSEJMRnRqT2lLMkloX0RiYnVBblFxdGpHZ0xpV09LUzJ0cWkzcVZqQUVPc2M?oc=5",
+      "source": "Awani International",
+      "published": "2026-08-10",
+      "category": "asia"
+    },
+    {
+      "title": "ASEAN economic integration opens new growth opportunities for Vietnam - VOV.VN",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSzQyQkV1ZVNPTFpySl93MDEzMjQ1LVRmNDJQSTZYLTNXTUprNmRaWGh5d0J4SzVZSzFnNzliUXZDZWF1b19GTDM1WkNoclgtZElwejNac0k5cWRoLVFzMVhxM2tZZDljb0lUaEMxUGloakw2SktZWndqck14a0F5Q2xGLUJnSkZaeTYxMDVURk5ENm1rX1VudHVtb09LYmhzelduT2k2LXNDY3g4Wmk2Mm5NQklHZHpjdXA4?oc=5",
+      "source": "VOV.VN",
+      "published": "2026-08-07",
+      "category": "asia"
     }
   ],
-  "question": "谁从今天最重要的变化中获益，谁承担成本？这种分配可持续吗？"
+  "question": "今天哪一条信息可以和你过去读过的另一个问题连接起来？"
 }
