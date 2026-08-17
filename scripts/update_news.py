@@ -115,6 +115,7 @@ def page_items(cat,source,url,lang):
     host=re.sub(r"^https?://(www\.)?","",url).split("/")[0]
     for title,link in p.links:
         if len(title)<28 or len(title)>220:continue
+        if title.startswith("http://") or title.startswith("https://"):continue
         if host not in link:continue
         low=link.lower()
         if any(x in low for x in ("login","subscribe","privacy","terms","about","contact","newsletter","#")):continue
@@ -169,25 +170,60 @@ for x in buckets["world"][:]:
 WORLD_KEEP = (
  "econom","market","trade","tariff","inflation","interest rate","central bank","fed","ecb",
  "currency","dollar","yuan","yen","bond","debt","growth","gdp","investment","industry",
- "manufactur","supply chain","shipping","oil","gas","energy","climate","technology"," ai ",
- "artificial intelligence","chip","semiconductor","sanction","geopolit","war","conflict",
- "diplom","election","government","policy","china","united states","europe","india","japan",
+ "manufactur","supply chain","shipping","oil","gas","energy","climate policy","carbon",
+ "technology"," ai ","artificial intelligence","chip","semiconductor","sanction","geopolit",
+ "war","conflict","diplom","election","government","policy","china","united states",
+ "european union","eu ","india","japan","korea","russia","iran","israel","middle east",
  "经济","市场","贸易","关税","通胀","利率","央行","汇率","债务","增长","投资","产业","供应链",
- "能源","人工智能","芯片","地缘","政策","中国","美国","欧洲","印度","日本"
+ "能源","气候政策","人工智能","芯片","地缘","政策","中国","美国","欧盟","印度","日本","中东"
 )
+
 WORLD_DROP = (
  "football","soccer","tennis","cricket","celebrity","actor","actress","museum","painting",
  "sexual assault","murder","killed in crash","pubs","restaurant","fashion","royal family",
- "sports","lottery","zoo","wedding","电影","明星","足球","网球","餐厅","时尚"
+ "sports","lottery","zoo","wedding","statue","travel fee","tourism fee","记者们如何看",
+ "纪念江泽民","诞辰100周年","半年报","净利润同比","营业收入","公司实现营业收入",
+ "电影","明星","足球","网球","餐厅","时尚","旅游费","暴雨现场","博物馆","雕像"
 )
 
+GENERIC_TITLES = (
+ "competition and consumer protection","debt and development finance",
+ "e-commerce and the digital economy","trade and development",
+ "investment and enterprise","statistics","publications","topics","news",
+ "press releases","latest news","research","events","home"
+)
+
+SOURCE_DROP = {
+ "第一财经":("半年报","净利润","涨停","跌停","股价","董事会","股份：","公司：","业绩快报"),
+ "财新":("纪念江泽民","诞辰100周年","旅游费"),
+ "FT中文网":("战地记者们如何看",),
+}
+
+def source_specific_ok(x):
+    title=x["title"].strip()
+    low=title.lower()
+    if low in GENERIC_TITLES:return False
+    if any(low == g or low.startswith(g+" ") for g in GENERIC_TITLES):return False
+    if x["source"] in SOURCE_DROP and any(k in title for k in SOURCE_DROP[x["source"]]):return False
+    return True
+
 def world_relevant(x):
-    # Institutional and analysis sources are intentionally broader.
-    if x["source"] in ("Project Syndicate","The Economist","IMF","World Bank","OECD","BIS","WTO","UNCTAD",
-                       "FT中文网","财新","第一财经"):
-        return True
+    if not source_specific_ok(x):return False
     s=(" "+x["title"].lower()+" ")
-    if any(k in s for k in WORLD_DROP): return False
+    if any(k in s for k in WORLD_DROP):return False
+
+    # Opinion/institutional sources can enter more broadly, but still no navigation junk.
+    if x["source"] in ("Project Syndicate","The Economist","IMF","World Bank","OECD","BIS","WTO","UNCTAD"):
+        return True
+
+    # Chinese business media: require a macro/international/market/policy signal.
+    if x["source"] in ("FT中文网","财新","第一财经"):
+        return any(k in s for k in WORLD_KEEP)
+
+    # BBC should be much tighter than a normal World feed.
+    if x["source"].startswith("BBC"):
+        return any(k in s for k in WORLD_KEEP)
+
     return any(k in s for k in WORLD_KEEP)
 
 def unique_extend(dst, items, n, seen):
@@ -201,35 +237,46 @@ def unique_extend(dst, items, n, seen):
 def balanced_world(items, limit=40):
     groups={}
     for x in items:
-        if world_relevant(x): groups.setdefault(x["source"],[]).append(x)
+        if world_relevant(x):
+            groups.setdefault(x["source"],[]).append(x)
+
     for g in groups.values():
+        # dated first, preserving source page order among undated pieces
         g.sort(key=lambda x:x.get("published",""), reverse=True)
 
-    # Deliberately reserve room for each editorial role.
-    quotas=[
-      ("BBC World",5),("BBC Business",6),("BBC Technology",3),
-      ("Project Syndicate",5),("The Economist",5),
-      ("IMF",3),("World Bank",3),("OECD",3),("BIS",3),("WTO",3),("UNCTAD",3),
-      ("FT中文网",4),("财新",4),("第一财经",4)
-    ]
-    out=[]; seen=set()
-    for source,n in quotas:
-        unique_extend(out, groups.get(source,[]), n, seen)
+    # Per-source ceilings. The point is diversity, not filling every quota.
+    quotas={
+      "BBC World":4,"BBC Business":6,"BBC Technology":3,
+      "Project Syndicate":6,"The Economist":5,
+      "IMF":4,"World Bank":4,"OECD":4,"BIS":4,"WTO":4,"UNCTAD":4,
+      "FT中文网":5,"财新":5,"第一财经":5
+    }
 
-    # Fill remaining slots round-robin, not with one dominant source.
-    sources=[s for s,_ in quotas]
-    idx={s:0 for s in sources}
+    # Interleave editorial roles instead of displaying source blocks.
+    order=[
+      "BBC Business","Project Syndicate","FT中文网","BBC World",
+      "IMF","财新","The Economist","WTO","第一财经",
+      "World Bank","BBC Technology","BIS","OECD","UNCTAD"
+    ]
+
+    cursors={s:0 for s in order}
+    used={s:0 for s in order}
+    seen=set(); out=[]
+
     while len(out)<limit:
         progressed=False
-        for s in sources:
+        for s in order:
+            if used[s]>=quotas.get(s,0):continue
             arr=groups.get(s,[])
-            while idx[s]<len(arr):
-                x=arr[idx[s]]; idx[s]+=1
-                before=len(out); unique_extend(out,[x],1,seen)
+            while cursors[s] < len(arr):
+                x=arr[cursors[s]]; cursors[s]+=1
+                before=len(out)
+                unique_extend(out,[x],1,seen)
                 if len(out)>before:
-                    progressed=True; break
-            if len(out)>=limit: break
-        if not progressed: break
+                    used[s]+=1; progressed=True; break
+            if len(out)>=limit:break
+        if not progressed:break
+
     return out[:limit]
 
 def balanced_channel(items, limit, per_source=6):
