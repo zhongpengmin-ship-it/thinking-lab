@@ -1,36 +1,44 @@
 {
-  "generated_at": "2026-08-18 03:10 UTC",
-  "date_display": "Tuesday · 18 August 2026",
+  "generated_at": "2026-08-19 03:13 UTC",
+  "date_display": "Wednesday · 19 August 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+      "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+      "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-19",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "The Myth of the China Shock",
+      "link": "https://www.project-syndicate.org/commentary/open-trade-with-china-did-not-cause-us-deindustrialization-by-michael-r-strain-2026-08",
       "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "FT中文网",
-      "title": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争",
-      "link": "https://www.ftchinese.com/story/001110632",
-      "published": "2026-08-16",
+      "title": "新质生产力导向下的中国人工智能一级市场（一）：资本生态与机构博弈",
+      "link": "https://www.ftchinese.com/story/001110636",
+      "published": "2026-08-18",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Russia warns UK over supplying drones to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-18",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "财经早知道｜李强：努力完成全年经济社会发展目标任务",
-      "link": "https://finance.caixin.com/2026-08-18/102475181.html",
+      "title": "T早报｜“中国版SpaceX”垣信完成近70亿元融资；爱奇艺二季度亏损2亿元；百度二季度收入同比降4%",
+      "link": "https://www.caixin.com/2026-08-19/102475528.html",
       "published": "2026-08-01",
       "language": "中文"
     },
@@ -61,24 +69,40 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Virgin takes step towards running Channel Tunnel rail services",
-      "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "Chinese robotics giant Unitree soars in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-19",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "Project Syndicate",
+      "title": "Excess Savings Are Driving the New China Shock",
+      "link": "https://www.project-syndicate.org/commentary/second-china-shock-is-driven-by-excess-savings-not-subsidies-by-daniel-gros-2026-08",
+      "published": "2026-08-11",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "FT中文网",
+      "title": "为什么简单的投资反而更好？从私募基金的信息差说起",
+      "link": "https://www.ftchinese.com/story/001110637",
+      "published": "2026-08-18",
+      "language": "中文"
+    },
+    {
+      "category": "world",
       "source": "BBC World",
-      "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "大疆诉美国防部案发回重审 上诉法院认为原审存在错误",
-      "link": "https://www.caixin.com/2026-08-17/102475150.html",
+      "title": "净息差企稳 平安银行称“不会追求简单的规模扩张与风险下沉的增长”",
+      "link": "https://finance.caixin.com/2026-08-18/102475490.html",
       "published": "2026-08-01",
       "language": "中文"
     },
@@ -109,24 +133,24 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Sainsbury's branch halts AI use as shopper ejected",
-      "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
-      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "US announces new sanctions on top ICC figures",
+      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "1—7月投资同比降幅扩大至6.7% 新旧动能投资明显分化",
-      "link": "https://economy.caixin.com/2026-08-17/102475108.html",
+      "title": "蓝箭朱雀三号一子级首次实现陆地回收 为中国可复用运载火箭重大突破",
+      "link": "https://www.caixin.com/2026-08-19/102475552.html",
       "published": "2026-08-01",
       "language": "中文"
     },
@@ -140,60 +164,76 @@
     },
     {
       "category": "world",
-      "source": "BBC Technology",
-      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-11",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "BBC Business",
-      "title": "'I used food banks while my ex owed thousands in child maintenance'",
-      "link": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "油气发展“十五五”规划发布 锚定能源安全与低碳发展",
-      "link": "https://www.caixin.com/2026-08-17/102475144.html",
+      "title": "财经早知道｜三部门发文：优化城乡社区岗位，吸纳高校毕业生就业",
+      "link": "https://finance.caixin.com/2026-08-19/102475507.html",
       "published": "2026-08-01",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "How switching your bank account could earn you up to £220",
-      "link": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-16",
+      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+      "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "财新",
+      "title": "投资模型组合与投顾服务之间：组合工程师的特殊作用",
+      "link": "https://opinion.caixin.com/2026-08-19/102475548.html",
+      "published": "2026-08-01",
+      "language": "中文"
+    },
+    {
+      "category": "world",
       "source": "BBC Business",
-      "title": "India built the world's biggest digital payments miracle. Now comes the bill",
-      "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-16",
+      "title": "Demand for school uniform bank 'has never been higher'",
+      "link": "https://www.bbc.co.uk/news/articles/c330k0gdkkyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "国泰海通半年豪赚202亿元利润 科创板投资收益亮眼",
+      "link": "https://finance.caixin.com/2026-08-18/102475476.html",
+      "published": "2026-08-01",
+      "language": "中文"
     }
   ],
   "energy": [
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
-      "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-04",
+      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC World",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
@@ -206,26 +246,42 @@
     },
     {
       "category": "energy",
-      "source": "财新",
-      "title": "油气发展“十五五”规划发布 锚定能源安全与低碳发展",
-      "link": "https://www.caixin.com/2026-08-17/102475144.html",
-      "published": "2026-08-01",
-      "language": "中文"
+      "source": "BBC Business",
+      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+      "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Homeowner feared energy grant scheme was a scam",
+      "link": "https://www.bbc.co.uk/news/articles/cglj8nx56ewo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "'I feel like I dug my own grave': The workers caught in the AI transition",
+      "link": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-04",
+      "language": "EN"
     }
   ],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Exclusive: Google plans to stop making Pixel products in China in 2027",
-      "link": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027",
-      "published": "2026-08-18",
+      "title": "Japan bond yields spike on Takaichi budget fears, worries over US view",
+      "link": "https://asia.nikkei.com/business/markets/bonds/japan-bond-yields-spike-on-takaichi-budget-fears-worries-over-us-view",
+      "published": "2026-08-19",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "US-Canada trade talks 'intense' as new tariff deadline looms",
+      "title": "Carney's final chance to convince Trump as US-Canada trade deadline looms",
       "link": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-18",
       "language": "EN"
@@ -233,10 +289,26 @@
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "BBC breaks down Trump's latest shift on North and South Korea",
-      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "China censors public mourning as it holds former premier's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "The Myth of the China Shock",
+      "link": "https://www.project-syndicate.org/commentary/open-trade-with-china-did-not-cause-us-deindustrialization-by-michael-r-strain-2026-08",
+      "published": "2026-08-18",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "FT中文网",
+      "title": "新质生产力导向下的中国人工智能一级市场（一）：资本生态与机构博弈",
+      "link": "https://www.ftchinese.com/story/001110636",
+      "published": "2026-08-18",
+      "language": "中文"
     },
     {
       "category": "asia",
@@ -257,97 +329,17 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "1—7月投资同比降幅扩大至6.7% 新旧动能投资明显分化",
-      "link": "https://economy.caixin.com/2026-08-17/102475108.html",
+      "title": "T早报｜“中国版SpaceX”垣信完成近70亿元融资；爱奇艺二季度亏损2亿元；百度二季度收入同比降4%",
+      "link": "https://www.caixin.com/2026-08-19/102475528.html",
       "published": "2026-08-01",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Trump opens door to talks with North Korea's Kim with downsized drills",
-      "link": "https://asia.nikkei.com/politics/international-relations/trump-opens-door-to-talks-with-north-korea-s-kim-with-downsized-drills",
-      "published": "2026-08-18",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "India built the world's biggest digital payments miracle. Now comes the bill",
-      "link": "https://www.bbc.co.uk/news/articles/c8xnwqe00v1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-16",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "Global goods trade resilient in the first quarter of 2026 despite war in Middle East",
-      "link": "https://www.wto.org/english/news_e/news26_e/rese_31jul26_469_e.htm",
-      "published": "2026-07-31",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Designer denim and AI concierges: Japan's konbini put a new face forward",
-      "link": "https://asia.nikkei.com/business/retail/designer-denim-and-ai-concierges-japan-s-konbini-put-a-new-face-forward",
-      "published": "2026-08-18",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-14",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Takaichi's food tax cut will leave Japan budget relying on inflation",
-      "link": "https://asia.nikkei.com/spotlight/comment/takaichi-s-food-tax-cut-will-leave-japan-budget-relying-on-inflation",
-      "published": "2026-08-18",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-      "link": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-13",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Movie that went viral for terrible animation becomes China box office hit",
-      "link": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Trump says North Korea's Kim has responded to his overtures",
-      "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-says-north-korea-s-kim-has-responded-to-his-overtures",
-      "published": "2026-08-18",
+      "title": "China tightens border crossings after Meta's play for AI startup Manus",
+      "link": "https://asia.nikkei.com/politics/international-relations/china-tightens-border-crossings-after-meta-s-play-for-ai-startup-manus",
+      "published": "2026-08-19",
       "language": "EN"
     },
     {
@@ -360,10 +352,114 @@
     },
     {
       "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Japan Inc. raises full-year profit forecast to 14% jump on AI and chips",
-      "link": "https://asia.nikkei.com/business/companies/japan-inc.-raises-full-year-profit-forecast-to-14-jump-on-ai-and-chips",
+      "source": "BBC World",
+      "title": "The Indian activist jailed after taking on a luxury hotel plan",
+      "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-18",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "Excess Savings Are Driving the New China Shock",
+      "link": "https://www.project-syndicate.org/commentary/second-china-shock-is-driven-by-excess-savings-not-subsidies-by-daniel-gros-2026-08",
+      "published": "2026-08-11",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "FT中文网",
+      "title": "为什么简单的投资反而更好？从私募基金的信息差说起",
+      "link": "https://www.ftchinese.com/story/001110637",
+      "published": "2026-08-18",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Global goods trade resilient in the first quarter of 2026 despite war in Middle East",
+      "link": "https://www.wto.org/english/news_e/news26_e/rese_31jul26_469_e.htm",
+      "published": "2026-07-31",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "蓝箭朱雀三号一子级首次实现陆地回收 为中国可复用运载火箭重大突破",
+      "link": "https://www.caixin.com/2026-08-19/102475552.html",
+      "published": "2026-08-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Why open-weight AI is the new frontier in the US-China tech race",
+      "link": "https://asia.nikkei.com/business/technology/tech-asia/why-open-weight-ai-is-the-new-frontier-in-the-us-china-tech-race",
+      "published": "2026-08-19",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Why Indian law students don't want top judge at their graduation ceremony",
+      "link": "https://www.bbc.co.uk/news/articles/c171j0k74d8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "投资模型组合与投顾服务之间：组合工程师的特殊作用",
+      "link": "https://opinion.caixin.com/2026-08-19/102475548.html",
+      "published": "2026-08-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "US sanctions ICC's Japanese President Tomoko Akane",
+      "link": "https://asia.nikkei.com/spotlight/trump-administration/us-sanctions-icc-s-japanese-president-tomoko-akane",
+      "published": "2026-08-19",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Watch: Why has Trump shifted on North Korea?",
+      "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "国泰海通半年豪赚202亿元利润 科创板投资收益亮眼",
+      "link": "https://finance.caixin.com/2026-08-18/102475476.html",
+      "published": "2026-08-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Japan braces for Trump demands on defense, yen ahead of US midterms",
+      "link": "https://asia.nikkei.com/politics/international-relations/japan-braces-for-trump-demands-on-defense-yen-ahead-of-us-midterms",
+      "published": "2026-08-19",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "7月“新三样”出口额增五成 劳动密集型产品出口持续改善｜贸易月报",
+      "link": "https://www.caixin.com/2026-08-18/102475446.html",
+      "published": "2026-08-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "China's LandSpace lands rocket booster; joins SpaceX with reusable tech",
+      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/china-s-landspace-lands-rocket-booster-joins-spacex-with-reusable-tech",
+      "published": "2026-08-19",
       "language": "EN"
     }
   ],
@@ -371,33 +467,33 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Russia warns UK over supplying drones to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-18",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-19",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "How Trump Is Reinvigorating Democracy",
-      "link": "https://www.project-syndicate.org/commentary/loathing-for-trump-reinvigorating-democracy-many-parts-of-world-by-jan-werner-mueller-2026-08",
-      "published": "2026-08-17",
+      "title": "A Future With Chinese Characteristics",
+      "link": "https://www.project-syndicate.org/commentary/china-replacing-west-in-worlds-understanding-of-the-future-by-mark-leonard-2026-08",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Virgin takes step towards running Channel Tunnel rail services",
-      "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "FT中文网",
-      "title": "从励志神话到猎巫对象：剑桥黑人教授死亡背后的文化战争",
-      "link": "https://www.ftchinese.com/story/001110632",
-      "published": "2026-08-16",
+      "title": "新质生产力导向下的中国人工智能一级市场（一）：资本生态与机构博弈",
+      "link": "https://www.ftchinese.com/story/001110636",
+      "published": "2026-08-18",
       "language": "中文"
     },
     {
@@ -426,34 +522,26 @@
     },
     {
       "category": "ideas",
-      "source": "财新",
-      "title": "财经早知道｜李强：努力完成全年经济社会发展目标任务",
-      "link": "https://finance.caixin.com/2026-08-18/102475181.html",
-      "published": "2026-08-01",
-      "language": "中文"
-    },
-    {
-      "category": "ideas",
       "source": "BBC World",
-      "title": "Russia's prominent anti-war politician jailed for 11 years",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
+      "link": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "Democracy, Autocracy, or Something Else?",
-      "link": "https://www.project-syndicate.org/onpoint/new-fault-lines-of-global-governance-by-helmut-k-anheier-et-al-2026-08",
-      "published": "2026-08-07",
+      "title": "What AI Governance Demands",
+      "link": "https://www.project-syndicate.org/commentary/ai-governance-framework-by-ana-palacio-2026-07",
+      "published": "2026-07-13",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Sainsbury's branch halts AI use as shopper ejected",
-      "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+      "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
       "language": "EN"
     },
     {
@@ -467,8 +555,32 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Russia and Ukraine trade more deadly strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
+      "title": "The Indian activist jailed after taking on a luxury hotel plan",
+      "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Virgin takes step towards running Channel Tunnel rail services",
+      "link": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
+      "link": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-18",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Sainsbury's branch halts AI use as shopper ejected",
+      "link": "https://www.bbc.co.uk/news/articles/cddjlmeqjgyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-17",
       "language": "EN"
     },
@@ -479,55 +591,23 @@
       "link": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-17",
       "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-11",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Why Japanese firms are being so slow to use AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-12",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Tokenomics: Why making AI pay is tricky",
-      "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-11",
-      "language": "EN"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      16
+      18
     ],
     [
       "BBC World",
       "ok",
-      9
+      11
     ],
     [
       "BBC Technology",
       "ok",
-      5
+      4
     ],
     [
       "BIS",
@@ -547,7 +627,7 @@
     [
       "Project Syndicate",
       "ok 12",
-      0
+      2
     ],
     [
       "The Economist",
@@ -577,12 +657,12 @@
     [
       "FT中文网",
       "ok 2",
-      1
+      2
     ],
     [
       "财新",
       "ok 18",
-      4
+      8
     ],
     [
       "第一财经",
@@ -626,17 +706,17 @@
     ],
     [
       "ESCAP",
-      "ok 0",
+      "landing page failed: HTTP Error 403: Forbidden",
       0
     ],
     [
       "Nikkei Asia",
       "ok 18",
-      13
+      10
     ],
     [
       "Project Syndicate",
-      "ok 14",
+      "ok 16",
       2
     ],
     [
