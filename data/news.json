@@ -1,37 +1,69 @@
 {
-  "generated_at": "2026-08-24 03:33 UTC",
-  "date_display": "Monday · 24 August 2026",
+  "generated_at": "2026-08-25 03:16 UTC",
+  "date_display": "Tuesday · 25 August 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Shein aims for almost $27bn valuation in stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-24",
+      "title": "Burnham refuses to rule out tax rises in autumn Budget",
+      "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The Dollar's Outer Defenses Have Been Breached",
-      "link": "https://www.project-syndicate.org/commentary/bessent-yen-bond-market-interventions-acts-of-desperation-by-harold-james-2026-08",
-      "published": "2026-08-21",
+      "title": "Where Will the Global Bond Rout Hit Growth and Equities?",
+      "link": "https://www.project-syndicate.org/commentary/global-bond-rout-wont-hit-us-stocks-by-nouriel-roubini-2026-08",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "FT中文网",
-      "title": "强迫世界选边站队 美国为何要降下AI“数字铁幕”？",
-      "link": "https://www.ftchinese.com/story/001110692",
+      "title": "“主权AI”与“词元出海”：当中美AI走向全球市场",
+      "link": "https://www.ftchinese.com/story/001110695",
       "published": "2026-08-23",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-23",
+      "published": "2026-08-25",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Trump’s Korean Catastrophe",
+      "link": "https://www.project-syndicate.org/commentary/trump-dangerous-approach-to-korean-peninsula-by-richard-haass-2026-08",
+      "published": "2026-08-24",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
@@ -45,25 +77,25 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
-      "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-24",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Aging Populations Need Not Mean Frailer Economies",
-      "link": "https://www.project-syndicate.org/commentary/what-economists-get-wrong-about-demographic-change-by-andrew-j-scott-2026-08",
+      "title": "The Dollar’s Outer Defenses Have Been Breached",
+      "link": "https://www.project-syndicate.org/commentary/bessent-yen-bond-market-interventions-acts-of-desperation-by-harold-james-2026-08",
       "published": "2026-08-21",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-23",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
@@ -77,73 +109,33 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Struggling households need more help with bills, energy industry says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-23",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Only Protectionism Can Safeguard European Industry",
-      "link": "https://www.project-syndicate.org/commentary/tariffs-are-needed-to-protect-eu-manufacturing-from-china-by-desmond-lachman-2026-08",
-      "published": "2026-08-21",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Frustration builds in Indiana town struggling without power for 12 days",
-      "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-23",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "OpenAI slows down training after its AI carried out hack",
-      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-19",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-23",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "When a Big Energy Project Turns Bad",
-      "link": "https://www.project-syndicate.org/commentary/institutions-that-promoted-casa-1000-must-take-responsibility-for-collapse-of-economic-logic-by-djoomart-otorbaev-2026-08",
-      "published": "2026-08-19",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-22",
+      "title": "Shein aims for almost $27bn valuation in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Iran-linked hackers behind cyber attack that shut down power plant, reports say",
-      "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-23",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-22",
+      "title": "Rail companies sued for £5m over oil spill caused by derailment",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     }
   ],
@@ -151,33 +143,17 @@
     {
       "category": "energy",
       "source": "BBC Business",
+      "title": "Rail companies sued for £5m over oil spill caused by derailment",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
       "title": "Struggling households need more help with bills, energy industry says",
       "link": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-23",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC World",
-      "title": "Frustration builds in Indiana town struggling without power for 12 days",
-      "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-23",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "Project Syndicate",
-      "title": "When a Big Energy Project Turns Bad",
-      "link": "https://www.project-syndicate.org/commentary/institutions-that-promoted-casa-1000-must-take-responsibility-for-collapse-of-economic-logic-by-djoomart-otorbaev-2026-08",
-      "published": "2026-08-19",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC Technology",
-      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-      "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-18",
       "language": "EN"
     },
     {
@@ -187,29 +163,77 @@
       "link": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-23",
       "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC Business",
-      "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-      "link": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-20",
-      "language": "EN"
     }
   ],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Blackout tests Central Asia push for deeper power grid, data centers",
-      "link": "https://asia.nikkei.com/business/energy/blackout-tests-central-asia-push-for-deeper-power-grid-data-centers",
-      "published": "2026-08-24",
+      "title": "Japan eyes $630m to help buy undersea cable ships as risks grow",
+      "link": "https://asia.nikkei.com/business/telecommunication/japan-eyes-630m-to-help-buy-undersea-cable-ships-as-risks-grow",
+      "published": "2026-08-25",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "Nearly 3 million Teslas recalled in China over hidden door handles",
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "link": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "Trump’s Korean Catastrophe",
+      "link": "https://www.project-syndicate.org/commentary/trump-dangerous-approach-to-korean-peninsula-by-richard-haass-2026-08",
+      "published": "2026-08-24",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Australian venture capital firm Blackbird raises $752m from Asian investors",
+      "link": "https://asia.nikkei.com/business/startups/australian-venture-capital-firm-blackbird-raises-752m-from-asian-investors",
+      "published": "2026-08-25",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Caste divides make scorching summers harder in a parched corner of India",
+      "link": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Taiwan issues indictments over alleged illegal export of AI servers to China",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/taiwan-issues-indictments-over-alleged-illegal-export-of-ai-servers-to-china",
+      "published": "2026-08-25",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
       "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-24",
       "language": "EN"
@@ -217,16 +241,16 @@
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "Frustration builds in Indiana town struggling without power for 12 days",
-      "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-23",
+      "title": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "link": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Itochu, Taiwan IT firm support Taiwanese chip expansion into southern Japan",
-      "link": "https://asia.nikkei.com/spotlight/supply-chain/itochu-taiwan-it-firm-support-taiwanese-chip-expansion-into-southern-japan",
+      "title": "China refiner Sinopec foresees headwinds easing despite Iran uncertainty",
+      "link": "https://asia.nikkei.com/business/markets/commodities/china-refiner-sinopec-foresees-headwinds-easing-despite-iran-uncertainty",
       "published": "2026-08-24",
       "language": "EN"
     },
@@ -241,25 +265,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan backs fusion, recycling startups in $125m public-private funding",
-      "link": "https://asia.nikkei.com/business/startups/japan-backs-fusion-recycling-startups-in-125m-public-private-funding",
+      "title": "India's hydropower push raises natural disaster fears in Kashmir",
+      "link": "https://asia.nikkei.com/economy/natural-disasters/india-s-hydropower-push-raises-natural-disaster-fears-in-kashmir",
       "published": "2026-08-24",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-22",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Vietnam assembly ends, China oil and gas earnings, BOJ deputy speech",
-      "link": "https://asia.nikkei.com/spotlight/your-week-in-asia/vietnam-assembly-ends-china-oil-and-gas-earnings-boj-deputy-speech",
-      "published": "2026-08-23",
       "language": "EN"
     },
     {
@@ -269,25 +277,17 @@
       "link": "https://www.bbc.co.uk/news/articles/cwymw4434v7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-12",
       "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Taiwan's security council quietly steps up as architect of China strategy",
-      "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-security-council-quietly-steps-up-as-architect-of-china-strategy",
-      "published": "2026-08-23",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Who bears environmental cost of push for rare earths beyond China?",
-      "link": "https://asia.nikkei.com/spotlight/environment/who-bears-environmental-cost-of-push-for-rare-earths-beyond-china",
-      "published": "2026-08-22",
-      "language": "EN"
     }
   ],
   "ideas": [
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-25",
+      "language": "EN"
+    },
     {
       "category": "ideas",
       "source": "BBC Business",
@@ -298,51 +298,19 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Burnham to visit Kyiv on first foreign trip and reaffirm UK support for Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-23",
+      "source": "BBC Technology",
+      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "FT中文网",
-      "title": "强迫世界选边站队 美国为何要降下AI“数字铁幕”？",
-      "link": "https://www.ftchinese.com/story/001110692",
+      "title": "“主权AI”与“词元出海”：当中美AI走向全球市场",
+      "link": "https://www.ftchinese.com/story/001110695",
       "published": "2026-08-23",
       "language": "中文"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Aging Populations Need Not Mean Frailer Economies",
-      "link": "https://www.project-syndicate.org/commentary/what-economists-get-wrong-about-demographic-change-by-andrew-j-scott-2026-08",
-      "published": "2026-08-21",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "OpenAI slows down training after its AI carried out hack",
-      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-19",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "'We have more work to do', says Canada negotiator as US trade deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/czjlr0evy0do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-22",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-22",
-      "language": "EN"
     },
     {
       "category": "ideas",
@@ -354,18 +322,26 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Technology",
-      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-      "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-18",
+      "source": "BBC World",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "'I used food banks while my ex owed thousands in child maintenance'",
-      "link": "https://www.bbc.co.uk/news/videos/c5yvdeen2z2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-17",
+      "title": "Rail companies sued for £5m over oil spill caused by derailment",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "OpenAI slows down training after its AI carried out hack",
+      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-19",
       "language": "EN"
     },
     {
@@ -374,6 +350,14 @@
       "title": "A Future With Chinese Characteristics",
       "link": "https://www.project-syndicate.org/commentary/china-replacing-west-in-worlds-understanding-of-the-future-by-mark-leonard-2026-08",
       "published": "2026-08-18",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-24",
       "language": "EN"
     },
     {
@@ -399,18 +383,26 @@
       "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-11",
       "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Why airlines are warning over lithium-ion batteries",
+      "link": "https://www.bbc.co.uk/news/articles/cwyl6yz719jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-06",
+      "language": "EN"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      19
+      18
     ],
     [
       "BBC World",
       "ok",
-      11
+      12
     ],
     [
       "BBC Technology",
@@ -434,8 +426,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 10",
-      4
+      "ok 8",
+      3
     ],
     [
       "The Economist",
@@ -459,7 +451,7 @@
     ],
     [
       "UNCTAD",
-      "landing page failed: HTTP Error 403: Forbidden",
+      "ok 0",
       0
     ],
     [
@@ -519,13 +511,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 18",
-      10
+      "ok 16",
+      5
     ],
     [
       "Project Syndicate",
-      "ok 14",
-      4
+      "ok 12",
+      3
     ],
     [
       "The Economist",
