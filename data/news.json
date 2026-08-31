@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-30 00:06 UTC",
-  "date_display": "Sunday · 30 August 2026",
+  "generated_at": "2026-08-31 00:07 UTC",
+  "date_display": "Monday · 31 August 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "language": "EN"
     },
     {
@@ -21,9 +21,17 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-29",
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-30",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Madagascar launches safeguard investigation on self-adhesive labels, packaging and certain other printed items",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_28aug26_476_e.htm",
+      "published": "2026-08-28",
       "language": "EN"
     },
     {
@@ -61,9 +69,9 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-29",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-30",
       "language": "EN"
     },
     {
@@ -93,9 +101,9 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "What tariffs will really cost Canadians and Americans",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-29",
+      "title": "Russia says it helped to repel Niger attempted coup",
+      "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-30",
       "language": "EN"
     },
     {
@@ -125,9 +133,9 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-      "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-29",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-30",
       "language": "EN"
     },
     {
@@ -151,9 +159,25 @@
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-29",
+      "published": "2026-08-30",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC World",
+      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-30",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "WTO",
+      "title": "Madagascar launches safeguard investigation on self-adhesive labels, packaging and certain other printed items",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_28aug26_476_e.htm",
+      "published": "2026-08-28",
       "language": "EN"
     },
     {
@@ -171,15 +195,23 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgyxky1m4wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-08-28",
       "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC World",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-30",
+      "language": "EN"
     }
   ],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan defense forces to use NTT's optical network tech for communications",
-      "link": "https://asia.nikkei.com/politics/defense/japan-defense-forces-to-use-ntt-s-optical-network-tech-for-communications",
-      "published": "2026-08-30",
+      "title": "Uniqlo to double flagship stores in Japan in strategy pivot",
+      "link": "https://asia.nikkei.com/business/retail/uniqlo-to-double-flagship-stores-in-japan-in-strategy-pivot",
+      "published": "2026-08-31",
       "language": "EN"
     },
     {
@@ -201,24 +233,32 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
+      "title": "Nvidia supplier Unimicron probed over allegedly relabeling China-made parts",
+      "link": "https://asia.nikkei.com/spotlight/supply-chain/nvidia-supplier-unimicron-probed-over-allegedly-relabeling-china-made-parts",
+      "published": "2026-08-31",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Japan PM Takaichi's approval rating climbs 4 points to 62% in Nikkei poll",
+      "link": "https://asia.nikkei.com/politics/japan-pm-takaichi-s-approval-rating-climbs-4-points-to-62-in-nikkei-poll",
+      "published": "2026-08-31",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "A purple yam from the Philippines gives matcha a run for its money in Japan",
+      "link": "https://asia.nikkei.com/business/food-beverage/a-purple-yam-from-the-philippines-gives-matcha-a-run-for-its-money-in-japan",
+      "published": "2026-08-30",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
       "title": "China's hypercompetition goes global as Beijing frets over backlash",
       "link": "https://asia.nikkei.com/spotlight/big-in-asia/china-s-hypercompetition-goes-global-as-beijing-frets-over-backlash",
-      "published": "2026-08-29",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Casio targets India's growing watch market with affordable models",
-      "link": "https://asia.nikkei.com/business/consumer/casio-targets-india-s-growing-watch-market-with-affordable-models",
-      "published": "2026-08-29",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Yamaha rolls out high-end motorcycle in India as riders go upmarket",
-      "link": "https://asia.nikkei.com/business/automobiles/yamaha-rolls-out-high-end-motorcycle-in-india-as-riders-go-upmarket",
       "published": "2026-08-29",
       "language": "EN"
     },
@@ -229,23 +269,23 @@
       "link": "https://asia.nikkei.com/spotlight/policy-asia/australia-s-pacific-rivalry-with-china-heats-up-after-beijing-s-icbm-test",
       "published": "2026-08-28",
       "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "BYD profit rebounds as overseas sales offset China slowdown",
-      "link": "https://asia.nikkei.com/business/automobiles/byd-profit-rebounds-as-overseas-sales-offset-china-slowdown",
-      "published": "2026-08-28",
-      "language": "EN"
     }
   ],
   "ideas": [
     {
       "category": "ideas",
       "source": "BBC Business",
+      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-30",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-29",
+      "published": "2026-08-30",
       "language": "EN"
     },
     {
@@ -258,9 +298,9 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "source": "WTO",
+      "title": "Madagascar launches safeguard investigation on self-adhesive labels, packaging and certain other printed items",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_28aug26_476_e.htm",
       "published": "2026-08-28",
       "language": "EN"
     },
@@ -283,8 +323,8 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "Europe and the War in Ukraine",
-      "link": "https://www.project-syndicate.org/commentary/europe-and-ukraine-war-following-american-decline-and-new-threats-by-joschka-fischer-2026-08",
+      "title": "Europe Must Stand with Canada Against Trump",
+      "link": "https://www.project-syndicate.org/commentary/eu-must-stand-with-canada-against-trump-by-philippe-legrain-2026-08",
       "published": "2026-08-27",
       "language": "EN"
     },
@@ -307,8 +347,8 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "Europe Must Stand with Canada Against Trump",
-      "link": "https://www.project-syndicate.org/commentary/eu-must-stand-with-canada-against-trump-by-philippe-legrain-2026-08",
+      "title": "Europe and the War in Ukraine",
+      "link": "https://www.project-syndicate.org/commentary/europe-and-ukraine-war-following-american-decline-and-new-threats-by-joschka-fischer-2026-08",
       "published": "2026-08-27",
       "language": "EN"
     },
@@ -338,7 +378,7 @@
     [
       "BBC World",
       "ok",
-      9
+      10
     ],
     [
       "BBC Technology",
@@ -353,7 +393,7 @@
     [
       "WTO",
       "ok",
-      0
+      1
     ],
     [
       "IRENA",
@@ -392,7 +432,7 @@
     ],
     [
       "FT中文网",
-      "ok 0",
+      "ok 1",
       0
     ],
     [
@@ -447,7 +487,7 @@
     ],
     [
       "Nikkei Asia",
-      "ok 18",
+      "ok 17",
       6
     ],
     [
