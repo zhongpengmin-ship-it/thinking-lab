@@ -1,44 +1,36 @@
 {
-  "generated_at": "2026-09-01 00:16 UTC",
-  "date_display": "Tuesday · 01 September 2026",
+  "generated_at": "2026-09-02 00:15 UTC",
+  "date_display": "Wednesday · 02 September 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-31",
+      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Latin America's Crime Tax",
-      "link": "https://www.project-syndicate.org/commentary/economic-costs-of-organized-crime-in-brazil-colombia-and-mexico-by-guillermo-ortiz-2026-08",
-      "published": "2026-08-31",
+      "title": "Building Canada’s Post-American Economy",
+      "link": "https://www.project-syndicate.org/commentary/how-canada-can-reduce-its-exposure-to-trumpian-extortion-by-ricardo-hausmann-and-eric-protzer-2026-09",
+      "published": "2026-09-01",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "FT中文网",
-      "title": "超级智能研究先驱尼克•博斯特罗姆：人工智能时代，工作与社会将如何被重塑？",
-      "link": "https://www.ftchinese.com/story/001110757",
-      "published": "2026-08-30",
-      "language": "中文"
-    },
-    {
-      "category": "world",
       "source": "BBC World",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-31",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "俄罗斯财长重返线下G20 特朗普未排除邀普京出席G20领导人峰会",
-      "link": "https://international.caixin.com/2026-09-01/102480488.html",
+      "title": "夜读精选｜8月人事综述：省级政府主官落马 人事补位如何推进？",
+      "link": "https://www.caixin.com/2026-09-01/102480792.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -69,9 +61,49 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "How Shein lost its shine ahead of long-awaited stock market debut",
+      "title": "Shein valued at $26bn after long-awaited stock market debut",
       "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-31",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Trump and Xi Should Align on AI",
+      "link": "https://www.project-syndicate.org/commentary/trump-xi-summit-should-begin-preparations-for-rise-of-ai-superintelligence-by-quan-zhao-2026-09",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "外籍个人投资外商投资企业股息红利不再免税 按20%税率缴纳个人所得税",
+      "link": "https://finance.caixin.com/2026-09-01/102480822.html",
+      "published": "2026-09-01",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "Reform of all social media should come with Meta changes, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/c17j00lnn41o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-27",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
       "language": "EN"
     },
     {
@@ -85,18 +117,58 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Company offering reward for safe return of truckload of beer",
-      "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "从2026年“全球银行1000强”看中国银行业盈利能力",
+      "link": "https://opinion.caixin.com/2026-09-01/102480697.html",
+      "published": "2026-09-01",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "Nvidia revenue doubles on continued AI demand",
+      "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "US borrowing costs hit fresh highs over inflation fears",
+      "link": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Latin America’s Crime Tax",
+      "link": "https://www.project-syndicate.org/commentary/economic-costs-of-organized-crime-in-brazil-colombia-and-mexico-by-guillermo-ortiz-2026-08",
       "published": "2026-08-31",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "BBC Technology",
-      "title": "Reform of all social media should come with Meta changes, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/c17j00lnn41o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-27",
+      "source": "BBC World",
+      "title": "South Korean police officer admits to closing missing person cases to avoid work",
+      "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
       "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "8月人事综述：省级政府主官落马 人事补位如何推进？",
+      "link": "https://china.caixin.com/2026-09-01/102480762.html",
+      "published": "2026-09-01",
+      "language": "中文"
     },
     {
       "category": "world",
@@ -116,19 +188,11 @@
     },
     {
       "category": "world",
-      "source": "BBC World",
-      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
-      "link": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-29",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "Nvidia revenue doubles on continued AI demand",
-      "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-26",
-      "language": "EN"
+      "source": "财新",
+      "title": "ChatGPT广告业务上线不足200天 年化经常性收入达10亿美元",
+      "link": "https://www.caixin.com/2026-09-01/102480730.html",
+      "published": "2026-09-01",
+      "language": "中文"
     },
     {
       "category": "world",
@@ -141,50 +205,18 @@
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The Fed and the Treasury Are in Denial",
-      "link": "https://www.project-syndicate.org/commentary/fed-treasury-in-denial-about-their-entanglement-in-financial-markets-by-katharina-pistor-2026-08",
-      "published": "2026-08-28",
+      "title": "How Corporations Can Mitigate an AI Jobocalypse",
+      "link": "https://www.project-syndicate.org/commentary/corporations-can-mitigate-ai-jobs-apocalypse-by-raghuram-g-rajan-2026-08",
+      "published": "2026-08-14",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "BBC World",
-      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-28",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Trump hails 'historic' deal to control 65 billion barrels of Venezuelan oil",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-30",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "How Britain Can Help Build a Fairer Global Economy",
-      "link": "https://www.project-syndicate.org/commentary/andy-burnham-g7-g20-presidencies-opportunity-to-reshape-global-economy-by-danny-sriskandarajah-2026-08",
-      "published": "2026-08-28",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-28",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Europe and the War in Ukraine",
-      "link": "https://www.project-syndicate.org/commentary/europe-and-ukraine-war-following-american-decline-and-new-threats-by-joschka-fischer-2026-08",
-      "published": "2026-08-27",
-      "language": "EN"
+      "source": "财新",
+      "title": "AI芯片公司燧原科技科创板IPO定价142.18元、募资61.2亿元",
+      "link": "https://www.caixin.com/2026-09-01/102480682.html",
+      "published": "2026-09-01",
+      "language": "中文"
     }
   ],
   "energy": [
@@ -209,10 +241,26 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japanese play for SK Hynix chip plant faces South Korean policy hurdles",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/japanese-play-for-sk-hynix-chip-plant-faces-south-korean-policy-hurdles",
+      "title": "What do 3% yields mean for Japan's businesses, Takaichi's spending plans?",
+      "link": "https://asia.nikkei.com/economy/what-do-3-yields-mean-for-japan-s-businesses-takaichi-s-spending-plans",
+      "published": "2026-09-02",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "South Korean police officer admits to closing missing person cases to avoid work",
+      "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-01",
       "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "外籍个人投资外商投资企业股息红利不再免税 按20%税率缴纳个人所得税",
+      "link": "https://finance.caixin.com/2026-09-01/102480822.html",
+      "published": "2026-09-01",
+      "language": "中文"
     },
     {
       "category": "asia",
@@ -224,19 +272,27 @@
     },
     {
       "category": "asia",
-      "source": "BBC World",
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-31",
+      "source": "Nikkei Asia",
+      "title": "China hits snag in race to beat US to moon's south pole",
+      "link": "https://asia.nikkei.com/business/science/china-hits-snag-in-race-to-beat-us-to-moon-s-south-pole",
+      "published": "2026-09-02",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "GLP Japan sets up $3.7bn fund for logistics centers, drawing global investors",
-      "link": "https://asia.nikkei.com/spotlight/supply-chain/glp-japan-sets-up-3.7bn-fund-for-logistics-centers-drawing-global-investors",
+      "source": "BBC World",
+      "title": "The final minutes before floodwater crashed through Nepal-China border",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-01",
       "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "从2026年“全球银行1000强”看中国银行业盈利能力",
+      "link": "https://opinion.caixin.com/2026-09-01/102480697.html",
+      "published": "2026-09-01",
+      "language": "中文"
     },
     {
       "category": "asia",
@@ -249,33 +305,49 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China-Russia pipeline project stalls as Beijing holds out for best price",
-      "link": "https://asia.nikkei.com/politics/international-relations/china-russia-pipeline-project-stalls-as-beijing-holds-out-for-best-price",
+      "title": "'Red-hot' data center boom fuels public backlash across Asia",
+      "link": "https://asia.nikkei.com/business/technology/tech-asia/red-hot-data-center-boom-fuels-public-backlash-across-asia",
+      "published": "2026-09-02",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
+      "link": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-01",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "US, bond market replace spending caps as check on Japan budget",
-      "link": "https://asia.nikkei.com/politics/us-bond-market-replace-spending-caps-as-check-on-japan-budget",
+      "source": "财新",
+      "title": "2025年末中国政府债务规模超100万亿元 负债率73.2%",
+      "link": "https://economy.caixin.com/2026-09-01/102480530.html",
       "published": "2026-09-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Foreign business owners leave Japan in droves under tighter visa rules",
+      "link": "https://asia.nikkei.com/spotlight/japan-immigration/foreign-business-owners-leave-japan-in-droves-under-tighter-visa-rules",
+      "published": "2026-09-02",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "India's GDP records surprise growth of 7.8% amid Iran war",
-      "link": "https://asia.nikkei.com/economy/india-s-gdp-records-surprise-growth-of-7.8-amid-iran-war",
-      "published": "2026-09-01",
+      "title": "Fall is the new summer for peak Japan travel industry earnings",
+      "link": "https://asia.nikkei.com/business/travel-leisure/fall-is-the-new-summer-for-peak-japan-travel-industry-earnings",
+      "published": "2026-09-02",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Foreigner pay in Japan rises 6% amid overall wage hikes: survey",
-      "link": "https://asia.nikkei.com/spotlight/japan-immigration/foreigner-pay-in-japan-rises-6-amid-overall-wage-hikes-survey",
-      "published": "2026-09-01",
+      "title": "Samsung to step up in-person demos for foldable phones in Japan",
+      "link": "https://asia.nikkei.com/business/technology/samsung-to-step-up-in-person-demos-for-foldable-phones-in-japan",
+      "published": "2026-09-02",
       "language": "EN"
     }
   ],
@@ -283,25 +355,33 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "AI Is Reviving Chinese Marxist Economics",
-      "link": "https://www.project-syndicate.org/commentary/chinese-marxist-economists-believe-ai-can-avoid-capitalist-rent-trap-by-yanis-varoufakis-2026-08",
-      "published": "2026-08-31",
+      "title": "Trump and Xi Should Align on AI",
+      "link": "https://www.project-syndicate.org/commentary/trump-xi-summit-should-begin-preparations-for-rise-of-ai-superintelligence-by-quan-zhao-2026-09",
+      "published": "2026-09-01",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-31",
+      "title": "Shein valued at $26bn after long-awaited stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "FT中文网",
-      "title": "超级智能研究先驱尼克•博斯特罗姆：人工智能时代，工作与社会将如何被重塑？",
-      "link": "https://www.ftchinese.com/story/001110757",
-      "published": "2026-08-30",
+      "source": "BBC World",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "AI芯片公司燧原科技科创板IPO定价142.18元、募资61.2亿元",
+      "link": "https://www.caixin.com/2026-09-01/102480682.html",
+      "published": "2026-09-01",
       "language": "中文"
     },
     {
@@ -323,17 +403,25 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "AI Addicts Won’t Make Better Workers",
-      "link": "https://www.project-syndicate.org/commentary/ai-addiction-could-be-drag-on-labor-productivity-by-amar-bhide-2026-08",
+      "title": "AI Is Reviving Chinese Marxist Economics",
+      "link": "https://www.project-syndicate.org/commentary/chinese-marxist-economists-believe-ai-can-avoid-capitalist-rent-trap-by-yanis-varoufakis-2026-08",
       "published": "2026-08-31",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "How Shein lost its shine ahead of long-awaited stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-31",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
       "language": "EN"
     },
     {
@@ -347,9 +435,9 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "How Britain Can Help Build a Fairer Global Economy",
-      "link": "https://www.project-syndicate.org/commentary/andy-burnham-g7-g20-presidencies-opportunity-to-reshape-global-economy-by-danny-sriskandarajah-2026-08",
-      "published": "2026-08-28",
+      "title": "AI Addicts Won’t Make Better Workers",
+      "link": "https://www.project-syndicate.org/commentary/ai-addiction-could-be-drag-on-labor-productivity-by-amar-bhide-2026-08",
+      "published": "2026-08-31",
       "language": "EN"
     },
     {
@@ -362,10 +450,18 @@
     },
     {
       "category": "ideas",
+      "source": "BBC World",
+      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "Project Syndicate",
-      "title": "Europe and the War in Ukraine",
-      "link": "https://www.project-syndicate.org/commentary/europe-and-ukraine-war-following-american-decline-and-new-threats-by-joschka-fischer-2026-08",
-      "published": "2026-08-27",
+      "title": "How Corporations Can Mitigate an AI Jobocalypse",
+      "link": "https://www.project-syndicate.org/commentary/corporations-can-mitigate-ai-jobs-apocalypse-by-raghuram-g-rajan-2026-08",
+      "published": "2026-08-14",
       "language": "EN"
     },
     {
@@ -378,10 +474,26 @@
     },
     {
       "category": "ideas",
+      "source": "BBC World",
+      "title": "South Korean police officer admits to closing missing person cases to avoid work",
+      "link": "https://www.bbc.co.uk/news/articles/c780wy7ype4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "Project Syndicate",
-      "title": "How Corporations Can Mitigate an AI Jobocalypse",
-      "link": "https://www.project-syndicate.org/commentary/corporations-can-mitigate-ai-jobs-apocalypse-by-raghuram-g-rajan-2026-08",
-      "published": "2026-08-14",
+      "title": "Europe Failed the Ceuta Test",
+      "link": "https://www.project-syndicate.org/commentary/ceuta-migration-crisis-demonstrates-collapse-of-european-solidarity-by-zaki-laidi-2026-08",
+      "published": "2026-08-12",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
       "language": "EN"
     }
   ],
@@ -389,12 +501,12 @@
     [
       "BBC Business",
       "ok",
-      6
+      8
     ],
     [
       "BBC World",
       "ok",
-      6
+      12
     ],
     [
       "BBC Technology",
@@ -419,7 +531,7 @@
     [
       "Project Syndicate",
       "ok 12",
-      7
+      6
     ],
     [
       "The Economist",
@@ -449,12 +561,12 @@
     [
       "FT中文网",
       "ok 1",
-      1
+      0
     ],
     [
       "财新",
-      "ok 2",
-      1
+      "ok 15",
+      8
     ],
     [
       "第一财经",
@@ -504,12 +616,12 @@
     [
       "Nikkei Asia",
       "ok 18",
-      10
+      11
     ],
     [
       "Project Syndicate",
-      "ok 13",
-      6
+      "ok 15",
+      5
     ],
     [
       "The Economist",
