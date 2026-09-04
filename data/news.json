@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-09-03 00:16 UTC",
-  "date_display": "Thursday · 03 September 2026",
+  "generated_at": "2026-09-04 00:14 UTC",
+  "date_display": "Friday · 04 September 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-      "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
+      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "AI’s Market Path Will Get Bumpier",
-      "link": "https://www.project-syndicate.org/commentary/ai-bumpy-road-ahead-borrowing-costs-public-resistance-shallow-adoption-by-mohamed-a-el-erian-2026-09",
-      "published": "2026-09-02",
+      "title": "India’s Resilience Depends on Diversified Trade",
+      "link": "https://www.project-syndicate.org/commentary/india-must-continue-to-diversify-trade-to-boost-security-by-shekhar-aiyar-2026-09",
+      "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
+      "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "财经早知道｜潘功胜出席G20财长会议：继续实施好适度宽松的货币政策",
-      "link": "https://finance.caixin.com/2026-09-03/102481256.html",
-      "published": "2026-09-03",
+      "title": "稳就业｜生物医药招聘回暖 智能医疗器械人才需求翻倍",
+      "link": "https://www.caixin.com/2026-09-04/102481583.html",
+      "published": "2026-09-04",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "Madagascar launches safeguard investigation on self-adhesive labels, packaging and certain other printed items",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_28aug26_476_e.htm",
-      "published": "2026-08-28",
+      "title": "Trade finance: how volatile financial conditions influence its availability and impact trade levels",
+      "link": "https://www.wto.org/english/blogs_e/data_blog_e/blog_dta_03sep26_474_e.htm",
+      "published": "2026-09-03",
       "language": "EN"
     },
     {
@@ -53,9 +53,129 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "Time is running out for cyber security, warn top tech firms",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz11475l1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-27",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Is India's internet boom running into an undersea problem?",
+      "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Whipsaw Trade Policy Is Depressing Foreign Direct Investment",
+      "link": "https://www.project-syndicate.org/commentary/trade-policy-uncertainty-impact-on-fdi-by-jonathan-d-ostry-2026-09",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "潘功胜谈应对全球失衡 各国应制定中长期政策、避免“翻烧饼”",
+      "link": "https://finance.caixin.com/2026-09-03/102481417.html",
+      "published": "2026-09-03",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Madagascar Launches Safeguard Investigation on Certain Types of Rice",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_03sep26_478_e.htm",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
+      "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Why the Far Right’s War on Modern Architecture Matters",
+      "link": "https://www.project-syndicate.org/commentary/understanding-the-far-right-afd-war-on-bauhaus-architecture-by-jan-werner-mueller-2026-09",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "穆迪：中国云厂商AI资本支出暴增 仍低于美国同行",
+      "link": "https://www.caixin.com/2026-09-03/102481470.html",
+      "published": "2026-09-03",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Madagascar launches safeguard investigation on self-adhesive labels, packaging and certain other printed items",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_28aug26_476_e.htm",
+      "published": "2026-08-28",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "How Will the US-Iran War End?",
+      "link": "https://www.project-syndicate.org/commentary/china-and-middle-east-integration-keys-to-lasting-regional-peace-by-simon-johnson-and-amir-kermani-2026-09",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+      "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "AI’s Market Path Will Get Bumpier",
+      "link": "https://www.project-syndicate.org/commentary/ai-bumpy-road-ahead-borrowing-costs-public-resistance-shallow-adoption-by-mohamed-a-el-erian-2026-09",
+      "published": "2026-09-02",
       "language": "EN"
     },
     {
@@ -63,79 +183,7 @@
       "source": "BBC Business",
       "title": "Almost half of households do not see benefits of economic growth, report says",
       "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Building Canada’s Post-American Economy",
-      "link": "https://www.project-syndicate.org/commentary/how-canada-can-reduce-its-exposure-to-trumpian-extortion-by-ricardo-hausmann-and-eric-protzer-2026-09",
-      "published": "2026-09-01",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "夜读精选｜中国光伏发电装机首超煤电 成为国内最大单一电源",
-      "link": "https://www.caixin.com/2026-09-02/102481179.html",
-      "published": "2026-09-02",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "Reform of all social media should come with Meta changes, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/c17j00lnn41o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-27",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "AI Is Reviving Chinese Marxist Economics",
-      "link": "https://www.project-syndicate.org/commentary/chinese-marxist-economists-believe-ai-can-avoid-capitalist-rent-trap-by-yanis-varoufakis-2026-08",
-      "published": "2026-08-31",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "习近平会见埃及总统 就中东安全新架构提出4点倡议",
-      "link": "https://international.caixin.com/2026-09-02/102481187.html",
-      "published": "2026-09-02",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-      "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
+      "published": "2026-09-03",
       "language": "EN"
     },
     {
@@ -145,87 +193,31 @@
       "link": "https://www.project-syndicate.org/commentary/ai-addiction-could-be-drag-on-labor-productivity-by-amar-bhide-2026-08",
       "published": "2026-08-31",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "个人贷款不良率普升 多家银行加大减值计提和批量转让",
-      "link": "https://finance.caixin.com/2026-09-02/102481229.html",
-      "published": "2026-09-02",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Lords call for AI 'kill switch' powers in UK",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Three Ways AI Will Change the Course of Humanity",
-      "link": "https://www.project-syndicate.org/commentary/ai-will-redefine-disease-management-warfare-and-economic-prosperity-by-dambisa-moyo-2026-08",
-      "published": "2026-08-19",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "大众针对星宇股份用工风波启动调查 监督供应链为何是跨国车企义务？",
-      "link": "https://www.caixin.com/2026-09-02/102481084.html",
-      "published": "2026-09-02",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "限售股减持个税再堵漏洞 解禁后送转股纳入征税范围",
-      "link": "https://finance.caixin.com/2026-09-02/102481135.html",
-      "published": "2026-09-02",
-      "language": "中文"
     }
   ],
   "energy": [
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Lords call for AI 'kill switch' powers in UK",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
+      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "energy",
-      "source": "财新",
-      "title": "夜读精选｜中国光伏发电装机首超煤电 成为国内最大单一电源",
-      "link": "https://www.caixin.com/2026-09-02/102481179.html",
-      "published": "2026-09-02",
-      "language": "中文"
+      "source": "WTO",
+      "title": "Madagascar Launches Safeguard Investigation on Certain Types of Rice",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_03sep26_478_e.htm",
+      "published": "2026-09-03",
+      "language": "EN"
     },
     {
       "category": "energy",
-      "source": "BBC World",
-      "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
-      "link": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-01",
+      "source": "BBC Business",
+      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
+      "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
       "language": "EN"
     },
     {
@@ -238,20 +230,76 @@
     },
     {
       "category": "energy",
-      "source": "财新",
-      "title": "中国光伏发电装机首超煤电 成为国内最大单一电源(含视频)",
-      "link": "https://www.caixin.com/2026-09-02/102481096.html",
+      "source": "BBC Business",
+      "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
+      "link": "https://www.bbc.co.uk/news/articles/cyvze0n4vy1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-02",
-      "language": "中文"
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Lords call for AI 'kill switch' powers in UK",
+      "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-02",
+      "language": "EN"
     }
   ],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Uniqlo looks to rebuild brand image with pivot to flagship stores in Japan",
-      "link": "https://asia.nikkei.com/business/retail/uniqlo-looks-to-rebuild-brand-image-with-pivot-to-flagship-stores-in-japan",
+      "title": "Rooftop solar's uneven rise tests India's energy ambitions",
+      "link": "https://asia.nikkei.com/spotlight/policy-asia/rooftop-solar-s-uneven-rise-tests-india-s-energy-ambitions",
+      "published": "2026-09-04",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "Is India's internet boom running into an undersea problem?",
+      "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Why Nepal floods should worry India",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Trade finance: how volatile financial conditions influence its availability and impact trade levels",
+      "link": "https://www.wto.org/english/blogs_e/data_blog_e/blog_dta_03sep26_474_e.htm",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "India’s Resilience Depends on Diversified Trade",
+      "link": "https://www.project-syndicate.org/commentary/india-must-continue-to-diversify-trade-to-boost-security-by-shekhar-aiyar-2026-09",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "穆迪：中国云厂商AI资本支出暴增 仍低于美国同行",
+      "link": "https://www.caixin.com/2026-09-03/102481470.html",
+      "published": "2026-09-03",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Subaru, other Japan suppliers to team on delivery as Boeing raises output",
+      "link": "https://asia.nikkei.com/spotlight/supply-chain/subaru-other-japan-suppliers-to-team-on-delivery-as-boeing-raises-output",
+      "published": "2026-09-04",
       "language": "EN"
     },
     {
@@ -264,70 +312,86 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "夜读精选｜中国光伏发电装机首超煤电 成为国内最大单一电源",
-      "link": "https://www.caixin.com/2026-09-02/102481179.html",
-      "published": "2026-09-02",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
-      "link": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-01",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "SoftBank tests stratospheric aerial base station in Japan 1st",
-      "link": "https://asia.nikkei.com/business/companies/softbank-tests-stratospheric-aerial-base-station-in-japan-1st",
+      "source": "Project Syndicate",
+      "title": "Whipsaw Trade Policy Is Depressing Foreign Direct Investment",
+      "link": "https://www.project-syndicate.org/commentary/trade-policy-uncertainty-impact-on-fdi-by-jonathan-d-ostry-2026-09",
       "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "大众针对星宇股份用工风波启动调查 监督供应链为何是跨国车企义务？",
-      "link": "https://www.caixin.com/2026-09-02/102481084.html",
-      "published": "2026-09-02",
-      "language": "中文"
+      "source": "Nikkei Asia",
+      "title": "Power retailer backed by UK's Octopus Energy joins Japan's mini-solar spree",
+      "link": "https://asia.nikkei.com/business/energy/power-retailer-backed-by-uk-s-octopus-energy-joins-japan-s-mini-solar-spree",
+      "published": "2026-09-04",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "China’s Super-Dam Is Becoming an Upstream Water Bomb",
+      "link": "https://www.project-syndicate.org/commentary/china-himalayan-super-dam-dangerous-and-plan-lacks-transparency-by-brahma-chellaney-2026-08",
+      "published": "2026-08-27",
+      "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's Mitsubishi Heavy and NEC team on defense drones",
-      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-mitsubishi-heavy-and-nec-team-on-defense-drones",
+      "title": "Japanese robots go beyond factory floor to take on tree cutting, lab work",
+      "link": "https://asia.nikkei.com/business/technology/japanese-robots-go-beyond-factory-floor-to-take-on-tree-cutting-lab-work",
+      "published": "2026-09-04",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "US trade deficit with Asia grew in July, led by Vietnam",
+      "link": "https://asia.nikkei.com/economy/trade/us-trade-deficit-with-asia-grew-in-july-led-by-vietnam",
       "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "中国光伏发电装机首超煤电 成为国内最大单一电源(含视频)",
-      "link": "https://www.caixin.com/2026-09-02/102481096.html",
-      "published": "2026-09-02",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's JFE Engineering to use Nobel-winning material for carbon capture",
-      "link": "https://asia.nikkei.com/business/technology/japan-s-jfe-engineering-to-use-nobel-winning-material-for-carbon-capture",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "'Red-hot' data center boom fuels public backlash across Asia",
-      "link": "https://asia.nikkei.com/business/technology/tech-asia/red-hot-data-center-boom-fuels-public-backlash-across-asia",
-      "published": "2026-09-02",
+      "title": "Very strong El Nino to run through February as Asia impacts build",
+      "link": "https://asia.nikkei.com/spotlight/environment/very-strong-el-nino-to-run-through-february-as-asia-impacts-build",
+      "published": "2026-09-03",
       "language": "EN"
     }
   ],
   "ideas": [
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "AI data centres are booming in Australia - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
+      "title": "Trade finance: how volatile financial conditions influence its availability and impact trade levels",
+      "link": "https://www.wto.org/english/blogs_e/data_blog_e/blog_dta_03sep26_474_e.htm",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "穆迪：中国云厂商AI资本支出暴增 仍低于美国同行",
+      "link": "https://www.caixin.com/2026-09-03/102481470.html",
+      "published": "2026-09-03",
+      "language": "中文"
+    },
     {
       "category": "ideas",
       "source": "Project Syndicate",
@@ -338,17 +402,41 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-      "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
+      "source": "BBC Technology",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-01",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+      "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
+      "title": "Madagascar Launches Safeguard Investigation on Certain Types of Rice",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_03sep26_478_e.htm",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "AI Addicts Won’t Make Better Workers",
+      "link": "https://www.project-syndicate.org/commentary/ai-addiction-could-be-drag-on-labor-productivity-by-amar-bhide-2026-08",
+      "published": "2026-08-31",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+      "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-02",
       "language": "EN"
     },
@@ -363,33 +451,9 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "AI Is Reviving Chinese Marxist Economics",
-      "link": "https://www.project-syndicate.org/commentary/chinese-marxist-economists-believe-ai-can-avoid-capitalist-rent-trap-by-yanis-varoufakis-2026-08",
-      "published": "2026-08-31",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-      "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "AI Addicts Won’t Make Better Workers",
-      "link": "https://www.project-syndicate.org/commentary/ai-addiction-could-be-drag-on-labor-productivity-by-amar-bhide-2026-08",
-      "published": "2026-08-31",
+      "title": "Three Ways AI Will Change the Course of Humanity",
+      "link": "https://www.project-syndicate.org/commentary/ai-will-redefine-disease-management-warfare-and-economic-prosperity-by-dambisa-moyo-2026-08",
+      "published": "2026-08-19",
       "language": "EN"
     },
     {
@@ -399,74 +463,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-02",
       "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Three Ways AI Will Change the Course of Humanity",
-      "link": "https://www.project-syndicate.org/commentary/ai-will-redefine-disease-management-warfare-and-economic-prosperity-by-dambisa-moyo-2026-08",
-      "published": "2026-08-19",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Shein valued at $26bn after long-awaited stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-01",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-02",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Europe Failed the Ceuta Test",
-      "link": "https://www.project-syndicate.org/commentary/ceuta-migration-crisis-demonstrates-collapse-of-european-solidarity-by-zaki-laidi-2026-08",
-      "published": "2026-08-12",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-01",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Flock's rapidly expanding AI surveillance network facing growing backlash in US",
-      "link": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-01",
-      "language": "EN"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      12
+      16
     ],
     [
       "BBC World",
       "ok",
-      9
+      8
     ],
     [
       "BBC Technology",
@@ -481,7 +489,7 @@
     [
       "WTO",
       "ok",
-      1
+      3
     ],
     [
       "IRENA",
@@ -490,8 +498,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 12",
-      5
+      "ok 11",
+      8
     ],
     [
       "The Economist",
@@ -526,7 +534,7 @@
     [
       "财新",
       "ok 18",
-      8
+      3
     ],
     [
       "第一财经",
@@ -575,13 +583,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 17",
-      5
+      "ok 18",
+      10
     ],
     [
       "Project Syndicate",
-      "ok 14",
-      5
+      "ok 13",
+      3
     ],
     [
       "The Economist",
