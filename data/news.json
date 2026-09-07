@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-09-06 00:17 UTC",
-  "date_display": "Sunday · 06 September 2026",
+  "generated_at": "2026-09-07 00:16 UTC",
+  "date_display": "Monday · 07 September 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
-      "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-05",
+      "title": "Chancellor to unveil growth plan with £150m fund for northern firms",
+      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Whipsaw Trade Policy Is Depressing Foreign Direct Investment",
-      "link": "https://www.project-syndicate.org/commentary/trade-policy-uncertainty-impact-on-fdi-by-jonathan-d-ostry-2026-09",
+      "title": "India’s Resilience Depends on Diversified Trade",
+      "link": "https://www.project-syndicate.org/commentary/india-must-continue-to-diversify-trade-to-boost-security-by-shekhar-aiyar-2026-09",
       "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "FT中文网",
+      "title": "中国海外投资“规模悖论”的迷思：肯尼亚的本土答案",
+      "link": "https://www.ftchinese.com/story/001110805",
+      "published": "2026-09-06",
+      "language": "中文"
+    },
+    {
+      "category": "world",
       "source": "BBC World",
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-05",
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "美国汽车创新联盟敦促国会立法永久禁止中国联网汽车",
-      "link": "https://www.caixin.com/2026-09-05/102482356.html",
-      "published": "2026-09-05",
+      "title": "财经早知道｜8家中央金融企业集中增资，合计规模3600亿元",
+      "link": "https://finance.caixin.com/2026-09-07/102482444.html",
+      "published": "2026-09-07",
       "language": "中文"
     },
     {
@@ -61,33 +69,33 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "How much can Canada fight back in its trade war with the US?",
-      "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+      "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
+      "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-05",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "India’s Resilience Depends on Diversified Trade",
-      "link": "https://www.project-syndicate.org/commentary/india-must-continue-to-diversify-trade-to-boost-security-by-shekhar-aiyar-2026-09",
+      "title": "Whipsaw Trade Policy Is Depressing Foreign Direct Investment",
+      "link": "https://www.project-syndicate.org/commentary/trade-policy-uncertainty-impact-on-fdi-by-jonathan-d-ostry-2026-09",
       "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-05",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "灵活就业人员医保：职工医保可月缴 探索居民医保年限折算",
-      "link": "https://www.caixin.com/2026-09-05/102482148.html",
-      "published": "2026-09-05",
+      "title": "第二批特别国债注资银行落地 农行、工行、进出口行合计2300亿元",
+      "link": "https://finance.caixin.com/2026-09-06/102482427.html",
+      "published": "2026-09-06",
       "language": "中文"
     },
     {
@@ -109,6 +117,46 @@
     {
       "category": "world",
       "source": "BBC Business",
+      "title": "How much can Canada fight back in its trade war with the US?",
+      "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-05",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Why the Far Right’s War on Modern Architecture Matters",
+      "link": "https://www.project-syndicate.org/commentary/understanding-the-far-right-afd-war-on-bauhaus-architecture-by-jan-werner-mueller-2026-09",
+      "published": "2026-09-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-06",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "\"新教育学堂\"、“Kimi时刻”、房地产预售...",
+      "link": "https://weekly.caixin.com/2026-09-06/102482380.html",
+      "published": "2026-09-06",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Madagascar launches safeguard investigation on self-adhesive labels, packaging and certain other printed items",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_28aug26_476_e.htm",
+      "published": "2026-08-28",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
       "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
       "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-04",
@@ -125,64 +173,24 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-05",
+      "title": "India's high-stakes exam system faces a crisis of trust",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "lululemon二季度营收利润双降 负面舆论冲击中国销售",
-      "link": "https://www.caixin.com/2026-09-04/102482042.html",
-      "published": "2026-09-04",
+      "title": "美国汽车创新联盟敦促国会立法永久禁止中国联网汽车(含视频)",
+      "link": "https://www.caixin.com/2026-09-05/102482356.html",
+      "published": "2026-09-05",
       "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "Madagascar launches safeguard investigation on self-adhesive labels, packaging and certain other printed items",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_28aug26_476_e.htm",
-      "published": "2026-08-28",
-      "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
       "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
       "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-04",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Why the Far Right’s War on Modern Architecture Matters",
-      "link": "https://www.project-syndicate.org/commentary/understanding-the-far-right-afd-war-on-bauhaus-architecture-by-jan-werner-mueller-2026-09",
-      "published": "2026-09-03",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-05",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "《保险法》修订意见稿出炉 聚焦股东监管、风险处置",
-      "link": "https://finance.caixin.com/2026-09-04/102482053.html",
-      "published": "2026-09-04",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "UK petrol prices hit highest level since Iran war began",
-      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-04",
       "language": "EN"
     },
@@ -205,8 +213,8 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "title": "UK petrol prices hit highest level since Iran war began",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-04",
       "language": "EN"
     },
@@ -217,6 +225,14 @@
       "link": "https://www.project-syndicate.org/commentary/ai-addiction-could-be-drag-on-labor-productivity-by-amar-bhide-2026-08",
       "published": "2026-08-31",
       "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "《保险法》修订意见稿出炉 聚焦股东监管、风险处置",
+      "link": "https://finance.caixin.com/2026-09-04/102482053.html",
+      "published": "2026-09-04",
+      "language": "中文"
     }
   ],
   "energy": [
@@ -289,10 +305,26 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan to step up scrutiny of bank loans to overseas nonbank lenders",
-      "link": "https://asia.nikkei.com/business/finance/japan-to-step-up-scrutiny-of-bank-loans-to-overseas-nonbank-lenders",
+      "title": "South Korea's ETF boom loses steam as investors tire of volatility",
+      "link": "https://asia.nikkei.com/business/markets/trading-asia/south-korea-s-etf-boom-loses-steam-as-investors-tire-of-volatility",
+      "published": "2026-09-07",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "India's high-stakes exam system faces a crisis of trust",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-06",
       "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "FT中文网",
+      "title": "中国海外投资“规模悖论”的迷思：肯尼亚的本土答案",
+      "link": "https://www.ftchinese.com/story/001110805",
+      "published": "2026-09-06",
+      "language": "中文"
     },
     {
       "category": "asia",
@@ -304,16 +336,8 @@
     },
     {
       "category": "asia",
-      "source": "BBC World",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-05",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "财新",
-      "title": "美国汽车创新联盟敦促国会立法永久禁止中国联网汽车",
+      "title": "美国汽车创新联盟敦促国会立法永久禁止中国联网汽车(含视频)",
       "link": "https://www.caixin.com/2026-09-05/102482356.html",
       "published": "2026-09-05",
       "language": "中文"
@@ -329,17 +353,17 @@
     {
       "category": "asia",
       "source": "Project Syndicate",
-      "title": "Whipsaw Trade Policy Is Depressing Foreign Direct Investment",
-      "link": "https://www.project-syndicate.org/commentary/trade-policy-uncertainty-impact-on-fdi-by-jonathan-d-ostry-2026-09",
+      "title": "India’s Resilience Depends on Diversified Trade",
+      "link": "https://www.project-syndicate.org/commentary/india-must-continue-to-diversify-trade-to-boost-security-by-shekhar-aiyar-2026-09",
       "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "ABN Amro unit to enter Japan electric power trading market",
-      "link": "https://asia.nikkei.com/business/energy/abn-amro-unit-to-enter-japan-electric-power-trading-market",
-      "published": "2026-09-06",
+      "title": "South Korea to combine 5 utilities to prepare for AI, chip power demand",
+      "link": "https://asia.nikkei.com/politics/south-korea-to-combine-5-utilities-to-prepare-for-ai-chip-power-demand",
+      "published": "2026-09-07",
       "language": "EN"
     },
     {
@@ -352,26 +376,18 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "lululemon二季度营收利润双降 负面舆论冲击中国销售",
-      "link": "https://www.caixin.com/2026-09-04/102482042.html",
-      "published": "2026-09-04",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Project Syndicate",
-      "title": "India’s Resilience Depends on Diversified Trade",
-      "link": "https://www.project-syndicate.org/commentary/india-must-continue-to-diversify-trade-to-boost-security-by-shekhar-aiyar-2026-09",
+      "title": "Whipsaw Trade Policy Is Depressing Foreign Direct Investment",
+      "link": "https://www.project-syndicate.org/commentary/trade-policy-uncertainty-impact-on-fdi-by-jonathan-d-ostry-2026-09",
       "published": "2026-09-03",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's NEC scraps effort to build a quantum computer",
-      "link": "https://asia.nikkei.com/business/technology/japan-s-nec-scraps-effort-to-build-a-quantum-computer",
-      "published": "2026-09-05",
+      "title": "Japan's Kumamoto Airport plans flights to Thailand",
+      "link": "https://asia.nikkei.com/business/transportation/japan-s-kumamoto-airport-plans-flights-to-thailand",
+      "published": "2026-09-06",
       "language": "EN"
     },
     {
@@ -385,24 +401,16 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Thais slurp up Japan-style Sanuki udon noodles",
-      "link": "https://asia.nikkei.com/business/food-beverage/thais-slurp-up-japan-style-sanuki-udon-noodles",
-      "published": "2026-09-05",
+      "title": "China to pump $54bn into state banks, insurers in capital-boosting push",
+      "link": "https://asia.nikkei.com/business/finance/china-to-pump-54bn-into-state-banks-insurers-in-capital-boosting-push",
+      "published": "2026-09-06",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan budget requests swell with $78bn in uncapped growth investment",
-      "link": "https://asia.nikkei.com/politics/japan-budget-requests-swell-with-78bn-in-uncapped-growth-investment",
-      "published": "2026-09-05",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Japan's Rakuten to debut satellite-to-cell service with Starlink rival AST",
-      "link": "https://asia.nikkei.com/business/telecommunication/japan-s-rakuten-to-debut-satellite-to-cell-service-with-starlink-rival-ast",
+      "title": "Japan's NEC scraps effort to build a quantum computer",
+      "link": "https://asia.nikkei.com/business/technology/japan-s-nec-scraps-effort-to-build-a-quantum-computer",
       "published": "2026-09-05",
       "language": "EN"
     }
@@ -411,10 +419,18 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "US envoys meet Putin in Moscow for Ukraine talks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-05",
+      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
+      "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-06",
       "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "\"新教育学堂\"、“Kimi时刻”、房地产预售...",
+      "link": "https://weekly.caixin.com/2026-09-06/102482380.html",
+      "published": "2026-09-06",
+      "language": "中文"
     },
     {
       "category": "ideas",
@@ -451,9 +467,9 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
-      "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-05",
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-06",
       "language": "EN"
     },
     {
@@ -491,9 +507,9 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-04",
+      "title": "Majority Russian-speaking city in Ukraine considers language ban in the arts",
+      "link": "https://www.bbc.co.uk/news/articles/c33kzvgn8pyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-05",
       "language": "EN"
     },
     {
@@ -515,8 +531,8 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-04",
       "language": "EN"
     },
@@ -546,7 +562,7 @@
     [
       "BBC World",
       "ok",
-      9
+      7
     ],
     [
       "BBC Technology",
@@ -600,13 +616,13 @@
     ],
     [
       "FT中文网",
-      "ok 0",
-      0
+      "ok 1",
+      1
     ],
     [
       "财新",
       "ok 18",
-      5
+      6
     ],
     [
       "第一财经",
@@ -655,8 +671,8 @@
     ],
     [
       "Nikkei Asia",
-      "ok 18",
-      9
+      "ok 17",
+      5
     ],
     [
       "Project Syndicate",
