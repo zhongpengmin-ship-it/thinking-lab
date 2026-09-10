@@ -1,53 +1,53 @@
 {
-  "generated_at": "2026-09-09 00:16 UTC",
-  "date_display": "Wednesday · 09 September 2026",
+  "generated_at": "2026-09-10 00:13 UTC",
+  "date_display": "Thursday · 10 September 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "US slaps import ban on Canadian alcohol and other goods",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-09",
+      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-10",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Are China’s Rare Earths Really a Potent Weapon?",
-      "link": "https://www.project-syndicate.org/commentary/how-much-would-china-rare-earth-export-restrictions-hurt-the-us-and-europe-by-daniel-gros-2026-09",
-      "published": "2026-09-08",
+      "title": "China’s Permanent Manufacturing Revolution",
+      "link": "https://www.project-syndicate.org/commentary/china-manufacturing-prowess-will-drive-down-industrial-employment-everywhere-by-adair-turner-2026-09",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "FT中文网",
-      "title": "贝森特只说对一半，他看不到1.2万亿美元顺差背后的两个中国",
-      "link": "https://www.ftchinese.com/story/001110831",
-      "published": "2026-09-08",
+      "title": "特朗普政府能源政策持续调整对中国能源产业发展的挑战",
+      "link": "https://www.ftchinese.com/story/001110839",
+      "published": "2026-09-10",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "link": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "华为“韬定律”芯片麒麟9050 Pro首现身 量产搭载新款三折叠手机",
-      "link": "https://www.caixin.com/2026-09-08/102482906.html",
-      "published": "2026-09-08",
+      "title": "ARM自研AI CPU获两大中国客户 智能体时代CPU格局有何变化",
+      "link": "https://www.caixin.com/2026-09-09/102483322.html",
+      "published": "2026-09-09",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "New report highlights growth potential of digital trade in Latin America, Caribbean",
-      "link": "https://www.wto.org/english/news_e/news26_e/publ_08sep26_480_e.htm",
-      "published": "2026-09-08",
+      "title": "Goods barometer points to resilient trade growth despite headwinds",
+      "link": "https://www.wto.org/english/news_e/news26_e/wtoi_09sep26_481_e.htm",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
@@ -61,17 +61,57 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-07",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Are China’s Rare Earths Really a Potent Weapon?",
+      "link": "https://www.project-syndicate.org/commentary/how-much-would-china-rare-earth-export-restrictions-hurt-the-us-and-europe-by-daniel-gros-2026-09",
+      "published": "2026-09-08",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "英法加对以色列西岸定居点实施贸易制裁 以与西方关系进一步恶化",
+      "link": "https://international.caixin.com/2026-09-09/102483291.html",
+      "published": "2026-09-09",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "New report highlights growth potential of digital trade in Latin America, Caribbean",
+      "link": "https://www.wto.org/english/news_e/news26_e/publ_08sep26_480_e.htm",
       "published": "2026-09-08",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Sapporo to move some beer production from Canada to US after tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
@@ -85,17 +125,17 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "安大略湖之后 特朗普再称将使新墨西哥州改名“新美国州”",
-      "link": "https://international.caixin.com/2026-09-08/102482861.html",
-      "published": "2026-09-08",
+      "title": "夜读精选｜8月国内乘用车零售量同比下跌超两成 内销全年下滑几成定局",
+      "link": "https://www.caixin.com/2026-09-09/102483295.html",
+      "published": "2026-09-09",
       "language": "中文"
     },
     {
@@ -108,18 +148,10 @@
     },
     {
       "category": "world",
-      "source": "BBC Technology",
-      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-07",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "BBC Business",
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
@@ -133,17 +165,17 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "东盟秘书长高金洪：DEFA签署在即 东盟数字经济总值将达2万亿美元",
-      "link": "https://international.caixin.com/2026-09-08/102482747.html",
-      "published": "2026-09-08",
+      "title": "美俄元首举行年内第五次通话 美国“新和平计划”内容渐浮出水面",
+      "link": "https://international.caixin.com/2026-09-09/102483332.html",
+      "published": "2026-09-09",
       "language": "中文"
     },
     {
@@ -156,82 +188,10 @@
     },
     {
       "category": "world",
-      "source": "BBC Technology",
-      "title": "AI data centres are booming in Australia - but at what cost?",
-      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-03",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "BBC Business",
-      "title": "UK's third-biggest taxpayer to leave for Greece",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Kevin Warsh’s Best Move Is to Do Nothing",
-      "link": "https://www.project-syndicate.org/commentary/kevin-warsh-inflation-mandate-impossible-with-current-tools-by-james-k-galbraith-2026-09",
-      "published": "2026-09-07",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "挪威主权基金减持美债，巨鲸转向昭示全球市场新方向",
-      "link": "https://international.caixin.com/2026-09-08/102482771.html",
-      "published": "2026-09-08",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "Madagascar launches safeguard investigation on self-adhesive labels, packaging and certain other printed items",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_28aug26_476_e.htm",
-      "published": "2026-08-28",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Will Europe Be as Unprepared as Ukraine Was?",
-      "link": "https://www.project-syndicate.org/commentary/europe-must-establish-deterrence-russia-warning-signs-by-tatyana-deryugina-et-al-2026-09",
-      "published": "2026-09-07",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "胡塞武装再袭沙特能源设施 也门政府誓言收复首都萨那",
-      "link": "https://international.caixin.com/2026-09-08/102482889.html",
-      "published": "2026-09-08",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Trump hits Canada with import ban on alcohol and other goods",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "Sapporo to move some beer production from Canada to US after tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
@@ -245,9 +205,33 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "新技术带来哪些知识产权典型案件？政策、法律需与时俱进",
-      "link": "https://www.caixin.com/2026-09-08/102482934.html",
-      "published": "2026-09-08",
+      "title": "能源内参｜美加征关税预期下国际铜价创新高；空客：中国10%航空需求将被高铁分流 但空铁强互补",
+      "link": "https://www.caixin.com/2026-09-09/102483163.html",
+      "published": "2026-09-09",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "What tariffs will really cost Canadians and Americans",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "AI’s Market Path Will Get Bumpier",
+      "link": "https://www.project-syndicate.org/commentary/ai-bumpy-road-ahead-borrowing-costs-public-resistance-shallow-adoption-by-mohamed-a-el-erian-2026-09",
+      "published": "2026-09-02",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "养老理财如何获得稳健收益？贝莱德建信首席投资官阐述资产配置与投资原则",
+      "link": "https://finance.caixin.com/2026-09-09/102483244.html",
+      "published": "2026-09-09",
       "language": "中文"
     }
   ],
@@ -255,26 +239,50 @@
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-10",
       "language": "EN"
     },
     {
       "category": "energy",
+      "source": "FT中文网",
+      "title": "特朗普政府能源政策持续调整对中国能源产业发展的挑战",
+      "link": "https://www.ftchinese.com/story/001110839",
+      "published": "2026-09-10",
+      "language": "中文"
+    },
+    {
+      "category": "energy",
       "source": "BBC World",
-      "title": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "WTO",
+      "title": "Goods barometer points to resilient trade growth despite headwinds",
+      "link": "https://www.wto.org/english/news_e/news26_e/wtoi_09sep26_481_e.htm",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
       "category": "energy",
       "source": "财新",
-      "title": "胡塞武装再袭沙特能源设施 也门政府誓言收复首都萨那",
-      "link": "https://international.caixin.com/2026-09-08/102482889.html",
-      "published": "2026-09-08",
+      "title": "能源内参｜美加征关税预期下国际铜价创新高；空客：中国10%航空需求将被高铁分流 但空铁强互补",
+      "link": "https://www.caixin.com/2026-09-09/102483163.html",
+      "published": "2026-09-09",
       "language": "中文"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
+      "language": "EN"
     },
     {
       "category": "energy",
@@ -286,10 +294,26 @@
     },
     {
       "category": "energy",
+      "source": "BBC Business",
+      "title": "Share Energy to increase electricity prices by 12.6%",
+      "link": "https://www.bbc.co.uk/news/articles/c86x0v4ey5yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
       "source": "WTO",
       "title": "Madagascar launches safeguard investigation on self-adhesive labels, packaging and certain other printed items",
       "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_28aug26_476_e.htm",
       "published": "2026-08-28",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-08",
       "language": "EN"
     }
   ],
@@ -297,25 +321,73 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China's tobacco monopoly flexes financial muscle in shoring up banks",
-      "link": "https://asia.nikkei.com/business/finance/china-s-tobacco-monopoly-flexes-financial-muscle-in-shoring-up-banks",
+      "title": "Japan to develop drone-based quantum sensors to detect submarines",
+      "link": "https://asia.nikkei.com/politics/defense/japan-to-develop-drone-based-quantum-sensors-to-detect-submarines",
+      "published": "2026-09-10",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "FT中文网",
+      "title": "特朗普政府能源政策持续调整对中国能源产业发展的挑战",
+      "link": "https://www.ftchinese.com/story/001110839",
+      "published": "2026-09-10",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Google picks Finland for its largest single investment in Europe",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-09",
       "language": "EN"
     },
     {
       "category": "asia",
+      "source": "WTO",
+      "title": "Goods barometer points to resilient trade growth despite headwinds",
+      "link": "https://www.wto.org/english/news_e/news26_e/wtoi_09sep26_481_e.htm",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "China’s Permanent Manufacturing Revolution",
+      "link": "https://www.project-syndicate.org/commentary/china-manufacturing-prowess-will-drive-down-industrial-employment-everywhere-by-adair-turner-2026-09",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "ARM自研AI CPU获两大中国客户 智能体时代CPU格局有何变化",
+      "link": "https://www.caixin.com/2026-09-09/102483322.html",
+      "published": "2026-09-09",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
       "source": "BBC Business",
-      "title": "Shetland spaceport project secures £30m of UK government investment",
-      "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-08",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "BBC Technology",
-      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
-      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "source": "Nikkei Asia",
+      "title": "Japan youth wealth gap widens as 20-somethings lag in asset building",
+      "link": "https://asia.nikkei.com/spotlight/society/japan-youth-wealth-gap-widens-as-20-somethings-lag-in-asset-building",
+      "published": "2026-09-10",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
@@ -336,42 +408,34 @@
     },
     {
       "category": "asia",
-      "source": "FT中文网",
-      "title": "贝森特只说对一半，他看不到1.2万亿美元顺差背后的两个中国",
-      "link": "https://www.ftchinese.com/story/001110831",
-      "published": "2026-09-08",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "财新",
-      "title": "东盟秘书长高金洪：DEFA签署在即 东盟数字经济总值将达2万亿美元",
-      "link": "https://international.caixin.com/2026-09-08/102482747.html",
-      "published": "2026-09-08",
+      "title": "英法加对以色列西岸定居点实施贸易制裁 以与西方关系进一步恶化",
+      "link": "https://international.caixin.com/2026-09-09/102483291.html",
+      "published": "2026-09-09",
       "language": "中文"
     },
     {
       "category": "asia",
-      "source": "BBC World",
-      "title": "A food safety officer has become a social media star in India - why?",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-07",
+      "source": "BBC Business",
+      "title": "Shetland spaceport project secures £30m of UK government investment",
+      "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-08",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan lens maker Tamron weighs Sony bid as China rivals close in",
-      "link": "https://asia.nikkei.com/business/companies/japan-lens-maker-tamron-weighs-sony-bid-as-china-rivals-close-in",
-      "published": "2026-09-09",
+      "title": "US business confidence in China rebounds from record low: report",
+      "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/us-business-confidence-in-china-rebounds-from-record-low-report",
+      "published": "2026-09-10",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "BBC Business",
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-07",
+      "source": "BBC World",
+      "title": "Baby orangutans found in Indian forest spark trafficking inquiry",
+      "link": "https://www.bbc.co.uk/news/articles/cvgynv90599o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
@@ -393,18 +457,10 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "徐翔操纵市场案遭投资者索赔 58人获赔860万元",
-      "link": "https://finance.caixin.com/2026-09-08/102482645.html",
-      "published": "2026-09-08",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Tesla and the Musks 'Chinamaxx' as rumors swirl over EV maker's plans",
-      "link": "https://asia.nikkei.com/business/business-asia/tesla-and-the-musks-chinamaxx-as-rumors-swirl-over-ev-maker-s-plans",
+      "title": "能源内参｜美加征关税预期下国际铜价创新高；空客：中国10%航空需求将被高铁分流 但空铁强互补",
+      "link": "https://www.caixin.com/2026-09-09/102483163.html",
       "published": "2026-09-09",
-      "language": "EN"
+      "language": "中文"
     },
     {
       "category": "asia",
@@ -416,19 +472,27 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "中国慈善生态改变 企业公益从“拼捐赠”转向“创价值”",
-      "link": "https://www.caixin.com/2026-09-08/102482893.html",
-      "published": "2026-09-08",
-      "language": "中文"
+      "source": "Nikkei Asia",
+      "title": "Asian private equity firm MBK to acquire Japan home services platform",
+      "link": "https://asia.nikkei.com/business/business-deals/asian-private-equity-firm-mbk-to-acquire-japan-home-services-platform",
+      "published": "2026-09-10",
+      "language": "EN"
     },
     {
       "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Samsung opens Japan AI chip R&D hub for advanced packaging collaboration",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/samsung-opens-japan-ai-chip-r-d-hub-for-advanced-packaging-collaboration",
+      "source": "BBC World",
+      "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+      "link": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-09",
       "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "养老理财如何获得稳健收益？贝莱德建信首席投资官阐述资产配置与投资原则",
+      "link": "https://finance.caixin.com/2026-09-09/102483244.html",
+      "published": "2026-09-09",
+      "language": "中文"
     },
     {
       "category": "asia",
@@ -441,42 +505,66 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan Railways targets Thai freight market with on-time train transport",
-      "link": "https://asia.nikkei.com/business/transportation/japan-railways-targets-thai-freight-market-with-on-time-train-transport",
-      "published": "2026-09-09",
+      "title": "Mitsui to help speed cancer drug research in Asia with patient database",
+      "link": "https://asia.nikkei.com/business/pharmaceuticals/mitsui-to-help-speed-cancer-drug-research-in-asia-with-patient-database",
+      "published": "2026-09-10",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
+      "link": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-08",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's DMG Mori, Okuma ramp up cyberdefense for machine tools",
-      "link": "https://asia.nikkei.com/spotlight/cybersecurity/japan-s-dmg-mori-okuma-ramp-up-cyberdefense-for-machine-tools",
-      "published": "2026-09-09",
+      "title": "Japan to fund biofuel projects abroad for energy security at home",
+      "link": "https://asia.nikkei.com/business/energy/japan-to-fund-biofuel-projects-abroad-for-energy-security-at-home",
+      "published": "2026-09-10",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "A food safety officer has become a social media star in India - why?",
+      "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-07",
       "language": "EN"
     }
   ],
   "ideas": [
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "The AI Race Could Sink US-China Détente",
-      "link": "https://www.project-syndicate.org/commentary/us-china-relationship-ai-race-could-renew-conflict-by-ian-bremmer-2026-09",
-      "published": "2026-09-08",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC Business",
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "ARM自研AI CPU获两大中国客户 智能体时代CPU格局有何变化",
+      "link": "https://www.caixin.com/2026-09-09/102483322.html",
+      "published": "2026-09-09",
+      "language": "中文"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "The AI Race Could Sink US-China Détente",
+      "link": "https://www.project-syndicate.org/commentary/us-china-relationship-ai-race-could-renew-conflict-by-ian-bremmer-2026-09",
       "published": "2026-09-08",
       "language": "EN"
     },
@@ -498,18 +586,10 @@
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Will Europe Be as Unprepared as Ukraine Was?",
-      "link": "https://www.project-syndicate.org/commentary/europe-must-establish-deterrence-russia-warning-signs-by-tatyana-deryugina-et-al-2026-09",
-      "published": "2026-09-07",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC Business",
-      "title": "Argentina to file criminal case against oil company operating in Falklands",
-      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
@@ -522,10 +602,10 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Technology",
-      "title": "AI data centres are booming in Australia - but at what cost?",
-      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-03",
+      "source": "Project Syndicate",
+      "title": "AI’s Market Path Will Get Bumpier",
+      "link": "https://www.project-syndicate.org/commentary/ai-bumpy-road-ahead-borrowing-costs-public-resistance-shallow-adoption-by-mohamed-a-el-erian-2026-09",
+      "published": "2026-09-02",
       "language": "EN"
     },
     {
@@ -538,18 +618,18 @@
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "AI’s Market Path Will Get Bumpier",
-      "link": "https://www.project-syndicate.org/commentary/ai-bumpy-road-ahead-borrowing-costs-public-resistance-shallow-adoption-by-mohamed-a-el-erian-2026-09",
-      "published": "2026-09-02",
+      "source": "BBC Business",
+      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-08",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-      "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "source": "Project Syndicate",
+      "title": "AI Addicts Won’t Make Better Workers",
+      "link": "https://www.project-syndicate.org/commentary/ai-addiction-could-be-drag-on-labor-productivity-by-amar-bhide-2026-08",
+      "published": "2026-08-31",
       "language": "EN"
     },
     {
@@ -562,18 +642,18 @@
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Trump and Xi Should Align on AI",
-      "link": "https://www.project-syndicate.org/commentary/trump-xi-summit-should-begin-preparations-for-rise-of-ai-superintelligence-by-quan-zhao-2026-09",
-      "published": "2026-09-01",
+      "source": "BBC Business",
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-08",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
-      "link": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-07",
+      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+      "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-08",
       "language": "EN"
     }
   ],
@@ -581,17 +661,17 @@
     [
       "BBC Business",
       "ok",
-      14
+      16
     ],
     [
       "BBC World",
       "ok",
-      16
+      19
     ],
     [
       "BBC Technology",
       "ok",
-      3
+      4
     ],
     [
       "BIS",
@@ -601,7 +681,7 @@
     [
       "WTO",
       "ok",
-      4
+      5
     ],
     [
       "IRENA",
@@ -611,7 +691,7 @@
     [
       "Project Syndicate",
       "ok 11",
-      9
+      7
     ],
     [
       "The Economist",
@@ -640,7 +720,7 @@
     ],
     [
       "FT中文网",
-      "ok 1",
+      "ok 2",
       1
     ],
     [
@@ -695,13 +775,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 16",
-      12
+      "ok 17",
+      10
     ],
     [
       "Project Syndicate",
       "ok 12",
-      4
+      3
     ],
     [
       "The Economist",
