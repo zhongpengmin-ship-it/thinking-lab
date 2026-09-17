@@ -1,44 +1,36 @@
 {
-  "generated_at": "2026-09-16 00:13 UTC",
-  "date_display": "Wednesday · 16 September 2026",
+  "generated_at": "2026-09-17 00:13 UTC",
+  "date_display": "Thursday · 17 September 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "title": "Interest rates hold expected but Bank of England facing tough choices",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "AI and the Broken Career Ladder",
-      "link": "https://www.project-syndicate.org/commentary/ai-policymakers-must-focus-rebuilding-bottom-rung-of-career-ladder-by-eric-hazan-2026-09",
-      "published": "2026-09-15",
+      "title": "AI Demands Simpler Financial Regulation",
+      "link": "https://www.project-syndicate.org/commentary/ai-could-make-financial-regulations-harder-to-enforce-by-amit-seru-2026-09",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "FT中文网",
-      "title": "研究：高温侵蚀劳动生产率，经济损失向更多行业传导",
-      "link": "https://www.ftchinese.com/story/001110878",
-      "published": "2026-09-15",
-      "language": "中文"
-    },
-    {
-      "category": "world",
       "source": "BBC World",
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "美国防部伊战报告证实弹药库存短缺 \"史诗怒火\"行动成本超330亿美元",
-      "link": "https://international.caixin.com/2026-09-15/102485216.html",
+      "title": "顶尖名校博士争当中学老师 如何看待学历高消费？｜教育观察",
+      "link": "https://www.caixin.com/2026-09-17/102485644.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -52,41 +44,49 @@
     },
     {
       "category": "world",
+      "source": "World Bank",
+      "title": "WBG Launches Initiative to Help Local Financial Institutions Expand Digital Payments in Emerging Markets",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/09/10/world-bank-group-launches-initiative-to-help-local-financial-institutions-expand-d",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC Technology",
-      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
-      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-14",
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-      "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
+      "title": "US interest rates raised for first time in three years",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Why India Wants Peace in Ukraine—and China Doesn’t",
-      "link": "https://www.project-syndicate.org/commentary/india-fears-russia-growing-dependence-on-china-owing-to-ukraine-war-by-nina-l-khrushcheva-2026-09",
-      "published": "2026-09-15",
+      "title": "War in an Age of Weak Powers",
+      "link": "https://www.project-syndicate.org/commentary/iran-war-remaking-global-order-opportunity-for-europe-by-peter-eitel-and-sigmar-gabriel-2026-09",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "苏格兰威尔士和北爱首脑罕见联手要求自决 英政府称维护统一立场不变",
-      "link": "https://international.caixin.com/2026-09-15/102485196.html",
+      "title": "财经早知道｜美联储3年来首次加息，沃什重申通胀过高且持续太久",
+      "link": "https://finance.caixin.com/2026-09-17/102485613.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -101,40 +101,40 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "UK in talks about joining global defence bank led by Canada",
-      "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Progressive Economics Is Delivering",
-      "link": "https://www.project-syndicate.org/commentary/brazil-spain-proof-progressive-economic-policies-do-deliver-by-dario-durigan-and-carlos-cuerpo-2026-09",
+      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-14",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "BBC World",
-      "title": "More than 100,000 people in Japan are now aged 100 or older",
-      "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "title": "I sent 200 DMs to companies - it was awkward but I got a job",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgyd02mdvno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "AI and the Broken Career Ladder",
+      "link": "https://www.project-syndicate.org/commentary/ai-policymakers-must-focus-rebuilding-bottom-rung-of-career-ladder-by-eric-hazan-2026-09",
       "published": "2026-09-15",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "BBC World",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "财新",
-      "title": "图集｜大量韩国民众持续集会 反对向霍尔木兹海峡派兵",
-      "link": "https://photos.caixin.com/2026-09-15/102485181.html",
+      "title": "多地银行启动个人贷款业务回溯核查 重点关注哪些风险？",
+      "link": "https://finance.caixin.com/2026-09-16/102485573.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -149,40 +149,40 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-13",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
+      "title": "Petrol and diesel price rises push UK inflation higher",
+      "link": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "AI Could Make Governments Slower",
-      "link": "https://www.project-syndicate.org/commentary/by-speeding-up-routine-tasks-ai-may-end-up-overwhelming-human-decision-makers-by-sami-mahroum-2026-09",
-      "published": "2026-09-11",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Satellite image reveals major damage that shut crucial Saudi oil pipeline",
-      "link": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+      "title": "Why India Wants Peace in Ukraine—and China Doesn’t",
+      "link": "https://www.project-syndicate.org/commentary/india-fears-russia-growing-dependence-on-china-owing-to-ukraine-war-by-nina-l-khrushcheva-2026-09",
       "published": "2026-09-15",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "BBC World",
+      "title": "Why Trump is all-in on AI despite the warnings",
+      "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "财新",
-      "title": "夜读精选｜国际生留美期限缩短新规被法院推迟生效 美国土安全部料将上诉",
-      "link": "https://www.caixin.com/2026-09-15/102485179.html",
+      "title": "美联储时隔三年上调利率25基点 官员预计年内再加息一次",
+      "link": "https://international.caixin.com/2026-09-17/102485615.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -197,53 +197,61 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Why Do So Few Women Work in India?",
-      "link": "https://www.project-syndicate.org/commentary/india-low-womens-labor-force-participation-rate-about-demand-not-norms-by-shishir-gupta-and-aalhya-sabharwal-2026-09",
-      "published": "2026-09-11",
+      "title": "Progressive Economics Is Delivering",
+      "link": "https://www.project-syndicate.org/commentary/brazil-spain-proof-progressive-economic-policies-do-deliver-by-dario-durigan-and-carlos-cuerpo-2026-09",
+      "published": "2026-09-14",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "飞书上半年ARR增速创新高 字节跳动加大投资企业市场",
-      "link": "https://www.caixin.com/2026-09-15/102485169.html",
+      "title": "解析社融结构变化：债券“低价”扩容，对贷款替代效应几何？",
+      "link": "https://finance.caixin.com/2026-09-16/102485492.html",
       "published": "2026-09-01",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
+      "title": "Henry Zeffman: Andy Burnham and his chancellor have a battle on their hands as the Budget approaches",
+      "link": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Unpaid Work in the AI Age",
-      "link": "https://www.project-syndicate.org/commentary/ai-can-expand-leisure-time-by-increasing-productivity-in-unpaid-work-by-diane-coyle-2026-09",
-      "published": "2026-09-08",
+      "title": "AI Could Make Governments Slower",
+      "link": "https://www.project-syndicate.org/commentary/by-speeding-up-routine-tasks-ai-may-end-up-overwhelming-human-decision-makers-by-sami-mahroum-2026-09",
+      "published": "2026-09-11",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "【财新时间】对话魏尚进：性别结构，如何影响个人选择与经济运行",
-      "link": "https://video.caixin.com/2026-09-10/102483251.html",
+      "title": "香港拟强化离岸人民币枢纽地位 港府将带头使用人民币(含视频)",
+      "link": "https://finance.caixin.com/2026-09-16/102485379.html",
       "published": "2026-09-01",
       "language": "中文"
     }
   ],
   "energy": [
+    {
+      "category": "energy",
+      "source": "Project Syndicate",
+      "title": "War in an Age of Weak Powers",
+      "link": "https://www.project-syndicate.org/commentary/iran-war-remaking-global-order-opportunity-for-europe-by-peter-eitel-and-sigmar-gabriel-2026-09",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
     {
       "category": "energy",
       "source": "BBC World",
@@ -267,14 +275,6 @@
       "link": "https://www.wto.org/english/news_e/news26_e/safe_rus_14sep26_485_e.htm",
       "published": "2026-09-14",
       "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "财新",
-      "title": "贝莱德Heidi Yip：能源转型的投资机会在哪里？",
-      "link": "https://finance.caixin.com/2026-09-15/102485137.html",
-      "published": "2026-09-01",
-      "language": "中文"
     },
     {
       "category": "energy",
@@ -305,17 +305,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan logged 4th straight monthly trade deficit in August",
-      "link": "https://asia.nikkei.com/economy/trade/japan-logged-4th-straight-monthly-trade-deficit-in-august",
-      "published": "2026-09-16",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "More than 100,000 people in Japan are now aged 100 or older",
-      "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
+      "title": "Japan prefecture offers free bullet train rides to overseas tourists",
+      "link": "https://asia.nikkei.com/business/travel-leisure/japan-prefecture-offers-free-bullet-train-rides-to-overseas-tourists",
+      "published": "2026-09-17",
       "language": "EN"
     },
     {
@@ -345,25 +337,17 @@
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "How much can Canada fight back in its trade war with the US?",
-      "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-05",
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-04",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "图集｜大量韩国民众持续集会 反对向霍尔木兹海峡派兵",
-      "link": "https://photos.caixin.com/2026-09-15/102485181.html",
-      "published": "2026-09-01",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "US weighs buying warships from Japan, South Korea to counter China",
-      "link": "https://asia.nikkei.com/politics/defense/us-weighs-buying-warships-from-japan-south-korea-to-counter-china",
-      "published": "2026-09-16",
+      "title": "Myanmar targets southern panhandle as it courts Russian investment",
+      "link": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-targets-southern-panhandle-as-it-courts-russian-investment",
+      "published": "2026-09-17",
       "language": "EN"
     },
     {
@@ -376,34 +360,10 @@
     },
     {
       "category": "asia",
-      "source": "Project Syndicate",
-      "title": "Why Do So Few Women Work in India?",
-      "link": "https://www.project-syndicate.org/commentary/india-low-womens-labor-force-participation-rate-about-demand-not-norms-by-shishir-gupta-and-aalhya-sabharwal-2026-09",
-      "published": "2026-09-11",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-04",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "财新",
-      "title": "飞书上半年ARR增速创新高 字节跳动加大投资企业市场",
-      "link": "https://www.caixin.com/2026-09-15/102485169.html",
-      "published": "2026-09-01",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "How the loss of a Global Hawk's eye in the sky may hurt Japan's defense",
-      "link": "https://asia.nikkei.com/politics/defense/how-the-loss-of-a-global-hawk-s-eye-in-the-sky-may-hurt-japan-s-defense",
-      "published": "2026-09-16",
+      "title": "SoftBank's record $6.4bn bond sale tests limits of Japan's debt market",
+      "link": "https://asia.nikkei.com/business/markets/bonds/softbank-s-record-6.4bn-bond-sale-tests-limits-of-japan-s-debt-market",
+      "published": "2026-09-17",
       "language": "EN"
     },
     {
@@ -416,18 +376,10 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "贝莱德Heidi Yip：能源转型的投资机会在哪里？",
-      "link": "https://finance.caixin.com/2026-09-15/102485137.html",
-      "published": "2026-09-01",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "In labor-starved Japan, companies boost hiring perks for high school grads",
-      "link": "https://asia.nikkei.com/spotlight/work/in-labor-starved-japan-companies-boost-hiring-perks-for-high-school-grads",
-      "published": "2026-09-16",
+      "title": "Bain-backed group raises offer for Japan's Kakaku.com, challenging EQT",
+      "link": "https://asia.nikkei.com/business/business-deals/bain-backed-group-raises-offer-for-japan-s-kakaku.com-challenging-eqt",
+      "published": "2026-09-17",
       "language": "EN"
     },
     {
@@ -441,9 +393,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's JFE Engineering, startups bet on Philippine renewable energy",
-      "link": "https://asia.nikkei.com/business/energy/japan-s-jfe-engineering-startups-bet-on-philippine-renewable-energy",
-      "published": "2026-09-16",
+      "title": "Japan's Resonac, Nitto Denko to invest in US fund for AI hardware",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-resonac-nitto-denko-to-invest-in-us-fund-for-ai-hardware",
+      "published": "2026-09-17",
       "language": "EN"
     },
     {
@@ -457,9 +409,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China applies sweeping new entry and exit rules tied to national security",
-      "link": "https://asia.nikkei.com/spotlight/immigration/china-applies-sweeping-new-entry-and-exit-rules-tied-to-national-security",
-      "published": "2026-09-15",
+      "title": "Mitsubishi Heavy to boost Preferred Networks AI tie-up with investment",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/mitsubishi-heavy-to-boost-preferred-networks-ai-tie-up-with-investment",
+      "published": "2026-09-17",
       "language": "EN"
     },
     {
@@ -474,11 +426,51 @@
   "ideas": [
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "Project Syndicate",
+      "title": "AI Demands Simpler Financial Regulation",
+      "link": "https://www.project-syndicate.org/commentary/ai-could-make-financial-regulations-harder-to-enforce-by-amit-seru-2026-09",
       "published": "2026-09-16",
       "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "US interest rates raised for first time in three years",
+      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
+      "title": "World Trade & Tech Day: AI and trade increasingly intertwined",
+      "link": "https://www.wto.org/english/news_e/news26_e/dtech_14sep26_488_e.htm",
+      "published": "2026-09-14",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "顶尖名校博士争当中学老师 如何看待学历高消费？｜教育观察",
+      "link": "https://www.caixin.com/2026-09-17/102485644.html",
+      "published": "2026-09-01",
+      "language": "中文"
     },
     {
       "category": "ideas",
@@ -490,10 +482,18 @@
     },
     {
       "category": "ideas",
+      "source": "BBC Business",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "BBC World",
-      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-      "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
+      "title": "Why Trump is all-in on AI despite the warnings",
+      "link": "https://www.bbc.co.uk/news/articles/c34gd48x5rlwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
@@ -507,17 +507,9 @@
     {
       "category": "ideas",
       "source": "WTO",
-      "title": "World Trade & Tech Day: AI and trade increasingly intertwined",
-      "link": "https://www.wto.org/english/news_e/news26_e/dtech_14sep26_488_e.htm",
+      "title": "Russian Federation notifies launch of safeguard investigation on certain flat steel products",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_rus_14sep26_485_e.htm",
       "published": "2026-09-14",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
-      "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
       "language": "EN"
     },
     {
@@ -530,10 +522,18 @@
     },
     {
       "category": "ideas",
+      "source": "BBC Business",
+      "title": "Watch: Why has the Federal Reserve raised interest rates?",
+      "link": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "BBC World",
-      "title": "‘Great’ or ‘alarming’ - Should AI be reined in?",
-      "link": "https://www.bbc.co.uk/news/videos/cmdx5wdl7z0lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-14",
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-15",
       "language": "EN"
     },
     {
@@ -547,17 +547,9 @@
     {
       "category": "ideas",
       "source": "WTO",
-      "title": "Russian Federation notifies launch of safeguard investigation on certain flat steel products",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_rus_14sep26_485_e.htm",
-      "published": "2026-09-14",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-15",
+      "title": "Madagascar Launches Safeguard Investigation on Certain Types of Rice",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_03sep26_478_e.htm",
+      "published": "2026-09-03",
       "language": "EN"
     },
     {
@@ -570,50 +562,10 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "WTO",
-      "title": "Madagascar Launches Safeguard Investigation on Certain Types of Rice",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_03sep26_478_e.htm",
-      "published": "2026-09-03",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC Business",
-      "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-      "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+      "title": "A backlash over data centres is another threat to the AI juggernaut",
+      "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-15",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "AI Could Make Governments Slower",
-      "link": "https://www.project-syndicate.org/commentary/by-speeding-up-routine-tasks-ai-may-end-up-overwhelming-human-decision-makers-by-sami-mahroum-2026-09",
-      "published": "2026-09-11",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "link": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-12",
       "language": "EN"
     }
   ],
@@ -621,17 +573,17 @@
     [
       "BBC Business",
       "ok",
-      15
+      26
     ],
     [
       "BBC World",
       "ok",
-      11
+      9
     ],
     [
       "BBC Technology",
       "ok",
-      9
+      8
     ],
     [
       "BIS",
@@ -650,8 +602,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 13",
-      7
+      "ok 15",
+      10
     ],
     [
       "The Economist",
@@ -665,8 +617,8 @@
     ],
     [
       "World Bank",
-      "ok 0",
-      0
+      "ok 1",
+      1
     ],
     [
       "OECD",
@@ -680,13 +632,13 @@
     ],
     [
       "FT中文网",
-      "ok 1",
-      1
+      "ok 2",
+      0
     ],
     [
       "财新",
       "ok 18",
-      8
+      9
     ],
     [
       "第一财经",
@@ -736,12 +688,12 @@
     [
       "Nikkei Asia",
       "ok 18",
-      10
+      11
     ],
     [
       "Project Syndicate",
-      "ok 14",
-      6
+      "ok 15",
+      8
     ],
     [
       "The Economist",
