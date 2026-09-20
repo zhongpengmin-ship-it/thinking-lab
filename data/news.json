@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19 03:15 UTC",
-  "date_display": "Saturday · 19 September 2026",
+  "generated_at": "2026-09-20 03:32 UTC",
+  "date_display": "Sunday · 20 September 2026",
   "world": [
     {
       "category": "world",
@@ -20,17 +20,25 @@
     },
     {
       "category": "world",
+      "source": "FT中文网",
+      "title": "SHEIN与Temu之争：供应链、全球化与跨境电商焦虑",
+      "link": "https://www.ftchinese.com/story/001110932",
+      "published": "2026-09-19",
+      "language": "中文"
+    },
+    {
+      "category": "world",
       "source": "BBC World",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-18",
+      "title": "Cultural treasures are being destroyed by war, and people want justice",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "美联储加息落地 人民币兑美元汇率为何不贬反升（更新）",
-      "link": "https://finance.caixin.com/2026-09-18/102486250.html",
+      "title": "人事观察｜上海市政府高层再变动 52岁华源再任副市长",
+      "link": "https://china.caixin.com/2026-09-19/102486650.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -77,16 +85,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-      "link": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-18",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "美国丹麦和格陵兰将签协议 欲在岛上禁止美对手国家的军事存在和敏感投资",
-      "link": "https://international.caixin.com/2026-09-19/102486437.html",
+      "title": "从“第51州”到霍尔木兹海峡：特朗普不断延伸的“美国版图”",
+      "link": "https://international.caixin.com/2026-09-19/102486654.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -133,16 +141,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-18",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "8月税收拖累财政收入同比增速降至4.7% 支出由增转降",
-      "link": "https://economy.caixin.com/2026-09-18/102486335.html",
+      "title": "空客天津第二条总装线交付首架飞机 中国供应商占比上升",
+      "link": "https://companies.caixin.com/2026-09-19/102486646.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -181,16 +189,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-      "link": "https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-18",
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "GPT周报｜OpenAI称AI让员工“跨界干活”；智谱推出新模型GLM-5.3-FlashX；黄仁勋称2027年英伟达芯片销量有望翻倍",
-      "link": "https://www.caixin.com/2026-09-18/102486319.html",
+      "title": "美国丹麦和格陵兰将签协议 欲在岛上禁止美对手国家的军事存在和敏感投资",
+      "link": "https://international.caixin.com/2026-09-19/102486437.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -221,8 +229,8 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "收47万美元认证16亿美元假信用证 建行亚洲前员工获刑4年",
-      "link": "https://finance.caixin.com/2026-09-18/102486295.html",
+      "title": "美联储加息落地 人民币兑美元汇率为何不贬反升（更新）",
+      "link": "https://finance.caixin.com/2026-09-18/102486250.html",
       "published": "2026-09-01",
       "language": "中文"
     },
@@ -245,8 +253,8 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "夜读精选｜美联储加息落地 人民币兑美元汇率为何不贬反升（更新）",
-      "link": "https://www.caixin.com/2026-09-18/102486281.html",
+      "title": "8月税收拖累财政收入同比增速降至4.7% 支出由增转降",
+      "link": "https://economy.caixin.com/2026-09-18/102486335.html",
       "published": "2026-09-01",
       "language": "中文"
     }
@@ -258,14 +266,6 @@
       "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
       "link": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-18",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC World",
-      "title": "'This is our company': Nigerians show off oil wealth after share-buying frenzy",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-17",
       "language": "EN"
     },
     {
@@ -305,24 +305,32 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Spike hazard: Thai farmers go all in to feed China's durian craving",
-      "link": "https://asia.nikkei.com/spotlight/big-in-asia/spike-hazard-thai-farmers-go-all-in-to-feed-china-s-durian-craving",
+      "title": "China's Leapmotor overtakes Subaru, Mitsubishi Motors in global sales",
+      "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-s-leapmotor-overtakes-subaru-mitsubishi-motors-in-global-sales",
+      "published": "2026-09-20",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-19",
       "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "FT中文网",
+      "title": "SHEIN与Temu之争：供应链、全球化与跨境电商焦虑",
+      "link": "https://www.ftchinese.com/story/001110932",
+      "published": "2026-09-19",
+      "language": "中文"
     },
     {
       "category": "asia",
       "source": "BBC Business",
       "title": "Japan raises interest rate to new 31-year high to curb rising prices",
       "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-18",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "North Korean anthem played for South Korea at Asian Games",
-      "link": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-18",
       "language": "EN"
     },
@@ -344,34 +352,18 @@
     },
     {
       "category": "asia",
-      "source": "BBC Technology",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "财新",
-      "title": "美国丹麦和格陵兰将签协议 欲在岛上禁止美对手国家的军事存在和敏感投资",
-      "link": "https://international.caixin.com/2026-09-19/102486437.html",
+      "title": "空客天津第二条总装线交付首架飞机 中国供应商占比上升",
+      "link": "https://companies.caixin.com/2026-09-19/102486646.html",
       "published": "2026-09-01",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "North Korean hackers disguise cyberattacks as job interviews with AI",
-      "link": "https://asia.nikkei.com/spotlight/society/crime/north-korean-hackers-disguise-cyberattacks-as-job-interviews-with-ai",
-      "published": "2026-09-19",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-04",
+      "title": "Japan's response to US 'foreign pressure' must be to benefit of both",
+      "link": "https://asia.nikkei.com/spotlight/comment/japan-s-response-to-us-foreign-pressure-must-be-to-benefit-of-both",
+      "published": "2026-09-20",
       "language": "EN"
     },
     {
@@ -380,6 +372,14 @@
       "title": "Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt",
       "link": "https://www.bbc.co.uk/news/articles/c670lkvdzkn2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-18",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-04",
       "language": "EN"
     },
     {
@@ -393,17 +393,17 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "收47万美元认证16亿美元假信用证 建行亚洲前员工获刑4年",
-      "link": "https://finance.caixin.com/2026-09-18/102486295.html",
+      "title": "美国丹麦和格陵兰将签协议 欲在岛上禁止美对手国家的军事存在和敏感投资",
+      "link": "https://international.caixin.com/2026-09-19/102486437.html",
       "published": "2026-09-01",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's Prodrone gears up to mass produce 58,000 drones a year",
-      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-s-prodrone-gears-up-to-mass-produce-58-000-drones-a-year",
-      "published": "2026-09-19",
+      "title": "China's young women embrace Japan's Lolita fashion with local twist",
+      "link": "https://asia.nikkei.com/business/retail/china-s-young-women-embrace-japan-s-lolita-fashion-with-local-twist",
+      "published": "2026-09-20",
       "language": "EN"
     },
     {
@@ -417,8 +417,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
-      "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
+      "title": "Spike hazard: Thai farmers go all in to feed China's durian craving",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/spike-hazard-thai-farmers-go-all-in-to-feed-china-s-durian-craving",
       "published": "2026-09-19",
       "language": "EN"
     },
@@ -433,8 +433,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan chip gear maker Screen to expand into India, eyeing growing industry",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/japan-chip-gear-maker-screen-to-expand-into-india-eyeing-growing-industry",
+      "title": "Trump signs Russia sanctions bill that opens China, India to tariffs",
+      "link": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
       "published": "2026-09-19",
       "language": "EN"
     },
@@ -466,6 +466,14 @@
   "ideas": [
     {
       "category": "ideas",
+      "source": "BBC World",
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-19",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "Project Syndicate",
       "title": "A Congress for Europe’s Future",
       "link": "https://www.project-syndicate.org/commentary/congress-of-europe-2027-how-it-should-work-by-janis-a-emmanouilidis-2026-09",
@@ -477,14 +485,6 @@
       "source": "BBC Business",
       "title": "Japan raises interest rate to new 31-year high to curb rising prices",
       "link": "https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-18",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "link": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-18",
       "language": "EN"
     },
@@ -506,11 +506,11 @@
     },
     {
       "category": "ideas",
-      "source": "财新",
-      "title": "GPT周报｜OpenAI称AI让员工“跨界干活”；智谱推出新模型GLM-5.3-FlashX；黄仁勋称2027年英伟达芯片销量有望翻倍",
-      "link": "https://www.caixin.com/2026-09-18/102486319.html",
-      "published": "2026-09-01",
-      "language": "中文"
+      "source": "BBC World",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-19",
+      "language": "EN"
     },
     {
       "category": "ideas",
@@ -546,11 +546,11 @@
     },
     {
       "category": "ideas",
-      "source": "财新",
-      "title": "PayPal大中华区CEO张弘谈AI支付：“没有硝烟的竞争早已悄然展开”",
-      "link": "https://finance.caixin.com/2026-09-17/102486002.html",
-      "published": "2026-09-01",
-      "language": "中文"
+      "source": "BBC World",
+      "title": "Mum's viral barefoot race sparks debate over India's education crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cw62m6z7m7zjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-19",
+      "language": "EN"
     },
     {
       "category": "ideas",
@@ -586,6 +586,14 @@
     },
     {
       "category": "ideas",
+      "source": "BBC World",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-19",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "Project Syndicate",
       "title": "AI Addicts Won’t Make Better Workers",
       "link": "https://www.project-syndicate.org/commentary/ai-addiction-could-be-drag-on-labor-productivity-by-amar-bhide-2026-08",
@@ -599,14 +607,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-17",
       "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-13",
-      "language": "EN"
     }
   ],
   "source_status": [
@@ -618,12 +618,12 @@
     [
       "BBC World",
       "ok",
-      9
+      10
     ],
     [
       "BBC Technology",
       "ok",
-      6
+      7
     ],
     [
       "BIS",
@@ -672,13 +672,13 @@
     ],
     [
       "FT中文网",
-      "ok 0",
-      0
+      "ok 1",
+      1
     ],
     [
       "财新",
       "ok 18",
-      8
+      6
     ],
     [
       "第一财经",
@@ -727,8 +727,8 @@
     ],
     [
       "Nikkei Asia",
-      "ok 17",
-      11
+      "ok 18",
+      10
     ],
     [
       "Project Syndicate",
