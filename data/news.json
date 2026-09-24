@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-09-23 03:27 UTC",
-  "date_display": "Wednesday · 23 September 2026",
+  "generated_at": "2026-09-24 03:16 UTC",
+  "date_display": "Thursday · 24 September 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
-      "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Preventing an AI World War",
-      "link": "https://www.project-syndicate.org/commentary/us-china-agreement-on-ai-governance-must-include-mechanism-for-identifying-accidental-attacks-by-s-alex-yang-and-angela-huyue-zhang-2026-09",
-      "published": "2026-09-22",
+      "title": "The AI Productivity Delusion",
+      "link": "https://www.project-syndicate.org/commentary/ai-productivity-debate-asks-the-wrong-question-by-yanis-varoufakis-2026-09",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "FT中文网",
-      "title": "新能源为什么越来越难：装机创新高之后，赚钱逻辑变了",
-      "link": "https://www.ftchinese.com/story/001110962",
-      "published": "2026-09-21",
+      "title": "谷歌遭遇顶级投资者估值分歧：该盯折旧还是盯学习曲线？",
+      "link": "https://www.ftchinese.com/story/001110975",
+      "published": "2026-09-23",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
-      "link": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran's president tells Trump it will never 'bend the knee'",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23",
       "language": "EN"
     },
@@ -53,33 +53,41 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "A new skyline of data centres is rising from the rolling plains of rural China",
-      "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+      "link": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "A Central European Model for EU Growth",
-      "link": "https://www.project-syndicate.org/commentary/central-and-eastern-europe-offers-blueprint-for-reviving-eu-dynamism-by-marcin-piatkowski-1-2026-09",
-      "published": "2026-09-21",
+      "title": "Europe’s Third Way on China",
+      "link": "https://www.project-syndicate.org/commentary/europe-china-trade-third-way-by-pinelopi-koujianou-goldberg-2026-09",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "FT中文网",
+      "title": "从反倾销到贸易战: 贸易政策与争端的过去、现在与未来",
+      "link": "https://www.ftchinese.com/story/001110948",
+      "published": "2026-09-23",
+      "language": "中文"
+    },
+    {
+      "category": "world",
       "source": "BBC World",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
@@ -101,33 +109,33 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-22",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "IMF tells advanced economies to 'bring debt down' as borrowing costs rise",
-      "link": "https://www.bbc.co.uk/news/articles/cx305ymq4ldqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "What It Means for Global Warming to Exceed 1.5°C",
-      "link": "https://www.project-syndicate.org/commentary/climate-overshoot-net-zero-no-longer-enough-by-nicholas-stern-2026-09",
-      "published": "2026-09-21",
+      "title": "Preventing an AI World War",
+      "link": "https://www.project-syndicate.org/commentary/us-china-agreement-on-ai-governance-must-include-mechanism-for-identifying-accidental-attacks-by-s-alex-yang-and-angela-huyue-zhang-2026-09",
+      "published": "2026-09-22",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
@@ -141,33 +149,33 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-19",
+      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-22",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The Political Earthquake From Germany’s China Shock",
-      "link": "https://www.project-syndicate.org/commentary/china-shock-contributed-to-the-afd-s-rise-in-germany-by-dalia-marin-2026-09",
-      "published": "2026-09-18",
+      "title": "The Digital Wellness Industry Is Hijacking Women’s Health",
+      "link": "https://www.project-syndicate.org/commentary/health-apps-are-getting-between-women-and-their-doctors-by-danielle-keats-citron-et-al-2026-09",
+      "published": "2026-09-07",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
@@ -181,33 +189,17 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Trump says he would back ban on diesel exports",
-      "link": "https://www.bbc.co.uk/news/articles/cmkg7560epw0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "It’s Time to Reconsider Inflation Targeting",
-      "link": "https://www.project-syndicate.org/commentary/central-banks-must-pay-more-attention-to-money-supply-by-otmar-issing-2026-09",
-      "published": "2026-09-17",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-      "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "AI Demands Simpler Financial Regulation",
-      "link": "https://www.project-syndicate.org/commentary/ai-could-make-financial-regulations-harder-to-enforce-by-amit-seru-2026-09",
-      "published": "2026-09-16",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     }
   ],
@@ -215,26 +207,26 @@
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-      "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC World",
+      "title": "Watch: Trump and Xi are meeting on US soil - what's at stake?",
+      "link": "https://www.bbc.co.uk/news/videos/c38xk275jd21o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "energy",
       "source": "BBC Technology",
-      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
+      "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-22",
       "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "FT中文网",
-      "title": "新能源为什么越来越难：装机创新高之后，赚钱逻辑变了",
-      "link": "https://www.ftchinese.com/story/001110962",
-      "published": "2026-09-21",
-      "language": "中文"
     },
     {
       "category": "energy",
@@ -247,9 +239,9 @@
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Can Europe recharge its battery industry?",
-      "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-10",
+      "title": "How the oil capital of the US welcomed a solar power boom",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2zxv6936zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
@@ -259,39 +251,63 @@
       "link": "https://www.wto.org/english/news_e/news26_e/wtoi_09sep26_481_e.htm",
       "published": "2026-09-09",
       "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
+      "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-22",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Can Europe recharge its battery industry?",
+      "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-10",
+      "language": "EN"
     }
   ],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "El Nino, AI to widen economic growth gap in developing Asia: ADB",
-      "link": "https://asia.nikkei.com/economy/el-nino-ai-to-widen-economic-growth-gap-in-developing-asia-adb",
+      "title": "Japan's EdgeCortix looks to work with SpaceX on space data center chips",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-edgecortix-looks-to-work-with-spacex-on-space-data-center-chips",
+      "published": "2026-09-24",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "asia",
+      "source": "Project Syndicate",
+      "title": "Europe’s Third Way on China",
+      "link": "https://www.project-syndicate.org/commentary/europe-china-trade-third-way-by-pinelopi-koujianou-goldberg-2026-09",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "FT中文网",
+      "title": "谷歌遭遇顶级投资者估值分歧：该盯折旧还是盯学习曲线？",
+      "link": "https://www.ftchinese.com/story/001110975",
+      "published": "2026-09-23",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
       "source": "BBC Technology",
-      "title": "A new skyline of data centres is rising from the rolling plains of rural China",
+      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
       "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-22",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-21",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Project Syndicate",
-      "title": "The Political Earthquake From Germany’s China Shock",
-      "link": "https://www.project-syndicate.org/commentary/china-shock-contributed-to-the-afd-s-rise-in-germany-by-dalia-marin-2026-09",
-      "published": "2026-09-18",
       "language": "EN"
     },
     {
@@ -304,22 +320,6 @@
     },
     {
       "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Xi skips UN address to show China as equal to rival US",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-skips-un-address-to-show-china-as-equal-to-rival-us",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Technology",
-      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "BBC Business",
       "title": "From 'dog fruit' to darling: India's avocado boom",
       "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
@@ -328,10 +328,26 @@
     },
     {
       "category": "asia",
-      "source": "Project Syndicate",
-      "title": "The AI Race Could Sink US-China Détente",
-      "link": "https://www.project-syndicate.org/commentary/us-china-relationship-ai-race-could-renew-conflict-by-ian-bremmer-2026-09",
-      "published": "2026-09-08",
+      "source": "Nikkei Asia",
+      "title": "US and China agree to extend trade truce until January: Bessent",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-and-china-agree-to-extend-trade-truce-until-january-bessent",
+      "published": "2026-09-24",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "FT中文网",
+      "title": "从反倾销到贸易战: 贸易政策与争端的过去、现在与未来",
+      "link": "https://www.ftchinese.com/story/001110948",
+      "published": "2026-09-23",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Technology",
+      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-22",
       "language": "EN"
     },
     {
@@ -345,9 +361,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Trump, Takaichi reaffirm alliance days before US-China summit",
-      "link": "https://asia.nikkei.com/politics/international-relations/trump-takaichi-reaffirm-alliance-days-before-us-china-summit",
-      "published": "2026-09-23",
+      "title": "Japan's Takaichi grows cautious of setting GDP defense spending target",
+      "link": "https://asia.nikkei.com/politics/defense/japan-s-takaichi-grows-cautious-of-setting-gdp-defense-spending-target",
+      "published": "2026-09-24",
       "language": "EN"
     },
     {
@@ -361,9 +377,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Starbucks' South Korean rivals get extra shot from marketing misstep",
-      "link": "https://asia.nikkei.com/business/business-asia/starbucks-south-korean-rivals-get-extra-shot-from-marketing-misstep",
-      "published": "2026-09-23",
+      "title": "LNG power proposed for Hawaii with $2bn project led by Japan's JERA",
+      "link": "https://asia.nikkei.com/business/energy/lng-power-proposed-for-hawaii-with-2bn-project-led-by-japan-s-jera",
+      "published": "2026-09-24",
       "language": "EN"
     },
     {
@@ -377,9 +393,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Big Japan banks' domestic loan share marks 1st sustained post-bubble rise",
-      "link": "https://asia.nikkei.com/business/finance/big-japan-banks-domestic-loan-share-marks-1st-sustained-post-bubble-rise",
-      "published": "2026-09-23",
+      "title": "India's solar companies face cell shortage amid China hurdles",
+      "link": "https://asia.nikkei.com/business/energy/india-s-solar-companies-face-cell-shortage-amid-china-hurdles",
+      "published": "2026-09-24",
       "language": "EN"
     },
     {
@@ -393,9 +409,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan PM voices support for International Criminal Court in UN speech",
-      "link": "https://asia.nikkei.com/politics/international-relations/japan-pm-voices-support-for-international-criminal-court-in-un-speech",
-      "published": "2026-09-23",
+      "title": "Israeli foundry Tower Semiconductor to make Japan main hub for optical chips",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/israeli-foundry-tower-semiconductor-to-make-japan-main-hub-for-optical-chips",
+      "published": "2026-09-24",
       "language": "EN"
     },
     {
@@ -411,8 +427,56 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Will Trump's AI rebrand to 'super intelligence' catch on?",
-      "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
+      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "The AI Productivity Delusion",
+      "link": "https://www.project-syndicate.org/commentary/ai-productivity-debate-asks-the-wrong-question-by-yanis-varoufakis-2026-09",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "OpenAI gives cyber defence tools to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "FT中文网",
+      "title": "从反倾销到贸易战: 贸易政策与争端的过去、现在与未来",
+      "link": "https://www.ftchinese.com/story/001110948",
+      "published": "2026-09-23",
+      "language": "中文"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
+      "title": "Young Trade Leaders meet with DG; discuss AI, environment, needs of developing economies",
+      "link": "https://www.wto.org/english/news_e/news26_e/pf26_17sep26_490_e.htm",
+      "published": "2026-09-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23",
       "language": "EN"
     },
@@ -427,56 +491,16 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "link": "https://www.bbc.co.uk/news/articles/c6dj4k98107do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "A new skyline of data centres is rising from the rolling plains of rural China",
+      "title": "Huge data centres rise at 'China speed' to power its AI ambitions",
       "link": "https://www.bbc.co.uk/news/articles/cm5ydz4kl65ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "WTO",
-      "title": "Young Trade Leaders meet with DG; discuss AI, environment, needs of developing economies",
-      "link": "https://www.wto.org/english/news_e/news26_e/pf26_17sep26_490_e.htm",
-      "published": "2026-09-17",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "AI Demands Simpler Financial Regulation",
-      "link": "https://www.project-syndicate.org/commentary/ai-could-make-financial-regulations-harder-to-enforce-by-amit-seru-2026-09",
-      "published": "2026-09-16",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Why is the Bab al-Mandab Strait so important?",
-      "link": "https://www.bbc.co.uk/news/videos/c6kgw4xklvx3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "Rare look at the remote engine rooms powering China's AI ambitions",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-22",
       "language": "EN"
     },
@@ -491,41 +515,9 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "US and China discuss AI safety plan ahead of Trump-Xi summit",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgyzn2d31yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-21",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "The AI Race Could Sink US-China Détente",
-      "link": "https://www.project-syndicate.org/commentary/us-china-relationship-ai-race-could-renew-conflict-by-ian-bremmer-2026-09",
-      "published": "2026-09-08",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-19",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "WTO",
-      "title": "Russian Federation notifies launch of safeguard investigation on certain flat steel products",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_rus_14sep26_485_e.htm",
-      "published": "2026-09-14",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
-      "link": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-20",
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
@@ -539,14 +531,38 @@
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
-      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-17",
+      "title": "Rare look at the remote engine rooms fuelling China's AI boom",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-22",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
+      "title": "Russian Federation notifies launch of safeguard investigation on certain flat steel products",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_rus_14sep26_485_e.htm",
+      "published": "2026-09-14",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
+      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "AI Addicts Won’t Make Better Workers",
+      "link": "https://www.project-syndicate.org/commentary/ai-addiction-could-be-drag-on-labor-productivity-by-amar-bhide-2026-08",
+      "published": "2026-08-31",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
       "title": "Not all AI workers think the tech could kill everyone",
       "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-19",
@@ -557,12 +573,12 @@
     [
       "BBC Business",
       "ok",
-      22
+      24
     ],
     [
       "BBC World",
       "ok",
-      6
+      9
     ],
     [
       "BBC Technology",
@@ -586,8 +602,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 13",
-      8
+      "ok 10",
+      4
     ],
     [
       "The Economist",
@@ -616,8 +632,8 @@
     ],
     [
       "FT中文网",
-      "ok 1",
-      1
+      "ok 3",
+      2
     ],
     [
       "财新",
@@ -671,13 +687,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 17",
-      11
+      "ok 18",
+      10
     ],
     [
       "Project Syndicate",
-      "ok 15",
-      5
+      "ok 12",
+      4
     ],
     [
       "The Economist",
