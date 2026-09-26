@@ -1,36 +1,76 @@
 {
-  "generated_at": "2026-09-25 03:34 UTC",
-  "date_display": "Friday · 25 September 2026",
+  "generated_at": "2026-09-26 03:39 UTC",
+  "date_display": "Saturday · 26 September 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Lies, Election Lies, and Trump’s Statisticians",
-      "link": "https://www.project-syndicate.org/commentary/trump-corrupting-official-data-reporting-to-push-election-lie-by-michael-r-strain-2026-09",
+      "title": "The AI Productivity Delusion",
+      "link": "https://www.project-syndicate.org/commentary/ai-productivity-debate-asks-the-wrong-question-by-yanis-varoufakis-2026-09",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "WTO members review agriculture negotiation history, discuss ways forward",
+      "link": "https://www.wto.org/english/news_e/news26_e/agng_23sep26_495_e.htm",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "Michael Kremer Appointed as World Bank Group Chief Economist",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/09/16/michael-kremer-appointed-as-world-bank-group-chief-economist#",
+      "published": "2026-09-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "FT中文网",
-      "title": "从反倾销到贸易战: 贸易政策与争端的过去、现在与未来",
-      "link": "https://www.ftchinese.com/story/001110948",
+      "source": "BBC Business",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Europe’s Third Way on China",
+      "link": "https://www.project-syndicate.org/commentary/europe-china-trade-third-way-by-pinelopi-koujianou-goldberg-2026-09",
       "published": "2026-09-23",
-      "language": "中文"
+      "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "link": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25",
       "language": "EN"
     },
@@ -45,9 +85,9 @@
     {
       "category": "world",
       "source": "World Bank",
-      "title": "Michael Kremer Appointed as World Bank Group Chief Economist",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/09/16/michael-kremer-appointed-as-world-bank-group-chief-economist#",
-      "published": "2026-09-16",
+      "title": "WBG Launches Initiative to Help Local Financial Institutions Expand Digital Payments in Emerging Markets",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/09/10/world-bank-group-launches-initiative-to-help-local-financial-institutions-expand-d",
+      "published": "2026-09-09",
       "language": "EN"
     },
     {
@@ -61,25 +101,25 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Food banks 'in crisis' amid fears some may have to close",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
+      "title": "Save or Overpay? What to do with your mortgage if interest rates rise",
+      "link": "https://www.bbc.co.uk/news/videos/c65y55j2dxepo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The AI Productivity Delusion",
-      "link": "https://www.project-syndicate.org/commentary/ai-productivity-debate-asks-the-wrong-question-by-yanis-varoufakis-2026-09",
-      "published": "2026-09-23",
+      "title": "Hedging the AI Doomsday Risk",
+      "link": "https://www.project-syndicate.org/commentary/ai-industry-warnings-too-serious-to-dismiss-outright-by-dambisa-moyo-2026-09",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
-      "link": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
       "language": "EN"
     },
     {
@@ -92,42 +132,34 @@
     },
     {
       "category": "world",
-      "source": "World Bank",
-      "title": "WBG Launches Initiative to Help Local Financial Institutions Expand Digital Payments in Emerging Markets",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/09/10/world-bank-group-launches-initiative-to-help-local-financial-institutions-expand-d",
-      "published": "2026-09-09",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "BBC Technology",
-      "title": "OpenAI gives cyber defence tools to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
+      "title": "Food banks 'in crisis' amid fears some may have to close",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Europe’s Third Way on China",
-      "link": "https://www.project-syndicate.org/commentary/europe-china-trade-third-way-by-pinelopi-koujianou-goldberg-2026-09",
-      "published": "2026-09-23",
+      "title": "The Digital Wellness Industry Is Hijacking Women’s Health",
+      "link": "https://www.project-syndicate.org/commentary/health-apps-are-getting-between-women-and-their-doctors-by-danielle-keats-citron-et-al-2026-09",
+      "published": "2026-09-07",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
       "language": "EN"
     },
     {
@@ -141,56 +173,16 @@
     {
       "category": "world",
       "source": "BBC Business",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
       "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
       "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "AI and the Broken Career Ladder",
-      "link": "https://www.project-syndicate.org/commentary/ai-policymakers-must-focus-rebuilding-bottom-rung-of-career-ladder-by-eric-hazan-2026-09",
-      "published": "2026-09-15",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "WTO Public Forum 2026 spotlights role of services in driving world trade",
-      "link": "https://www.wto.org/english/news_e/news26_e/pf26_15sep26_487_e.htm",
-      "published": "2026-09-15",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "The Digital Wellness Industry Is Hijacking Women’s Health",
-      "link": "https://www.project-syndicate.org/commentary/health-apps-are-getting-between-women-and-their-doctors-by-danielle-keats-citron-et-al-2026-09",
-      "published": "2026-09-07",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "UK warned over ballooning debt costs and slower growth ahead of Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23",
       "language": "EN"
     }
@@ -215,22 +207,6 @@
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-      "link": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "WTO",
-      "title": "Goods barometer points to resilient trade growth despite headwinds",
-      "link": "https://www.wto.org/english/news_e/news26_e/wtoi_09sep26_481_e.htm",
-      "published": "2026-09-09",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC Business",
       "title": "Can Europe recharge its battery industry?",
       "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-10",
@@ -241,57 +217,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Xi urges limits on US-China rivalry, human control of AI",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/xi-urges-limits-on-us-china-rivalry-human-control-of-ai",
-      "published": "2026-09-25",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Project Syndicate",
-      "title": "Europe’s Third Way on China",
-      "link": "https://www.project-syndicate.org/commentary/europe-china-trade-third-way-by-pinelopi-koujianou-goldberg-2026-09",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "FT中文网",
-      "title": "从反倾销到贸易战: 贸易政策与争端的过去、现在与未来",
-      "link": "https://www.ftchinese.com/story/001110948",
-      "published": "2026-09-23",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "Young Trade Leaders meet with DG; discuss AI, environment, needs of developing economies",
-      "link": "https://www.wto.org/english/news_e/news26_e/pf26_17sep26_490_e.htm",
-      "published": "2026-09-17",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Iran war takes Southeast Asia's renewable plans to new heights",
-      "link": "https://asia.nikkei.com/business/energy/iran-war-takes-southeast-asia-s-renewable-plans-to-new-heights",
-      "published": "2026-09-25",
+      "title": "Japan's Kokuyo charms China's students with stylish notebooks",
+      "link": "https://asia.nikkei.com/business/consumer/japan-s-kokuyo-charms-china-s-students-with-stylish-notebooks",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
@@ -305,9 +233,41 @@
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-04",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Technology",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "Europe’s Third Way on China",
+      "link": "https://www.project-syndicate.org/commentary/europe-china-trade-third-way-by-pinelopi-koujianou-goldberg-2026-09",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Young Trade Leaders meet with DG; discuss AI, environment, needs of developing economies",
+      "link": "https://www.wto.org/english/news_e/news26_e/pf26_17sep26_490_e.htm",
+      "published": "2026-09-17",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Toyota's China EV push leaves Japanese suppliers in the cold",
+      "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/toyota-s-china-ev-push-leaves-japanese-suppliers-in-the-cold",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
@@ -321,17 +281,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan struggles to find way to fund Takaichi budget with no new deficit bonds",
-      "link": "https://asia.nikkei.com/business/markets/bonds/japan-struggles-to-find-way-to-fund-takaichi-budget-with-no-new-deficit-bonds",
-      "published": "2026-09-25",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
+      "title": "Indonesia coffee trade wilts under brunt of climate change",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/indonesia-coffee-trade-wilts-under-brunt-of-climate-change",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
@@ -345,9 +297,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Toyota supplier Toyoda Gosei to build Indian auto parts plant",
-      "link": "https://asia.nikkei.com/business/automobiles/toyota-supplier-toyoda-gosei-to-build-indian-auto-parts-plant",
-      "published": "2026-09-25",
+      "title": "Saudi coalition says it has intercepted Houthi missiles, drones",
+      "link": "https://asia.nikkei.com/politics/middle-east-crisis/saudi-coalition-says-it-has-intercepted-houthi-missiles-drones",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
@@ -361,33 +313,17 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "US and China agree to extend trade truce until January: Bessent",
-      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/us-and-china-agree-to-extend-trade-truce-until-january-bessent",
-      "published": "2026-09-24",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "WTO study explores the role of stablecoins in international trade",
-      "link": "https://www.wto.org/english/news_e/news26_e/dtech_14sep26_486_e.htm",
-      "published": "2026-09-14",
+      "title": "China's auto industry reaches consolidation tipping point",
+      "link": "https://asia.nikkei.com/business/automobiles/china-s-auto-industry-reaches-consolidation-tipping-point",
+      "published": "2026-09-25",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "India's NSE bourse closes higher after country's biggest IPO of the year",
-      "link": "https://asia.nikkei.com/business/markets/ipo/india-s-nse-bourse-closes-higher-after-country-s-biggest-ipo-of-the-year",
-      "published": "2026-09-24",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "Goods barometer points to resilient trade growth despite headwinds",
-      "link": "https://www.wto.org/english/news_e/news26_e/wtoi_09sep26_481_e.htm",
-      "published": "2026-09-09",
+      "title": "Trump remarks on China as WWII 'ally' raise eyebrows in Japan",
+      "link": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-remarks-on-china-as-wwii-ally-raise-eyebrows-in-japan",
+      "published": "2026-09-25",
       "language": "EN"
     }
   ],
@@ -395,16 +331,16 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "What you need to know about the OpenAI Australian government hack",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-24",
       "language": "EN"
     },
@@ -426,42 +362,34 @@
     },
     {
       "category": "ideas",
-      "source": "FT中文网",
-      "title": "从反倾销到贸易战: 贸易政策与争端的过去、现在与未来",
-      "link": "https://www.ftchinese.com/story/001110948",
-      "published": "2026-09-23",
-      "language": "中文"
-    },
-    {
-      "category": "ideas",
       "source": "WTO",
-      "title": "Young Trade Leaders meet with DG; discuss AI, environment, needs of developing economies",
-      "link": "https://www.wto.org/english/news_e/news26_e/pf26_17sep26_490_e.htm",
-      "published": "2026-09-17",
+      "title": "WTO members review agriculture negotiation history, discuss ways forward",
+      "link": "https://www.wto.org/english/news_e/news26_e/agng_23sep26_495_e.htm",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Why India's Election Commission is in the eye of a storm - again",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgw68yjg29o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "OpenAI gives cyber defence tools to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
+      "title": "What you need to know about the OpenAI Australian government hack",
+      "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-24",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "AI and the Broken Career Ladder",
-      "link": "https://www.project-syndicate.org/commentary/ai-policymakers-must-focus-rebuilding-bottom-rung-of-career-ladder-by-eric-hazan-2026-09",
-      "published": "2026-09-15",
+      "title": "Hedging the AI Doomsday Risk",
+      "link": "https://www.project-syndicate.org/commentary/ai-industry-warnings-too-serious-to-dismiss-outright-by-dambisa-moyo-2026-09",
+      "published": "2026-09-16",
       "language": "EN"
     },
     {
@@ -475,17 +403,17 @@
     {
       "category": "ideas",
       "source": "WTO",
-      "title": "World Trade & Tech Day: AI and trade increasingly intertwined",
-      "link": "https://www.wto.org/english/news_e/news26_e/dtech_14sep26_488_e.htm",
-      "published": "2026-09-14",
+      "title": "Young Trade Leaders meet with DG; discuss AI, environment, needs of developing economies",
+      "link": "https://www.wto.org/english/news_e/news26_e/pf26_17sep26_490_e.htm",
+      "published": "2026-09-17",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
       "language": "EN"
     },
     {
@@ -507,6 +435,30 @@
     {
       "category": "ideas",
       "source": "WTO",
+      "title": "World Trade & Tech Day: AI and trade increasingly intertwined",
+      "link": "https://www.wto.org/english/news_e/news26_e/dtech_14sep26_488_e.htm",
+      "published": "2026-09-14",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Pope warns against 'losing humanity' to AI machines",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Why some experts increasingly fear AI will take over",
+      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
       "title": "Russian Federation notifies launch of safeguard investigation on certain flat steel products",
       "link": "https://www.wto.org/english/news_e/news26_e/safe_rus_14sep26_485_e.htm",
       "published": "2026-09-14",
@@ -514,26 +466,10 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC Business",
-      "title": "Trump wants AI to be rebranded as super intelligence. Will it work?",
-      "link": "https://www.bbc.co.uk/news/articles/cqy4z9pv4w0po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "'I don't have a buoyancy aid': Living without the Bank of Mum and Dad",
-      "link": "https://www.bbc.co.uk/news/articles/c8dx5p7gd4e9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-22",
+      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
+      "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-08",
       "language": "EN"
     }
   ],
@@ -541,12 +477,12 @@
     [
       "BBC Business",
       "ok",
-      19
+      12
     ],
     [
       "BBC World",
       "ok",
-      11
+      8
     ],
     [
       "BBC Technology",
@@ -561,7 +497,7 @@
     [
       "WTO",
       "ok",
-      9
+      8
     ],
     [
       "IRENA",
@@ -570,8 +506,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 12",
-      5
+      "ok 11",
+      4
     ],
     [
       "The Economist",
@@ -600,8 +536,8 @@
     ],
     [
       "FT中文网",
-      "ok 1",
-      1
+      "ok 0",
+      0
     ],
     [
       "财新",
@@ -660,7 +596,7 @@
     ],
     [
       "Project Syndicate",
-      "ok 15",
+      "ok 13",
       3
     ],
     [
