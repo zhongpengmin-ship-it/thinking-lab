@@ -1,28 +1,36 @@
 {
-  "generated_at": "2026-09-26 03:39 UTC",
-  "date_display": "Saturday · 26 September 2026",
+  "generated_at": "2026-09-27 03:48 UTC",
+  "date_display": "Sunday · 27 September 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
-      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The AI Productivity Delusion",
-      "link": "https://www.project-syndicate.org/commentary/ai-productivity-debate-asks-the-wrong-question-by-yanis-varoufakis-2026-09",
+      "title": "Europe’s Third Way on China",
+      "link": "https://www.project-syndicate.org/commentary/europe-china-trade-third-way-by-pinelopi-koujianou-goldberg-2026-09",
       "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "FT中文网",
+      "title": "一周世界舆论聚焦：中美元首峰会和李在明对朝核的新认知",
+      "link": "https://www.ftchinese.com/story/001110992",
+      "published": "2026-09-25",
+      "language": "中文"
+    },
+    {
+      "category": "world",
       "source": "BBC World",
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26",
       "language": "EN"
     },
@@ -53,25 +61,25 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25",
+      "title": "Could an iced coffee freeze you out of the job market?",
+      "link": "https://www.bbc.co.uk/news/articles/cv62k9p1rz4do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Europe’s Third Way on China",
-      "link": "https://www.project-syndicate.org/commentary/europe-china-trade-third-way-by-pinelopi-koujianou-goldberg-2026-09",
+      "title": "The AI Productivity Delusion",
+      "link": "https://www.project-syndicate.org/commentary/ai-productivity-debate-asks-the-wrong-question-by-yanis-varoufakis-2026-09",
       "published": "2026-09-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
@@ -101,8 +109,8 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Save or Overpay? What to do with your mortgage if interest rates rise",
-      "link": "https://www.bbc.co.uk/news/videos/c65y55j2dxepo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+      "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-25",
       "language": "EN"
     },
@@ -117,9 +125,9 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25",
+      "title": "Republic of Ireland to wear black armbands for Israel game",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
@@ -141,9 +149,9 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Food banks 'in crisis' amid fears some may have to close",
-      "link": "https://www.bbc.co.uk/news/articles/ck62m1mzr4evo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
+      "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
       "language": "EN"
     },
     {
@@ -157,9 +165,9 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
@@ -173,21 +181,29 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
+      "title": "Save or Overpay? What to do with your mortgage if interest rates rise",
+      "link": "https://www.bbc.co.uk/news/videos/c65y55j2dxepo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-23",
       "language": "EN"
     }
   ],
   "energy": [
+    {
+      "category": "energy",
+      "source": "BBC World",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
+      "language": "EN"
+    },
     {
       "category": "energy",
       "source": "BBC Business",
@@ -206,6 +222,14 @@
     },
     {
       "category": "energy",
+      "source": "BBC World",
+      "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+      "link": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
       "source": "BBC Business",
       "title": "Can Europe recharge its battery industry?",
       "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
@@ -217,17 +241,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's Kokuyo charms China's students with stylish notebooks",
-      "link": "https://asia.nikkei.com/business/consumer/japan-s-kokuyo-charms-china-s-students-with-stylish-notebooks",
-      "published": "2026-09-26",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "From Nagaland to a path to the Oscars: Indian film brings a rarely seen world to global cinema",
-      "link": "https://www.bbc.co.uk/news/articles/cv2dwk3z7x5eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-24",
+      "title": "Japan's Nozawa Onsen ski resort curbs development of tall hotels",
+      "link": "https://asia.nikkei.com/business/markets/property/japan-s-nozawa-onsen-ski-resort-curbs-development-of-tall-hotels",
+      "published": "2026-09-27",
       "language": "EN"
     },
     {
@@ -265,8 +281,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Toyota's China EV push leaves Japanese suppliers in the cold",
-      "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/toyota-s-china-ev-push-leaves-japanese-suppliers-in-the-cold",
+      "title": "Indonesia coffee trade wilts under brunt of climate change",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/indonesia-coffee-trade-wilts-under-brunt-of-climate-change",
       "published": "2026-09-26",
       "language": "EN"
     },
@@ -281,8 +297,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Indonesia coffee trade wilts under brunt of climate change",
-      "link": "https://asia.nikkei.com/spotlight/big-in-asia/indonesia-coffee-trade-wilts-under-brunt-of-climate-change",
+      "title": "Indian expats in Germany unnerved by far-right AfD's electoral gains",
+      "link": "https://asia.nikkei.com/spotlight/immigration/indian-expats-in-germany-unnerved-by-far-right-afd-s-electoral-gains",
       "published": "2026-09-26",
       "language": "EN"
     },
@@ -297,8 +313,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Saudi coalition says it has intercepted Houthi missiles, drones",
-      "link": "https://asia.nikkei.com/politics/middle-east-crisis/saudi-coalition-says-it-has-intercepted-houthi-missiles-drones",
+      "title": "Toyota's China EV push leaves Japanese suppliers in the cold",
+      "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/toyota-s-china-ev-push-leaves-japanese-suppliers-in-the-cold",
       "published": "2026-09-26",
       "language": "EN"
     },
@@ -313,9 +329,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China's auto industry reaches consolidation tipping point",
-      "link": "https://asia.nikkei.com/business/automobiles/china-s-auto-industry-reaches-consolidation-tipping-point",
-      "published": "2026-09-25",
+      "title": "Japan's Kokuyo charms China's students with stylish notebooks",
+      "link": "https://asia.nikkei.com/business/consumer/japan-s-kokuyo-charms-china-s-students-with-stylish-notebooks",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
@@ -330,9 +346,17 @@
   "ideas": [
     {
       "category": "ideas",
-      "source": "BBC World",
+      "source": "BBC Business",
       "title": "OpenAI bots meddled with multiple US government agency sites",
       "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26",
       "language": "EN"
     },
@@ -354,14 +378,6 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "WTO",
       "title": "WTO members review agriculture negotiation history, discuss ways forward",
       "link": "https://www.wto.org/english/news_e/news26_e/agng_23sep26_495_e.htm",
@@ -370,10 +386,18 @@
     },
     {
       "category": "ideas",
+      "source": "BBC Business",
+      "title": "Trump and Xi come face-to-face as US and China battle to win the AI race",
+      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "BBC World",
-      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25",
+      "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-26",
       "language": "EN"
     },
     {
@@ -394,18 +418,18 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
-      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "WTO",
       "title": "Young Trade Leaders meet with DG; discuss AI, environment, needs of developing economies",
       "link": "https://www.wto.org/english/news_e/news26_e/pf26_17sep26_490_e.htm",
       "published": "2026-09-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
@@ -426,14 +450,6 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-23",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "WTO",
       "title": "World Trade & Tech Day: AI and trade increasingly intertwined",
       "link": "https://www.wto.org/english/news_e/news26_e/dtech_14sep26_488_e.htm",
@@ -442,18 +458,10 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-25",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC Business",
-      "title": "Why some experts increasingly fear AI will take over",
-      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-09",
+      "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-23",
       "language": "EN"
     },
     {
@@ -467,9 +475,9 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-      "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-08",
+      "title": "Why some experts increasingly fear AI will take over",
+      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09",
       "language": "EN"
     }
   ],
@@ -477,12 +485,12 @@
     [
       "BBC Business",
       "ok",
-      12
+      13
     ],
     [
       "BBC World",
       "ok",
-      8
+      10
     ],
     [
       "BBC Technology",
@@ -536,8 +544,8 @@
     ],
     [
       "FT中文网",
-      "ok 0",
-      0
+      "ok 1",
+      1
     ],
     [
       "财新",
