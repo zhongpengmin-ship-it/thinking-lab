@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-06 05:00 UTC",
-  "date_display": "Tuesday · 06 October 2026",
+  "generated_at": "2026-10-07 04:27 UTC",
+  "date_display": "Wednesday · 07 October 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Community supermarket opens in shopping centre",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgjnmx6ln4o?at_medium=RSS&at_campaign=rss",
+      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Iran’s Moment of Opportunity",
-      "link": "https://www.project-syndicate.org/commentary/iran-opportunity-to-secure-relief-normalization-and-new-regional-balance-by-abdullah-gul-2026-10",
-      "published": "2026-10-05",
+      "title": "Why the US-China Trade Truce Matters",
+      "link": "https://www.project-syndicate.org/commentary/us-china-trade-truce-extension-global-significance-by-shang-jin-wei-2026-10",
+      "published": "2026-10-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-      "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-06",
+      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-07",
       "language": "EN"
     },
     {
@@ -37,48 +37,40 @@
     {
       "category": "world",
       "source": "WTO",
-      "title": "WTO MSME Group explores IP's role in trade, hears success stories and updates",
-      "link": "https://www.wto.org/english/news_e/news26_e/igmsm_02oct26_505_e.htm",
-      "published": "2026-10-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "World Bank",
-      "title": "Michael Kremer Appointed as World Bank Group Chief Economist",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/09/16/michael-kremer-appointed-as-world-bank-group-chief-economist#",
-      "published": "2026-09-16",
+      "title": "General Council addresses WTO reform, ministerial follow-ups, ongoing negotiations",
+      "link": "https://www.wto.org/english/news_e/news26_e/gc_05oct26_508_e.htm",
+      "published": "2026-10-05",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30",
+      "title": "Italian PM files to trademark her voice against AI threats",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05",
+      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+      "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Is Russia’s Placement on the Security Council Legal?",
-      "link": "https://www.project-syndicate.org/commentary/russia-usurped-soviet-security-council-seat-status-today-is-a-legal-fiction-by-denys-shtilierman-2026-10",
-      "published": "2026-10-05",
+      "title": "Does Inclusive Finance Really Need Stablecoins?",
+      "link": "https://www.project-syndicate.org/commentary/stablecoins-are-not-the-key-to-financial-inclusion-by-michael-wiegand-2-2026-10",
+      "published": "2026-10-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06",
       "language": "EN"
     },
@@ -93,25 +85,97 @@
     {
       "category": "world",
       "source": "WTO",
-      "title": "Members take stock of latest discussions on WTO reform",
-      "link": "https://www.wto.org/english/news_e/news26_e/refrm_30sep26_503_e.htm",
-      "published": "2026-09-30",
+      "title": "Co-sponsors of sustainability initiative advance work plan towards MC15",
+      "link": "https://www.wto.org/english/news_e/news26_e/tessd_02oct26_507_e.htm",
+      "published": "2026-10-02",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30",
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Five reasons India's stock market is sinking even when its economy is growing",
-      "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Brazil’s Election Debacle Is Lula’s Fault",
+      "link": "https://www.project-syndicate.org/commentary/reasons-for-lula-and-allies-crushing-defeat-in-brazil-by-andres-velasco-2026-10",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "WTO MSME Group explores IP's role in trade, hears success stories and updates",
+      "link": "https://www.wto.org/english/news_e/news26_e/igmsm_02oct26_505_e.htm",
+      "published": "2026-10-02",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Iran’s Moment of Opportunity",
+      "link": "https://www.project-syndicate.org/commentary/iran-opportunity-to-secure-relief-normalization-and-new-regional-balance-by-abdullah-gul-2026-10",
       "published": "2026-10-05",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "DDG Nordquist: Trade continues apace, showing resiliency",
+      "link": "https://www.wto.org/english/news_e/news26_e/ddgjn_01oct26_506_e.htm",
+      "published": "2026-10-01",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Irish budget tackles childcare and energy costs",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
       "language": "EN"
     },
     {
@@ -124,82 +188,10 @@
     },
     {
       "category": "world",
-      "source": "BBC World",
-      "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "title": "Banks still refusing credit cards, watchdog says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg0lyl3v8eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-06",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "美国9月新增就业2.9万逊于预期 中期选举前不加息概率升至83%",
-      "link": "https://international.caixin.com/2026-10-02/102490477.html",
-      "published": "2026-10-02",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "John H. Jackson Moot Court Competition kicks off with webinar support on offer",
-      "link": "https://www.wto.org/english/news_e/news26_e/disp_29sep26_500_e.htm",
-      "published": "2026-09-29",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "America’s Looming Debt Reckoning",
-      "link": "https://www.project-syndicate.org/commentary/us-cannot-keep-putting-off-addressing-its-fiscal-problems-by-kenneth-rogoff-2026-09",
-      "published": "2026-10-01",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "特朗普威胁11月选举后或恢复对伊攻击 美军又向中东增兵",
-      "link": "https://international.caixin.com/2026-10-02/102490481.html",
-      "published": "2026-10-02",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "WTO members deepen discussions on trade and climate measures, share updates",
-      "link": "https://www.wto.org/english/news_e/news26_e/envir_28sep26_501_e.htm",
-      "published": "2026-09-28",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-      "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05",
       "language": "EN"
     },
     {
@@ -209,25 +201,49 @@
       "link": "https://www.project-syndicate.org/commentary/central-and-eastern-europe-offers-blueprint-for-reviving-eu-dynamism-by-marcin-piatkowski-1-2026-09",
       "published": "2026-09-21",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "下周前瞻：2026年诺贝尔奖陆续揭晓；日本拟召集临时国会",
-      "link": "https://china.caixin.com/2026-10-02/102490438.html",
-      "published": "2026-10-02",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "How India became dangerously addicted to Chinese imports",
-      "link": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05",
-      "language": "EN"
     }
   ],
   "energy": [
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+      "link": "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC World",
+      "title": "Tear gas in Paris and Marseille as school protests grow across France",
+      "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "WTO",
+      "title": "WTO members deepen discussions on trade and climate measures, share updates",
+      "link": "https://www.wto.org/english/news_e/news26_e/envir_28sep26_501_e.htm",
+      "published": "2026-09-28",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Irish budget tackles childcare and energy costs",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjn3zng1ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC World",
+      "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+      "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
     {
       "category": "energy",
       "source": "BBC Business",
@@ -238,26 +254,10 @@
     },
     {
       "category": "energy",
-      "source": "WTO",
-      "title": "WTO members deepen discussions on trade and climate measures, share updates",
-      "link": "https://www.wto.org/english/news_e/news26_e/envir_28sep26_501_e.htm",
-      "published": "2026-09-28",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
       "source": "BBC Business",
       "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
       "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-03",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC Business",
-      "title": "PM warned Rosebank oil field could breach West Bank sanctions",
-      "link": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01",
       "language": "EN"
     },
     {
@@ -273,8 +273,32 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Suzuki's mini EV bet exposes Japan's battery vulnerability to China",
-      "link": "https://asia.nikkei.com/business/automobiles/suzuki-s-mini-ev-bet-exposes-japan-s-battery-vulnerability-to-china",
+      "title": "France showcases long-range air power to bolster Indo-Pacific deterrence",
+      "link": "https://asia.nikkei.com/politics/defense/france-showcases-long-range-air-power-to-bolster-indo-pacific-deterrence",
+      "published": "2026-10-07",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Technology",
+      "title": "Italian PM files to trademark her voice against AI threats",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "Why the US-China Trade Truce Matters",
+      "link": "https://www.project-syndicate.org/commentary/us-china-trade-truce-extension-global-significance-by-shang-jin-wei-2026-10",
       "published": "2026-10-06",
       "language": "EN"
     },
@@ -283,14 +307,6 @@
       "source": "BBC Business",
       "title": "Five reasons India's stock market is sinking even when its economy is growing",
       "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-05",
       "language": "EN"
     },
@@ -313,9 +329,17 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "South Korea cautious over deal Trump says 'keeps getting better'",
-      "link": "https://asia.nikkei.com/politics/international-relations/south-korea-cautious-over-deal-trump-says-keeps-getting-better",
-      "published": "2026-10-06",
+      "title": "Japan demand draws entry of home-exchange service for wealthy owners",
+      "link": "https://asia.nikkei.com/business/travel-leisure/japan-demand-draws-entry-of-home-exchange-service-for-wealthy-owners",
+      "published": "2026-10-07",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "Trump’s Iran Sanctions Have a China Problem",
+      "link": "https://www.project-syndicate.org/onpoint/us-iran-sanctions-regime-depends-on-cooperation-of-chinese-banks-by-zongyuan-zoe-liu-2026-09",
+      "published": "2026-09-18",
       "language": "EN"
     },
     {
@@ -329,6 +353,22 @@
     {
       "category": "asia",
       "source": "WTO",
+      "title": "DDG Nordquist: Trade continues apace, showing resiliency",
+      "link": "https://www.wto.org/english/news_e/news26_e/ddgjn_01oct26_506_e.htm",
+      "published": "2026-10-01",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Cyberattacks sweep Japan and South Korea businesses",
+      "link": "https://asia.nikkei.com/spotlight/cybersecurity/cyberattacks-sweep-japan-and-south-korea-businesses",
+      "published": "2026-10-07",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
       "title": "WTO members deepen discussions on trade and climate measures, share updates",
       "link": "https://www.wto.org/english/news_e/news26_e/envir_28sep26_501_e.htm",
       "published": "2026-09-28",
@@ -336,18 +376,10 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "下周前瞻：2026年诺贝尔奖陆续揭晓；日本拟召集临时国会",
-      "link": "https://china.caixin.com/2026-10-02/102490438.html",
-      "published": "2026-10-02",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "AustralianSuper to more than double private equity investment in Asia",
-      "link": "https://asia.nikkei.com/business/finance/australiansuper-to-more-than-double-private-equity-investment-in-asia",
-      "published": "2026-10-06",
+      "title": "Xi leaves Japan uncertain on China summit at APEC",
+      "link": "https://asia.nikkei.com/politics/international-relations/japan-china-tensions/xi-leaves-japan-uncertain-on-china-summit-at-apec",
+      "published": "2026-10-07",
       "language": "EN"
     },
     {
@@ -361,43 +393,59 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Reliance closes all 7-Eleven stores in India",
-      "link": "https://asia.nikkei.com/business/retail/reliance-closes-all-7-eleven-stores-in-india",
-      "published": "2026-10-06",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "WTO, Asian Development Bank and World Bank bring TS4D initiative to Asia and the Pacific",
-      "link": "https://www.wto.org/english/news_e/news26_e/ts4d_28sep26_499_e.htm",
-      "published": "2026-09-28",
+      "title": "UK universities review China ties after MI5 espionage alert",
+      "link": "https://asia.nikkei.com/politics/international-relations/uk-universities-review-china-ties-after-mi5-espionage-alert",
+      "published": "2026-10-07",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Late filings by Situational Awareness expose gap in Japan disclosure rules",
-      "link": "https://asia.nikkei.com/business/markets/equities/late-filings-by-situational-awareness-expose-gap-in-japan-disclosure-rules",
-      "published": "2026-10-06",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "China's convenience stores lose customers to cheap instant delivery apps",
-      "link": "https://asia.nikkei.com/business/retail/china-s-convenience-stores-lose-customers-to-cheap-instant-delivery-apps",
-      "published": "2026-10-06",
+      "title": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning",
+      "published": "2026-10-07",
       "language": "EN"
     }
   ],
   "ideas": [
     {
       "category": "ideas",
+      "source": "BBC Business",
+      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Indian opposition MPs detained in protest against election chief",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "Italian PM files to trademark her voice against AI threats",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "Project Syndicate",
       "title": "To Support Nepal, Waive Remittance Fees",
       "link": "https://www.project-syndicate.org/commentary/nepal-remittance-fee-waiver-for-flood-relief-recovery-by-ngozi-okonjo-iweala-and-dilip-ratha-2026-10",
       "published": "2026-10-05",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
+      "title": "Co-sponsors of sustainability initiative advance work plan towards MC15",
+      "link": "https://www.wto.org/english/news_e/news26_e/tessd_02oct26_507_e.htm",
+      "published": "2026-10-02",
       "language": "EN"
     },
     {
@@ -411,17 +459,25 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Spain PM pins hopes on housing crisis to help win snap election",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05",
+      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30",
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-01",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Investing in Brain Health",
+      "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
+      "published": "2026-09-29",
       "language": "EN"
     },
     {
@@ -430,14 +486,6 @@
       "title": "WTO members deepen discussions on trade and climate measures, share updates",
       "link": "https://www.wto.org/english/news_e/news26_e/envir_28sep26_501_e.htm",
       "published": "2026-09-28",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Climate Resilience Starts With Care",
-      "link": "https://www.project-syndicate.org/commentary/leaving-care-out-of-climate-adaptation-plans-will-come-at-a-high-cost-by-caren-grown-2-and-kendall-trelegan-2026-10",
-      "published": "2026-10-02",
       "language": "EN"
     },
     {
@@ -451,64 +499,16 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Indian singer Anuv Jain on finding success without the Bollywood boost",
-      "link": "https://www.bbc.co.uk/news/articles/c933xnneg2zvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05",
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-06",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-30",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "The OECD Should Be Reclaimed, Not Abandoned",
-      "link": "https://www.project-syndicate.org/commentary/oecd-65th-anniversary-must-refocus-its-mission-on-economics-national-security-by-kim-ruhl-and-pierre-yared-1-2026-09",
-      "published": "2026-10-01",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "No more cereal at the end of the aisle? New rules in Scotland's supermarkets",
-      "link": "https://www.bbc.co.uk/news/articles/cmwyzye21463o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-05",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-29",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Investing in Brain Health",
-      "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
-      "published": "2026-09-29",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-01",
       "language": "EN"
     },
@@ -523,9 +523,17 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "AI boom could trigger market shocks, Bank of England boss warns",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-01",
+      "title": "The AI telling farmers when to harvest",
+      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-30",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
+      "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-05",
       "language": "EN"
     }
   ],
@@ -533,17 +541,17 @@
     [
       "BBC Business",
       "ok",
-      18
+      17
     ],
     [
       "BBC World",
       "ok",
-      13
+      12
     ],
     [
       "BBC Technology",
       "ok",
-      8
+      5
     ],
     [
       "BIS",
@@ -553,7 +561,7 @@
     [
       "WTO",
       "ok",
-      6
+      8
     ],
     [
       "IRENA",
@@ -562,8 +570,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 11",
-      5
+      "ok 12",
+      7
     ],
     [
       "The Economist",
@@ -578,7 +586,7 @@
     [
       "World Bank",
       "ok 1",
-      1
+      0
     ],
     [
       "OECD",
@@ -597,8 +605,8 @@
     ],
     [
       "财新",
-      "ok 18",
-      5
+      "ok 16",
+      2
     ],
     [
       "第一财经",
@@ -647,13 +655,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 18",
-      8
+      "ok 17",
+      11
     ],
     [
       "Project Syndicate",
-      "ok 14",
-      5
+      "ok 15",
+      3
     ],
     [
       "The Economist",
