@@ -1,37 +1,29 @@
 {
-  "generated_at": "2026-10-16 03:15 UTC",
-  "date_display": "Friday · 16 October 2026",
+  "generated_at": "2026-10-17 03:05 UTC",
+  "date_display": "Saturday · 17 October 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Banks say Healey is planning Budget tax raid on their profits",
+      "title": "Banks expect to be hit with higher taxes in Budget",
       "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The Institutional Roots of Policy Nonsense",
-      "link": "https://www.project-syndicate.org/commentary/antimicrobial-resistance-market-and-policy-failure-by-jim-o-neill-2026-10",
-      "published": "2026-10-15",
+      "title": "Japan Needs Higher Interest Rates",
+      "link": "https://www.project-syndicate.org/commentary/bank-of-japan-should-raise-interest-rates-and-reduce-the-money-supply-to-combat-inflation-by-koichi-hamada-2026-10",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "FT中文网",
-      "title": "德国汽车产业转型中的中国企业：零跑、卓驭与宁德时代",
-      "link": "https://www.ftchinese.com/story/001111112",
-      "published": "2026-10-15",
-      "language": "中文"
-    },
-    {
-      "category": "world",
       "source": "BBC World",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
@@ -45,9 +37,57 @@
     {
       "category": "world",
       "source": "WTO",
-      "title": "Report underlines value of WTO committee in helping resolve market access trade concerns",
-      "link": "https://www.wto.org/english/news_e/news26_e/mark_12oct26_516_e.htm",
-      "published": "2026-10-12",
+      "title": "WTO and multilateral partners review progress on supply chain finance initiative",
+      "link": "https://www.wto.org/english/news_e/news26_e/trfin_16oct26_517_e.htm",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "Russian man linked to deadly London hospitals hack arrested",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Low Expectations for Israel’s Election",
+      "link": "https://www.project-syndicate.org/commentary/israel-election-will-not-bring-radical-change-to-foreign-policy-by-shlomo-ben-ami-2026-10",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "2027年税务系统国考招录占比升至67%高位 原因何在？",
+      "link": "https://economy.caixin.com/2026-10-16/102494144.html",
+      "published": "2026-10-01",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Talks kick off for Timor-Leste's accession to government procurement pact",
+      "link": "https://www.wto.org/english/news_e/news26_e/gpro_14oct26_515_e.htm",
+      "published": "2026-10-14",
       "language": "EN"
     },
     {
@@ -61,48 +101,40 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "title": "Living with a stink? Technology might help",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "How Worried Should We Be About the Global Economy?",
-      "link": "https://www.project-syndicate.org/commentary/key-sources-of-risk-to-the-global-economy-include-inflation-debt-and-polarization-by-dambisa-moyo-2026-10",
-      "published": "2026-10-14",
+      "title": "The Institutional Roots of Policy Nonsense",
+      "link": "https://www.project-syndicate.org/commentary/antimicrobial-resistance-market-and-policy-failure-by-jim-o-neill-2026-10",
+      "published": "2026-10-15",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "FT中文网",
-      "title": "数据中心债券遭抛售 AI发债人面对“达尔文时刻”",
-      "link": "https://www.ftchinese.com/story/001111120",
-      "published": "2026-10-15",
-      "language": "中文"
-    },
-    {
-      "category": "world",
       "source": "BBC World",
-      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "能源内参｜欧洲天然气价格升至近四年最高水平；9月出口增速冲至36.3% 对欧盟汽车或因“抢出口”加速",
-      "link": "https://www.caixin.com/2026-10-16/102493860.html",
+      "title": "美联储主席对话IMF总裁：AI对经济影响复杂，央行如何应对尾部风险",
+      "link": "https://economy.caixin.com/2026-10-16/102494133.html",
       "published": "2026-10-01",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "Madagascar launches safeguard investigation on certain confectionary",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_12oct26_511_e.htm",
+      "title": "Report underlines value of WTO committee in helping resolve market access trade concerns",
+      "link": "https://www.wto.org/english/news_e/news26_e/mark_12oct26_516_e.htm",
       "published": "2026-10-12",
       "language": "EN"
     },
@@ -117,48 +149,32 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Living with a stink? Technology might help",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "China’s Panda Diplomacy Is Losing Its Charm",
-      "link": "https://www.project-syndicate.org/commentary/china-panda-diplomacy-no-longer-effective-tool-of-soft-power-by-brahma-chellaney-2026-10",
-      "published": "2026-10-14",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "监管部门联合调查刹车踏板支架断裂 尊界称全力配合",
-      "link": "https://www.caixin.com/2026-10-16/102493831.html",
+      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术",
+      "link": "https://www.caixin.com/2026-10-16/102494128.html",
       "published": "2026-10-01",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "AI boom and trade resilience to Middle East crisis lift outlook, but gains to be uneven",
-      "link": "https://www.wto.org/english/news_e/news26_e/stat_08oct26_510_e.htm",
-      "published": "2026-10-08",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "AI is less regulated than milk, says Microsoft president",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "title": "Madagascar launches safeguard investigation on certain confectionary",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_12oct26_511_e.htm",
       "published": "2026-10-12",
       "language": "EN"
     },
@@ -172,35 +188,11 @@
     },
     {
       "category": "world",
-      "source": "Project Syndicate",
-      "title": "Why Is the Global Economy So Resilient?",
-      "link": "https://www.project-syndicate.org/commentary/global-economy-positive-outlook-barring-these-tail-risks-by-nouriel-roubini-2026-10",
-      "published": "2026-10-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Obama says drift towards extremism 'not inevitable'",
-      "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "财新",
-      "title": "T早报｜DeepSeek服务异常近5小时；库克：苹果智能接入阿里千问大模型；字节跳动海外短剧APP下载量破亿；国产芯片公司算苗科技一年融资近20亿元",
-      "link": "https://www.caixin.com/2026-10-16/102493808.html",
+      "title": "禁止出口目录拟增列部分生物医药技术，涉及CGT、小核酸等",
+      "link": "https://www.caixin.com/2026-10-16/102494136.html",
       "published": "2026-10-01",
       "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "General Council addresses WTO reform, ministerial follow-ups, ongoing negotiations",
-      "link": "https://www.wto.org/english/news_e/news26_e/gc_05oct26_508_e.htm",
-      "published": "2026-10-05",
-      "language": "EN"
     },
     {
       "category": "world",
@@ -213,24 +205,8 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "夜读精选｜字节跳动海外短剧APP下载量破亿 两家出海短剧平台合并｜出海·消费",
-      "link": "https://www.caixin.com/2026-10-15/102493751.html",
-      "published": "2026-10-01",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "How backlash against data centres could shape the US midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "财经早知道｜“市值王”长鑫科技“退位” 工商银行重回A股市值第一",
-      "link": "https://finance.caixin.com/2026-10-16/102493800.html",
+      "title": "下周前瞻：巴西总统大选第二轮投票进行；塞尔维亚举行国会选举",
+      "link": "https://china.caixin.com/2026-10-16/102494105.html",
       "published": "2026-10-01",
       "language": "中文"
     }
@@ -239,25 +215,17 @@
     {
       "category": "energy",
       "source": "BBC World",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
       "category": "energy",
-      "source": "FT中文网",
-      "title": "德国汽车产业转型中的中国企业：零跑、卓驭与宁德时代",
-      "link": "https://www.ftchinese.com/story/001111112",
-      "published": "2026-10-15",
-      "language": "中文"
-    },
-    {
-      "category": "energy",
       "source": "BBC Business",
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14",
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
@@ -271,8 +239,8 @@
     {
       "category": "energy",
       "source": "财新",
-      "title": "能源内参｜欧洲天然气价格升至近四年最高水平；9月出口增速冲至36.3% 对欧盟汽车或因“抢出口”加速",
-      "link": "https://www.caixin.com/2026-10-16/102493860.html",
+      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术",
+      "link": "https://www.caixin.com/2026-10-16/102494128.html",
       "published": "2026-10-01",
       "language": "中文"
     },
@@ -282,6 +250,14 @@
       "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
       "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14",
       "language": "EN"
     },
     {
@@ -297,26 +273,34 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Pakistan companies move into lithium battery assembly with China partners",
-      "link": "https://asia.nikkei.com/business/business-trends/pakistan-companies-move-into-lithium-battery-assembly-with-china-partners",
-      "published": "2026-10-16",
+      "title": "EU seeks faster China de-risking with new diversification tool",
+      "link": "https://asia.nikkei.com/economy/trade/eu-seeks-faster-china-de-risking-with-new-diversification-tool",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "North Korea and China open new bridge after 12-year delay",
-      "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "title": "India's 'cockroach' party founder detained ahead of protest",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "FT中文网",
-      "title": "德国汽车产业转型中的中国企业：零跑、卓驭与宁德时代",
-      "link": "https://www.ftchinese.com/story/001111112",
-      "published": "2026-10-15",
-      "language": "中文"
+      "source": "WTO",
+      "title": "WTO and multilateral partners review progress on supply chain finance initiative",
+      "link": "https://www.wto.org/english/news_e/news26_e/trfin_16oct26_517_e.htm",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "Japan Needs Higher Interest Rates",
+      "link": "https://www.project-syndicate.org/commentary/bank-of-japan-should-raise-interest-rates-and-reduce-the-money-supply-to-combat-inflation-by-koichi-hamada-2026-10",
+      "published": "2026-10-16",
+      "language": "EN"
     },
     {
       "category": "asia",
@@ -328,10 +312,26 @@
     },
     {
       "category": "asia",
-      "source": "Project Syndicate",
-      "title": "China’s Panda Diplomacy Is Losing Its Charm",
-      "link": "https://www.project-syndicate.org/commentary/china-panda-diplomacy-no-longer-effective-tool-of-soft-power-by-brahma-chellaney-2026-10",
-      "published": "2026-10-14",
+      "source": "财新",
+      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术",
+      "link": "https://www.caixin.com/2026-10-16/102494128.html",
+      "published": "2026-10-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs",
+      "published": "2026-10-17",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
@@ -344,10 +344,18 @@
     },
     {
       "category": "asia",
+      "source": "财新",
+      "title": "俄安全局拘押一名日本记者 被控协助日政府调查北方四岛动员参战情况",
+      "link": "https://international.caixin.com/2026-10-16/102494093.html",
+      "published": "2026-10-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China's Canton Fair showcases tech push as trade frictions persist",
-      "link": "https://asia.nikkei.com/business/business-trends/china-s-canton-fair-showcases-tech-push-as-trade-frictions-persist",
-      "published": "2026-10-16",
+      "title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
@@ -360,10 +368,18 @@
     },
     {
       "category": "asia",
+      "source": "财新",
+      "title": "印度选民名册清理争议升温 “蟑螂”青年运动为何再次活跃？",
+      "link": "https://international.caixin.com/2026-10-16/102494049.html",
+      "published": "2026-10-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "North Korea's pact with Russia built to outlast Ukraine war",
-      "link": "https://asia.nikkei.com/spotlight/policy-asia/north-korea-s-pact-with-russia-built-to-outlast-ukraine-war",
-      "published": "2026-10-16",
+      "title": "China's DeepSeek hit by 5-hour AI service outage",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-hit-by-5-hour-ai-service-outage",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
@@ -377,37 +393,37 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Samsung remains top brand in Asia for third year: Nikkei Research poll",
-      "link": "https://asia.nikkei.com/business/business-trends/samsung-remains-top-brand-in-asia-for-third-year-nikkei-research-poll",
-      "published": "2026-10-16",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "DDG Nordquist: Trade continues apace, showing resiliency",
-      "link": "https://www.wto.org/english/news_e/news26_e/ddgjn_01oct26_506_e.htm",
-      "published": "2026-10-01",
+      "title": "Japan's ICC rift with US limits options in handling China, Russia pressure",
+      "link": "https://asia.nikkei.com/politics/international-relations/japan-s-icc-rift-with-us-limits-options-in-handling-china-russia-pressure",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's Kioxia sheds two-thirds of peak market value as China chip rivals emerge",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/japan-s-kioxia-sheds-two-thirds-of-peak-market-value-as-china-chip-rivals-emerge",
-      "published": "2026-10-16",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Japan's Mitsui to spend $1.5bn on bid to take Penske Automotive private",
-      "link": "https://asia.nikkei.com/business/business-deals/japan-s-mitsui-to-spend-1.5bn-on-bid-to-take-penske-automotive-private",
+      "title": "China's Canton Fair showcases tech push as trade frictions persist",
+      "link": "https://asia.nikkei.com/business/business-trends/china-s-canton-fair-showcases-tech-push-as-trade-frictions-persist",
       "published": "2026-10-16",
       "language": "EN"
     }
   ],
   "ideas": [
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
+      "title": "WTO and multilateral partners review progress on supply chain finance initiative",
+      "link": "https://www.wto.org/english/news_e/news26_e/trfin_16oct26_517_e.htm",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
     {
       "category": "ideas",
       "source": "Project Syndicate",
@@ -419,26 +435,10 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Banks say Healey is planning Budget tax raid on their profits",
-      "link": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+      "title": "Living with a stink? Technology might help",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15",
       "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "FT中文网",
-      "title": "数据中心债券遭抛售 AI发债人面对“达尔文时刻”",
-      "link": "https://www.ftchinese.com/story/001111120",
-      "published": "2026-10-15",
-      "language": "中文"
     },
     {
       "category": "ideas",
@@ -450,19 +450,27 @@
     },
     {
       "category": "ideas",
+      "source": "财新",
+      "title": "美联储主席对话IMF总裁：AI对经济影响复杂，央行如何应对尾部风险",
+      "link": "https://economy.caixin.com/2026-10-16/102494133.html",
+      "published": "2026-10-01",
+      "language": "中文"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "WTO",
       "title": "Madagascar launches safeguard investigation on certain confectionary",
       "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_12oct26_511_e.htm",
       "published": "2026-10-12",
       "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "财新",
-      "title": "T早报｜DeepSeek服务异常近5小时；库克：苹果智能接入阿里千问大模型；字节跳动海外短剧APP下载量破亿；国产芯片公司算苗科技一年融资近20亿元",
-      "link": "https://www.caixin.com/2026-10-16/102493808.html",
-      "published": "2026-10-01",
-      "language": "中文"
     },
     {
       "category": "ideas",
@@ -482,18 +490,18 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-      "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
-      "language": "EN"
+      "source": "财新",
+      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术",
+      "link": "https://www.caixin.com/2026-10-16/102494128.html",
+      "published": "2026-10-01",
+      "language": "中文"
     },
     {
       "category": "ideas",
-      "source": "BBC Technology",
-      "title": "AI is less regulated than milk, says Microsoft president",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12",
+      "source": "BBC World",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
@@ -506,14 +514,6 @@
     },
     {
       "category": "ideas",
-      "source": "财新",
-      "title": "财经早知道｜“市值王”长鑫科技“退位” 工商银行重回A股市值第一",
-      "link": "https://finance.caixin.com/2026-10-16/102493800.html",
-      "published": "2026-10-01",
-      "language": "中文"
-    },
-    {
-      "category": "ideas",
       "source": "Project Syndicate",
       "title": "Investing in Brain Health",
       "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
@@ -523,17 +523,17 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Living with a stink? Technology might help",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
+      "link": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-      "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
@@ -546,23 +546,23 @@
     },
     {
       "category": "ideas",
-      "source": "财新",
-      "title": "国产芯片公司算苗科技一年融资近20亿元 预计第一代产品2027年量产",
-      "link": "https://www.caixin.com/2026-10-15/102493728.html",
-      "published": "2026-10-01",
-      "language": "中文"
+      "source": "Project Syndicate",
+      "title": "Hedging the AI Doomsday Risk",
+      "link": "https://www.project-syndicate.org/commentary/ai-industry-warnings-too-serious-to-dismiss-outright-by-dambisa-moyo-2026-09",
+      "published": "2026-09-16",
+      "language": "EN"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      20
+      18
     ],
     [
       "BBC World",
       "ok",
-      13
+      16
     ],
     [
       "BBC Technology",
@@ -577,7 +577,7 @@
     [
       "WTO",
       "ok",
-      7
+      8
     ],
     [
       "IRENA",
@@ -586,8 +586,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 13",
-      4
+      "ok 12",
+      3
     ],
     [
       "The Economist",
@@ -616,12 +616,12 @@
     ],
     [
       "FT中文网",
-      "ok 4",
-      2
+      "ok 0",
+      0
     ],
     [
       "财新",
-      "ok 17",
+      "ok 18",
       8
     ],
     [
@@ -671,13 +671,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 16",
-      8
+      "ok 18",
+      10
     ],
     [
       "Project Syndicate",
-      "ok 16",
-      3
+      "ok 13",
+      4
     ],
     [
       "The Economist",
