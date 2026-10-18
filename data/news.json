@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17 03:05 UTC",
-  "date_display": "Saturday · 17 October 2026",
+  "generated_at": "2026-10-18 03:08 UTC",
+  "date_display": "Sunday · 18 October 2026",
   "world": [
     {
       "category": "world",
@@ -20,18 +20,26 @@
     },
     {
       "category": "world",
+      "source": "FT中文网",
+      "title": "数据中心债券遭抛售 AI发债人面对“达尔文时刻”",
+      "link": "https://www.ftchinese.com/story/001111120",
+      "published": "2026-10-15",
+      "language": "中文"
+    },
+    {
+      "category": "world",
       "source": "BBC World",
-      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "新一轮巴以冲突三周年：悼念与抗议并存 加沙人道危机加剧",
-      "link": "https://photos.caixin.com/2026-10-09/102491350.html",
-      "published": "2026-10-09",
+      "title": "两年债务规模下降18% 柳州原市委书记撰文谈化债细节",
+      "link": "https://economy.caixin.com/2026-10-17/102494516.html",
+      "published": "2026-10-01",
       "language": "中文"
     },
     {
@@ -44,10 +52,18 @@
     },
     {
       "category": "world",
+      "source": "World Bank",
+      "title": "World Bank Group Launches Philanthropy Hub to Unlock Capital, Knowledge and Networks for Development",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/10/12/world-bank-group-launches-philanthropy-hub-to-unlock-capital-knowledge-and-network",
+      "published": "2026-10-12",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC Technology",
-      "title": "Russian man linked to deadly London hospitals hack arrested",
-      "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16",
+      "title": "No further action against government adviser's wife over Palestine Action post, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
@@ -69,16 +85,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
-      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "2027年税务系统国考招录占比升至67%高位 原因何在？",
-      "link": "https://economy.caixin.com/2026-10-16/102494144.html",
+      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术(含视频)",
+      "link": "https://www.caixin.com/2026-10-16/102494128.html",
       "published": "2026-10-01",
       "language": "中文"
     },
@@ -93,9 +109,9 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "Porn showing choking or incest to be banned from early November, government says",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "title": "Russian man linked to deadly London hospitals hack arrested",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
@@ -117,16 +133,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "The uncertain future of Canada's 30 rescued belugas",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "title": "Anti-government protesters battle with police in Albania",
+      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "美联储主席对话IMF总裁：AI对经济影响复杂，央行如何应对尾部风险",
-      "link": "https://economy.caixin.com/2026-10-16/102494133.html",
+      "title": "2027年税务系统国考招录占比升至67%高位 原因何在？",
+      "link": "https://economy.caixin.com/2026-10-16/102494144.html",
       "published": "2026-10-01",
       "language": "中文"
     },
@@ -141,9 +157,9 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-      "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-12",
+      "title": "Porn showing choking or incest to be banned from early November, government says",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15",
       "language": "EN"
     },
     {
@@ -157,16 +173,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术",
-      "link": "https://www.caixin.com/2026-10-16/102494128.html",
+      "title": "禁止出口目录拟增列部分生物医药技术，涉及CGT、小核酸等",
+      "link": "https://www.caixin.com/2026-10-16/102494136.html",
       "published": "2026-10-01",
       "language": "中文"
     },
@@ -189,17 +205,17 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "禁止出口目录拟增列部分生物医药技术，涉及CGT、小核酸等",
-      "link": "https://www.caixin.com/2026-10-16/102494136.html",
+      "title": "美联储主席对话IMF总裁：AI对经济影响复杂，央行如何应对尾部风险",
+      "link": "https://economy.caixin.com/2026-10-16/102494133.html",
       "published": "2026-10-01",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
-      "link": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14",
       "language": "EN"
     },
     {
@@ -239,18 +255,10 @@
     {
       "category": "energy",
       "source": "财新",
-      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术",
+      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术(含视频)",
       "link": "https://www.caixin.com/2026-10-16/102494128.html",
       "published": "2026-10-01",
       "language": "中文"
-    },
-    {
-      "category": "energy",
-      "source": "BBC World",
-      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
-      "language": "EN"
     },
     {
       "category": "energy",
@@ -273,17 +281,17 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "EU seeks faster China de-risking with new diversification tool",
-      "link": "https://asia.nikkei.com/economy/trade/eu-seeks-faster-china-de-risking-with-new-diversification-tool",
-      "published": "2026-10-17",
+      "title": "Japan set to move forward with Bangladesh's first economic pact",
+      "link": "https://asia.nikkei.com/economy/trade/japan-set-to-move-forward-with-bangladesh-s-first-economic-pact",
+      "published": "2026-10-18",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "India's 'cockroach' party founder detained ahead of protest",
-      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
@@ -313,7 +321,7 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术",
+      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术(含视频)",
       "link": "https://www.caixin.com/2026-10-16/102494128.html",
       "published": "2026-10-01",
       "language": "中文"
@@ -321,17 +329,17 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Southeast Asia caught amid competing US and Chinese AI blocs",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/southeast-asia-caught-amid-competing-us-and-chinese-ai-blocs",
-      "published": "2026-10-17",
+      "title": "Asia meth seizures soar as Myanmar becomes hotbed of production",
+      "link": "https://asia.nikkei.com/spotlight/society/crime/asia-meth-seizures-soar-as-myanmar-becomes-hotbed-of-production",
+      "published": "2026-10-18",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16",
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
@@ -344,17 +352,9 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "俄安全局拘押一名日本记者 被控协助日政府调查北方四岛动员参战情况",
-      "link": "https://international.caixin.com/2026-10-16/102494093.html",
-      "published": "2026-10-01",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
-      "link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "title": "Delhi crackdown fosters Gen Z defenders of Indian democracy",
+      "link": "https://asia.nikkei.com/politics/delhi-crackdown-fosters-gen-z-defenders-of-indian-democracy",
       "published": "2026-10-17",
       "language": "EN"
     },
@@ -368,17 +368,9 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "印度选民名册清理争议升温 “蟑螂”青年运动为何再次活跃？",
-      "link": "https://international.caixin.com/2026-10-16/102494049.html",
-      "published": "2026-10-01",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China's DeepSeek hit by 5-hour AI service outage",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-hit-by-5-hour-ai-service-outage",
+      "title": "Toyota to build next-gen Corolla in China from 2028",
+      "link": "https://asia.nikkei.com/business/automobiles/toyota-to-build-next-gen-corolla-in-china-from-2028",
       "published": "2026-10-17",
       "language": "EN"
     },
@@ -393,17 +385,17 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's ICC rift with US limits options in handling China, Russia pressure",
-      "link": "https://asia.nikkei.com/politics/international-relations/japan-s-icc-rift-with-us-limits-options-in-handling-china-russia-pressure",
+      "title": "EU seeks faster China de-risking with new diversification tool",
+      "link": "https://asia.nikkei.com/economy/trade/eu-seeks-faster-china-de-risking-with-new-diversification-tool",
       "published": "2026-10-17",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China's Canton Fair showcases tech push as trade frictions persist",
-      "link": "https://asia.nikkei.com/business/business-trends/china-s-canton-fair-showcases-tech-push-as-trade-frictions-persist",
-      "published": "2026-10-16",
+      "title": "South Korea's CJ CGV is putting 'motion' back into motion pictures",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/south-korea-s-cj-cgv-is-putting-motion-back-into-motion-pictures",
+      "published": "2026-10-17",
       "language": "EN"
     }
   ],
@@ -411,8 +403,16 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
       "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-18",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "No further action against government adviser's wife over Palestine Action post, police say",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17",
       "language": "EN"
     },
@@ -442,25 +442,33 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Technology",
-      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-      "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+      "source": "FT中文网",
+      "title": "数据中心债券遭抛售 AI发债人面对“达尔文时刻”",
+      "link": "https://www.ftchinese.com/story/001111120",
+      "published": "2026-10-15",
+      "language": "中文"
+    },
+    {
+      "category": "ideas",
+      "source": "World Bank",
+      "title": "World Bank Group Launches Philanthropy Hub to Unlock Capital, Knowledge and Networks for Development",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/10/12/world-bank-group-launches-philanthropy-hub-to-unlock-capital-knowledge-and-network",
       "published": "2026-10-12",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "财新",
-      "title": "美联储主席对话IMF总裁：AI对经济影响复杂，央行如何应对尾部风险",
-      "link": "https://economy.caixin.com/2026-10-16/102494133.html",
+      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术(含视频)",
+      "link": "https://www.caixin.com/2026-10-16/102494128.html",
       "published": "2026-10-01",
       "language": "中文"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "The uncertain future of Canada's 30 rescued belugas",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-17",
       "language": "EN"
     },
@@ -491,17 +499,17 @@
     {
       "category": "ideas",
       "source": "财新",
-      "title": "中国限制或禁止出口AI、生物医药和光伏三领域共40项技术",
-      "link": "https://www.caixin.com/2026-10-16/102494128.html",
+      "title": "美联储主席对话IMF总裁：AI对经济影响复杂，央行如何应对尾部风险",
+      "link": "https://economy.caixin.com/2026-10-16/102494133.html",
       "published": "2026-10-01",
       "language": "中文"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-16",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-17",
       "language": "EN"
     },
     {
@@ -523,9 +531,9 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
-      "link": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14",
       "language": "EN"
     },
     {
@@ -535,34 +543,18 @@
       "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-16",
       "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "WTO",
-      "title": "Co-sponsors of sustainability initiative advance work plan towards MC15",
-      "link": "https://www.wto.org/english/news_e/news26_e/tessd_02oct26_507_e.htm",
-      "published": "2026-10-02",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Hedging the AI Doomsday Risk",
-      "link": "https://www.project-syndicate.org/commentary/ai-industry-warnings-too-serious-to-dismiss-outright-by-dambisa-moyo-2026-09",
-      "published": "2026-09-16",
-      "language": "EN"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      18
+      16
     ],
     [
       "BBC World",
       "ok",
-      16
+      11
     ],
     [
       "BBC Technology",
@@ -601,8 +593,8 @@
     ],
     [
       "World Bank",
-      "ok 0",
-      0
+      "ok 1",
+      1
     ],
     [
       "OECD",
@@ -616,13 +608,13 @@
     ],
     [
       "FT中文网",
-      "ok 0",
-      0
+      "ok 3",
+      1
     ],
     [
       "财新",
       "ok 18",
-      8
+      7
     ],
     [
       "第一财经",
@@ -672,7 +664,7 @@
     [
       "Nikkei Asia",
       "ok 18",
-      10
+      13
     ],
     [
       "Project Syndicate",
