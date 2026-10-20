@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-19 03:22 UTC",
-  "date_display": "Monday · 19 October 2026",
+  "generated_at": "2026-10-20 03:31 UTC",
+  "date_display": "Tuesday · 20 October 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+      "link": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19",
       "language": "EN"
     },
@@ -21,25 +21,25 @@
     {
       "category": "world",
       "source": "FT中文网",
-      "title": "宣扬“1天1元物业费神话”，是在加速中国城市高层衰退",
-      "link": "https://www.ftchinese.com/story/001111130",
-      "published": "2026-10-17",
+      "title": "机器的喜好陷阱：从“人工智能谄媚”到“谄媚人工智能”",
+      "link": "https://www.ftchinese.com/story/001111125",
+      "published": "2026-10-15",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "能源内参｜中国限制或禁止出口AI、生物医药和光伏三领域共40项技术；前三季度全国铁路发送旅客37.1亿人次 创历史新高",
-      "link": "https://www.caixin.com/2026-10-19/102494663.html",
-      "published": "2026-10-01",
+      "title": "稳就业｜AI时代初级岗位塌陷：能否为年轻人再造“学徒制”",
+      "link": "https://www.caixin.com/2026-10-20/102495039.html",
+      "published": "2026-10-02",
       "language": "中文"
     },
     {
@@ -53,9 +53,9 @@
     {
       "category": "world",
       "source": "World Bank",
-      "title": "World Bank Group Launches Philanthropy Hub to Unlock Capital, Knowledge and Networks for Development",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/10/12/world-bank-group-launches-philanthropy-hub-to-unlock-capital-knowledge-and-network",
-      "published": "2026-10-12",
+      "title": "World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+      "published": "2026-10-20",
       "language": "EN"
     },
     {
@@ -68,42 +68,50 @@
     },
     {
       "category": "world",
-      "source": "BBC Business",
-      "title": "Microsoft pulls out of UK's largest AI data centre",
-      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Low Expectations for Israel’s Election",
-      "link": "https://www.project-syndicate.org/commentary/israel-election-will-not-bring-radical-change-to-foreign-policy-by-shlomo-ben-ami-2026-10",
+      "source": "UNCTAD",
+      "title": "Asia’s rise masks a widening development divide 16 Oct 2026 Manufacturing and exports helped several Asian economies gain ground. That route to prosperity is becoming harder to follow.",
+      "link": "https://unctad.org/news/asias-rise-masks-widening-development-divide",
       "published": "2026-10-16",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "BBC Business",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC World",
-      "title": "Australian Greens senator denies claims of misconduct towards women",
-      "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "T早报｜DeepSeek发布V4.1 Flash新版本；中国限制或禁止出口AI、光伏、生物医药三领域40项技术；特朗普否认白宫限制乌克兰使用星链",
-      "link": "https://www.caixin.com/2026-10-19/102494598.html",
-      "published": "2026-10-01",
+      "title": "新版电力现货市场规则公开征求意见 明确新型主体市场地位",
+      "link": "https://www.caixin.com/2026-10-20/102495045.html",
+      "published": "2026-10-02",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "Talks kick off for Timor-Leste's accession to government procurement pact",
-      "link": "https://www.wto.org/english/news_e/news26_e/gpro_14oct26_515_e.htm",
-      "published": "2026-10-14",
+      "title": "Import Licensing Committee addresses notifications, trade concerns, transparency efforts",
+      "link": "https://www.wto.org/english/news_e/news26_e/impl_15oct26_518_e.htm",
+      "published": "2026-10-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "UAE Signs Agreement to Host 2029 World Bank Group and IMF Annual Meetings in Abu Dhabi",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/10/18/uae-signs-agreement-to-host-2029-world-bank-group-annual-meetings",
+      "published": "2026-10-18",
       "language": "EN"
     },
     {
@@ -116,41 +124,49 @@
     },
     {
       "category": "world",
-      "source": "BBC Business",
-      "title": "Don't fall for this - how to protect yourself from AI scams",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
+      "source": "UNCTAD",
+      "title": "AI spreads the work but concentrates the profit 13 Oct 2026 A look inside one advanced AI server reveals who captures the value created in making it.",
+      "link": "https://unctad.org/news/ai-spreads-work-concentrates-profit",
+      "published": "2026-10-13",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "Project Syndicate",
-      "title": "The Institutional Roots of Policy Nonsense",
-      "link": "https://www.project-syndicate.org/commentary/antimicrobial-resistance-market-and-policy-failure-by-jim-o-neill-2026-10",
-      "published": "2026-10-15",
+      "source": "BBC Business",
+      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+      "link": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "三季度GDP同比增速微升至4.5% 名义增速继续走高",
-      "link": "https://economy.caixin.com/2026-10-19/102494668.html",
-      "published": "2026-10-01",
+      "title": "离岸信托征税执行口径细化 税务总局提示过渡期10月22日截止",
+      "link": "https://economy.caixin.com/2026-10-20/102495066.html",
+      "published": "2026-10-02",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "Report underlines value of WTO committee in helping resolve market access trade concerns",
-      "link": "https://www.wto.org/english/news_e/news26_e/mark_12oct26_516_e.htm",
+      "title": "Talks kick off for Timor-Leste's accession to government procurement pact",
+      "link": "https://www.wto.org/english/news_e/news26_e/gpro_14oct26_515_e.htm",
+      "published": "2026-10-14",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "World Bank Group Launches Philanthropy Hub to Unlock Capital, Knowledge and Networks for Development",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/10/12/world-bank-group-launches-philanthropy-hub-to-unlock-capital-knowledge-and-network",
       "published": "2026-10-12",
       "language": "EN"
     },
@@ -164,33 +180,41 @@
     },
     {
       "category": "world",
+      "source": "UNCTAD",
+      "title": "Borrowers’ Platform enters new phase with first Governing Council meeting in Bangkok 12 Oct 2026 Developing countries take new steps towards stronger cooperation and a collective voice on debt.",
+      "link": "https://unctad.org/news/borrowers-platform-enters-new-phase-first-governing-council-meeting-bangkok",
+      "published": "2026-10-12",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC Business",
-      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-      "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
+      "title": "China's growth accelerates as AI boom helps boost exports",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
+      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "潘功胜：IMF应加强对发达经济体财政风险及其溢出效应的监督",
-      "link": "https://economy.caixin.com/2026-10-19/102494640.html",
-      "published": "2026-10-01",
+      "title": "特朗普再提愿在中国参加中美俄三方峰会 欲讨论核裁军",
+      "link": "https://international.caixin.com/2026-10-20/102495062.html",
+      "published": "2026-10-02",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "Madagascar launches safeguard investigation on certain confectionary",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_12oct26_511_e.htm",
+      "title": "Report underlines value of WTO committee in helping resolve market access trade concerns",
+      "link": "https://www.wto.org/english/news_e/news26_e/mark_12oct26_516_e.htm",
       "published": "2026-10-12",
       "language": "EN"
     },
@@ -199,30 +223,30 @@
       "source": "BBC Business",
       "title": "What is the Budget and what could be in it?",
       "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
+      "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "欧盟商会：中国是外企的“全球健身房”，但双边贸易不能走向零和博弈",
-      "link": "https://international.caixin.com/2026-10-19/102494645.html",
+      "title": "金融如何支持三大国际科技创新中心？十部门部署19条指导意见",
+      "link": "https://finance.caixin.com/2026-10-19/102494977.html",
       "published": "2026-10-01",
       "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "'I took a chance on the whisky industry and I haven't looked back'",
-      "link": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
+      "title": "What are the new faces coming to UK bank notes?",
+      "link": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "两年债务规模下降18% 柳州原市委书记撰文谈化债细节",
-      "link": "https://economy.caixin.com/2026-10-17/102494516.html",
+      "title": "朱鹤新：外汇管理改革成效最终要看经营主体活力和竞争力",
+      "link": "https://finance.caixin.com/2026-10-19/102494972.html",
       "published": "2026-10-01",
       "language": "中文"
     }
@@ -238,22 +262,6 @@
     },
     {
       "category": "energy",
-      "source": "BBC World",
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC Technology",
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
       "source": "WTO",
       "title": "Madagascar launches safeguard investigation on certain confectionary",
       "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_12oct26_511_e.htm",
@@ -263,33 +271,9 @@
     {
       "category": "energy",
       "source": "财新",
-      "title": "能源内参｜中国限制或禁止出口AI、生物医药和光伏三领域共40项技术；前三季度全国铁路发送旅客37.1亿人次 创历史新高",
-      "link": "https://www.caixin.com/2026-10-19/102494663.html",
-      "published": "2026-10-01",
-      "language": "中文"
-    },
-    {
-      "category": "energy",
-      "source": "BBC Business",
-      "title": "Heating oil customers face tough winter",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC World",
-      "title": "The uncertain future of Canada's 30 rescued belugas",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "财新",
-      "title": "T早报｜DeepSeek发布V4.1 Flash新版本；中国限制或禁止出口AI、光伏、生物医药三领域40项技术；特朗普否认白宫限制乌克兰使用星链",
-      "link": "https://www.caixin.com/2026-10-19/102494598.html",
-      "published": "2026-10-01",
+      "title": "新版电力现货市场规则公开征求意见 明确新型主体市场地位",
+      "link": "https://www.caixin.com/2026-10-20/102495045.html",
+      "published": "2026-10-02",
       "language": "中文"
     },
     {
@@ -313,34 +297,26 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's investors gear up for 23-hour US trading",
-      "link": "https://asia.nikkei.com/business/markets/trading-asia/japan-s-investors-gear-up-for-23-hour-us-trading",
-      "published": "2026-10-19",
+      "title": "Japan plans certifications for data centers, cloud services to curb China risk",
+      "link": "https://asia.nikkei.com/spotlight/cybersecurity/japan-plans-certifications-for-data-centers-cloud-services-to-curb-china-risk",
+      "published": "2026-10-20",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "At least 17 dead in crush at Hindu festival event in India",
-      "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19",
       "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "FT中文网",
-      "title": "宣扬“1天1元物业费神话”，是在加速中国城市高层衰退",
-      "link": "https://www.ftchinese.com/story/001111130",
-      "published": "2026-10-17",
-      "language": "中文"
     },
     {
       "category": "asia",
@@ -360,18 +336,50 @@
     },
     {
       "category": "asia",
+      "source": "UNCTAD",
+      "title": "Asia’s rise masks a widening development divide 16 Oct 2026 Manufacturing and exports helped several Asian economies gain ground. That route to prosperity is becoming harder to follow.",
+      "link": "https://unctad.org/news/asias-rise-masks-widening-development-divide",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
       "source": "财新",
-      "title": "能源内参｜中国限制或禁止出口AI、生物医药和光伏三领域共40项技术；前三季度全国铁路发送旅客37.1亿人次 创历史新高",
-      "link": "https://www.caixin.com/2026-10-19/102494663.html",
-      "published": "2026-10-01",
+      "title": "特朗普再提愿在中国参加中美俄三方峰会 欲讨论核裁军",
+      "link": "https://international.caixin.com/2026-10-20/102495062.html",
+      "published": "2026-10-02",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Mitsubishi Heavy to revive shipbuilding line for Japan resupply vessel",
-      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/mitsubishi-heavy-to-revive-shipbuilding-line-for-japan-resupply-vessel",
+      "title": "Southeast Asian startups run into structural roadblocks",
+      "link": "https://asia.nikkei.com/spotlight/asean-money/southeast-asian-startups-run-into-structural-roadblocks",
+      "published": "2026-10-20",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "China's growth accelerates as AI boom helps boost exports",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Import Licensing Committee addresses notifications, trade concerns, transparency efforts",
+      "link": "https://www.wto.org/english/news_e/news26_e/impl_15oct26_518_e.htm",
+      "published": "2026-10-15",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Shanghai tops world in empty offices as overseas investment pulls away",
+      "link": "https://asia.nikkei.com/business/markets/property/shanghai-tops-world-in-empty-offices-as-overseas-investment-pulls-away",
+      "published": "2026-10-20",
       "language": "EN"
     },
     {
@@ -384,14 +392,6 @@
     },
     {
       "category": "asia",
-      "source": "BBC World",
-      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "WTO",
       "title": "Report underlines value of WTO committee in helping resolve market access trade concerns",
       "link": "https://www.wto.org/english/news_e/news26_e/mark_12oct26_516_e.htm",
@@ -400,18 +400,10 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "T早报｜DeepSeek发布V4.1 Flash新版本；中国限制或禁止出口AI、光伏、生物医药三领域40项技术；特朗普否认白宫限制乌克兰使用星链",
-      "link": "https://www.caixin.com/2026-10-19/102494598.html",
-      "published": "2026-10-01",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China's Q3 GDP narrowly beats forecasts as strong exports buoy growth",
-      "link": "https://asia.nikkei.com/economy/china-s-q3-gdp-narrowly-beats-forecasts-as-strong-exports-buoy-growth",
-      "published": "2026-10-19",
+      "title": "Toyota, Honda resume Thai production after floods as supply chains come back",
+      "link": "https://asia.nikkei.com/business/automobiles/toyota-honda-resume-thai-production-after-floods-as-supply-chains-come-back",
+      "published": "2026-10-20",
       "language": "EN"
     },
     {
@@ -432,17 +424,9 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "欧盟商会：中国是外企的“全球健身房”，但双边贸易不能走向零和博弈",
-      "link": "https://international.caixin.com/2026-10-19/102494645.html",
-      "published": "2026-10-01",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's regional banks log record growth in property lending",
-      "link": "https://asia.nikkei.com/business/finance/japan-s-regional-banks-log-record-growth-in-property-lending",
+      "title": "Japan's investors gear up for 23-hour US trading",
+      "link": "https://asia.nikkei.com/business/markets/trading-asia/japan-s-investors-gear-up-for-23-hour-us-trading",
       "published": "2026-10-19",
       "language": "EN"
     },
@@ -456,34 +440,10 @@
     },
     {
       "category": "asia",
-      "source": "WTO",
-      "title": "WTO MSME Group explores IP's role in trade, hears success stories and updates",
-      "link": "https://www.wto.org/english/news_e/news26_e/igmsm_02oct26_505_e.htm",
-      "published": "2026-10-02",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "财新",
-      "title": "9月电动汽车出口量价翻番 劳动密集型产品出口稳定回升｜贸易月报",
-      "link": "https://companies.caixin.com/2026-10-18/102494579.html",
-      "published": "2026-10-01",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Australia's Challenger gets takeover bid from unit of Japan's Daiichi Life",
-      "link": "https://asia.nikkei.com/business/business-deals/australia-s-challenger-gets-takeover-bid-from-unit-of-japan-s-daiichi-life",
+      "title": "Indian chemical firms turn to foreign partners to crack chip supply chains",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/indian-chemical-firms-turn-to-foreign-partners-to-crack-chip-supply-chains",
       "published": "2026-10-19",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Asia meth seizures soar as Myanmar becomes hotbed of production",
-      "link": "https://asia.nikkei.com/spotlight/society/crime/asia-meth-seizures-soar-as-myanmar-becomes-hotbed-of-production",
-      "published": "2026-10-18",
       "language": "EN"
     }
   ],
@@ -491,16 +451,16 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Australian Greens senator denies claims of misconduct towards women",
-      "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+      "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-19",
       "language": "EN"
     },
@@ -522,57 +482,25 @@
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Is Christian Democracy Finished?",
-      "link": "https://www.project-syndicate.org/commentary/german-christian-democracy-how-to-avert-collapse-by-jan-werner-mueller-2026-10",
-      "published": "2026-10-15",
+      "source": "UNCTAD",
+      "title": "Asia’s rise masks a widening development divide 16 Oct 2026 Manufacturing and exports helped several Asian economies gain ground. That route to prosperity is becoming harder to follow.",
+      "link": "https://unctad.org/news/asias-rise-masks-widening-development-divide",
+      "published": "2026-10-16",
       "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "FT中文网",
+      "title": "机器的喜好陷阱：从“人工智能谄媚”到“谄媚人工智能”",
+      "link": "https://www.ftchinese.com/story/001111125",
+      "published": "2026-10-15",
+      "language": "中文"
     },
     {
       "category": "ideas",
       "source": "World Bank",
       "title": "World Bank Group Launches Philanthropy Hub to Unlock Capital, Knowledge and Networks for Development",
       "link": "https://www.worldbank.org/en/news/press-release/2026/10/12/world-bank-group-launches-philanthropy-hub-to-unlock-capital-knowledge-and-network",
-      "published": "2026-10-12",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "财新",
-      "title": "能源内参｜中国限制或禁止出口AI、生物医药和光伏三领域共40项技术；前三季度全国铁路发送旅客37.1亿人次 创历史新高",
-      "link": "https://www.caixin.com/2026-10-19/102494663.html",
-      "published": "2026-10-01",
-      "language": "中文"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Microsoft pulls out of UK's largest AI data centre",
-      "link": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-18",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-15",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "WTO",
-      "title": "Madagascar launches safeguard investigation on certain confectionary",
-      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_12oct26_511_e.htm",
       "published": "2026-10-12",
       "language": "EN"
     },
@@ -587,8 +515,48 @@
     {
       "category": "ideas",
       "source": "财新",
-      "title": "T早报｜DeepSeek发布V4.1 Flash新版本；中国限制或禁止出口AI、光伏、生物医药三领域40项技术；特朗普否认白宫限制乌克兰使用星链",
-      "link": "https://www.caixin.com/2026-10-19/102494598.html",
+      "title": "稳就业｜AI时代初级岗位塌陷：能否为年轻人再造“学徒制”",
+      "link": "https://www.caixin.com/2026-10-20/102495039.html",
+      "published": "2026-10-02",
+      "language": "中文"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "China's growth accelerates as AI boom helps boost exports",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-19",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
+      "title": "Madagascar launches safeguard investigation on certain confectionary",
+      "link": "https://www.wto.org/english/news_e/news26_e/safe_mdg_12oct26_511_e.htm",
+      "published": "2026-10-12",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "UNCTAD",
+      "title": "AI spreads the work but concentrates the profit 13 Oct 2026 A look inside one advanced AI server reveals who captures the value created in making it.",
+      "link": "https://unctad.org/news/ai-spreads-work-concentrates-profit",
+      "published": "2026-10-13",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Investing in Brain Health",
+      "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
+      "published": "2026-09-29",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "金融如何支持三大国际科技创新中心？十部门部署19条指导意见",
+      "link": "https://finance.caixin.com/2026-10-19/102494977.html",
       "published": "2026-10-01",
       "language": "中文"
     },
@@ -602,22 +570,6 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "The uncertain future of Canada's 30 rescued belugas",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-17",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-      "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "WTO",
       "title": "AI boom and trade resilience to Middle East crisis lift outlook, but gains to be uneven",
       "link": "https://www.wto.org/english/news_e/news26_e/stat_08oct26_510_e.htm",
@@ -627,27 +579,35 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "Investing in Brain Health",
-      "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
-      "published": "2026-09-29",
+      "title": "Hedging the AI Doomsday Risk",
+      "link": "https://www.project-syndicate.org/commentary/ai-industry-warnings-too-serious-to-dismiss-outright-by-dambisa-moyo-2026-09",
+      "published": "2026-09-16",
       "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "央行如何应对AI浪潮？潘功胜称应前瞻性做好政策考量和准备",
+      "link": "https://finance.caixin.com/2026-10-19/102494955.html",
+      "published": "2026-10-01",
+      "language": "中文"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      17
+      21
     ],
     [
       "BBC World",
       "ok",
-      13
+      5
     ],
     [
       "BBC Technology",
       "ok",
-      9
+      7
     ],
     [
       "BIS",
@@ -666,8 +626,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 12",
-      3
+      "ok 10",
+      1
     ],
     [
       "The Economist",
@@ -681,8 +641,8 @@
     ],
     [
       "World Bank",
-      "ok 1",
-      1
+      "ok 3",
+      3
     ],
     [
       "OECD",
@@ -691,8 +651,8 @@
     ],
     [
       "UNCTAD",
-      "landing page failed: HTTP Error 403: Forbidden",
-      0
+      "ok 4",
+      3
     ],
     [
       "FT中文网",
@@ -702,7 +662,7 @@
     [
       "财新",
       "ok 17",
-      11
+      9
     ],
     [
       "第一财经",
@@ -751,13 +711,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 17",
-      11
+      "ok 16",
+      7
     ],
     [
       "Project Syndicate",
       "ok 13",
-      4
+      3
     ],
     [
       "The Economist",
