@@ -1,38 +1,38 @@
 {
-  "generated_at": "2026-10-22 03:24 UTC",
-  "date_display": "Thursday · 22 October 2026",
+  "generated_at": "2026-10-23 03:29 UTC",
+  "date_display": "Friday · 23 October 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Building the Economy Africa Needs",
-      "link": "https://www.project-syndicate.org/commentary/africa-needs-regional-integration-industrialization-and-access-to-trade-finance-by-yemi-kale-2026-10",
-      "published": "2026-10-21",
+      "title": "Argentina’s Economic Chainsaw Massacre",
+      "link": "https://www.project-syndicate.org/commentary/argentina-milei-chainsaw-plan-mass-destitution-by-jeremy-adelman-2026-10",
+      "published": "2026-10-22",
       "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "FT中文网",
+      "title": "伊朗战争爆发以来首次出台宽松政策，土耳其央行降息100基点",
+      "link": "https://www.ftchinese.com/story/001111174",
+      "published": "2026-10-22",
+      "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "T早报｜英伟达出资推动上游扩产；OpenAI模型将登陆谷歌云；豆包手机助手限制金融类App自动操作",
-      "link": "https://www.caixin.com/2026-10-22/102495872.html",
-      "published": "2026-10-02",
-      "language": "中文"
     },
     {
       "category": "world",
@@ -53,9 +53,9 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "US bans China's DeepSeek from government in race for AI dominance",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19",
+      "title": "'500 new vulnerabilities' found in government, says AI minister",
+      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
@@ -69,9 +69,9 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
@@ -85,18 +85,10 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "夜读精选｜出口超高速增长是否可持续？研究者称2027年或转入中高速增长",
-      "link": "https://www.caixin.com/2026-10-21/102495793.html",
-      "published": "2026-10-02",
-      "language": "中文"
     },
     {
       "category": "world",
@@ -116,6 +108,14 @@
     },
     {
       "category": "world",
+      "source": "BBC Technology",
+      "title": "UK working to identify exposure after global cyber-security warning",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "UNCTAD",
       "title": "Asia’s rise masks a widening development divide 16 Oct 2026 Manufacturing and exports helped several Asian economies gain ground. That route to prosperity is becoming harder to follow.",
       "link": "https://unctad.org/news/asias-rise-masks-widening-development-divide",
@@ -125,34 +125,26 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The Blindness of China’s All-Seeing State",
-      "link": "https://www.project-syndicate.org/onpoint/china-excessive-surveillance-has-taught-people-to-hide-the-truth-by-yaqiu-wang-2026-10",
-      "published": "2026-10-14",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-      "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "title": "Building the Economy Africa Needs",
+      "link": "https://www.project-syndicate.org/commentary/africa-needs-regional-integration-industrialization-and-access-to-trade-finance-by-yemi-kale-2026-10",
       "published": "2026-10-21",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "财新",
-      "title": "最高法王闯：严惩财务造假、内幕交易、操纵市场、非法集资等违法行为",
-      "link": "https://finance.caixin.com/2026-10-21/102495819.html",
-      "published": "2026-10-02",
-      "language": "中文"
+      "source": "BBC World",
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
+      "language": "EN"
     },
     {
       "category": "world",
@@ -172,6 +164,14 @@
     },
     {
       "category": "world",
+      "source": "BBC Technology",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "UNCTAD",
       "title": "AI spreads the work but concentrates the profit 13 Oct 2026 A look inside one advanced AI server reveals who captures the value created in making it.",
       "link": "https://unctad.org/news/ai-spreads-work-concentrates-profit",
@@ -181,34 +181,26 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Burnham proposes plan to cut standing charges from gas bills",
-      "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Is an 'AI war' complicating your job search?",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "How Worried Should We Be About the Global Economy?",
-      "link": "https://www.project-syndicate.org/commentary/key-sources-of-risk-to-the-global-economy-include-inflation-debt-and-polarization-by-dambisa-moyo-2026-10",
+      "title": "The Blindness of China’s All-Seeing State",
+      "link": "https://www.project-syndicate.org/onpoint/china-excessive-surveillance-has-taught-people-to-hide-the-truth-by-yaqiu-wang-2026-10",
       "published": "2026-10-14",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "88亿元没有猪的生猪交易 广西民企涉“开票经济”致国企重大损失",
-      "link": "https://economy.caixin.com/2026-10-21/102495832.html",
-      "published": "2026-10-02",
-      "language": "中文"
     },
     {
       "category": "world",
@@ -229,51 +221,35 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
-      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Woman 'scared to turn heating on' due to oil cost",
+      "link": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "税费变化等因素致三季度利润环比下滑 宁德时代股价下跌逾10%",
-      "link": "https://www.caixin.com/2026-10-21/102495740.html",
-      "published": "2026-10-02",
-      "language": "中文"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "能源内参｜为避免氢能部分环节投资过热 国家发改委正制定相关引导方案；9月规模以上工业原煤产量降6.8%",
-      "link": "https://www.caixin.com/2026-10-21/102495746.html",
-      "published": "2026-10-02",
-      "language": "中文"
     }
   ],
   "energy": [
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Woman 'scared to turn heating on' due to oil cost",
+      "link": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "energy",
       "source": "BBC World",
-      "title": "Tourist found guilty after stealing Las Vegas flamingo from enclosure",
-      "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20",
+      "title": "How Arab parties could hold critical balance of power in Israeli election",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
@@ -286,11 +262,11 @@
     },
     {
       "category": "energy",
-      "source": "财新",
-      "title": "能源内参｜为避免氢能部分环节投资过热 国家发改委正制定相关引导方案；9月规模以上工业原煤产量降6.8%",
-      "link": "https://www.caixin.com/2026-10-21/102495746.html",
-      "published": "2026-10-02",
-      "language": "中文"
+      "source": "BBC Business",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-21",
+      "language": "EN"
     },
     {
       "category": "energy",
@@ -321,16 +297,32 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Palm oil prices to stay high next year on Southeast Asia drought",
-      "link": "https://asia.nikkei.com/business/markets/commodities/palm-oil-prices-to-stay-high-next-year-on-southeast-asia-drought",
+      "title": "South Korea's Lee bets $1tn on Gwangju as future tech hub",
+      "link": "https://asia.nikkei.com/spotlight/policy-asia/south-korea-s-lee-bets-1tn-on-gwangju-as-future-tech-hub",
+      "published": "2026-10-23",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "No order, no seat: Starbucks China rolls out new store policy",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-      "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "title": "YouTuber arrested after popular Indian finance influencer's suicide",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2d0ej7w7do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Technology",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21",
       "language": "EN"
     },
@@ -344,26 +336,10 @@
     },
     {
       "category": "asia",
-      "source": "BBC Technology",
-      "title": "US bans China's DeepSeek from government in race for AI dominance",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "WTO",
       "title": "WTO and multilateral partners review progress on supply chain finance initiative",
       "link": "https://www.wto.org/english/news_e/news26_e/trfin_16oct26_517_e.htm",
       "published": "2026-10-16",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14",
       "language": "EN"
     },
     {
@@ -376,26 +352,18 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "能源内参｜为避免氢能部分环节投资过热 国家发改委正制定相关引导方案；9月规模以上工业原煤产量降6.8%",
-      "link": "https://www.caixin.com/2026-10-21/102495746.html",
-      "published": "2026-10-02",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan startup touts AI for automakers to match Chinese car development pace",
-      "link": "https://asia.nikkei.com/business/automobiles/japan-startup-touts-ai-for-automakers-to-match-chinese-car-development-pace",
-      "published": "2026-10-22",
+      "title": "AI can strengthen Japan-US deterrence, says former top American general",
+      "link": "https://asia.nikkei.com/politics/defense/ai-can-strengthen-japan-us-deterrence-says-former-top-american-general",
+      "published": "2026-10-23",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "BBC World",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "source": "BBC Business",
+      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14",
       "language": "EN"
     },
     {
@@ -417,17 +385,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan growth strategy to focus on chips in short term, AI in medium term",
-      "link": "https://asia.nikkei.com/economy/japan-growth-strategy-to-focus-on-chips-in-short-term-ai-in-medium-term",
-      "published": "2026-10-22",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
-      "link": "https://www.bbc.co.uk/news/articles/cvze414811jlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "China heats up race to develop solar thermal energy",
+      "link": "https://asia.nikkei.com/business/energy/china-heats-up-race-to-develop-solar-thermal-energy",
+      "published": "2026-10-23",
       "language": "EN"
     },
     {
@@ -441,17 +401,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's retailers brace for revamp of tax-free tourist shopping",
-      "link": "https://asia.nikkei.com/business/travel-leisure/japan-s-retailers-brace-for-revamp-of-tax-free-tourist-shopping",
-      "published": "2026-10-22",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
-      "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Japan core inflation exceeds BOJ target, cements near-term rate hike chance",
+      "link": "https://asia.nikkei.com/economy/japan-core-inflation-exceeds-boj-target-cements-near-term-rate-hike-chance",
+      "published": "2026-10-23",
       "language": "EN"
     },
     {
@@ -465,24 +417,16 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's Kansai Paint to double India automotive coating output",
-      "link": "https://asia.nikkei.com/business/companies/japan-s-kansai-paint-to-double-india-automotive-coating-output",
+      "title": "India pushes for 'competitive advantage' over peers in US trade deal",
+      "link": "https://asia.nikkei.com/politics/international-relations/india-pushes-for-competitive-advantage-over-peers-in-us-trade-deal",
       "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "asia",
-      "source": "BBC World",
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's JR East steps up rail-linked retail push in Singapore, Philippines",
-      "link": "https://asia.nikkei.com/business/retail/japan-s-jr-east-steps-up-rail-linked-retail-push-in-singapore-philippines",
+      "title": "Malaysia's SkyeChip joins SoftBank-backed AI memory project in Japan",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/malaysia-s-skyechip-joins-softbank-backed-ai-memory-project-in-japan",
       "published": "2026-10-22",
       "language": "EN"
     }
@@ -490,26 +434,34 @@
   "ideas": [
     {
       "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Argentina’s Economic Chainsaw Massacre",
+      "link": "https://www.project-syndicate.org/commentary/argentina-milei-chainsaw-plan-mass-destitution-by-jeremy-adelman-2026-10",
+      "published": "2026-10-22",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "BBC Business",
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "US bans China's DeepSeek from government in race for AI dominance",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-19",
+      "title": "'500 new vulnerabilities' found in government, says AI minister",
+      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
@@ -539,33 +491,33 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "With AI, Sharing Is Caring",
-      "link": "https://www.project-syndicate.org/onpoint/ai-sharing-data-information-key-to-serving-public-interest-by-jeff-jarvis-2026-10",
-      "published": "2026-10-07",
+      "title": "A Competitive Europe Must Be Climate-Resilient",
+      "link": "https://www.project-syndicate.org/commentary/eib-new-approach-to-financing-climate-resilient-infrastructure-by-ambroise-fayolle-2026-10",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "财新",
-      "title": "T早报｜英伟达出资推动上游扩产；OpenAI模型将登陆谷歌云；豆包手机助手限制金融类App自动操作",
-      "link": "https://www.caixin.com/2026-10-22/102495872.html",
-      "published": "2026-10-02",
-      "language": "中文"
-    },
-    {
-      "category": "ideas",
       "source": "BBC Business",
-      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-      "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-      "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "How do Israel's elections work and who are the main contenders?",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "UK working to identify exposure after global cyber-security warning",
+      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
@@ -587,24 +539,32 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "Investing in Brain Health",
-      "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
-      "published": "2026-09-29",
+      "title": "With AI, Sharing Is Caring",
+      "link": "https://www.project-syndicate.org/onpoint/ai-sharing-data-information-key-to-serving-public-interest-by-jeff-jarvis-2026-10",
+      "published": "2026-10-07",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
-      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
+      "title": "Is an 'AI war' complicating your job search?",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-      "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+      "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-21",
       "language": "EN"
     },
@@ -614,22 +574,6 @@
       "title": "AI boom and trade resilience to Middle East crisis lift outlook, but gains to be uneven",
       "link": "https://www.wto.org/english/news_e/news26_e/stat_08oct26_510_e.htm",
       "published": "2026-10-08",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "How to Stop the AI-pocalypse",
-      "link": "https://www.project-syndicate.org/commentary/real-ai-apocalypse-might-not-be-human-extinction-but-orwellian-authoritarianism-by-kaushik-basu-2026-09",
-      "published": "2026-09-25",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-20",
       "language": "EN"
     }
   ],
@@ -642,12 +586,12 @@
     [
       "BBC World",
       "ok",
-      11
+      12
     ],
     [
       "BBC Technology",
       "ok",
-      4
+      5
     ],
     [
       "BIS",
@@ -657,7 +601,7 @@
     [
       "WTO",
       "ok",
-      6
+      7
     ],
     [
       "IRENA",
@@ -696,13 +640,13 @@
     ],
     [
       "FT中文网",
-      "ok 0",
-      0
+      "ok 1",
+      1
     ],
     [
       "财新",
-      "ok 17",
-      7
+      "ok 0",
+      0
     ],
     [
       "第一财经",
@@ -751,13 +695,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 18",
-      10
+      "ok 17",
+      6
     ],
     [
       "Project Syndicate",
-      "ok 17",
-      4
+      "ok 16",
+      6
     ],
     [
       "The Economist",
