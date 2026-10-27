@@ -1,29 +1,93 @@
 {
-  "generated_at": "2026-10-26 03:21 UTC",
-  "date_display": "Monday · 26 October 2026",
+  "generated_at": "2026-10-27 03:49 UTC",
+  "date_display": "Tuesday · 27 October 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26",
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Who Pays the Fiscal Watchdogs?",
-      "link": "https://www.project-syndicate.org/commentary/civil-society-oversight-of-public-finances-needs-sustained-external-funding-by-janet-zhou-2026-10",
+      "title": "Public Control for a Purposeful Economy",
+      "link": "https://www.project-syndicate.org/commentary/public-control-in-economy-must-be-defined-around-missions-by-mariana-mazzucato-and-anna-hope-emerson-2026-10",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "FT中文网",
+      "title": "百亿市值蒸发九成九，GOGOX壮士断腕一元售中国快狗",
+      "link": "https://www.ftchinese.com/story/001111201",
+      "published": "2026-10-25",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Members intensify discussions on WTO reform based on substantive proposals",
+      "link": "https://www.wto.org/english/news_e/news26_e/refrm_23oct26_524_e.htm",
       "published": "2026-10-23",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "World Bank",
+      "title": "World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+      "published": "2026-10-20",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "UNCTAD",
+      "title": "Why AI investment must go beyond data centres 26 Oct 2026 Investment in the wider ecosystem, including affordable connectivity, research and skills, will be crucial to making the benefits of AI more inclusive.",
+      "link": "https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-27",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "The Wrong Way to Compare Economic Size",
+      "link": "https://www.project-syndicate.org/commentary/ppp-adjusted-gdp-wrong-way-to-measure-and-compare-economic-size-by-jeffrey-frankel-2026-10",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC World",
-      "title": "Deeply divided Israel braces for pivotal election",
-      "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26",
       "language": "EN"
     },
     {
@@ -37,9 +101,65 @@
     {
       "category": "world",
       "source": "World Bank",
-      "title": "World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
-      "published": "2026-10-20",
+      "title": "UAE Signs Agreement to Host 2029 World Bank Group and IMF Annual Meetings in Abu Dhabi",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/10/18/uae-signs-agreement-to-host-2029-world-bank-group-annual-meetings",
+      "published": "2026-10-18",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "UNCTAD",
+      "title": "Women entrepreneurs honoured at World Investment Forum 26 Oct 2026 The 2026 Women in Business Awards celebrate entrepreneurs driving innovation and growth, and highlight the support needed to scale their enterprises.",
+      "link": "https://unctad.org/news/women-entrepreneurs-honoured-world-investment-forum",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "From AI Boom to Economic Bust",
+      "link": "https://www.project-syndicate.org/onpoint/ai-revolution-could-leave-everyone-worse-off-by-ian-goldin-2026-10",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "WTO and multilateral partners review progress on supply chain finance initiative",
+      "link": "https://www.wto.org/english/news_e/news26_e/trfin_16oct26_517_e.htm",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "World Bank Group Launches Philanthropy Hub to Unlock Capital, Knowledge and Networks for Development",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/10/12/world-bank-group-launches-philanthropy-hub-to-unlock-capital-knowledge-and-network",
+      "published": "2026-10-12",
       "language": "EN"
     },
     {
@@ -61,49 +181,33 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "What is the Budget and what could be in it?",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-26",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The Blindness of China’s All-Seeing State",
-      "link": "https://www.project-syndicate.org/onpoint/china-excessive-surveillance-has-taught-people-to-hide-the-truth-by-yaqiu-wang-2026-10",
-      "published": "2026-10-14",
+      "title": "Public Investment Is Fiscally Responsible",
+      "link": "https://www.project-syndicate.org/commentary/fiscal-responsibility-about-investment-as-much-as-debt-by-mariana-mazzucato-2026-10",
+      "published": "2026-10-13",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "link": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "WTO and multilateral partners review progress on supply chain finance initiative",
-      "link": "https://www.wto.org/english/news_e/news26_e/trfin_16oct26_517_e.htm",
-      "published": "2026-10-16",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "World Bank",
-      "title": "UAE Signs Agreement to Host 2029 World Bank Group and IMF Annual Meetings in Abu Dhabi",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/10/18/uae-signs-agreement-to-host-2029-world-bank-group-annual-meetings",
-      "published": "2026-10-18",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22",
+      "title": "Import Licensing Committee addresses notifications, trade concerns, transparency efforts",
+      "link": "https://www.wto.org/english/news_e/news26_e/impl_15oct26_518_e.htm",
+      "published": "2026-10-15",
       "language": "EN"
     },
     {
@@ -117,89 +221,17 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Rosebank: Life on the oil field at the centre of a political storm",
-      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-      "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "Import Licensing Committee addresses notifications, trade concerns, transparency efforts",
-      "link": "https://www.wto.org/english/news_e/news26_e/impl_15oct26_518_e.htm",
-      "published": "2026-10-15",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "World Bank",
-      "title": "World Bank Group Launches Philanthropy Hub to Unlock Capital, Knowledge and Networks for Development",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/10/12/world-bank-group-launches-philanthropy-hub-to-unlock-capital-knowledge-and-network",
-      "published": "2026-10-12",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "UNCTAD",
-      "title": "AI spreads the work but concentrates the profit 13 Oct 2026 A look inside one advanced AI server reveals who captures the value created in making it.",
-      "link": "https://unctad.org/news/ai-spreads-work-concentrates-profit",
-      "published": "2026-10-13",
+      "title": "What is the Budget and what could be in it?",
+      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Budget to include £1bn for social and affordable housing",
-      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "Talks kick off for Timor-Leste's accession to government procurement pact",
-      "link": "https://www.wto.org/english/news_e/news26_e/gpro_14oct26_515_e.htm",
-      "published": "2026-10-14",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Heating oil costs 'more than double' ahead of winter",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "link": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26",
       "language": "EN"
     }
   ],
@@ -239,14 +271,6 @@
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC Business",
       "title": "How oil-rich Alberta's economy might fare if it broke away from Canada",
       "link": "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-07",
@@ -257,18 +281,34 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Sumitomo aims to expand battery energy storage in Japan with UK experience",
-      "link": "https://asia.nikkei.com/business/energy/sumitomo-aims-to-expand-battery-energy-storage-in-japan-with-uk-experience",
-      "published": "2026-10-26",
+      "title": "South Korea's economy grows 1.0% in 3rd quarter on chip boom",
+      "link": "https://asia.nikkei.com/economy/south-korea-s-economy-grows-1.0-in-3rd-quarter-on-chip-boom",
+      "published": "2026-10-27",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-      "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24",
+      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-26",
       "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "UNCTAD",
+      "title": "Why AI investment must go beyond data centres 26 Oct 2026 Investment in the wider ecosystem, including affordable connectivity, research and skills, will be crucial to making the benefits of AI more inclusive.",
+      "link": "https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "FT中文网",
+      "title": "百亿市值蒸发九成九，GOGOX壮士断腕一元售中国快狗",
+      "link": "https://www.ftchinese.com/story/001111201",
+      "published": "2026-10-25",
+      "language": "中文"
     },
     {
       "category": "asia",
@@ -276,14 +316,6 @@
       "title": "The Indian workers filming their work to train AI",
       "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Technology",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
       "language": "EN"
     },
     {
@@ -296,25 +328,25 @@
     },
     {
       "category": "asia",
-      "source": "UNCTAD",
-      "title": "Ten things to watch at the World Investment Forum 2026 20 Oct 2026 Four prime ministers, record participation from international organizations, and fresh topics to explore new frontiers in investment for development.",
-      "link": "https://unctad.org/news/ten-things-watch-world-investment-forum-2026",
-      "published": "2026-10-20",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "Project Syndicate",
-      "title": "The Blindness of China’s All-Seeing State",
-      "link": "https://www.project-syndicate.org/onpoint/china-excessive-surveillance-has-taught-people-to-hide-the-truth-by-yaqiu-wang-2026-10",
-      "published": "2026-10-14",
+      "title": "Public Investment Is Fiscally Responsible",
+      "link": "https://www.project-syndicate.org/commentary/fiscal-responsibility-about-investment-as-much-as-debt-by-mariana-mazzucato-2026-10",
+      "published": "2026-10-13",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "India's chip design startups struggle with final commercial hurdle",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/india-s-chip-design-startups-struggle-with-final-commercial-hurdle",
+      "title": "Southeast Asians scale back weddings as inflation, energy crisis take toll",
+      "link": "https://asia.nikkei.com/spotlight/asean-money/southeast-asians-scale-back-weddings-as-inflation-energy-crisis-take-toll",
+      "published": "2026-10-27",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "UNCTAD",
+      "title": "Women entrepreneurs honoured at World Investment Forum 26 Oct 2026 The 2026 Women in Business Awards celebrate entrepreneurs driving innovation and growth, and highlight the support needed to scale their enterprises.",
+      "link": "https://unctad.org/news/women-entrepreneurs-honoured-world-investment-forum",
       "published": "2026-10-26",
       "language": "EN"
     },
@@ -336,42 +368,18 @@
     },
     {
       "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Circle exec urges room for banks, startups in Asian stablecoin regimes",
+      "link": "https://asia.nikkei.com/spotlight/cryptocurrencies/circle-exec-urges-room-for-banks-startups-in-asian-stablecoin-regimes",
+      "published": "2026-10-27",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
       "source": "UNCTAD",
-      "title": "Asia’s rise masks a widening development divide 16 Oct 2026 Manufacturing and exports helped several Asian economies gain ground. That route to prosperity is becoming harder to follow.",
-      "link": "https://unctad.org/news/asias-rise-masks-widening-development-divide",
-      "published": "2026-10-16",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "AI stock falls are sore spot for China's self-reliance strategy",
-      "link": "https://asia.nikkei.com/business/markets/trading-asia/ai-stock-falls-are-sore-spot-for-china-s-self-reliance-strategy",
-      "published": "2026-10-26",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "No order, no seat: Starbucks China rolls out new store policy",
-      "link": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "Import Licensing Committee addresses notifications, trade concerns, transparency efforts",
-      "link": "https://www.wto.org/english/news_e/news26_e/impl_15oct26_518_e.htm",
-      "published": "2026-10-15",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "SoftBank plans $50bn AI investment in Malaysia, PM says",
-      "link": "https://asia.nikkei.com/business/softbank/softbank-plans-50bn-ai-investment-in-malaysia-pm-says",
-      "published": "2026-10-26",
+      "title": "Ten things to watch at the World Investment Forum 2026 20 Oct 2026 Four prime ministers, record participation from international organizations, and fresh topics to explore new frontiers in investment for development.",
+      "link": "https://unctad.org/news/ten-things-watch-world-investment-forum-2026",
+      "published": "2026-10-20",
       "language": "EN"
     },
     {
@@ -385,6 +393,30 @@
     {
       "category": "asia",
       "source": "WTO",
+      "title": "Import Licensing Committee addresses notifications, trade concerns, transparency efforts",
+      "link": "https://www.wto.org/english/news_e/news26_e/impl_15oct26_518_e.htm",
+      "published": "2026-10-15",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Cyberattack on Japan internet provider GMO threatens customer computers",
+      "link": "https://asia.nikkei.com/spotlight/cybersecurity/cyberattack-on-japan-internet-provider-gmo-threatens-customer-computers",
+      "published": "2026-10-27",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "UNCTAD",
+      "title": "Asia’s rise masks a widening development divide 16 Oct 2026 Manufacturing and exports helped several Asian economies gain ground. That route to prosperity is becoming harder to follow.",
+      "link": "https://unctad.org/news/asias-rise-masks-widening-development-divide",
+      "published": "2026-10-16",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
       "title": "Report underlines value of WTO committee in helping resolve market access trade concerns",
       "link": "https://www.wto.org/english/news_e/news26_e/mark_12oct26_516_e.htm",
       "published": "2026-10-12",
@@ -393,29 +425,29 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japanese builder Takenaka to offer 'meister' credential for foreign staff",
-      "link": "https://asia.nikkei.com/spotlight/japan-immigration/japanese-builder-takenaka-to-offer-meister-credential-for-foreign-staff",
-      "published": "2026-10-26",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "AI boom and trade resilience to Middle East crisis lift outlook, but gains to be uneven",
-      "link": "https://www.wto.org/english/news_e/news26_e/stat_08oct26_510_e.htm",
-      "published": "2026-10-08",
+      "title": "Japan to back perovskite solar cell mass production with $640m in subsidies",
+      "link": "https://asia.nikkei.com/business/energy/japan-to-back-perovskite-solar-cell-mass-production-with-640m-in-subsidies",
+      "published": "2026-10-27",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Nuremberg at 80: Japan's role in the unfinished fight against aggression",
-      "link": "https://asia.nikkei.com/spotlight/comment/nuremberg-at-80-japan-s-role-in-the-unfinished-fight-against-aggression",
-      "published": "2026-10-26",
+      "title": "Japan's Sakana AI to build homegrown model to cut US, China reliance",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-sakana-ai-to-build-homegrown-model-to-cut-us-china-reliance",
+      "published": "2026-10-27",
       "language": "EN"
     }
   ],
   "ideas": [
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "The Specter of an AI-Driven Slowdown",
+      "link": "https://www.project-syndicate.org/commentary/capital-markets-point-to-growing-risk-of-ai-driven-downturn-by-dambisa-moyo-2026-10",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
     {
       "category": "ideas",
       "source": "BBC Business",
@@ -426,26 +458,26 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
+      "source": "UNCTAD",
+      "title": "Why AI investment must go beyond data centres 26 Oct 2026 Investment in the wider ecosystem, including affordable connectivity, research and skills, will be crucial to making the benefits of AI more inclusive.",
+      "link": "https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres",
+      "published": "2026-10-26",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "A Competitive Europe Must Be Climate-Resilient",
-      "link": "https://www.project-syndicate.org/commentary/eib-new-approach-to-financing-climate-resilient-infrastructure-by-ambroise-fayolle-2026-10",
-      "published": "2026-10-22",
+      "source": "BBC World",
+      "title": "Fireworks and tear gas as protesters and riot police clash in Paris",
+      "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "'500 new vulnerabilities' found in government, says AI minister",
-      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-22",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-24",
       "language": "EN"
     },
     {
@@ -453,14 +485,6 @@
       "source": "WTO",
       "title": "WTO and multilateral partners review progress on supply chain finance initiative",
       "link": "https://www.wto.org/english/news_e/news26_e/trfin_16oct26_517_e.htm",
-      "published": "2026-10-16",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "UNCTAD",
-      "title": "Asia’s rise masks a widening development divide 16 Oct 2026 Manufacturing and exports helped several Asian economies gain ground. That route to prosperity is becoming harder to follow.",
-      "link": "https://unctad.org/news/asias-rise-masks-widening-development-divide",
       "published": "2026-10-16",
       "language": "EN"
     },
@@ -474,6 +498,14 @@
     },
     {
       "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Rethinking Sustainable Livelihoods From the Ground Up",
+      "link": "https://www.project-syndicate.org/commentary/post-coal-fossil-fuel-livelihoods-requires-community-input-regional-endowment-funds-by-grita-anindarini-2026-10",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "BBC Business",
       "title": "Four ways Labour could raise money in the Budget without hiking income tax",
       "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
@@ -482,25 +514,17 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Investing in Brain Health",
-      "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
-      "published": "2026-09-29",
+      "source": "UNCTAD",
+      "title": "Asia’s rise masks a widening development divide 16 Oct 2026 Manufacturing and exports helped several Asian economies gain ground. That route to prosperity is becoming harder to follow.",
+      "link": "https://unctad.org/news/asias-rise-masks-widening-development-divide",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "UK working to identify exposure after global cyber-security warning",
-      "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-22",
       "language": "EN"
     },
@@ -514,42 +538,10 @@
     },
     {
       "category": "ideas",
-      "source": "UNCTAD",
-      "title": "AI spreads the work but concentrates the profit 13 Oct 2026 A look inside one advanced AI server reveals who captures the value created in making it.",
-      "link": "https://unctad.org/news/ai-spreads-work-concentrates-profit",
-      "published": "2026-10-13",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-25",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Technology",
-      "title": "Trump's green card curbs test Indian tech workers' American dream",
-      "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-21",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "WTO",
-      "title": "AI boom and trade resilience to Middle East crisis lift outlook, but gains to be uneven",
-      "link": "https://www.wto.org/english/news_e/news26_e/stat_08oct26_510_e.htm",
-      "published": "2026-10-08",
+      "source": "Project Syndicate",
+      "title": "From AI Boom to Economic Bust",
+      "link": "https://www.project-syndicate.org/onpoint/ai-revolution-could-leave-everyone-worse-off-by-ian-goldin-2026-10",
+      "published": "2026-10-16",
       "language": "EN"
     },
     {
@@ -559,23 +551,55 @@
       "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-23",
       "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "'500 new vulnerabilities' found in government, says AI minister",
+      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-22",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Investing in Brain Health",
+      "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
+      "published": "2026-09-29",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "The Indian workers filming their work to train AI",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Living with a stink? Technology might help",
+      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-15",
+      "language": "EN"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      22
+      20
     ],
     [
       "BBC World",
       "ok",
-      15
+      9
     ],
     [
       "BBC Technology",
       "ok",
-      6
+      5
     ],
     [
       "BIS",
@@ -595,7 +619,7 @@
     [
       "Project Syndicate",
       "ok 13",
-      2
+      4
     ],
     [
       "The Economist",
@@ -609,7 +633,7 @@
     ],
     [
       "World Bank",
-      "ok 3",
+      "ok 4",
       3
     ],
     [
@@ -619,13 +643,13 @@
     ],
     [
       "UNCTAD",
-      "ok 3",
-      3
+      "ok 4",
+      4
     ],
     [
       "FT中文网",
-      "ok 1",
-      0
+      "ok 3",
+      1
     ],
     [
       "财新",
@@ -664,7 +688,7 @@
     ],
     [
       "ASEAN",
-      "landing page failed: <urlopen error timed out>",
+      "landing page failed: HTTP Error 307: Temporary Redirect",
       0
     ],
     [
@@ -679,13 +703,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 18",
-      12
+      "ok 16",
+      9
     ],
     [
       "Project Syndicate",
       "ok 14",
-      2
+      4
     ],
     [
       "The Economist",
