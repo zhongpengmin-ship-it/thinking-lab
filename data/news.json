@@ -1,69 +1,13 @@
 {
-  "generated_at": "2026-10-30 04:30 UTC",
-  "date_display": "Friday · 30 October 2026",
+  "generated_at": "2026-10-31 04:12 UTC",
+  "date_display": "Saturday · 31 October 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Can Bond Vigilantes Prevent the Next Debt Crisis?",
-      "link": "https://www.project-syndicate.org/commentary/bond-vigilantes-sovereign-debt-crises-france-us-by-nouriel-roubini-2026-10",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "Global Review 2026 spotlights partnerships for trade and development",
-      "link": "https://www.wto.org/english/news_e/news26_e/aid_29oct26_526_e.htm",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "World Bank",
-      "title": "World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
-      "published": "2026-10-20",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-26",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "UNCTAD",
-      "title": "Why AI investment must go beyond data centres 26 Oct 2026 Investment in the wider ecosystem, including affordable connectivity, research and skills, will be crucial to making the benefits of AI more inclusive.",
-      "link": "https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres",
-      "published": "2026-10-26",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
       "language": "EN"
     },
     {
@@ -77,16 +21,64 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-      "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "Côte d'Ivoire President: Re-globalization an opportunity to move beyond traditional trade",
-      "link": "https://www.wto.org/english/news_e/news26_e/pls_29oct26_530_e.htm",
+      "title": "Global Review concludes with a declaration on partnerships for trade and development",
+      "link": "https://www.wto.org/english/news_e/news26_e/gr26_30oct26_534_e.htm",
+      "published": "2026-10-30",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "World Bank Group Launches First Digital Strategy to Expand Access and Create Jobs",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/10/20/world-bank-group-launches-first-digital-strategy-to-expand-access-and-create-jobs",
+      "published": "2026-10-20",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "UNCTAD",
+      "title": "Why AI investment must go beyond data centres 26 Oct 2026 Investment in the wider ecosystem, including affordable connectivity, research and skills, will be crucial to making the benefits of AI more inclusive.",
+      "link": "https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Can Bond Vigilantes Prevent the Next Debt Crisis?",
+      "link": "https://www.project-syndicate.org/commentary/bond-vigilantes-sovereign-debt-crises-france-us-by-nouriel-roubini-2026-10",
+      "published": "2026-10-29",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "New report looks at role of South-South and triangular cooperation for trade development",
+      "link": "https://www.wto.org/english/news_e/news26_e/devel_29oct26_535_e.htm",
       "published": "2026-10-29",
       "language": "EN"
     },
@@ -100,14 +92,6 @@
     },
     {
       "category": "world",
-      "source": "BBC Technology",
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "UNCTAD",
       "title": "Women entrepreneurs honoured at World Investment Forum 26 Oct 2026 The 2026 Women in Business Awards celebrate entrepreneurs driving innovation and growth, and highlight the support needed to scale their enterprises.",
       "link": "https://unctad.org/news/women-entrepreneurs-honoured-world-investment-forum",
@@ -117,9 +101,9 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "US interest rates held steady and economy grows - what it means for you",
-      "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
       "language": "EN"
     },
     {
@@ -133,17 +117,17 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "Trade Policy Review: Democratic Republic of the Congo",
-      "link": "https://www.wto.org/english/tratop_e/tpr_e/tpr_cod_28oct26_e.htm",
-      "published": "2026-10-28",
+      "title": "Global Review 2026 spotlights partnerships for trade and development",
+      "link": "https://www.wto.org/english/news_e/news26_e/aid_29oct26_526_e.htm",
+      "published": "2026-10-29",
       "language": "EN"
     },
     {
@@ -157,33 +141,25 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-      "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Can China and America Handle Being Ordinary?",
-      "link": "https://www.project-syndicate.org/commentary/china-united-states-coping-with-end-of-extraordinary-economic-periods-by-nancy-qian-2026-10",
-      "published": "2026-10-12",
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-      "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "WTO members discuss proposals on key trade and development issues",
-      "link": "https://www.wto.org/english/news_e/news26_e/devel_27oct26_527_e.htm",
-      "published": "2026-10-27",
+      "title": "Côte d'Ivoire President: Re-globalization an opportunity to move beyond traditional trade",
+      "link": "https://www.wto.org/english/news_e/news26_e/pls_29oct26_530_e.htm",
+      "published": "2026-10-29",
       "language": "EN"
     },
     {
@@ -197,16 +173,16 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Faisal Islam: This Budget was micro and that was deliberate",
-      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Bereaved families will not face tax bill over pension delays under new rules",
-      "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: This Budget was micro and that was deliberate",
+      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29",
       "language": "EN"
     }
@@ -214,17 +190,17 @@
   "energy": [
     {
       "category": "energy",
-      "source": "BBC Business",
-      "title": "Your pay, energy bills and savings: How the Budget affects you",
-      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
+      "source": "BBC World",
+      "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
       "language": "EN"
     },
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Island Energy: No plans to remove gas standing charge",
-      "link": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o?at_medium=RSS&at_campaign=rss",
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29",
       "language": "EN"
     },
@@ -241,25 +217,33 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Takaichi's G7 no-show risks undermining Japan's interests",
-      "link": "https://asia.nikkei.com/spotlight/comment/takaichi-s-g7-no-show-risks-undermining-japan-s-interests",
-      "published": "2026-10-30",
+      "title": "Singapore haze crackdown tests legal reach and regional ties",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/singapore-haze-crackdown-tests-legal-reach-and-regional-ties",
+      "published": "2026-10-31",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "WTO",
-      "title": "Global Review 2026 spotlights partnerships for trade and development",
-      "link": "https://www.wto.org/english/news_e/news26_e/aid_29oct26_526_e.htm",
-      "published": "2026-10-29",
+      "title": "Global Review concludes with a declaration on partnerships for trade and development",
+      "link": "https://www.wto.org/english/news_e/news26_e/gr26_30oct26_534_e.htm",
+      "published": "2026-10-30",
       "language": "EN"
     },
     {
@@ -272,6 +256,22 @@
     },
     {
       "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Japan asks Anthropic, OpenAI for more access to advanced models",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-asks-anthropic-openai-for-more-access-to-advanced-models",
+      "published": "2026-10-31",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
       "source": "BBC Business",
       "title": "The Indian workers filming their work to train AI",
       "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
@@ -280,33 +280,9 @@
     },
     {
       "category": "asia",
-      "source": "Project Syndicate",
-      "title": "Can China and America Handle Being Ordinary?",
-      "link": "https://www.project-syndicate.org/commentary/china-united-states-coping-with-end-of-extraordinary-economic-periods-by-nancy-qian-2026-10",
-      "published": "2026-10-12",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "PAG to buy 51% of China Evergrande services arm for $510m",
-      "link": "https://asia.nikkei.com/business/markets/china-debt-crunch/pag-to-buy-51-of-china-evergrande-services-arm-for-510m",
-      "published": "2026-10-30",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "WTO",
-      "title": "Côte d'Ivoire President: Re-globalization an opportunity to move beyond traditional trade",
-      "link": "https://www.wto.org/english/news_e/news26_e/pls_29oct26_530_e.htm",
+      "title": "New report looks at role of South-South and triangular cooperation for trade development",
+      "link": "https://www.wto.org/english/news_e/news26_e/devel_29oct26_535_e.htm",
       "published": "2026-10-29",
       "language": "EN"
     },
@@ -320,6 +296,22 @@
     },
     {
       "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Japan demands release of national in meeting with Russian minister",
+      "link": "https://asia.nikkei.com/politics/international-relations/japan-demands-release-of-national-in-meeting-with-russian-minister",
+      "published": "2026-10-31",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
       "source": "BBC Business",
       "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
       "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
@@ -328,17 +320,57 @@
     },
     {
       "category": "asia",
+      "source": "WTO",
+      "title": "Global Review 2026 spotlights partnerships for trade and development",
+      "link": "https://www.wto.org/english/news_e/news26_e/aid_29oct26_526_e.htm",
+      "published": "2026-10-29",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan aims to deploy underwater drones for sub surveillance",
-      "link": "https://asia.nikkei.com/politics/defense/japan-aims-to-deploy-underwater-drones-for-sub-surveillance",
-      "published": "2026-10-30",
+      "title": "Japan miner to address labor crunch with self-driving dump trucks",
+      "link": "https://asia.nikkei.com/business/technology/japan-miner-to-address-labor-crunch-with-self-driving-dump-trucks",
+      "published": "2026-10-31",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
-      "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+      "title": "China denies allegations of spy operation targeting Nvidia CEO",
+      "link": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Côte d'Ivoire President: Re-globalization an opportunity to move beyond traditional trade",
+      "link": "https://www.wto.org/english/news_e/news26_e/pls_29oct26_530_e.htm",
+      "published": "2026-10-29",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "Who fell and who rose at China's fifth plenum",
+      "link": "https://asia.nikkei.com/politics/who-fell-and-who-rose-at-china-s-fifth-plenum",
+      "published": "2026-10-30",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "Members review regional trade agreements, confirm meeting frequency, adopt annual report",
+      "link": "https://www.wto.org/english/news_e/news26_e/rta_29oct26_532_e.htm",
+      "published": "2026-10-29",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "China issues fade in US as midterm voters focus on prices",
+      "link": "https://asia.nikkei.com/politics/u.s.-midterm-elections/china-issues-fade-in-us-as-midterm-voters-focus-on-prices",
       "published": "2026-10-29",
       "language": "EN"
     },
@@ -349,70 +381,30 @@
       "link": "https://www.wto.org/english/tratop_e/tpr_e/tpr_cod_28oct26_e.htm",
       "published": "2026-10-28",
       "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "ASEAN envoy meets Myanmar minister to talk civil war, aid access",
-      "link": "https://asia.nikkei.com/spotlight/myanmar-crisis/asean-envoy-meets-myanmar-minister-to-talk-civil-war-aid-access",
-      "published": "2026-10-30",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "WTO members discuss proposals on key trade and development issues",
-      "link": "https://www.wto.org/english/news_e/news26_e/devel_27oct26_527_e.htm",
-      "published": "2026-10-27",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "US taps Singapore to advance defense framework talks with ASEAN next year",
-      "link": "https://asia.nikkei.com/politics/defense/us-taps-singapore-to-advance-defense-framework-talks-with-asean-next-year",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "High-level talks in Doha spotlight trade and investment opportunities for LDCs",
-      "link": "https://www.wto.org/english/news_e/news26_e/ldevc_26oct26_525_e.htm",
-      "published": "2026-10-26",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "China issues fade in US as midterm voters focus on prices",
-      "link": "https://asia.nikkei.com/politics/u.s.-midterm-elections/china-issues-fade-in-us-as-midterm-voters-focus-on-prices",
-      "published": "2026-10-29",
-      "language": "EN"
     }
   ],
   "ideas": [
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "A Future for Europe’s Youth",
-      "link": "https://www.project-syndicate.org/commentary/protests-reflect-clash-between-youth-expectations-and-eu-capacity-to-deliver-prosperity-by-ana-palacio-2026-10",
-      "published": "2026-10-29",
+      "source": "BBC World",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+      "source": "Project Syndicate",
+      "title": "A Future for Europe’s Youth",
+      "link": "https://www.project-syndicate.org/commentary/protests-reflect-clash-between-youth-expectations-and-eu-capacity-to-deliver-prosperity-by-ana-palacio-2026-10",
       "published": "2026-10-29",
       "language": "EN"
     },
@@ -426,18 +418,42 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Technology",
-      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-      "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-24",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "World Bank",
       "title": "World Bank Group Launches Philanthropy Hub to Unlock Capital, Knowledge and Networks for Development",
       "link": "https://www.worldbank.org/en/news/press-release/2026/10/12/world-bank-group-launches-philanthropy-hub-to-unlock-capital-knowledge-and-network",
       "published": "2026-10-12",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "The Journalists’ Revolt Against AI Scraping",
+      "link": "https://www.project-syndicate.org/commentary/editorial-perfil-lawsuit-against-openai-for-illegally-scraping-copyrighted-material-by-agustino-fontevecchia-2026-10",
+      "published": "2026-10-09",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-29",
       "language": "EN"
     },
     {
@@ -451,16 +467,8 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-      "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: This Budget was micro and that was deliberate",
+      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29",
       "language": "EN"
     },
@@ -471,50 +479,18 @@
       "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-29",
       "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
-      "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Faisal Islam: This Budget was micro and that was deliberate",
-      "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Audacious Indian jailbreak saga ends with 17 prisoners recaptured",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2qrgy591ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Chancellor says government has 'moral duty' to help young people out of work",
-      "link": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-29",
-      "language": "EN"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      22
+      20
     ],
     [
       "BBC World",
       "ok",
-      10
+      15
     ],
     [
       "BBC Technology",
@@ -529,7 +505,7 @@
     [
       "WTO",
       "ok",
-      6
+      8
     ],
     [
       "IRENA",
@@ -539,7 +515,7 @@
     [
       "Project Syndicate",
       "ok 12",
-      4
+      3
     ],
     [
       "The Economist",
@@ -568,7 +544,7 @@
     ],
     [
       "FT中文网",
-      "ok 1",
+      "ok 2",
       0
     ],
     [
@@ -624,12 +600,12 @@
     [
       "Nikkei Asia",
       "ok 18",
-      10
+      8
     ],
     [
       "Project Syndicate",
-      "ok 13",
-      2
+      "ok 14",
+      3
     ],
     [
       "The Economist",
