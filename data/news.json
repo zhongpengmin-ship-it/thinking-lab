@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-11-02 04:35 UTC",
-  "date_display": "Monday · 02 November 2026",
+  "generated_at": "2026-11-03 05:27 UTC",
+  "date_display": "Tuesday · 03 November 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Energy bills help 'doesn't go far enough'",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Can Bond Vigilantes Prevent the Next Debt Crisis?",
-      "link": "https://www.project-syndicate.org/commentary/bond-vigilantes-sovereign-debt-crises-france-us-by-nouriel-roubini-2026-10",
-      "published": "2026-10-29",
+      "title": "Trump’s Tariff Fiasco Could Save Free Trade",
+      "link": "https://www.project-syndicate.org/commentary/failure-of-trump-trade-agenda-could-pave-way-for-retreat-from-protectionism-by-anne-o-krueger-2026-11",
+      "published": "2026-11-02",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "BBC World",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+      "source": "FT中文网",
+      "title": "未完成的胜利：美国中期选举前瞻与特朗普的加密政策遗产",
+      "link": "https://www.ftchinese.com/story/001111258",
       "published": "2026-11-02",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "US strikes Iran ahead of midterm elections",
+      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "非洲掠影③：内罗毕的房地产与加纳的二手车｜出海·现场",
-      "link": "https://companies.caixin.com/2026-11-02/102499776.html",
-      "published": "2026-11-02",
+      "title": "芯片公司Marvell拟1150亿亿美元收购光模块公司Lumentum AI光互连开启垂直整合",
+      "link": "https://www.caixin.com/2026-11-03/102500323.html",
+      "published": "2026-11-03",
       "language": "中文"
     },
     {
@@ -52,34 +60,50 @@
     },
     {
       "category": "world",
-      "source": "BBC Business",
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "A Wealth Tax Would Harm California",
-      "link": "https://www.project-syndicate.org/commentary/california-billionaire-tax-prop-40-more-harm-than-good-by-laura-tyson-and-lenny-mendonca-2026-10",
-      "published": "2026-10-29",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-01",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "财新",
-      "title": "能源内参｜部分光伏龙头三季度减亏 但行业供需失衡仍延续；9月汽车行业利润率仅为1.4% 车企三季度利润集体承压",
-      "link": "https://www.caixin.com/2026-11-02/102499746.html",
+      "source": "BBC Business",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "A Debtors’ Club for a Fragmented World",
+      "link": "https://www.project-syndicate.org/commentary/borrowers-platform-should-be-more-ambitious-in-advancing-coordination-and-reform-by-ishac-diwan-2026-11",
       "published": "2026-11-02",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "FT中文网",
+      "title": "美国前科学特使丹尼尔•卡曼：如何利用“鸭子曲线”？",
+      "link": "https://www.ftchinese.com/story/001111264",
+      "published": "2026-11-02",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "人民币升破6.65后 央行时隔近五年上调外汇存款准备金率至6%",
+      "link": "https://finance.caixin.com/2026-11-03/102500270.html",
+      "published": "2026-11-03",
       "language": "中文"
     },
     {
@@ -101,25 +125,33 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Can Bond Vigilantes Prevent the Next Debt Crisis?",
+      "link": "https://www.project-syndicate.org/commentary/bond-vigilantes-sovereign-debt-crises-france-us-by-nouriel-roubini-2026-10",
+      "published": "2026-10-29",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
-      "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "稳就业｜AI“抢工作”，国办18项举措如何缓解？",
-      "link": "https://www.caixin.com/2026-11-02/102499712.html",
-      "published": "2026-11-02",
+      "title": "王喆：10月中国新经济指数升至新高，主因科技投入上升",
+      "link": "https://opinion.caixin.com/2026-11-03/102500243.html",
+      "published": "2026-11-03",
       "language": "中文"
     },
     {
@@ -141,25 +173,33 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "How Poundland grew from a market stall to a high street giant",
-      "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "Project Syndicate",
+      "title": "A Wealth Tax Would Harm California",
+      "link": "https://www.project-syndicate.org/commentary/california-billionaire-tax-prop-40-more-harm-than-good-by-laura-tyson-and-lenny-mendonca-2026-10",
+      "published": "2026-10-29",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC World",
-      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-      "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "T早报｜英特尔业绩不及预期股价下挫；OpenAI将本轮融资目标从300亿美元降至200亿美元；Apple智能接入阿里千问",
-      "link": "https://www.caixin.com/2026-11-02/102499716.html",
-      "published": "2026-11-02",
+      "title": "AI冲击、老龄化、政策约束：世界经济风险长短期（下）",
+      "link": "https://opinion.caixin.com/2026-11-03/102500309.html",
+      "published": "2026-11-03",
       "language": "中文"
     },
     {
@@ -173,6 +213,22 @@
     {
       "category": "world",
       "source": "BBC Business",
+      "title": "How Poundland grew from a market stall to a high street giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "花旗余向荣：预计2027年实际GDP增速4.1% 政策应更多转向民生和消费",
+      "link": "https://economy.caixin.com/2026-11-03/102500302.html",
+      "published": "2026-11-03",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
       "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
       "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-30",
@@ -181,85 +237,52 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "10月财新中国新经济指数升至35.4 创历史新高",
-      "link": "https://economy.caixin.com/2026-11-02/102499706.html",
-      "published": "2026-11-02",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-      "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "前三季度多数大行、股份行业绩改善 继续拓展投资收益等非息收入",
-      "link": "https://finance.caixin.com/2026-11-01/102499682.html",
-      "published": "2026-11-01",
+      "title": "T早报｜Anthropic披露近9000亿美元算力支出承诺；Marvell拟1150亿美元收购光通信Lumentum；苹果季度收入超预期",
+      "link": "https://www.caixin.com/2026-11-03/102500161.html",
+      "published": "2026-11-03",
       "language": "中文"
     }
   ],
-  "energy": [
-    {
-      "category": "energy",
-      "source": "财新",
-      "title": "能源内参｜部分光伏龙头三季度减亏 但行业供需失衡仍延续；9月汽车行业利润率仅为1.4% 车企三季度利润集体承压",
-      "link": "https://www.caixin.com/2026-11-02/102499746.html",
-      "published": "2026-11-02",
-      "language": "中文"
-    },
-    {
-      "category": "energy",
-      "source": "BBC Business",
-      "title": "Energy bills help 'doesn't go far enough'",
-      "link": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC World",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01",
-      "language": "EN"
-    }
-  ],
+  "energy": [],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Taiwan and Japan eye trade deal akin to Taipei-London pact, sources say",
-      "link": "https://asia.nikkei.com/economy/trade/taiwan-and-japan-eye-trade-deal-akin-to-taipei-london-pact-sources-say",
-      "published": "2026-11-02",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "财新",
-      "title": "10月财新中国新经济指数升至35.4 创历史新高",
-      "link": "https://economy.caixin.com/2026-11-02/102499706.html",
-      "published": "2026-11-02",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
-      "source": "BBC World",
-      "title": "India's opposition holds mega rally seeking election chief's resignation",
-      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01",
+      "title": "Grab eyes more AI investment after Taiwan deal blocked",
+      "link": "https://asia.nikkei.com/business/transportation/grab-eyes-more-ai-investment-after-taiwan-deal-blocked",
+      "published": "2026-11-03",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "王喆：10月中国新经济指数升至新高，主因科技投入上升",
+      "link": "https://opinion.caixin.com/2026-11-03/102500243.html",
+      "published": "2026-11-03",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "Trump’s Tariff Fiasco Could Save Free Trade",
+      "link": "https://www.project-syndicate.org/commentary/failure-of-trump-trade-agenda-could-pave-way-for-retreat-from-protectionism-by-anne-o-krueger-2026-11",
+      "published": "2026-11-02",
       "language": "EN"
     },
     {
@@ -273,26 +296,34 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Bangladesh turns to China for worker training amid graduate job struggles",
-      "link": "https://asia.nikkei.com/business/education/bangladesh-turns-to-china-for-worker-training-amid-graduate-job-struggles",
+      "title": "Ethics drive Wardah to pinnacle of Southeast Asia's beauty brands",
+      "link": "https://asia.nikkei.com/spotlight/asean-money/ethics-drive-wardah-to-pinnacle-of-southeast-asia-s-beauty-brands",
+      "published": "2026-11-03",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-31",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "China state broadcaster pulls La Liga matches following Mbappé joke",
+      "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-02",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "财新",
-      "title": "前三季度多数大行、股份行业绩改善 继续拓展投资收益等非息收入",
-      "link": "https://finance.caixin.com/2026-11-01/102499682.html",
-      "published": "2026-11-01",
+      "title": "《柳叶刀》报告：2025年中国热浪相关死亡人数接近2万",
+      "link": "https://science.caixin.com/2026-11-03/102500252.html",
+      "published": "2026-11-03",
       "language": "中文"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-30",
-      "language": "EN"
     },
     {
       "category": "asia",
@@ -305,17 +336,25 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan weighs taxing real estate rental operators living overseas",
-      "link": "https://asia.nikkei.com/business/markets/property/japan-weighs-taxing-real-estate-rental-operators-living-overseas",
-      "published": "2026-11-01",
+      "title": "Why PC makers are turning back to China",
+      "link": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/why-pc-makers-are-turning-back-to-china",
+      "published": "2026-11-03",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "The Indian workers filming their work to train AI",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-23",
+      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-30",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01",
       "language": "EN"
     },
     {
@@ -329,17 +368,17 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Singapore haze crackdown tests legal reach and regional ties",
-      "link": "https://asia.nikkei.com/spotlight/big-in-asia/singapore-haze-crackdown-tests-legal-reach-and-regional-ties",
-      "published": "2026-10-31",
+      "title": "US experts warm to Japanese nuclear subs as check on China in Asian waters",
+      "link": "https://asia.nikkei.com/politics/defense/us-experts-warm-to-japanese-nuclear-subs-as-check-on-china-in-asian-waters",
+      "published": "2026-11-03",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
-      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-14",
+      "title": "The Indian workers filming their work to train AI",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-23",
       "language": "EN"
     },
     {
@@ -353,9 +392,17 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "US voters turning against data centers raises risks for Asian suppliers",
-      "link": "https://asia.nikkei.com/politics/u.s.-midterm-elections/us-voters-turning-against-data-centers-raises-risks-for-asian-suppliers",
-      "published": "2026-10-28",
+      "title": "North Korea calls US allegations linking it to Binance heist 'absurd'",
+      "link": "https://asia.nikkei.com/spotlight/cybersecurity/north-korea-calls-us-allegations-linking-it-to-binance-heist-absurd",
+      "published": "2026-11-03",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
+      "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-14",
       "language": "EN"
     },
     {
@@ -369,9 +416,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "5 things to know about the US midterms and what they mean for Asia",
-      "link": "https://asia.nikkei.com/politics/u.s.-midterm-elections/5-things-to-know-about-the-us-midterms-and-what-they-mean-for-asia",
-      "published": "2026-10-27",
+      "title": "EU steps up subsea cable buildout to Japan and South Korea",
+      "link": "https://asia.nikkei.com/business/telecommunication/eu-steps-up-subsea-cable-buildout-to-japan-and-south-korea",
+      "published": "2026-11-02",
       "language": "EN"
     },
     {
@@ -387,18 +434,26 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
-      "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "财新",
-      "title": "稳就业｜AI“抢工作”，国办18项举措如何缓解？",
-      "link": "https://www.caixin.com/2026-11-02/102499712.html",
-      "published": "2026-11-02",
+      "title": "芯片公司Marvell拟1150亿亿美元收购光模块公司Lumentum AI光互连开启垂直整合",
+      "link": "https://www.caixin.com/2026-11-03/102500323.html",
+      "published": "2026-11-03",
       "language": "中文"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-01",
+      "language": "EN"
     },
     {
       "category": "ideas",
@@ -411,25 +466,25 @@
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "A Future for Europe’s Youth",
-      "link": "https://www.project-syndicate.org/commentary/protests-reflect-clash-between-youth-expectations-and-eu-capacity-to-deliver-prosperity-by-ana-palacio-2026-10",
-      "published": "2026-10-29",
+      "title": "Science Without Scientists?",
+      "link": "https://www.project-syndicate.org/commentary/ai-science-need-for-validation-public-trust-by-sami-mahroum-2026-10",
+      "published": "2026-10-21",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01",
+      "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+      "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "财新",
-      "title": "T早报｜英特尔业绩不及预期股价下挫；OpenAI将本轮融资目标从300亿美元降至200亿美元；Apple智能接入阿里千问",
-      "link": "https://www.caixin.com/2026-11-02/102499716.html",
-      "published": "2026-11-02",
+      "title": "王喆：10月中国新经济指数升至新高，主因科技投入上升",
+      "link": "https://opinion.caixin.com/2026-11-03/102500243.html",
+      "published": "2026-11-03",
       "language": "中文"
     },
     {
@@ -451,10 +506,18 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-01",
+      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02",
       "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "AI冲击、老龄化、政策约束：世界经济风险长短期（下）",
+      "link": "https://opinion.caixin.com/2026-11-03/102500309.html",
+      "published": "2026-11-03",
+      "language": "中文"
     },
     {
       "category": "ideas",
@@ -466,18 +529,10 @@
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Investing in Brain Health",
-      "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
-      "published": "2026-09-29",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC World",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02",
       "language": "EN"
     },
     {
@@ -491,9 +546,9 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-31",
+      "title": "What we know about the alert app hack in Ukraine and Russia",
+      "link": "https://www.bbc.co.uk/news/videos/crq5n6204g20o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02",
       "language": "EN"
     },
     {
@@ -509,17 +564,17 @@
     [
       "BBC Business",
       "ok",
-      12
+      13
     ],
     [
       "BBC World",
       "ok",
-      10
+      16
     ],
     [
       "BBC Technology",
       "ok",
-      4
+      6
     ],
     [
       "BIS",
@@ -529,7 +584,7 @@
     [
       "WTO",
       "ok",
-      8
+      7
     ],
     [
       "IRENA",
@@ -538,8 +593,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 11",
-      2
+      "ok 12",
+      4
     ],
     [
       "The Economist",
@@ -563,18 +618,18 @@
     ],
     [
       "UNCTAD",
-      "landing page failed: The read operation timed out",
+      "landing page failed: HTTP Error 403: Forbidden",
       0
     ],
     [
       "FT中文网",
-      "ok 0",
-      0
+      "ok 2",
+      2
     ],
     [
       "财新",
-      "ok 12",
-      6
+      "ok 15",
+      10
     ],
     [
       "第一财经",
@@ -624,12 +679,12 @@
     [
       "Nikkei Asia",
       "ok 18",
-      6
+      9
     ],
     [
       "Project Syndicate",
-      "ok 13",
-      3
+      "ok 14",
+      2
     ],
     [
       "The Economist",
