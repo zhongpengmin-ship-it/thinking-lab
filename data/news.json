@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-11-11 04:49 UTC",
-  "date_display": "Wednesday · 11 November 2026",
+  "generated_at": "2026-11-12 05:51 UTC",
+  "date_display": "Thursday · 12 November 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "A Russian Bribe the Size of Europe",
-      "link": "https://www.project-syndicate.org/commentary/trump-falling-for-putin-oldest-trick-spells-disaster-for-europe-by-andrew-kosenko-2026-11",
-      "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "Project Syndicate",
+      "title": "AI Investors Have Overlooked Obvious Risks",
+      "link": "https://www.project-syndicate.org/commentary/ai-trade-risks-both-political-and-economic-by-jim-o-neill-2026-11",
+      "published": "2026-11-11",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "FT中文网",
+      "title": "对话斯蒂芬•罗奇：中国经济与美国风险，前路何在？",
+      "link": "https://www.ftchinese.com/story/001111334",
+      "published": "2026-11-11",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "财新",
-      "title": "美国中期选举：女州长们崛起，击败亿万富翁和老牌政客",
-      "link": "https://photos.caixin.com/2026-11-06/102501973.html",
-      "published": "2026-11-06",
+      "title": "T早报｜美媒称英伟达董事会拟罢免黄仁勋；美国逾四成数据中心规划容量面临政策风险；西班牙政府机构提议关停TikTok",
+      "link": "https://www.caixin.com/2026-11-12/102503808.html",
+      "published": "2026-11-01",
       "language": "中文"
     },
     {
@@ -69,32 +77,32 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The Economic Toll of Israel’s Wars",
-      "link": "https://www.project-syndicate.org/commentary/israel-economic-resilience-is-an-illusion-by-joseph-zeira-2026-11",
-      "published": "2026-11-06",
+      "title": "A Russian Bribe the Size of Europe",
+      "link": "https://www.project-syndicate.org/commentary/trump-falling-for-putin-oldest-trick-spells-disaster-for-europe-by-andrew-kosenko-2026-11",
+      "published": "2026-11-10",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11",
+      "title": "Famed ship SS United States sunk off coast of Florida",
+      "link": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "阿里拆分芯片子公司平头哥独立上市 年化营收规模达百亿元级别",
-      "link": "https://www.caixin.com/2026-11-11/102503390.html",
+      "title": "财政部：“十五五”严查财务造假大案要案 推动清存量、遏增量",
+      "link": "https://economy.caixin.com/2026-11-12/102503834.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -117,6 +125,46 @@
     {
       "category": "world",
       "source": "BBC Business",
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "The Five Stages of AI Grief",
+      "link": "https://www.project-syndicate.org/commentary/ai-five-stages-of-grief-by-dani-rodrik-2026-11",
+      "published": "2026-11-09",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "图集｜印尼数千学生持续抗议 要求多项政治经济改革",
+      "link": "https://photos.caixin.com/2026-11-12/102503877.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Members review progress in resolving SPS trade concerns at WTO",
+      "link": "https://www.wto.org/english/news_e/news26_e/sps_04nov26_548_e.htm",
+      "published": "2026-11-04",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
       "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
       "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10",
@@ -127,22 +175,22 @@
       "source": "Project Syndicate",
       "title": "Dot-Com Lessons for the AI Bubble",
       "link": "https://www.project-syndicate.org/commentary/dotcom-bubble-lessons-for-ai-boom-by-chi-onwurah-2026-11",
-      "published": "2026-11-04",
+      "published": "2026-11-01",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "能源内参｜10月乘用车国内零售同比下跌近三成 出口增长超六成；退休6年后 中交集团原党委书记、董事长刘起涛被查",
-      "link": "https://www.caixin.com/2026-11-11/102503346.html",
+      "title": "央行解释利率体系：中国贷款利率相对较低，债券信用利差较窄",
+      "link": "https://finance.caixin.com/2026-11-12/102503774.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -165,34 +213,18 @@
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "If AI Thinks for Us, Democracy Will Suffer",
-      "link": "https://www.project-syndicate.org/commentary/ai-democracy-demands-we-think-for-ourselves-by-john-palfrey-2026-11",
-      "published": "2026-11-02",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-      "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11",
+      "title": "When the AI Bubble Bursts",
+      "link": "https://www.project-syndicate.org/onpoint/ai-infrastructure-could-outlast-the-bubble-that-financed-it-by-william-h-janeway-2026-10",
+      "published": "2026-10-30",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "AI投入扩大，正反馈却在下降｜中国工业企业AI应用观察",
-      "link": "https://opinion.caixin.com/2026-11-11/102503398.html",
+      "title": "财经早知道｜离岸信托个人所得税累计申报超1600亿元",
+      "link": "https://finance.caixin.com/2026-11-12/102503772.html",
       "published": "2026-11-01",
       "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "Global Review concludes with a declaration on partnerships for trade and development",
-      "link": "https://www.wto.org/english/news_e/news26_e/gr26_30oct26_534_e.htm",
-      "published": "2026-10-30",
-      "language": "EN"
     },
     {
       "category": "world",
@@ -213,24 +245,8 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "10月出口延续高增：AI拉动近四成增长，明年芯片涨价效应或减弱",
-      "link": "https://opinion.caixin.com/2026-11-11/102503317.html",
-      "published": "2026-11-01",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "财经早知道｜美国10月CPI超预期 12月加息基本锁定",
-      "link": "https://finance.caixin.com/2026-11-11/102503260.html",
+      "title": "央行详解债市非银互换便利：救市场不救机构，产品不刚兑",
+      "link": "https://finance.caixin.com/2026-11-11/102503749.html",
       "published": "2026-11-01",
       "language": "中文"
     }
@@ -247,8 +263,8 @@
     {
       "category": "energy",
       "source": "财新",
-      "title": "能源内参｜10月乘用车国内零售同比下跌近三成 出口增长超六成；退休6年后 中交集团原党委书记、董事长刘起涛被查",
-      "link": "https://www.caixin.com/2026-11-11/102503346.html",
+      "title": "深圳数据经济研究院王捷：不应让年轻人独自承担AI带来的转型成本",
+      "link": "https://topics.caixin.com/2026-11-12/102503826.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -265,18 +281,26 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Pakistan's top 3-wheeler maker enters Philippines in ASEAN push",
-      "link": "https://asia.nikkei.com/business/automobiles/pakistan-s-top-3-wheeler-maker-enters-philippines-in-asean-push",
-      "published": "2026-11-11",
+      "title": "Taiwan emphasizes APEC China presence as it walks diplomatic tightrope",
+      "link": "https://asia.nikkei.com/politics/international-relations/apec/taiwan-emphasizes-apec-china-presence-as-it-walks-diplomatic-tightrope",
+      "published": "2026-11-12",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-      "link": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_medium=RSS&at_campaign=rss",
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-11",
       "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "FT中文网",
+      "title": "对话斯蒂芬•罗奇：中国经济与美国风险，前路何在？",
+      "link": "https://www.ftchinese.com/story/001111334",
+      "published": "2026-11-11",
+      "language": "中文"
     },
     {
       "category": "asia",
@@ -297,8 +321,8 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "AI投入扩大，正反馈却在下降｜中国工业企业AI应用观察",
-      "link": "https://opinion.caixin.com/2026-11-11/102503398.html",
+      "title": "央行解释利率体系：中国贷款利率相对较低，债券信用利差较窄",
+      "link": "https://finance.caixin.com/2026-11-12/102503774.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -313,9 +337,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "The AI pay gap: A chip boom breeds jealousy and labor unrest in Asia",
-      "link": "https://asia.nikkei.com/business/technology/tech-asia/the-ai-pay-gap-a-chip-boom-breeds-jealousy-and-labor-unrest-in-asia",
-      "published": "2026-11-11",
+      "title": "Ukraine defense tech unicorn cultivates Taiwan and Japan supply chain ties",
+      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/ukraine-defense-tech-unicorn-cultivates-taiwan-and-japan-supply-chain-ties",
+      "published": "2026-11-12",
       "language": "EN"
     },
     {
@@ -337,8 +361,8 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "富达：美股AI估值修正传导至亚太市场 高杠杆资金流动引发震荡",
-      "link": "https://finance.caixin.com/2026-11-10/102503184.html",
+      "title": "印度驻华大使魏嘉盟：印度更愿意选择自己，而非在朋友之间作选择",
+      "link": "https://topics.caixin.com/2026-11-11/102503585.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -353,9 +377,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan metals maker plans $1.2bn Malaysia copper foil plant on AI demand",
-      "link": "https://asia.nikkei.com/business/materials/japan-metals-maker-plans-1.2bn-malaysia-copper-foil-plant-on-ai-demand",
-      "published": "2026-11-11",
+      "title": "Rare earth yttrium soars 9-fold in a year amid China curbs",
+      "link": "https://asia.nikkei.com/business/materials/rare-earth-yttrium-soars-9-fold-in-a-year-amid-china-curbs",
+      "published": "2026-11-12",
       "language": "EN"
     },
     {
@@ -369,6 +393,30 @@
     {
       "category": "asia",
       "source": "WTO",
+      "title": "Members review progress in resolving SPS trade concerns at WTO",
+      "link": "https://www.wto.org/english/news_e/news26_e/sps_04nov26_548_e.htm",
+      "published": "2026-11-04",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "厚朴投资方风雷：全球经济韧性未达极限 三重风险压制世界经济",
+      "link": "https://topics.caixin.com/2026-11-12/102503927.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "China's foreign minister says call with Rubio was 'positive and constructive'",
+      "link": "https://asia.nikkei.com/politics/international-relations/china-s-foreign-minister-says-call-with-rubio-was-positive-and-constructive",
+      "published": "2026-11-12",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
       "title": "Trade Policy Review: Viet Nam",
       "link": "https://www.wto.org/english/tratop_e/tpr_e/tpr_vnm_04nov26_e.htm",
       "published": "2026-11-04",
@@ -376,9 +424,17 @@
     },
     {
       "category": "asia",
+      "source": "财新",
+      "title": "新加坡前副总理王瑞杰：全球化下一阶段应使中国和世界共同繁荣",
+      "link": "https://topics.caixin.com/2026-11-12/102503854.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Toyota to make and sell Japan-style 'kei' minitrucks in US next year",
-      "link": "https://asia.nikkei.com/business/automobiles/toyota-to-make-and-sell-japan-style-kei-minitrucks-in-us-next-year",
+      "title": "The AI pay gap: A chip boom breeds jealousy and labor unrest in Asia",
+      "link": "https://asia.nikkei.com/business/technology/tech-asia/the-ai-pay-gap-a-chip-boom-breeds-jealousy-and-labor-unrest-in-asia",
       "published": "2026-11-11",
       "language": "EN"
     },
@@ -392,59 +448,59 @@
     },
     {
       "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "India forms commando units for close combat along China border",
-      "link": "https://asia.nikkei.com/politics/defense/india-forms-commando-units-for-close-combat-along-china-border",
-      "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "New report looks at role of South-South and triangular cooperation for trade development",
-      "link": "https://www.wto.org/english/news_e/news26_e/devel_29oct26_535_e.htm",
-      "published": "2026-10-29",
-      "language": "EN"
+      "source": "财新",
+      "title": "屠光绍：全球不确定性、不可预测性将延续 长期看AI投资刚开始",
+      "link": "https://topics.caixin.com/2026-11-12/102503905.html",
+      "published": "2026-11-01",
+      "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan to create defense research hubs at universities for AI, space tech",
-      "link": "https://asia.nikkei.com/politics/defense/japan-to-create-defense-research-hubs-at-universities-for-ai-space-tech",
-      "published": "2026-11-10",
+      "title": "Nissan says China sales slump 'intensified' through October",
+      "link": "https://asia.nikkei.com/business/automobiles/nissan-says-china-sales-slump-intensified-through-october",
+      "published": "2026-11-11",
       "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "吉尔吉斯斯坦前总理：中国与中亚国家正转向新合作模式",
+      "link": "https://topics.caixin.com/2026-11-12/102503923.html",
+      "published": "2026-11-01",
+      "language": "中文"
     }
   ],
   "ideas": [
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "AI Investors Have Overlooked Obvious Risks",
+      "link": "https://www.project-syndicate.org/commentary/ai-trade-risks-both-political-and-economic-by-jim-o-neill-2026-11",
       "published": "2026-11-11",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Dot-Com Lessons for the AI Bubble",
-      "link": "https://www.project-syndicate.org/commentary/dotcom-bubble-lessons-for-ai-boom-by-chi-onwurah-2026-11",
-      "published": "2026-11-04",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "财新",
-      "title": "AI投入扩大，正反馈却在下降｜中国工业企业AI应用观察",
-      "link": "https://opinion.caixin.com/2026-11-11/102503398.html",
+      "title": "屠光绍：全球不确定性、不可预测性将延续 长期看AI投资刚开始",
+      "link": "https://topics.caixin.com/2026-11-12/102503905.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -459,9 +515,49 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-      "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "The Five Stages of AI Grief",
+      "link": "https://www.project-syndicate.org/commentary/ai-five-stages-of-grief-by-dani-rodrik-2026-11",
+      "published": "2026-11-09",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "深圳数据经济研究院王捷：不应让年轻人独自承担AI带来的转型成本",
+      "link": "https://topics.caixin.com/2026-11-12/102503826.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Dot-Com Lessons for the AI Bubble",
+      "link": "https://www.project-syndicate.org/commentary/dotcom-bubble-lessons-for-ai-boom-by-chi-onwurah-2026-11",
+      "published": "2026-11-04",
       "language": "EN"
     },
     {
@@ -474,26 +570,18 @@
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "If AI Thinks for Us, Democracy Will Suffer",
-      "link": "https://www.project-syndicate.org/commentary/ai-democracy-demands-we-think-for-ourselves-by-john-palfrey-2026-11",
-      "published": "2026-11-02",
+      "source": "BBC World",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "财新",
-      "title": "10月出口延续高增：AI拉动近四成增长，明年芯片涨价效应或减弱",
-      "link": "https://opinion.caixin.com/2026-11-11/102503317.html",
-      "published": "2026-11-01",
-      "language": "中文"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "First day of Ukraine peace talks constructive, Zelensky says",
-      "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
+      "source": "Project Syndicate",
+      "title": "When the AI Bubble Bursts",
+      "link": "https://www.project-syndicate.org/onpoint/ai-infrastructure-could-outlast-the-bubble-that-financed-it-by-william-h-janeway-2026-10",
+      "published": "2026-10-30",
       "language": "EN"
     },
     {
@@ -506,6 +594,14 @@
     },
     {
       "category": "ideas",
+      "source": "BBC World",
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-11",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "Project Syndicate",
       "title": "Middle Powers Can Lead on AI Safety",
       "link": "https://www.project-syndicate.org/commentary/middle-powers-must-lead-ai-safety-frontier-development-by-gordon-laforge-1-and-robert-c-orr-2026-10",
@@ -514,50 +610,10 @@
     },
     {
       "category": "ideas",
-      "source": "财新",
-      "title": "富达：美股AI估值修正传导至亚太市场 高杠杆资金流动引发震荡",
-      "link": "https://finance.caixin.com/2026-11-10/102503184.html",
-      "published": "2026-11-01",
-      "language": "中文"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC Business",
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
       "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Investing in Brain Health",
-      "link": "https://www.project-syndicate.org/commentary/ai-boom-is-leading-us-to-neglect-human-cognition-by-harris-eyre-et-al-2026-09",
-      "published": "2026-09-29",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
-      "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "The facial recognition technology stopping shoplifters",
-      "link": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-09",
       "language": "EN"
     }
   ],
@@ -570,12 +626,12 @@
     [
       "BBC World",
       "ok",
-      17
+      10
     ],
     [
       "BBC Technology",
       "ok",
-      4
+      5
     ],
     [
       "BIS",
@@ -594,8 +650,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 13",
-      5
+      "ok 14",
+      6
     ],
     [
       "The Economist",
@@ -624,13 +680,13 @@
     ],
     [
       "FT中文网",
-      "ok 2",
-      0
+      "ok 1",
+      1
     ],
     [
       "财新",
-      "ok 17",
-      8
+      "ok 18",
+      12
     ],
     [
       "第一财经",
@@ -679,13 +735,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 16",
-      7
+      "ok 15",
+      8
     ],
     [
       "Project Syndicate",
-      "ok 16",
-      4
+      "ok 15",
+      5
     ],
     [
       "The Economist",
