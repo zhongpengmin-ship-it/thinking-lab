@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-14 05:01 UTC",
-  "date_display": "Saturday · 14 November 2026",
+  "generated_at": "2026-11-15 04:55 UTC",
+  "date_display": "Sunday · 15 November 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13",
+      "title": "What do Christmas market traders say about rising prices?",
+      "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14",
       "language": "EN"
     },
     {
@@ -21,16 +21,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "中国实现“终结结核病流行策略”第一个目标 较原计划晚五年",
-      "link": "https://www.caixin.com/2026-11-14/102504727.html",
+      "title": "日产中国计划扩大出口规模 更多新能源车型将销往海外",
+      "link": "https://www.caixin.com/2026-11-14/102504957.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -52,10 +52,18 @@
     },
     {
       "category": "world",
+      "source": "UNCTAD",
+      "title": "Why AI investment must go beyond data centres 26 Oct 2026 Investment in the wider ecosystem, including affordable connectivity, research and skills, will be crucial to making the benefits of AI more inclusive.",
+      "link": "https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC Business",
-      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12",
+      "title": "Food bank sees donations drop by 10% each year",
+      "link": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14",
       "language": "EN"
     },
     {
@@ -69,16 +77,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "GPT周报｜黄仁勋辞职；Anthropic、谷歌发布新模型；微软服务中断影响政府和大模型；Anthropic IPO确定发行价",
-      "link": "https://www.caixin.com/2026-11-13/102504694.html",
+      "title": "一周天下｜纽约布鲁克林建筑坍塌致8人死、西班牙举行全国大罢工多地爆发警民冲突",
+      "link": "https://photos.caixin.com/2026-11-14/102504933.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -92,10 +100,18 @@
     },
     {
       "category": "world",
+      "source": "UNCTAD",
+      "title": "Women entrepreneurs honoured at World Investment Forum 26 Oct 2026 The 2026 Women in Business Awards celebrate entrepreneurs driving innovation and growth, and highlight the support needed to scale their enterprises.",
+      "link": "https://unctad.org/news/women-entrepreneurs-honoured-world-investment-forum",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC Business",
-      "title": "UK economy grows at fastest rate for more than two years",
-      "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13",
       "language": "EN"
     },
     {
@@ -109,16 +125,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "At least 24 killed after bus collides with truck in north-east India",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-13",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "10月社融新增1.14万亿元、人民币贷款减少1000亿元 均不及预期",
-      "link": "https://finance.caixin.com/2026-11-13/102504639.html",
+      "title": "中国实现“终结结核病流行策略”第一个目标 较原计划晚五年",
+      "link": "https://www.caixin.com/2026-11-14/102504727.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -133,8 +149,8 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Gas bills to rise as Middle East turmoil persists",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+      "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12",
       "language": "EN"
     },
@@ -149,16 +165,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "刘世锦：建立具有全球影响力和竞争力的中国消费市场",
-      "link": "https://topics.caixin.com/2026-11-13/102504405.html",
+      "title": "GPT周报｜黄仁勋辞职；Anthropic、谷歌发布新模型；微软服务中断影响政府和大模型；Anthropic IPO确定发行价",
+      "link": "https://www.caixin.com/2026-11-13/102504694.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -173,6 +189,22 @@
     {
       "category": "world",
       "source": "BBC Business",
+      "title": "UK economy grows at fastest rate for more than two years",
+      "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "10月社融新增1.14万亿元、人民币贷款减少1000亿元 均不及预期",
+      "link": "https://finance.caixin.com/2026-11-13/102504639.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
       "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10",
@@ -181,24 +213,8 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "陈繁昌谈中美AI竞争：中国AI不应过度关注大模型排名和单纯规避出口制裁",
-      "link": "https://topics.caixin.com/2026-11-13/102504530.html",
-      "published": "2026-11-01",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "US inflation higher than expected in October - here's what is happening with prices",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "新加坡前副总理王瑞杰：全球化下一阶段应使中国和世界共同繁荣",
-      "link": "https://topics.caixin.com/2026-11-12/102503854.html",
+      "title": "央行邹澜谈征信：功能定位、治理边界与运行逻辑正在调整",
+      "link": "https://topics.caixin.com/2026-11-13/102504411.html",
       "published": "2026-11-01",
       "language": "中文"
     }
@@ -210,14 +226,6 @@
       "title": "Africa Needs a Different Kind of Climate Finance",
       "link": "https://www.project-syndicate.org/commentary/africa-needs-less-debt-based-climate-finance-by-penelope-gregoriou-2026-11",
       "published": "2026-11-13",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
-      "source": "BBC Business",
-      "title": "Gas bills to rise as Middle East turmoil persists",
-      "link": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12",
       "language": "EN"
     },
     {
@@ -235,23 +243,39 @@
       "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10",
       "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "财新",
+      "title": "日产中国计划扩大出口规模 更多新能源车型将销往海外",
+      "link": "https://www.caixin.com/2026-11-14/102504957.html",
+      "published": "2026-11-01",
+      "language": "中文"
     }
   ],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "US-China truce masks rising tensions ahead of Xi-Trump redux at APEC",
-      "link": "https://asia.nikkei.com/spotlight/big-in-asia/us-china-truce-masks-rising-tensions-ahead-of-xi-trump-redux-at-apec",
+      "title": "ASEAN leaders kick off Manila summits as friction persists on Myanmar, haze",
+      "link": "https://asia.nikkei.com/politics/international-relations/asean-leaders-kick-off-manila-summits-as-friction-persists-on-myanmar-haze",
+      "published": "2026-11-15",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "What do Christmas market traders say about rising prices?",
+      "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-14",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "At least 24 killed after bus collides with truck in north-east India",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14",
       "language": "EN"
     },
     {
@@ -264,26 +288,34 @@
     },
     {
       "category": "asia",
-      "source": "BBC Business",
-      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "财新",
-      "title": "中国实现“终结结核病流行策略”第一个目标 较原计划晚五年",
-      "link": "https://www.caixin.com/2026-11-14/102504727.html",
+      "title": "日产中国计划扩大出口规模 更多新能源车型将销往海外",
+      "link": "https://www.caixin.com/2026-11-14/102504957.html",
       "published": "2026-11-01",
       "language": "中文"
     },
     {
       "category": "asia",
+      "source": "UNCTAD",
+      "title": "Why AI investment must go beyond data centres 26 Oct 2026 Investment in the wider ecosystem, including affordable connectivity, research and skills, will be crucial to making the benefits of AI more inclusive.",
+      "link": "https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China sees Nvidia chief Huang's swift downfall as political hit",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/china-sees-nvidia-chief-huang-s-swift-downfall-as-political-hit",
-      "published": "2026-11-14",
+      "title": "Gaming emerges as a new corporate networking tool in Japan",
+      "link": "https://asia.nikkei.com/business/business-trends/gaming-emerges-as-a-new-corporate-networking-tool-in-japan",
+      "published": "2026-11-15",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+      "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-10",
       "language": "EN"
     },
     {
@@ -305,17 +337,25 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "刘世锦：建立具有全球影响力和竞争力的中国消费市场",
-      "link": "https://topics.caixin.com/2026-11-13/102504405.html",
+      "title": "中国实现“终结结核病流行策略”第一个目标 较原计划晚五年",
+      "link": "https://www.caixin.com/2026-11-14/102504727.html",
       "published": "2026-11-01",
       "language": "中文"
     },
     {
       "category": "asia",
+      "source": "UNCTAD",
+      "title": "Women entrepreneurs honoured at World Investment Forum 26 Oct 2026 The 2026 Women in Business Awards celebrate entrepreneurs driving innovation and growth, and highlight the support needed to scale their enterprises.",
+      "link": "https://unctad.org/news/women-entrepreneurs-honoured-world-investment-forum",
+      "published": "2026-10-26",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "South Koreans show their love for once-taboo Japan pop culture",
-      "link": "https://asia.nikkei.com/business/media-entertainment/south-koreans-show-their-love-for-once-taboo-japan-pop-culture",
-      "published": "2026-11-14",
+      "title": "Philippines' Carmelle crowned first Eurovision Asia champion",
+      "link": "https://asia.nikkei.com/business/media-entertainment/philippines-carmelle-crowned-first-eurovision-asia-champion",
+      "published": "2026-11-15",
       "language": "EN"
     },
     {
@@ -329,16 +369,16 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "陈繁昌谈中美AI竞争：中国AI不应过度关注大模型排名和单纯规避出口制裁",
-      "link": "https://topics.caixin.com/2026-11-13/102504530.html",
+      "title": "吉尔吉斯斯坦前总理对话彭文生：中国与中亚国家正转向新合作模式",
+      "link": "https://topics.caixin.com/2026-11-12/102503923.html",
       "published": "2026-11-01",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Trump to meet Putin and Xi in China, White House says",
-      "link": "https://asia.nikkei.com/politics/international-relations/apec/trump-to-meet-putin-and-xi-in-china-white-house-says",
+      "title": "China sees Nvidia chief Huang's swift downfall as political hit",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/china-sees-nvidia-chief-huang-s-swift-downfall-as-political-hit",
       "published": "2026-11-14",
       "language": "EN"
     },
@@ -361,8 +401,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China's JD.com completes $1.5bn takeover of German appliance retailer",
-      "link": "https://asia.nikkei.com/business/business-deals/china-s-jd.com-completes-1.5bn-takeover-of-german-appliance-retailer",
+      "title": "Nvidia scandal sparks Washington blame game over China chip exports",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-scandal-sparks-washington-blame-game-over-china-chip-exports",
       "published": "2026-11-14",
       "language": "EN"
     },
@@ -377,21 +417,29 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "吉尔吉斯斯坦前总理对话彭文生：中国与中亚国家正转向新合作模式",
-      "link": "https://topics.caixin.com/2026-11-12/102503923.html",
+      "title": "刘世锦：建立具有全球影响力和竞争力的中国消费市场",
+      "link": "https://topics.caixin.com/2026-11-13/102504405.html",
       "published": "2026-11-01",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Nvidia scandal sparks Washington blame game over China chip exports",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-scandal-sparks-washington-blame-game-over-china-chip-exports",
+      "title": "South Koreans show their love for once-taboo Japan pop culture",
+      "link": "https://asia.nikkei.com/business/media-entertainment/south-koreans-show-their-love-for-once-taboo-japan-pop-culture",
       "published": "2026-11-14",
       "language": "EN"
     }
   ],
   "ideas": [
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14",
+      "language": "EN"
+    },
     {
       "category": "ideas",
       "source": "Project Syndicate",
@@ -410,19 +458,19 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13",
+      "source": "UNCTAD",
+      "title": "Why AI investment must go beyond data centres 26 Oct 2026 Investment in the wider ecosystem, including affordable connectivity, research and skills, will be crucial to making the benefits of AI more inclusive.",
+      "link": "https://unctad.org/news/why-ai-investment-must-go-beyond-data-centres",
+      "published": "2026-10-26",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "财新",
-      "title": "陈繁昌谈中美AI竞争：中国AI不应过度关注大模型排名和单纯规避出口制裁",
-      "link": "https://topics.caixin.com/2026-11-13/102504530.html",
-      "published": "2026-11-01",
-      "language": "中文"
+      "source": "BBC World",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13",
+      "language": "EN"
     },
     {
       "category": "ideas",
@@ -443,9 +491,9 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-12",
       "language": "EN"
     },
     {
@@ -454,14 +502,6 @@
       "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
       "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-10",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12",
       "language": "EN"
     },
     {
@@ -475,9 +515,9 @@
     {
       "category": "ideas",
       "source": "BBC Business",
-      "title": "Californians reject wealth tax for billionaires",
-      "link": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-04",
       "language": "EN"
     }
   ],
@@ -490,7 +530,7 @@
     [
       "BBC World",
       "ok",
-      5
+      4
     ],
     [
       "BBC Technology",
@@ -539,8 +579,8 @@
     ],
     [
       "UNCTAD",
-      "landing page failed: The read operation timed out",
-      0
+      "ok 2",
+      2
     ],
     [
       "FT中文网",
@@ -550,7 +590,7 @@
     [
       "财新",
       "ok 18",
-      8
+      9
     ],
     [
       "第一财经",
