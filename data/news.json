@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-11-16 04:52 UTC",
-  "date_display": "Monday · 16 November 2026",
+  "generated_at": "2026-11-17 06:40 UTC",
+  "date_display": "Tuesday · 17 November 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "Customers report service outages at major US banks",
+      "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "Africa Needs a Different Kind of Climate Finance",
-      "link": "https://www.project-syndicate.org/commentary/africa-needs-less-debt-based-climate-finance-by-penelope-gregoriou-2026-11",
-      "published": "2026-11-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "title": "The Global Economy After the Iran War Ends",
+      "link": "https://www.project-syndicate.org/commentary/iran-war-economic-impacts-will-reverberate-long-after-it-ends-by-dambisa-moyo-2026-11",
       "published": "2026-11-16",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "BBC World",
+      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "财新",
-      "title": "10月工业增加值同比增速放缓至4.8% 略低于市场预期",
-      "link": "https://economy.caixin.com/2026-11-16/102505197.html",
+      "title": "工商银行廖林：AI时代机遇和挑战并存，需处理好三组关系",
+      "link": "https://finance.caixin.com/2026-11-17/102505702.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -52,33 +52,41 @@
     },
     {
       "category": "world",
+      "source": "BBC Technology",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-15",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC Business",
-      "title": "Investors sue chip giant Intel after 29% stock plunge",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "The Digital-Currency Divide",
-      "link": "https://www.project-syndicate.org/commentary/why-europe-is-pressing-ahead-with-digital-euro-by-howard-davies-2026-11",
-      "published": "2026-11-12",
+      "title": "Africa Needs a Different Kind of Climate Finance",
+      "link": "https://www.project-syndicate.org/commentary/africa-needs-less-debt-based-climate-finance-by-penelope-gregoriou-2026-11",
+      "published": "2026-11-13",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "港交所推出离岸人民币债券指数 支持挂钩点心债ETF产品",
-      "link": "https://finance.caixin.com/2026-11-16/102505097.html",
+      "title": "T早报｜美国限制GPU出口东南亚等 中国算力获取遭封堵；阿里文娱板块CEO樊路远卸任；工信部称将约谈应付账款规模大、故意拉长账期的车企",
+      "link": "https://www.caixin.com/2026-11-17/102505573.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -93,32 +101,32 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Black Friday and tax return scams  - don't fall for these",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "AI Investors Have Overlooked Obvious Risks",
-      "link": "https://www.project-syndicate.org/commentary/ai-trade-risks-both-political-and-economic-by-jim-o-neill-2026-11",
-      "published": "2026-11-11",
+      "title": "The Digital-Currency Divide",
+      "link": "https://www.project-syndicate.org/commentary/why-europe-is-pressing-ahead-with-digital-euro-by-howard-davies-2026-11",
+      "published": "2026-11-12",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Canada bars Russia from Junior World Championships",
-      "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15",
+      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "能源内参｜美全国航班因通讯故障停飞 停飞令持续超4小时；2000余位政商界领袖将参加APEC工商领导人峰会",
-      "link": "https://www.caixin.com/2026-11-16/102505111.html",
+      "title": "美国限制GPU出口东南亚和巴西 中企海外租用算力之路阻断",
+      "link": "https://www.caixin.com/2026-11-17/102505559.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -133,24 +141,32 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "What do Christmas market traders say about rising prices?",
-      "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "When the AI Bubble Bursts",
+      "link": "https://www.project-syndicate.org/onpoint/ai-infrastructure-could-outlast-the-bubble-that-financed-it-by-william-h-janeway-2026-10",
+      "published": "2026-10-30",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15",
+      "title": "Taking Korea's toughest exam from behind bars",
+      "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "外交部：习近平将同普京、特朗普举行中俄美元首会晤",
-      "link": "https://international.caixin.com/2026-11-16/102505128.html",
+      "title": "美国限制GPU出口东南亚和巴西 中企海外租用算力之路阻断(含视频)",
+      "link": "https://www.caixin.com/2026-11-17/102505559.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -165,16 +181,16 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Food bank sees donations drop by 10% each year",
-      "link": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14",
+      "title": "'Parents are offering to pay kids' wages': Salon owner",
+      "link": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "财经早知道｜12位APEC经济体领导人将出席APEC工商领导人峰会",
-      "link": "https://finance.caixin.com/2026-11-16/102505080.html",
+      "title": "财经早知道｜外交部谈中俄美元首会晤：具有开创性意义",
+      "link": "https://finance.caixin.com/2026-11-17/102505548.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -189,8 +205,8 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "北京规范女性灵活就业者退休年龄 告别“50岁退休”",
-      "link": "https://www.caixin.com/2026-11-16/102505082.html",
+      "title": "AMD以82亿美元收购World Labs 李飞飞任执行副总裁兼首席科学家",
+      "link": "https://www.caixin.com/2026-11-17/102505707.html",
       "published": "2026-11-01",
       "language": "中文"
     }
@@ -199,8 +215,8 @@
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16",
       "language": "EN"
     },
@@ -215,32 +231,48 @@
     {
       "category": "energy",
       "source": "财新",
-      "title": "能源内参｜美全国航班因通讯故障停飞 停飞令持续超4小时；2000余位政商界领袖将参加APEC工商领导人峰会",
-      "link": "https://www.caixin.com/2026-11-16/102505111.html",
+      "title": "美国司法部及商务部：2024年就调查过黄乐的Megaspeed 将继续调查",
+      "link": "https://www.caixin.com/2026-11-17/102505678.html",
       "published": "2026-11-01",
       "language": "中文"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
+      "language": "EN"
     }
   ],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "APEC China: 5 things to know about Xi Jinping's diplomatic show",
-      "link": "https://asia.nikkei.com/politics/international-relations/apec/apec-china-5-things-to-know-about-xi-jinping-s-diplomatic-show",
-      "published": "2026-11-16",
+      "title": "Indian stocks stage rapid rebound as AI hedge accelerates",
+      "link": "https://asia.nikkei.com/business/markets/indian-stocks-stage-rapid-rebound-as-ai-hedge-accelerates",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
+      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Technology",
       "title": "South Korea's top scorer in tax accountancy exam admits cheating",
       "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-15",
@@ -257,25 +289,33 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "能源内参｜美全国航班因通讯故障停飞 停飞令持续超4小时；2000余位政商界领袖将参加APEC工商领导人峰会",
-      "link": "https://www.caixin.com/2026-11-16/102505111.html",
+      "title": "T早报｜美国限制GPU出口东南亚等 中国算力获取遭封堵；阿里文娱板块CEO樊路远卸任；工信部称将约谈应付账款规模大、故意拉长账期的车企",
+      "link": "https://www.caixin.com/2026-11-17/102505573.html",
       "published": "2026-11-01",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "How Japan's defense bases are exposed by smartphone data",
-      "link": "https://asia.nikkei.com/politics/defense/how-japan-s-defense-bases-are-exposed-by-smartphone-data",
-      "published": "2026-11-16",
+      "title": "US moves to curb China's remote access to AI chips after Nvidia scandal",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "What do Christmas market traders say about rising prices?",
-      "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-14",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Taking Korea's toughest exam from behind bars",
+      "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
       "language": "EN"
     },
     {
@@ -289,16 +329,24 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "财经早知道｜12位APEC经济体领导人将出席APEC工商领导人峰会",
-      "link": "https://finance.caixin.com/2026-11-16/102505080.html",
+      "title": "财新峰会APEC专题会开幕 胡舒立致辞“中国科技与全球竞合”",
+      "link": "https://topics.caixin.com/2026-11-17/102505659.html",
       "published": "2026-11-01",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Asian investors chase indirect access to Anthropic shares amid IPO fever",
-      "link": "https://asia.nikkei.com/business/markets/trading-asia/asian-investors-chase-indirect-access-to-anthropic-shares-amid-ipo-fever",
+      "title": "Google to give Japan early access to frontier AI for cybersecurity",
+      "link": "https://asia.nikkei.com/spotlight/cybersecurity/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16",
       "language": "EN"
     },
@@ -312,18 +360,10 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "刘世锦：建立具有全球影响力和竞争力的中国消费市场",
-      "link": "https://topics.caixin.com/2026-11-13/102504405.html",
-      "published": "2026-11-01",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China's economy softens across the board as factory output, spending slow",
-      "link": "https://asia.nikkei.com/economy/china-s-economy-softens-across-the-board-as-factory-output-spending-slow",
-      "published": "2026-11-16",
+      "title": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
+      "link": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
@@ -337,9 +377,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's NTT Docomo reports 3rd nationwide 5G disruption this month",
-      "link": "https://asia.nikkei.com/business/telecommunication/japan-s-ntt-docomo-reports-3rd-nationwide-5g-disruption-this-month",
-      "published": "2026-11-16",
+      "title": "APEC live: Canada's Carney meets Xi, touts recalibration of China ties",
+      "link": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-canada-s-carney-meets-xi-touts-recalibration-of-china-ties",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
@@ -353,8 +393,8 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's Q3 GDP drops an annualized 0.1%, below market expectations",
-      "link": "https://asia.nikkei.com/economy/japan-s-q3-gdp-drops-an-annualized-0.1-below-market-expectations",
+      "title": "Asian investors chase indirect access to Anthropic shares amid IPO fever",
+      "link": "https://asia.nikkei.com/business/markets/trading-asia/asian-investors-chase-indirect-access-to-anthropic-shares-amid-ipo-fever",
       "published": "2026-11-16",
       "language": "EN"
     }
@@ -363,8 +403,40 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Russia's mega-rich are already imagining a future after Putin",
-      "link": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Breaking Billionaires’ Political Grip",
+      "link": "https://www.project-syndicate.org/commentary/fight-against-oligarchy-does-not-end-at-ballot-box-by-maira-martini-2026-11",
+      "published": "2026-11-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "财新",
+      "title": "工商银行廖林：AI时代机遇和挑战并存，需处理好三组关系",
+      "link": "https://finance.caixin.com/2026-11-17/102505702.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
+      "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16",
       "language": "EN"
     },
@@ -386,18 +458,26 @@
     },
     {
       "category": "ideas",
+      "source": "财新",
+      "title": "财新峰会APEC专题会开幕 胡舒立致辞“中国科技与全球竞合”",
+      "link": "https://topics.caixin.com/2026-11-17/102505659.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "ideas",
       "source": "BBC World",
-      "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "Project Syndicate",
-      "title": "AI Investors Have Overlooked Obvious Risks",
-      "link": "https://www.project-syndicate.org/commentary/ai-trade-risks-both-political-and-economic-by-jim-o-neill-2026-11",
-      "published": "2026-11-11",
+      "title": "When the AI Bubble Bursts",
+      "link": "https://www.project-syndicate.org/onpoint/ai-infrastructure-could-outlast-the-bubble-that-financed-it-by-william-h-janeway-2026-10",
+      "published": "2026-10-30",
       "language": "EN"
     },
     {
@@ -406,14 +486,6 @@
       "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
       "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-12",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-10",
       "language": "EN"
     },
     {
@@ -429,7 +501,7 @@
     [
       "BBC Business",
       "ok",
-      12
+      9
     ],
     [
       "BBC World",
@@ -458,8 +530,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 9",
-      3
+      "ok 10",
+      4
     ],
     [
       "The Economist",
@@ -494,7 +566,7 @@
     [
       "财新",
       "ok 17",
-      7
+      9
     ],
     [
       "第一财经",
@@ -543,13 +615,13 @@
     ],
     [
       "Nikkei Asia",
-      "ok 18",
-      12
+      "ok 17",
+      10
     ],
     [
       "Project Syndicate",
-      "ok 12",
-      2
+      "ok 13",
+      3
     ],
     [
       "The Economist",
