@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-11-17 06:40 UTC",
-  "date_display": "Tuesday · 17 November 2026",
+  "generated_at": "2026-11-18 05:59 UTC",
+  "date_display": "Wednesday · 18 November 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Customers report service outages at major US banks",
-      "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+      "title": "Europe plans to catch the next computer chip wave",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "The Perverse Effects of the AI Investment Boom",
+      "link": "https://www.project-syndicate.org/commentary/ai-debt-financed-spending-crowding-out-development-investment-by-paola-subacchi-2026-11",
       "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "财新",
+      "title": "英伟达停止向中国出售H200 GPU 三季度业绩超预期",
+      "link": "https://www.caixin.com/2026-11-18/102506205.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "New trade-restrictive measures surge but WTO members step up trade facilitation efforts",
+      "link": "https://www.wto.org/english/news_e/news26_e/tmwto_17nov26_552_e.htm",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "MSMEs in Developing Countries Face $4 Trillion Finance Gap",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/11/17/msmes-in-developing-countries-face-4-trillion-finance-gap",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-18",
       "language": "EN"
     },
     {
@@ -21,16 +77,16 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "工商银行廖林：AI时代机遇和挑战并存，需处理好三组关系",
-      "link": "https://finance.caixin.com/2026-11-17/102505702.html",
+      "title": "APEC深圳时刻：中国汽车出海需要一次“战略换轨”",
+      "link": "https://opinion.caixin.com/2026-11-18/102506120.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -45,48 +101,48 @@
     {
       "category": "world",
       "source": "World Bank",
-      "title": "Commodity Prices Set to Increase by 23% in 2026 as Global Shocks Mount",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026",
-      "published": "2026-10-28",
+      "title": "Developing Countries’ External Debt Surges to Record $9.4 Trillion",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/11/05/developing-countries-external-debt-surges-to-record-9-4-trillion",
+      "published": "2026-11-05",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16",
       "language": "EN"
     },
     {
       "category": "world",
+      "source": "BBC Business",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "Project Syndicate",
-      "title": "Africa Needs a Different Kind of Climate Finance",
-      "link": "https://www.project-syndicate.org/commentary/africa-needs-less-debt-based-climate-finance-by-penelope-gregoriou-2026-11",
-      "published": "2026-11-13",
+      "title": "Can AI Colonialism Be Prevented?",
+      "link": "https://www.project-syndicate.org/onpoint/middle-powers-must-build-their-own-ai-stack-to-avoid-ai-imperialism-by-jayant-sinha-2026-11",
+      "published": "2026-11-06",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "T早报｜美国限制GPU出口东南亚等 中国算力获取遭封堵；阿里文娱板块CEO樊路远卸任；工信部称将约谈应付账款规模大、故意拉长账期的车企",
-      "link": "https://www.caixin.com/2026-11-17/102505573.html",
+      "title": "习近平：欢迎亚太工商界继续积极参与中国改革开放和现代化建设",
+      "link": "https://international.caixin.com/2026-11-18/102506137.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -101,32 +157,24 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Gas starts flowing from Jackdaw after government green light",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "The Digital-Currency Divide",
-      "link": "https://www.project-syndicate.org/commentary/why-europe-is-pressing-ahead-with-digital-euro-by-howard-davies-2026-11",
-      "published": "2026-11-12",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "美国限制GPU出口东南亚和巴西 中企海外租用算力之路阻断",
-      "link": "https://www.caixin.com/2026-11-17/102505559.html",
+      "title": "能源内参｜受贿数额特别巨大 中核集团原总经理顾军被提起公诉；国内输送距离最长二氧化碳管道投运",
+      "link": "https://www.caixin.com/2026-11-18/102506067.html",
       "published": "2026-11-01",
       "language": "中文"
     },
@@ -141,42 +189,18 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "When the AI Bubble Bursts",
-      "link": "https://www.project-syndicate.org/onpoint/ai-infrastructure-could-outlast-the-bubble-that-financed-it-by-william-h-janeway-2026-10",
-      "published": "2026-10-30",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Taking Korea's toughest exam from behind bars",
-      "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "财新",
-      "title": "美国限制GPU出口东南亚和巴西 中企海外租用算力之路阻断(含视频)",
-      "link": "https://www.caixin.com/2026-11-17/102505559.html",
+      "title": "中国出口能否延续高增长？研究者提醒关注AI产业景气变化影响",
+      "link": "https://economy.caixin.com/2026-11-18/102506193.html",
       "published": "2026-11-01",
       "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "Members review progress in resolving SPS trade concerns at WTO",
-      "link": "https://www.wto.org/english/news_e/news26_e/sps_04nov26_548_e.htm",
-      "published": "2026-11-04",
-      "language": "EN"
     },
     {
       "category": "world",
@@ -189,24 +213,8 @@
     {
       "category": "world",
       "source": "财新",
-      "title": "财经早知道｜外交部谈中俄美元首会晤：具有开创性意义",
-      "link": "https://finance.caixin.com/2026-11-17/102505548.html",
-      "published": "2026-11-01",
-      "language": "中文"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "AMD以82亿美元收购World Labs 李飞飞任执行副总裁兼首席科学家",
-      "link": "https://www.caixin.com/2026-11-17/102505707.html",
+      "title": "分析｜全境停飞事件后美联航再遇技术故障 美国航空业怎么了？",
+      "link": "https://companies.caixin.com/2026-11-18/102506147.html",
       "published": "2026-11-01",
       "language": "中文"
     }
@@ -214,68 +222,116 @@
   "energy": [
     {
       "category": "energy",
-      "source": "BBC Business",
-      "title": "Gas starts flowing from Jackdaw after government green light",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "source": "BBC World",
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "energy",
-      "source": "Project Syndicate",
-      "title": "Africa Needs a Different Kind of Climate Finance",
-      "link": "https://www.project-syndicate.org/commentary/africa-needs-less-debt-based-climate-finance-by-penelope-gregoriou-2026-11",
-      "published": "2026-11-13",
+      "source": "BBC Technology",
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "energy",
       "source": "财新",
-      "title": "美国司法部及商务部：2024年就调查过黄乐的Megaspeed 将继续调查",
-      "link": "https://www.caixin.com/2026-11-17/102505678.html",
+      "title": "能源内参｜受贿数额特别巨大 中核集团原总经理顾军被提起公诉；国内输送距离最长二氧化碳管道投运",
+      "link": "https://www.caixin.com/2026-11-18/102506067.html",
       "published": "2026-11-01",
       "language": "中文"
     },
     {
       "category": "energy",
-      "source": "BBC Business",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
-      "language": "EN"
+      "source": "财新",
+      "title": "T早报｜黄仁勋声明称愿意重返英伟达；美国政府公布对黄乐Megaspeed的调查进展；阿里云未将在全球多地建数据中心",
+      "link": "https://www.caixin.com/2026-11-18/102506060.html",
+      "published": "2026-11-01",
+      "language": "中文"
     }
   ],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Indian stocks stage rapid rebound as AI hedge accelerates",
-      "link": "https://asia.nikkei.com/business/markets/indian-stocks-stage-rapid-rebound-as-ai-hedge-accelerates",
-      "published": "2026-11-17",
+      "title": "Daiwa to bolster China investment banking as it buys out local partners",
+      "link": "https://asia.nikkei.com/business/finance/daiwa-to-bolster-china-investment-banking-as-it-buys-out-local-partners",
+      "published": "2026-11-18",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "WTO",
+      "title": "New trade-restrictive measures surge but WTO members step up trade facilitation efforts",
+      "link": "https://www.wto.org/english/news_e/news26_e/tmwto_17nov26_552_e.htm",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "The Perverse Effects of the AI Investment Boom",
+      "link": "https://www.project-syndicate.org/commentary/ai-debt-financed-spending-crowding-out-development-investment-by-paola-subacchi-2026-11",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Technology",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-15",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-16",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "财新",
+      "title": "英伟达停止向中国出售H200 GPU 三季度业绩超预期",
+      "link": "https://www.caixin.com/2026-11-18/102506205.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "SoftBank's Son calls missing Anthropic investment one of his 'mistakes'",
+      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-s-son-calls-missing-anthropic-investment-one-of-his-mistakes",
+      "published": "2026-11-18",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "How new US chip restrictions on South East Asia will hit China",
+      "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
@@ -289,33 +345,25 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "T早报｜美国限制GPU出口东南亚等 中国算力获取遭封堵；阿里文娱板块CEO樊路远卸任；工信部称将约谈应付账款规模大、故意拉长账期的车企",
-      "link": "https://www.caixin.com/2026-11-17/102505573.html",
+      "title": "APEC深圳时刻：中国汽车出海需要一次“战略换轨”",
+      "link": "https://opinion.caixin.com/2026-11-18/102506120.html",
       "published": "2026-11-01",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "US moves to curb China's remote access to AI chips after Nvidia scandal",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-moves-to-curb-china-s-remote-access-to-ai-chips-after-nvidia-scandal",
-      "published": "2026-11-17",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "Xi urges freer trade as APEC leaders maneuver ahead of Trump talks",
+      "link": "https://asia.nikkei.com/politics/international-relations/apec/xi-urges-freer-trade-as-apec-leaders-maneuver-ahead-of-trump-talks",
+      "published": "2026-11-18",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "Taking Korea's toughest exam from behind bars",
-      "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+      "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
@@ -329,25 +377,25 @@
     {
       "category": "asia",
       "source": "财新",
-      "title": "财新峰会APEC专题会开幕 胡舒立致辞“中国科技与全球竞合”",
-      "link": "https://topics.caixin.com/2026-11-17/102505659.html",
+      "title": "习近平：欢迎亚太工商界继续积极参与中国改革开放和现代化建设",
+      "link": "https://international.caixin.com/2026-11-18/102506137.html",
       "published": "2026-11-01",
       "language": "中文"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Google to give Japan early access to frontier AI for cybersecurity",
-      "link": "https://asia.nikkei.com/spotlight/cybersecurity/google-to-give-japan-early-access-to-frontier-ai-for-cybersecurity",
-      "published": "2026-11-17",
+      "title": "Anthropic's IPO fireworks may light fuse for Asia's AI startups",
+      "link": "https://asia.nikkei.com/business/technology/tech-asia/anthropic-s-ipo-fireworks-may-light-fuse-for-asia-s-ai-startups",
+      "published": "2026-11-18",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
@@ -360,10 +408,18 @@
     },
     {
       "category": "asia",
+      "source": "财新",
+      "title": "中国出口能否延续高增长？研究者提醒关注AI产业景气变化影响",
+      "link": "https://economy.caixin.com/2026-11-18/102506193.html",
+      "published": "2026-11-01",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "US chip curbs, Nvidia uncertainty weigh on Asian data center stocks",
-      "link": "https://asia.nikkei.com/business/markets/us-chip-curbs-nvidia-uncertainty-weigh-on-asian-data-center-stocks",
-      "published": "2026-11-17",
+      "title": "Russia appears open to Putin-Takaichi talks after Japan airspace incident",
+      "link": "https://asia.nikkei.com/politics/international-relations/russia-appears-open-to-putin-takaichi-talks-after-japan-airspace-incident",
+      "published": "2026-11-18",
       "language": "EN"
     },
     {
@@ -377,9 +433,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "APEC live: Canada's Carney meets Xi, touts recalibration of China ties",
-      "link": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-canada-s-carney-meets-xi-touts-recalibration-of-china-ties",
-      "published": "2026-11-17",
+      "title": "APEC live: Russia's Putin, Malaysia's Anwar lob veiled critiques at US",
+      "link": "https://asia.nikkei.com/politics/international-relations/apec/apec-live-russia-s-putin-malaysia-s-anwar-lob-veiled-critiques-at-us",
+      "published": "2026-11-18",
       "language": "EN"
     },
     {
@@ -389,84 +445,36 @@
       "link": "https://www.wto.org/english/tratop_e/tpr_e/tpr_vnm_04nov26_e.htm",
       "published": "2026-11-04",
       "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Asian investors chase indirect access to Anthropic shares amid IPO fever",
-      "link": "https://asia.nikkei.com/business/markets/trading-asia/asian-investors-chase-indirect-access-to-anthropic-shares-amid-ipo-fever",
-      "published": "2026-11-16",
-      "language": "EN"
     }
   ],
   "ideas": [
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "source": "Project Syndicate",
+      "title": "The Perverse Effects of the AI Investment Boom",
+      "link": "https://www.project-syndicate.org/commentary/ai-debt-financed-spending-crowding-out-development-investment-by-paola-subacchi-2026-11",
       "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Breaking Billionaires’ Political Grip",
-      "link": "https://www.project-syndicate.org/commentary/fight-against-oligarchy-does-not-end-at-ballot-box-by-maira-martini-2026-11",
-      "published": "2026-11-16",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC Business",
-      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "财新",
-      "title": "工商银行廖林：AI时代机遇和挑战并存，需处理好三组关系",
-      "link": "https://finance.caixin.com/2026-11-17/102505702.html",
-      "published": "2026-11-01",
-      "language": "中文"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "China is hosting the world's leaders in its AI wonderland. Here's what they won't see",
-      "link": "https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-16",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "Africa Needs a Different Kind of Climate Finance",
-      "link": "https://www.project-syndicate.org/commentary/africa-needs-less-debt-based-climate-finance-by-penelope-gregoriou-2026-11",
-      "published": "2026-11-13",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "财新",
-      "title": "财新峰会APEC专题会开幕 胡舒立致辞“中国科技与全球竞合”",
-      "link": "https://topics.caixin.com/2026-11-17/102505659.html",
-      "published": "2026-11-01",
-      "language": "中文"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
+      "source": "BBC Technology",
       "title": "The AI start-ups fixing India's broken roads and messy land records",
       "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-16",
@@ -474,18 +482,18 @@
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "When the AI Bubble Bursts",
-      "link": "https://www.project-syndicate.org/onpoint/ai-infrastructure-could-outlast-the-bubble-that-financed-it-by-william-h-janeway-2026-10",
-      "published": "2026-10-30",
-      "language": "EN"
+      "source": "财新",
+      "title": "中国出口能否延续高增长？研究者提醒关注AI产业景气变化影响",
+      "link": "https://economy.caixin.com/2026-11-18/102506193.html",
+      "published": "2026-11-01",
+      "language": "中文"
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
-      "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12",
+      "source": "Project Syndicate",
+      "title": "The Roots of Macron’s Failure",
+      "link": "https://www.project-syndicate.org/commentary/macron-troubled-end-to-presidency-symptom-of-deeper-problem-by-zaki-laidi-2026-11",
+      "published": "2026-11-17",
       "language": "EN"
     },
     {
@@ -495,23 +503,63 @@
       "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-04",
       "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Can AI Colonialism Be Prevented?",
+      "link": "https://www.project-syndicate.org/onpoint/middle-powers-must-build-their-own-ai-stack-to-avoid-ai-imperialism-by-jayant-sinha-2026-11",
+      "published": "2026-11-06",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Who to watch in Spain's election race",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-17",
+      "language": "EN"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      9
+      7
     ],
     [
       "BBC World",
       "ok",
-      5
+      16
     ],
     [
       "BBC Technology",
       "ok",
-      3
+      5
     ],
     [
       "BIS",
@@ -521,7 +569,7 @@
     [
       "WTO",
       "ok",
-      5
+      6
     ],
     [
       "IRENA",
@@ -531,7 +579,7 @@
     [
       "Project Syndicate",
       "ok 10",
-      4
+      3
     ],
     [
       "The Economist",
@@ -545,8 +593,8 @@
     ],
     [
       "World Bank",
-      "ok 1",
-      1
+      "ok 2",
+      2
     ],
     [
       "OECD",
@@ -555,7 +603,7 @@
     ],
     [
       "UNCTAD",
-      "ok 0",
+      "ok 1",
       0
     ],
     [
@@ -615,12 +663,12 @@
     ],
     [
       "Nikkei Asia",
-      "ok 17",
-      10
+      "ok 18",
+      11
     ],
     [
       "Project Syndicate",
-      "ok 13",
+      "ok 12",
       3
     ],
     [
