@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22 05:13 UTC",
-  "date_display": "Sunday · 22 November 2026",
+  "generated_at": "2026-11-23 05:52 UTC",
+  "date_display": "Monday · 23 November 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Sessions offer advice on rising energy costs",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
@@ -21,18 +21,10 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
-      "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "Visa中国区总裁：中国是Visa长期投入的重要市场",
-      "link": "https://finance.caixin.com/2026-11-21/102507595.html",
-      "published": "2026-11-02",
-      "language": "中文"
     },
     {
       "category": "world",
@@ -53,17 +45,17 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21",
+      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
@@ -77,18 +69,10 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "一周天下｜中俄美元首首次面对面会晤、克里米亚大桥遭袭部分坍塌",
-      "link": "https://photos.caixin.com/2026-11-21/102507577.html",
-      "published": "2026-11-02",
-      "language": "中文"
     },
     {
       "category": "world",
@@ -117,9 +101,9 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22",
       "language": "EN"
     },
     {
@@ -133,18 +117,10 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "10月财政收入同比由降转增 离岸信托征税带动个税增长近90%",
-      "link": "https://economy.caixin.com/2026-11-21/102507511.html",
-      "published": "2026-11-02",
-      "language": "中文"
     },
     {
       "category": "world",
@@ -156,10 +132,18 @@
     },
     {
       "category": "world",
+      "source": "BBC Technology",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19",
+      "language": "EN"
+    },
+    {
+      "category": "world",
       "source": "BBC Business",
-      "title": "Should AI be judging our credit worthiness?",
-      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
+      "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22",
       "language": "EN"
     },
     {
@@ -173,18 +157,10 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-      "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "美国接受中企340万颗芯片出口申请 仅批87.9万大量未出货",
-      "link": "https://www.caixin.com/2026-11-20/102507299.html",
-      "published": "2026-11-02",
-      "language": "中文"
     },
     {
       "category": "world",
@@ -197,9 +173,9 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-      "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21",
       "language": "EN"
     },
     {
@@ -212,18 +188,10 @@
     },
     {
       "category": "world",
-      "source": "财新",
-      "title": "夜读精选｜韩国前总统妻子金建希首案终审获刑4年 韩德洙涉内乱案发回重审",
-      "link": "https://www.caixin.com/2026-11-20/102507199.html",
-      "published": "2026-11-02",
-      "language": "中文"
-    },
-    {
-      "category": "world",
       "source": "BBC Business",
-      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-      "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
+      "title": "Sessions offer advice on rising energy costs",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21",
       "language": "EN"
     },
     {
@@ -233,17 +201,17 @@
       "link": "https://www.project-syndicate.org/commentary/nvidia-crisis-economics-of-chip-production-restrictions-by-pinelopi-koujianou-goldberg-2026-11",
       "published": "2026-11-18",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "财新",
-      "title": "下周前瞻：台湾地区“九合一”选举投票；西班牙举行大选",
-      "link": "https://china.caixin.com/2026-11-20/102507195.html",
-      "published": "2026-11-02",
-      "language": "中文"
     }
   ],
   "energy": [
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23",
+      "language": "EN"
+    },
     {
       "category": "energy",
       "source": "BBC World",
@@ -255,17 +223,25 @@
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Sessions offer advice on rising energy costs",
-      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21",
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22",
       "language": "EN"
     },
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-18",
+      "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Sessions offer advice on rising energy costs",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21",
       "language": "EN"
     }
   ],
@@ -273,25 +249,17 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "World Bank's India poverty estimates questioned over scale of gains",
-      "link": "https://asia.nikkei.com/economy/demography/world-bank-s-india-poverty-estimates-questioned-over-scale-of-gains",
-      "published": "2026-11-22",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-      "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
+      "title": "Japan's Ricoh shoots for younger buyers with stripped-down cameras",
+      "link": "https://asia.nikkei.com/business/consumer/japan-s-ricoh-shoots-for-younger-buyers-with-stripped-down-cameras",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-      "link": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22",
       "language": "EN"
     },
     {
@@ -312,26 +280,10 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "Visa中国区总裁：中国是Visa长期投入的重要市场",
-      "link": "https://finance.caixin.com/2026-11-21/102507595.html",
-      "published": "2026-11-02",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "The ramen lectures: Japan company tries new expansion strategy",
-      "link": "https://asia.nikkei.com/business/food-beverage/the-ramen-lectures-japan-company-tries-new-expansion-strategy",
-      "published": "2026-11-22",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "BBC Business",
-      "title": "California targets Nvidia in China AI chip probe",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19",
+      "title": "US-India energy ties tighten as New Delhi snaps up Venezuelan oil",
+      "link": "https://asia.nikkei.com/business/energy/us-india-energy-ties-tighten-as-new-delhi-snaps-up-venezuelan-oil",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
@@ -352,18 +304,10 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "夜读精选｜韩国前总统妻子金建希首案终审获刑4年 韩德洙涉内乱案发回重审",
-      "link": "https://www.caixin.com/2026-11-20/102507199.html",
-      "published": "2026-11-02",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "China slams US ban on its telecoms' access to American phone numbers",
-      "link": "https://asia.nikkei.com/politics/international-relations/us-china-tensions/china-slams-us-ban-on-its-telecoms-access-to-american-phone-numbers",
-      "published": "2026-11-22",
+      "title": "Japan decarbonization agency invests in US metal recycling startup",
+      "link": "https://asia.nikkei.com/spotlight/environment/japan-decarbonization-agency-invests-in-us-metal-recycling-startup",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
@@ -376,18 +320,10 @@
     },
     {
       "category": "asia",
-      "source": "财新",
-      "title": "中国资环首任“一把手”刘宇落马 或指向马兴瑞任内的新疆绿电生意",
-      "link": "https://wenews.caixin.com/2026-11-22/102507601.html",
-      "published": "2026-11-02",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "North Korea postpones 2027 Pyongyang International Marathon",
-      "link": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-postpones-2027-pyongyang-international-marathon",
-      "published": "2026-11-22",
+      "title": "Chinese automakers lead Japanese rivals in 39 markets, aided by EVs",
+      "link": "https://asia.nikkei.com/business/automobiles/chinese-automakers-lead-japanese-rivals-in-39-markets-aided-by-evs",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
@@ -401,9 +337,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "How to save your dragon: Japan zoo joins quest to breed Komodo lizards",
-      "link": "https://asia.nikkei.com/spotlight/big-in-asia/how-to-save-your-dragon-japan-zoo-joins-quest-to-breed-komodo-lizards",
-      "published": "2026-11-21",
+      "title": "China carmakers scale back humanoid robot ambitions",
+      "link": "https://asia.nikkei.com/spotlight/caixin/china-carmakers-scale-back-humanoid-robot-ambitions",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
@@ -417,9 +353,9 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-server-suppliers-halt-southeast-asia-shipments-over-us-curbs",
-      "published": "2026-11-21",
+      "title": "Corporate Japan races to revive rare-earth supply chain amid China curbs",
+      "link": "https://asia.nikkei.com/business/materials/corporate-japan-races-to-revive-rare-earth-supply-chain-amid-china-curbs",
+      "published": "2026-11-22",
       "language": "EN"
     },
     {
@@ -434,18 +370,18 @@
   "ideas": [
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21",
+      "source": "BBC Business",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "BBC Technology",
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21",
+      "source": "BBC World",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
@@ -453,30 +389,6 @@
       "source": "Project Syndicate",
       "title": "Getting Ukraine’s House in Order",
       "link": "https://www.project-syndicate.org/commentary/zelensky-must-form-a-national-unity-government-in-ukraine-by-nina-l-khrushcheva-2026-11",
-      "published": "2026-11-20",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "WTO",
-      "title": "Panama submits request to join Expansion of the Information Technology Agreement",
-      "link": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
-      "published": "2026-11-19",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20",
       "language": "EN"
     },
@@ -490,6 +402,30 @@
     },
     {
       "category": "ideas",
+      "source": "WTO",
+      "title": "Panama submits request to join Expansion of the Information Technology Agreement",
+      "link": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
+      "published": "2026-11-19",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "Project Syndicate",
       "title": "The Roots of Macron’s Failure",
       "link": "https://www.project-syndicate.org/commentary/macron-troubled-end-to-presidency-symptom-of-deeper-problem-by-zaki-laidi-2026-11",
@@ -498,18 +434,42 @@
     },
     {
       "category": "ideas",
+      "source": "BBC Technology",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-19",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "BBC Business",
-      "title": "Should AI be judging our credit worthiness?",
-      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-22",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-20",
       "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21",
       "language": "EN"
     },
     {
@@ -522,18 +482,10 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "California targets Nvidia in China AI chip probe",
-      "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-19",
+      "source": "BBC World",
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20",
       "language": "EN"
     }
   ],
@@ -541,17 +493,17 @@
     [
       "BBC Business",
       "ok",
-      21
+      15
     ],
     [
       "BBC World",
       "ok",
-      11
+      14
     ],
     [
       "BBC Technology",
       "ok",
-      8
+      9
     ],
     [
       "BIS",
@@ -605,8 +557,8 @@
     ],
     [
       "财新",
-      "ok 15",
-      8
+      "ok 0",
+      0
     ],
     [
       "第一财经",
@@ -656,7 +608,7 @@
     [
       "Nikkei Asia",
       "ok 18",
-      11
+      13
     ],
     [
       "Project Syndicate",
