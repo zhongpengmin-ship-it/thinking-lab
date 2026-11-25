@@ -1,37 +1,45 @@
 {
-  "generated_at": "2026-11-24 08:31 UTC",
-  "date_display": "Tuesday · 24 November 2026",
+  "generated_at": "2026-11-25 07:05 UTC",
+  "date_display": "Wednesday · 25 November 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-      "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24",
+      "title": "Household energy prices to rise by 26% in January as new price cap confirmed",
+      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "Project Syndicate",
-      "title": "If the AI Bubble Is Bursting, the Fallout Will Be Severe",
-      "link": "https://www.project-syndicate.org/commentary/ai-bubble-why-fallout-will-be-severe-by-desmond-lachman-2026-11",
-      "published": "2026-11-23",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "title": "Making the Most of South Korea’s Semiconductor Boom",
+      "link": "https://www.project-syndicate.org/commentary/how-south-korea-can-use-semiconductor-boom-to-strengthen-overall-economy-by-lee-jong-wha-2026-11",
       "published": "2026-11-24",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "WTO",
-      "title": "Trade-facilitating measures help offset rise in new G20 trade restrictions",
-      "link": "https://www.wto.org/english/news_e/news26_e/tmg20_23nov26_559_e.htm",
+      "source": "FT中文网",
+      "title": "地缘政治风险与全球投资：不确定性阴影下的全球投资重构",
+      "link": "https://www.ftchinese.com/story/8b259928-bfcc-4298-bd45-bc2c1317017d",
       "published": "2026-11-23",
+      "language": "中文"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Brazil requests dispute panel regarding additional duties imposed by the United States",
+      "link": "https://www.wto.org/english/news_e/news26_e/dsb_24nov26_563_e.htm",
+      "published": "2026-11-24",
       "language": "EN"
     },
     {
@@ -45,17 +53,17 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
+      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
+      "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
+      "title": "US preparing to unveil plan for new tariffs on global trading partners",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
@@ -69,17 +77,17 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24",
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "Panama submits request to join Expansion of the Information Technology Agreement",
-      "link": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
-      "published": "2026-11-19",
+      "title": "Trade-facilitating measures help offset rise in new G20 trade restrictions",
+      "link": "https://www.wto.org/english/news_e/news26_e/tmg20_23nov26_559_e.htm",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
@@ -93,57 +101,17 @@
     {
       "category": "world",
       "source": "BBC Technology",
-      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "How important are Nvidia and Jensen Huang to the US economy?",
-      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "Governing African Economies as They Are",
-      "link": "https://www.project-syndicate.org/commentary/development-institutions-must-abandon-outdated-assumptions-about-africa-by-geci-karuri-sebina-and-stacey-leigh-joseph-2026-11",
-      "published": "2026-11-20",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "Spotlight on trade fundamentals at annual WTO student event",
-      "link": "https://www.wto.org/english/news_e/news26_e/stud_19nov26_558_e.htm",
-      "published": "2026-11-19",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Technology",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Energy bills will soar - here's how you can ease the pain",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
+      "title": "What will the energy cap changes mean for my bills?",
+      "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
@@ -157,41 +125,33 @@
     {
       "category": "world",
       "source": "BBC World",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "WTO",
-      "title": "Trade Policy Review: Peru",
-      "link": "https://www.wto.org/english/tratop_e/tpr_e/tpr_per_18nov26_e.htm",
-      "published": "2026-11-18",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "title": "Agriculture group meeting weighs trends in global food market trade",
+      "link": "https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
       "published": "2026-11-23",
       "language": "EN"
     },
     {
       "category": "world",
-      "source": "Project Syndicate",
-      "title": "China Ratchets Up Its Weaponization of Trade",
-      "link": "https://www.project-syndicate.org/commentary/china-export-control-regime-threatens-to-upend-global-trade-by-brahma-chellaney-2026-11",
-      "published": "2026-11-19",
+      "source": "BBC Technology",
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-23",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-      "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
@@ -201,15 +161,63 @@
       "link": "https://www.project-syndicate.org/commentary/russia-wants-talks-to-distract-from-its-aggression-by-carl-bildt-2026-11",
       "published": "2026-11-19",
       "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC World",
+      "title": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+      "link": "https://www.bbc.co.uk/news/articles/crd6128y1qn1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Panama submits request to join Expansion of the Information Technology Agreement",
+      "link": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
+      "published": "2026-11-19",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "What Nvidia’s Crisis Reveals About the Chip War",
+      "link": "https://www.project-syndicate.org/commentary/nvidia-crisis-economics-of-chip-production-restrictions-by-pinelopi-koujianou-goldberg-2026-11",
+      "published": "2026-11-18",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "The rising cost of putting food on the table in India",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "Project Syndicate",
+      "title": "Europe’s AI Dreams Exceed Its Grid",
+      "link": "https://www.project-syndicate.org/commentary/europe-must-invest-in-grid-expansion-and-address-public-opposition-to-data-centers-by-sona-muzikarova-2026-11",
+      "published": "2026-11-11",
+      "language": "EN"
     }
   ],
   "energy": [
     {
       "category": "energy",
       "source": "BBC Business",
-      "title": "Energy bills will soar - here's how you can ease the pain",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
+      "title": "Household energy prices to rise by 26% in January as new price cap confirmed",
+      "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
@@ -222,10 +230,34 @@
     },
     {
       "category": "energy",
+      "source": "Project Syndicate",
+      "title": "Europe’s AI Dreams Exceed Its Grid",
+      "link": "https://www.project-syndicate.org/commentary/europe-must-invest-in-grid-expansion-and-address-public-opposition-to-data-centers-by-sona-muzikarova-2026-11",
+      "published": "2026-11-11",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
       "source": "BBC Business",
-      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-      "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22",
+      "title": "What will the energy cap changes mean for my bills?",
+      "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24",
       "language": "EN"
     }
   ],
@@ -233,16 +265,32 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Asian stocks leap on return of Nvidia's Jensen Huang",
-      "link": "https://asia.nikkei.com/business/markets/asian-stocks-leap-on-return-of-nvidia-s-jensen-huang",
-      "published": "2026-11-24",
+      "title": "China's YMTC boosted by Samsung and SK Hynix adopting its memory technology",
+      "link": "https://asia.nikkei.com/business/tech/semiconductors/china-s-ymtc-boosted-by-samsung-and-sk-hynix-adopting-its-memory-technology",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
-      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "Project Syndicate",
+      "title": "Making the Most of South Korea’s Semiconductor Boom",
+      "link": "https://www.project-syndicate.org/commentary/how-south-korea-can-use-semiconductor-boom-to-strengthen-overall-economy-by-lee-jong-wha-2026-11",
       "published": "2026-11-24",
       "language": "EN"
     },
@@ -264,6 +312,38 @@
     },
     {
       "category": "asia",
+      "source": "FT中文网",
+      "title": "地缘政治风险与全球投资：不确定性阴影下的全球投资重构",
+      "link": "https://www.ftchinese.com/story/8b259928-bfcc-4298-bd45-bc2c1317017d",
+      "published": "2026-11-23",
+      "language": "中文"
+    },
+    {
+      "category": "asia",
+      "source": "Nikkei Asia",
+      "title": "German private equity eyes Japan engine parts makers as EV adoption stalls",
+      "link": "https://asia.nikkei.com/business/automobiles/german-private-equity-eyes-japan-engine-parts-makers-as-ev-adoption-stalls",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "The rising cost of putting food on the table in India",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
       "source": "Project Syndicate",
       "title": "The Achilles’ Heel of Emerging Economies’ Trade",
       "link": "https://www.project-syndicate.org/commentary/emerging-economies-must-identify-achilles-heel-goods-trade-by-nick-leung-et-al-2026-11",
@@ -272,17 +352,25 @@
     },
     {
       "category": "asia",
+      "source": "WTO",
+      "title": "Agriculture group meeting weighs trends in global food market trade",
+      "link": "https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
+      "published": "2026-11-23",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Asia's Nvidia suppliers give cautious welcome to Huang return",
-      "link": "https://asia.nikkei.com/spotlight/supply-chain/asia-s-nvidia-suppliers-give-cautious-welcome-to-huang-return",
-      "published": "2026-11-24",
+      "title": "China ramps up campaign to electrify the world's trucking fleet",
+      "link": "https://asia.nikkei.com/business/business-asia/china-ramps-up-campaign-to-electrify-the-world-s-trucking-fleet",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "link": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24",
       "language": "EN"
     },
@@ -296,26 +384,18 @@
     },
     {
       "category": "asia",
-      "source": "Project Syndicate",
-      "title": "China Ratchets Up Its Weaponization of Trade",
-      "link": "https://www.project-syndicate.org/commentary/china-export-control-regime-threatens-to-upend-global-trade-by-brahma-chellaney-2026-11",
-      "published": "2026-11-19",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Indonesia-EU trade deal sparks 'ambitious' hopes and transition concerns",
-      "link": "https://asia.nikkei.com/economy/trade/indonesia-eu-trade-deal-sparks-ambitious-hopes-and-transition-concerns",
-      "published": "2026-11-24",
+      "title": "China sends first foreign national, a Pakistani pilot, to its space station",
+      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/china-sends-first-foreign-national-a-pakistani-pilot-to-its-space-station",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "link": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
+      "title": "What Jensen Huang's return teaches China's Xi about Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24",
       "language": "EN"
     },
     {
@@ -329,8 +409,16 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Southeast Asia's concert 'ticket wars' turn Malaysian fans into concierges",
-      "link": "https://asia.nikkei.com/spotlight/asean-money/southeast-asia-s-concert-ticket-wars-turn-malaysian-fans-into-concierges",
+      "title": "Laos sheds 'least developed' label, but economic dependence on China looms",
+      "link": "https://asia.nikkei.com/economy/laos-sheds-least-developed-label-but-economic-dependence-on-china-looms",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-24",
       "language": "EN"
     },
@@ -345,59 +433,27 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "EU's EV incentives to exclude Japan-made cars even in amended proposal",
-      "link": "https://asia.nikkei.com/business/automobiles/electric-vehicles/eu-s-ev-incentives-to-exclude-japan-made-cars-even-in-amended-proposal",
-      "published": "2026-11-24",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "DDG Nordquist: Global trade is adapting, not retreating",
-      "link": "https://www.wto.org/english/news_e/news26_e/ddgjn_16nov26_555_e.htm",
-      "published": "2026-11-16",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "Nikkei Asia",
-      "title": "Anthropic IPO raises the bar for Asia's AI labs",
-      "link": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/anthropic-ipo-raises-the-bar-for-asia-s-ai-labs",
-      "published": "2026-11-24",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "Goods Council agrees to modernize notification reporting, reviews trade concerns",
-      "link": "https://www.wto.org/english/news_e/news26_e/good_16nov26_556_e.htm",
-      "published": "2026-11-16",
+      "title": "China places Shanghai party chief Chen Jining under investigation",
+      "link": "https://asia.nikkei.com/politics/china-places-shanghai-party-chief-chen-jining-under-investigation",
+      "published": "2026-11-25",
       "language": "EN"
     }
   ],
   "ideas": [
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-      "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "BBC World",
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24",
+      "title": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
       "category": "ideas",
-      "source": "Project Syndicate",
-      "title": "If the AI Bubble Is Bursting, the Fallout Will Be Severe",
-      "link": "https://www.project-syndicate.org/commentary/ai-bubble-why-fallout-will-be-severe-by-desmond-lachman-2026-11",
-      "published": "2026-11-23",
+      "source": "BBC Business",
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24",
       "language": "EN"
     },
     {
@@ -411,24 +467,8 @@
     {
       "category": "ideas",
       "source": "WTO",
-      "title": "Panama submits request to join Expansion of the Information Technology Agreement",
-      "link": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
-      "published": "2026-11-19",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "Energy bills will soar - here's how you can ease the pain",
-      "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "link": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "title": "Agriculture group meeting weighs trends in global food market trade",
+      "link": "https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
       "published": "2026-11-23",
       "language": "EN"
     },
@@ -442,10 +482,10 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Technology",
-      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
+      "source": "BBC World",
+      "title": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
       "language": "EN"
     },
     {
@@ -458,18 +498,66 @@
     },
     {
       "category": "ideas",
-      "source": "BBC World",
-      "title": "Ukraine shares video of strikes on Russian ships off Libya",
-      "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23",
       "language": "EN"
     },
     {
       "category": "ideas",
+      "source": "WTO",
+      "title": "Panama submits request to join Expansion of the Information Technology Agreement",
+      "link": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
+      "published": "2026-11-19",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
       "source": "Project Syndicate",
-      "title": "The Roots of Macron’s Failure",
-      "link": "https://www.project-syndicate.org/commentary/macron-troubled-end-to-presidency-symptom-of-deeper-problem-by-zaki-laidi-2026-11",
-      "published": "2026-11-17",
+      "title": "Breaking Billionaires’ Political Grip",
+      "link": "https://www.project-syndicate.org/commentary/fight-against-oligarchy-does-not-end-at-ballot-box-by-maira-martini-2026-11",
+      "published": "2026-11-16",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "Clashing political visions reflect a divided Spain ahead of election",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y1212y4pwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "Should AI be judging our credit worthiness?",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-20",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-21",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Europe’s AI Dreams Exceed Its Grid",
+      "link": "https://www.project-syndicate.org/commentary/europe-must-invest-in-grid-expansion-and-address-public-opposition-to-data-centers-by-sona-muzikarova-2026-11",
+      "published": "2026-11-11",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+      "link": "https://www.bbc.co.uk/news/articles/cqgkv8kp7145o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24",
       "language": "EN"
     },
     {
@@ -482,22 +570,6 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "Can AI really help spot Black Friday deals? We put it to the test",
-      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-21",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-22",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "Project Syndicate",
       "title": "From AI Boom to Economic Bust",
       "link": "https://www.project-syndicate.org/onpoint/ai-revolution-could-leave-everyone-worse-off-by-ian-goldin-2026-10",
@@ -506,10 +578,10 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Business",
-      "title": "Trump threatens ban on US firms building AI data centres overseas",
-      "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-20",
+      "source": "BBC World",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24",
       "language": "EN"
     }
   ],
@@ -517,12 +589,12 @@
     [
       "BBC Business",
       "ok",
-      14
+      18
     ],
     [
       "BBC World",
       "ok",
-      11
+      17
     ],
     [
       "BBC Technology",
@@ -537,7 +609,7 @@
     [
       "WTO",
       "ok",
-      8
+      7
     ],
     [
       "IRENA",
@@ -546,8 +618,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 13",
-      7
+      "ok 12",
+      6
     ],
     [
       "The Economist",
@@ -571,13 +643,13 @@
     ],
     [
       "UNCTAD",
-      "ok 1",
+      "landing page failed: The read operation timed out",
       0
     ],
     [
       "FT中文网",
-      "ok 0",
-      0
+      "ok 2",
+      1
     ],
     [
       "财新",
@@ -631,12 +703,12 @@
     ],
     [
       "Nikkei Asia",
-      "ok 18",
-      13
+      "ok 15",
+      9
     ],
     [
       "Project Syndicate",
-      "ok 14",
+      "ok 15",
       4
     ],
     [
