@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-27 06:51 UTC",
-  "date_display": "Friday · 27 November 2026",
+  "generated_at": "2026-11-28 06:25 UTC",
+  "date_display": "Saturday · 28 November 2026",
   "world": [
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "The food bank helping pet owners with rising bills",
-      "link": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27",
       "language": "EN"
     },
@@ -20,16 +20,48 @@
     },
     {
       "category": "world",
-      "source": "FT中文网",
-      "title": "美国AI投资热潮下，知名家族办公室与基金会陷入风险与回报之争",
-      "link": "https://www.ftchinese.com/story/bb7b5b53-8141-4d99-9a84-e48f0cf8dbdd",
+      "source": "BBC World",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "WTO",
+      "title": "Services domestic regulation disciplines enter into force for Kazakhstan",
+      "link": "https://www.wto.org/english/news_e/news26_e/jssdr_25nov26_566_e.htm",
       "published": "2026-11-25",
-      "language": "中文"
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "World Bank",
+      "title": "MSMEs in Developing Countries Face $4 Trillion Finance Gap",
+      "link": "https://www.worldbank.org/en/news/press-release/2026/11/17/msmes-in-developing-countries-face-4-trillion-finance-gap",
+      "published": "2026-11-17",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Technology",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28",
+      "language": "EN"
+    },
+    {
+      "category": "world",
+      "source": "BBC Business",
+      "title": "Will new energy fixes cost more in January?",
+      "link": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27",
+      "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Could housing decide Spain's general election?",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
       "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27",
       "language": "EN"
@@ -44,14 +76,6 @@
     },
     {
       "category": "world",
-      "source": "World Bank",
-      "title": "MSMEs in Developing Countries Face $4 Trillion Finance Gap",
-      "link": "https://www.worldbank.org/en/news/press-release/2026/11/17/msmes-in-developing-countries-face-4-trillion-finance-gap",
-      "published": "2026-11-17",
-      "language": "EN"
-    },
-    {
-      "category": "world",
       "source": "BBC Technology",
       "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
       "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
@@ -61,24 +85,16 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-      "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "Project Syndicate",
-      "title": "There Is Only One Thing to Talk About With Russia",
-      "link": "https://www.project-syndicate.org/commentary/russia-wants-talks-to-distract-from-its-aggression-by-carl-bildt-2026-11",
-      "published": "2026-11-19",
+      "title": "The food bank helping pet owners with rising bills",
+      "link": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-      "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27",
       "language": "EN"
     },
@@ -101,17 +117,17 @@
     {
       "category": "world",
       "source": "BBC Business",
-      "title": "Asia made a big AI bet on Nvidia. What happens now?",
-      "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26",
       "language": "EN"
     },
     {
       "category": "world",
       "source": "BBC World",
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27",
       "language": "EN"
     },
     {
@@ -124,10 +140,10 @@
     },
     {
       "category": "world",
-      "source": "BBC Technology",
-      "title": "Helpful but awkward: My week with Meta's Muse ahead of its UK launch",
-      "link": "https://www.bbc.co.uk/news/articles/c9gkld2l38y6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24",
+      "source": "BBC Business",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26",
       "language": "EN"
     },
     {
@@ -137,55 +153,15 @@
       "link": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26",
       "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC World",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "WTO",
-      "title": "Agriculture group meeting weighs trends in global food market trade",
-      "link": "https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
-      "published": "2026-11-23",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "US announces new tariffs on host of countries including China",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26",
-      "language": "EN"
-    },
-    {
-      "category": "world",
-      "source": "BBC Business",
-      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
-      "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26",
-      "language": "EN"
     }
   ],
   "energy": [
     {
       "category": "energy",
-      "source": "BBC World",
-      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-      "link": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26",
-      "language": "EN"
-    },
-    {
-      "category": "energy",
       "source": "BBC Business",
-      "title": "Scots react to news of rising energy prices",
-      "link": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-25",
+      "title": "Will new energy fixes cost more in January?",
+      "link": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27",
       "language": "EN"
     },
     {
@@ -195,31 +171,39 @@
       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23",
       "language": "EN"
+    },
+    {
+      "category": "energy",
+      "source": "BBC Business",
+      "title": "Scots react to news of rising energy prices",
+      "link": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-25",
+      "language": "EN"
     }
   ],
   "asia": [
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Bosch rises in India as tough regulations require more complex auto parts",
-      "link": "https://asia.nikkei.com/business/automobiles/bosch-rises-in-india-as-tough-regulations-require-more-complex-auto-parts",
-      "published": "2026-11-27",
+      "title": "Linear thinking: Can Japan's fastest train speed up inland economies?",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/linear-thinking-can-japan-s-fastest-train-speed-up-inland-economies",
+      "published": "2026-11-28",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC World",
-      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
-      "link": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-27",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "Asia made a big AI bet on Nvidia. What happens now?",
-      "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26",
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27",
       "language": "EN"
     },
     {
@@ -232,14 +216,6 @@
     },
     {
       "category": "asia",
-      "source": "FT中文网",
-      "title": "美国AI投资热潮下，知名家族办公室与基金会陷入风险与回报之争",
-      "link": "https://www.ftchinese.com/story/bb7b5b53-8141-4d99-9a84-e48f0cf8dbdd",
-      "published": "2026-11-25",
-      "language": "中文"
-    },
-    {
-      "category": "asia",
       "source": "WTO",
       "title": "Trade-facilitating measures help offset rise in new G20 trade restrictions",
       "link": "https://www.wto.org/english/news_e/news26_e/tmg20_23nov26_559_e.htm",
@@ -249,16 +225,24 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Japan's JERA aims to build Anthropic, Meta data centers near power plants",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-jera-aims-to-build-anthropic-meta-data-centers-near-power-plants",
+      "title": "Japan looks to space for security with defense force update",
+      "link": "https://asia.nikkei.com/business/aerospace-defense-industries/japan-looks-to-space-for-security-with-defense-force-update",
+      "published": "2026-11-28",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC World",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "BBC Business",
-      "title": "US announces new tariffs on host of countries including China",
-      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-26",
       "language": "EN"
     },
@@ -281,9 +265,17 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Nvidia, Kioxia team on AI server memory as alternative to South Korean chips",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-kioxia-team-on-ai-server-memory-as-alternative-to-south-korean-chips",
-      "published": "2026-11-27",
+      "title": "Japan's Happy Nuts Day bets on US taste for premium peanut butter",
+      "link": "https://asia.nikkei.com/business/food-beverage/japan-s-happy-nuts-day-bets-on-us-taste-for-premium-peanut-butter",
+      "published": "2026-11-28",
+      "language": "EN"
+    },
+    {
+      "category": "asia",
+      "source": "BBC Business",
+      "title": "US announces new tariffs on host of countries including China",
+      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-26",
       "language": "EN"
     },
     {
@@ -297,33 +289,25 @@
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Cathay reinforces position in Asian hub fight as parent Swire cashes in",
-      "link": "https://asia.nikkei.com/business/transportation/cathay-reinforces-position-in-asian-hub-fight-as-parent-swire-cashes-in",
-      "published": "2026-11-27",
-      "language": "EN"
-    },
-    {
-      "category": "asia",
-      "source": "WTO",
-      "title": "Trade Policy Review: Peru",
-      "link": "https://www.wto.org/english/tratop_e/tpr_e/tpr_per_18nov26_e.htm",
-      "published": "2026-11-18",
+      "title": "Japan auto parts makers lose global lead as China drives EV transition",
+      "link": "https://asia.nikkei.com/business/automobiles/japan-auto-parts-makers-lose-global-lead-as-china-drives-ev-transition",
+      "published": "2026-11-28",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Humanoids beware! Japan prefers smarter factory machines",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/humanoids-beware!-japan-prefers-smarter-factory-machines",
-      "published": "2026-11-27",
+      "title": "China's auto exports to rise 50% amid intensifying competition at home",
+      "link": "https://asia.nikkei.com/business/automobiles/china-s-auto-exports-to-rise-50-amid-intensifying-competition-at-home",
+      "published": "2026-11-28",
       "language": "EN"
     },
     {
       "category": "asia",
       "source": "Nikkei Asia",
-      "title": "Nissan poised to import cars from China to Japan for first time",
-      "link": "https://asia.nikkei.com/business/automobiles/nissan-poised-to-import-cars-from-china-to-japan-for-first-time",
-      "published": "2026-11-27",
+      "title": "Toyota starts China comeback bid with extended-range EV",
+      "link": "https://asia.nikkei.com/spotlight/electric-cars-in-china/toyota-starts-china-comeback-bid-with-extended-range-ev",
+      "published": "2026-11-28",
       "language": "EN"
     }
   ],
@@ -331,9 +315,57 @@
     {
       "category": "ideas",
       "source": "BBC World",
-      "title": "Could housing decide Spain's general election?",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "link": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-28",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "Project Syndicate",
+      "title": "Gun Buybacks Work, But Not the Way We Thought",
+      "link": "https://www.project-syndicate.org/commentary/gun-buybacks-can-reduce-nonlethal-firearm-injuries-mexico-city-by-aurora-a-ramirez-alvarez-2026-11",
+      "published": "2026-11-27",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Business",
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-27",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "WTO",
+      "title": "Agriculture group meeting weighs trends in global food market trade",
+      "link": "https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
+      "published": "2026-11-23",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC World",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
       "link": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-27",
+      "language": "EN"
+    },
+    {
+      "category": "ideas",
+      "source": "BBC Technology",
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-24",
       "language": "EN"
     },
     {
@@ -354,34 +386,18 @@
     },
     {
       "category": "ideas",
-      "source": "FT中文网",
-      "title": "美国AI投资热潮下，知名家族办公室与基金会陷入风险与回报之争",
-      "link": "https://www.ftchinese.com/story/bb7b5b53-8141-4d99-9a84-e48f0cf8dbdd",
-      "published": "2026-11-25",
-      "language": "中文"
+      "source": "WTO",
+      "title": "Panama submits request to join Expansion of the Information Technology Agreement",
+      "link": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
+      "published": "2026-11-19",
+      "language": "EN"
     },
     {
       "category": "ideas",
       "source": "BBC Technology",
-      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-      "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-24",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "WTO",
-      "title": "Agriculture group meeting weighs trends in global food market trade",
-      "link": "https://www.wto.org/english/news_e/news26_e/fsec_23nov26_562_e.htm",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-23",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC World",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-26",
       "language": "EN"
     },
     {
@@ -402,26 +418,10 @@
     },
     {
       "category": "ideas",
-      "source": "BBC Technology",
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "WTO",
-      "title": "Panama submits request to join Expansion of the Information Technology Agreement",
-      "link": "https://www.wto.org/english/news_e/news26_e/ita_19nov26_560_e.htm",
-      "published": "2026-11-19",
-      "language": "EN"
-    },
-    {
-      "category": "ideas",
       "source": "Project Syndicate",
-      "title": "Why Aren’t We Investing More in Climate Adaptation?",
-      "link": "https://www.project-syndicate.org/commentary/cop31-adaptation-must-remove-demand-financing-constraints-by-mekala-krishnan-et-al-2026-11",
-      "published": "2026-11-05",
+      "title": "Rethinking Sustainable Livelihoods From the Ground Up",
+      "link": "https://www.project-syndicate.org/commentary/post-coal-fossil-fuel-livelihoods-requires-community-input-regional-endowment-funds-by-grita-anindarini-2026-10",
+      "published": "2026-10-26",
       "language": "EN"
     },
     {
@@ -439,26 +439,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
       "published": "2026-11-25",
       "language": "EN"
-    },
-    {
-      "category": "ideas",
-      "source": "BBC Business",
-      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-23",
-      "language": "EN"
     }
   ],
   "source_status": [
     [
       "BBC Business",
       "ok",
-      12
+      15
     ],
     [
       "BBC World",
       "ok",
-      7
+      4
     ],
     [
       "BBC Technology",
@@ -482,8 +474,8 @@
     ],
     [
       "Project Syndicate",
-      "ok 12",
-      2
+      "ok 11",
+      1
     ],
     [
       "The Economist",
@@ -512,8 +504,8 @@
     ],
     [
       "FT中文网",
-      "ok 3",
-      1
+      "ok 1",
+      0
     ],
     [
       "财新",
@@ -562,18 +554,18 @@
     ],
     [
       "ESCAP",
-      "landing page failed: HTTP Error 403: Forbidden",
+      "ok 0",
       0
     ],
     [
       "Nikkei Asia",
-      "ok 18",
-      9
+      "ok 17",
+      10
     ],
     [
       "Project Syndicate",
-      "ok 14",
-      3
+      "ok 13",
+      4
     ],
     [
       "The Economist",
